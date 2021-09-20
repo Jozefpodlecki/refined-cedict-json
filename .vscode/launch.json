@@ -8,11 +8,11 @@
             "cargo": {
                 "args": [
                     "build",
-                    "--bin=enhanced-cedict-json",
-                    "--package=enhanced-cedict-json"
+                    "--bin=refined-cedict-json",
+                    "--package=refined-cedict-json"
                 ],
                 "filter": {
-                    "name": "enhanced-cedict-json",
+                    "name": "refined-cedict-json",
                     "kind": "bin"
                 }
             },
@@ -27,11 +27,11 @@
                 "args": [
                     "test",
                     "--no-run",
-                    "--bin=enhanced-cedict-json",
-                    "--package=enhanced-cedict-json"
+                    "--bin=refined-cedict-json",
+                    "--package=refined-cedict-json"
                 ],
                 "filter": {
-                    "name": "enhanced-cedict-json",
+                    "name": "refined-cedict-json",
                     "kind": "bin"
                 }
             },

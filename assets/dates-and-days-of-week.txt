@@ -1,0 +1,23 @@
+一月, yī yuè, January
+二月, èr yuè, February
+三月, sān yuè, March
+四月, sì yuè, April
+五月, wǔ yuè, May
+六月, liù yuè, June
+七月, qī yuè, July
+八月, bā yuè, August
+九月, jiǔ yuè, September
+十月, shí yuè, October
+十一月, shí yī yuè, November
+十二月, shí èr yuè, December
+星期一, xīng qī yī, Monday
+星期二, xīng qī èr, Tuesday
+星期三, xīng qī sān, Wednesday
+星期四, xīng qī sì, Thursday
+星期五, xīng qī wǔ, Friday	
+星期六, xīng qī liù, Saturday
+星期日, xīng qī rì, Sunday
+星期天, xīng qī tiān , Sunday
+今天, jīn tiān, Today
+昨天, zuó tiān , Yesterday
+明天, míng tiān, Tomorrow

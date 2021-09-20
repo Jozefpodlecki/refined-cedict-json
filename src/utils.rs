@@ -2,20 +2,20 @@ use crate::CERecord;
 use crate::PinyinMap;
 use lazy_static::lazy_static;
 use regex::Regex;
-use std::collections::HashMap;
-use std::collections::HashSet;
+use std::collections::BTreeSet;
 use std::env;
 use std::fs;
 use std::fs::File;
+use std::fs::OpenOptions;
 use std::io::prelude::*;
 use std::io::LineWriter;
 use std::io::{prelude::*, BufReader};
 
-pub fn remove_duplicates(file_path: &str) -> std::io::Result<()> {
+pub fn get_pinyins(file_path: &str) -> BTreeSet<PinyinMap> {
     let file = File::open(file_path).unwrap();
     let reader = BufReader::new(file);
 
-    let mut pinyins: HashSet<PinyinMap> = HashSet::new();
+    let mut pinyins: BTreeSet<PinyinMap> = BTreeSet::new();
 
     for line in reader.lines() {
         let line = line.unwrap();
@@ -29,11 +29,38 @@ pub fn remove_duplicates(file_path: &str) -> std::io::Result<()> {
         pinyins.insert(pinyin);
     }
 
-    let file = File::create(file_path).unwrap();
+    pinyins
+}
+
+pub fn remove_duplicates(file_path: &str) -> std::io::Result<()> {
+    let file = File::open(file_path).unwrap();
+    let reader = BufReader::new(file);
+
+    //let mut pinyins: HashSet<PinyinMap> = HashSet::new();
+    let mut pinyins: BTreeSet<PinyinMap> = BTreeSet::new();
+
+    for line in reader.lines() {
+        let line = line.unwrap();
+
+        let parts: Vec<&str> = line.split(" ").collect();
+
+        let pinyin = PinyinMap {
+            pinyin: parts[0].to_string(),
+            wade_giles: parts[1].to_string(),
+        };
+        pinyins.insert(pinyin);
+    }
+
+    let file = OpenOptions::new()
+        .write(true)
+        .create(true)
+        .truncate(true)
+        .open(file_path)
+        .unwrap();
     let mut file = LineWriter::new(file);
 
     for pinyin in pinyins {
-        let line = format!("{} {}", pinyin.pinyin, pinyin.wade_giles);
+        let line = format!("{} {}\n", pinyin.pinyin, pinyin.wade_giles);
         file.write_all(line.as_bytes())?;
     }
 
