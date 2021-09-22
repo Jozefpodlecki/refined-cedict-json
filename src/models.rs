@@ -3,7 +3,7 @@ use serde::{Deserialize, Serialize};
 
 #[derive(Serialize, Deserialize)]
 pub struct Meaning {
-    type_: String,
+    lexical_item: String,
     value: String,
 }
 
@@ -24,6 +24,8 @@ pub struct EnhancedRecord {
 
 #[derive(Clone, Serialize, Deserialize)]
 pub struct CERecord {
+    pub line_number: u32,
+    pub line: String,
     pub simplified: String,
     pub traditional: String,
     pub wade_giles_pinyin: String,
