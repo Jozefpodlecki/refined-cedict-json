@@ -1,24 +1,34 @@
 use core::cmp::Ordering;
 use serde::{Deserialize, Serialize};
 
-#[derive(Serialize, Deserialize)]
+#[derive(Serialize, Deserialize, Clone)]
 pub struct Meaning {
-    lexical_item: String,
-    value: String,
+    pub context: String,
+    pub lexical_item: String,
+    pub value: String,
 }
 
-#[derive(Serialize, Deserialize)]
+#[derive(Serialize, Deserialize, Clone)]
+pub struct Classifier {
+    pub value: String,
+    pub description: String,
+}
+
+#[derive(Serialize, Deserialize, Clone)]
 pub struct Detail {
     pub pinyin: String,
+    pub wade_giles_pinyin: String,
     pub traditional: String,
+    pub traditional_stroke_count: u8,
     pub meanings: Vec<Meaning>,
+    pub classifiers: Vec<Classifier>,
     pub tags: Vec<String>,
 }
 
 #[derive(Serialize, Deserialize)]
 pub struct EnhancedRecord {
     pub simplified: String,
-    pub stroke_count: Option<u8>,
+    pub simplified_stroke_count: u8,
     pub details: Vec<Detail>,
 }
 
@@ -30,6 +40,21 @@ pub struct CERecord {
     pub traditional: String,
     pub wade_giles_pinyin: String,
     pub meanings: Vec<String>,
+}
+
+#[derive(Clone, Eq, Hash, Serialize, Deserialize)]
+pub struct Category {
+    pub simplified: String,
+    pub pinyin: String,
+    pub meaning: String,
+}
+
+impl PartialEq for Category {
+    fn eq(&self, other: &Self) -> bool {
+        self.simplified == other.simplified
+            && self.pinyin == other.pinyin
+            && self.meaning == other.meaning
+    }
 }
 
 #[derive(Clone, Hash, Serialize, Deserialize)]

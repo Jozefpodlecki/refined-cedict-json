@@ -1,20 +1,22 @@
+mod api;
 mod customReader;
 mod models;
 mod utils;
-mod api;
-use crate::api::get_stroke_count;
+use crate::api::get_stroke_count_from_wiktionary;
 use crate::customReader::customReader::BufReader;
 use crate::models::*;
 use crate::utils::get_pinyins;
 use crate::utils::is_cjk;
 use crate::utils::parse_ce_record;
 use crate::utils::remove_duplicates;
+use api::get_info_from_writtenchinese;
 use scraper::Html;
 use scraper::Selector;
 use select::document::Document;
 use select::predicate::{Attr, Class, Name};
 use std::collections::HashMap;
 use std::collections::HashSet;
+use std::convert::TryFrom;
 use std::env;
 use std::error::Error;
 use std::fs;
@@ -22,16 +24,6 @@ use std::fs::File;
 use std::io::prelude::*;
 use std::io::LineWriter;
 use std::path::PathBuf;
-
-fn enhance_record(record: CERecord) -> Result<(), Box<dyn Error>> {
-    let record = EnhancedRecord {
-        simplified: record.simplified,
-        stroke_count: Some(0),
-        details: Vec::new(),
-    };
-
-    Ok(())
-}
 
 fn get_stroke_order_map(file_path: PathBuf) -> Result<HashMap<String, u8>, Box<dyn Error>> {
     let lines = BufReader::open(file_path)?;
@@ -41,8 +33,8 @@ fn get_stroke_order_map(file_path: PathBuf) -> Result<HashMap<String, u8>, Box<d
         let line = line?;
 
         let mut parts = line.split(" ");
-        let simplified = parts.next().unwrap().to_string();
-        let stroke_count = parts.next().unwrap().parse::<u8>()?;
+        let simplified = parts.next().unwrap().trim().to_string();
+        let stroke_count = parts.next().unwrap().trim().parse::<u8>()?;
         dict.insert(simplified, stroke_count);
     }
 
@@ -57,11 +49,9 @@ fn try_get_ce_dict_records(
     let mut list: Vec<CERecord> = Vec::new();
 
     if cache_path.exists() {
-        let mut bytes = Vec::new();
-        File::open(cache_path)
-            .unwrap()
-            .read_to_end(&mut bytes)
-            .unwrap();
+        let file_size = fs::metadata(&cache_path)?.len();
+        let mut bytes = Vec::with_capacity(usize::try_from(file_size)?);
+        File::open(cache_path)?.read_to_end(&mut bytes)?;
         list = serde_json::from_slice(&bytes).unwrap();
         return Ok(list);
     }
@@ -85,48 +75,220 @@ fn try_get_ce_dict_records(
     Ok(list)
 }
 
+fn get_from_file(file_path: PathBuf) -> Result<HashSet<Category>, Box<dyn Error>> {
+    let reader = BufReader::open(file_path)?;
+    let mut list: HashSet<Category> = HashSet::new();
+
+    for line in reader {
+        let line = line?;
+
+        let mut parts = line.split(",").map(|pr| pr.trim().to_string());
+
+        let record = Category {
+            simplified: parts.next().unwrap(),
+            pinyin: parts.next().unwrap(),
+            meaning: parts.next().unwrap(),
+        };
+
+        list.insert(record);
+    }
+
+    Ok(list)
+}
+
 fn get_lines_from_file(file_path: PathBuf) -> Result<HashSet<String>, Box<dyn Error>> {
     let reader = BufReader::open(file_path)?;
     let mut list: HashSet<String> = HashSet::new();
 
     for line in reader {
         let line = line?;
-        list.insert(line.to_string());
+        list.insert(line.trim().to_string());
     }
 
     Ok(list)
+}
+
+fn update_pinyins(pinyin_path: &str, output_path: PathBuf) -> Result<(), Box<dyn Error>> {
+    let pinyins = get_pinyins(pinyin_path);
+    let mut pinyins_map: HashMap<String, PinyinMap> = HashMap::new();
+    let mut updated: HashMap<String, String> = HashMap::new();
+
+    for pinyinIt in pinyins {
+        let cloned = pinyinIt.clone();
+        let PinyinMap { pinyin, wade_giles } = pinyinIt;
+
+        pinyins_map.insert(wade_giles.clone(), cloned);
+
+        if wade_giles == pinyin {
+            let default = pinyin.to_string();
+            println!("{} {}", wade_giles, pinyin);
+            let pinyin_from_api = get_info_from_writtenchinese(&wade_giles)?.unwrap_or(default);
+            updated
+                .entry(wade_giles.to_owned())
+                .or_insert(pinyin_from_api.to_string());
+        } else {
+            updated.entry(wade_giles.to_owned()).or_insert(pinyin);
+        }
+    }
+
+    let file = File::create(output_path)?;
+    let mut line_writer = LineWriter::new(file);
+
+    for (wade_giles, pinyin) in updated {
+        let temp = format!("{} {}\n", pinyin, wade_giles);
+        let line = temp.as_bytes();
+        line_writer.write_all(line)?;
+    }
+
+    Ok(())
 }
 
 fn update_stroke_order(file_path: PathBuf, output_path: PathBuf) -> Result<(), Box<dyn Error>> {
     let reader = BufReader::open(file_path.clone())?;
     let mut results: HashMap<String, u8> = HashMap::new();
 
-    for line in reader {
-        let line = line?;
-        
-        let parts: Vec<&str> = line.split(" ").collect();
-        let key = parts[0];
-        let stroke_count = get_stroke_count(key)?;
-
-        results.insert(key.to_string(), stroke_count);
+    {
+        let reader = BufReader::open(output_path.clone())?;
+        for line in reader {
+            let line = line?;
+            let mut parts = line.split(" ").map(|s| s.trim());
+            let character = parts.next().unwrap().to_owned();
+            let stroke_count = parts.next().unwrap().parse::<u8>().unwrap();
+            results.insert(character, stroke_count);
+        }
     }
 
-    
     let file = File::create(output_path)?;
     let mut line_writer = LineWriter::new(file);
 
-    for (character, stroke_count) in results {
-        line_writer.write_all(format!("{} {}\n", character, stroke_count).as_bytes())?;
+    for line in reader {
+        let line = line?;
+
+        let mut parts = line.split(" ").map(|s| s.trim());
+        let key = parts.next().unwrap();
+
+        if results.contains_key(key) {
+            println!("Skipping: {}", key);
+            continue;
+        }
+
+        let stroke_count = get_stroke_count_from_wiktionary(key)?;
+
+        if stroke_count.is_none() {
+            println!("Could not process character: {}", line);
+            continue;
+        }
+
+        //results.insert(key.to_string(), stroke_count);
+        let line = format!("{} {}\n", key, stroke_count.unwrap());
+        println!("{}", line);
+        line_writer.write_all(line.as_bytes())?;
+    }
+
+    // for (character, stroke_count) in results {
+
+    // }
+
+    Ok(())
+}
+
+fn write_lines_to_file(file_path: PathBuf, items: HashSet<char>) -> Result<(), Box<dyn Error>> {
+    let file = File::create(file_path)?;
+    let mut line_writer = LineWriter::new(file);
+
+    for character in items {
+        let line = format!("{}\n", character);
+        line_writer.write_all(line.as_bytes())?;
     }
 
     Ok(())
 }
 
-fn main() -> Result<(), Box<dyn Error>> {
+fn to_pinyin(wade_giles_pinyin: &str, pinyin_map: &HashMap<String, PinyinMap>) -> String {
+    let breakdown = wade_giles_pinyin.split(" ").map(|s| s.trim());
+    let mut result = "".to_string();
 
-    let mut refined_list: Vec<EnhancedRecord> = Vec::new();
+    for item in breakdown {
+        let normalized = item.to_string().to_lowercase();
+        let chars: Vec<char> = normalized.chars().collect();
+        let first_char = chars.first().unwrap();
+
+        if chars.len() == 1 && first_char.is_alphabetic() {
+            result = result + " " + &first_char.to_string();
+            continue;
+        }
+
+        if normalized == "·" || normalized == "," {
+            result = result + " " + &normalized;
+            continue;
+        }
+
+        let pinyin = pinyin_map.get(&normalized).unwrap();
+        result = result + " " + &pinyin.pinyin;
+    }
+
+    result
+}
+
+fn get_group_ce_records_by_simplified(
+    records: &[CERecord],
+    cache_dict_path: PathBuf,
+) -> Result<HashMap<String, Vec<CERecord>>, Box<dyn Error>> {
     let mut dict: HashMap<String, Vec<CERecord>> = HashMap::new();
 
+    if cache_dict_path.exists() {
+        let file_size = fs::metadata(&cache_dict_path)?.len();
+        let mut bytes = Vec::with_capacity(usize::try_from(file_size)?);
+        File::open(cache_dict_path)?.read_to_end(&mut bytes)?;
+
+        dict = serde_json::from_slice(&bytes)?;
+        return Ok(dict);
+    }
+
+    for record in records {
+        let key = record.simplified.to_string();
+        dict.entry(key).or_insert(Vec::new()).push(record.clone());
+    }
+
+    let file = File::create(cache_dict_path)?;
+    serde_json::to_writer(file, &dict)?;
+
+    Ok(dict)
+}
+
+fn get_single_characters(records: &[CERecord]) -> HashSet<char> {
+    let mut single_characters: HashSet<char> = HashSet::new();
+
+    for record in records {
+        let mut key = &record.simplified;
+        let mut chars: Vec<char> = key.chars().collect();
+
+        if chars.len() == 1 {
+            let character = chars[0];
+
+            if is_cjk(&character) {
+                single_characters.insert(character);
+            }
+        }
+
+        key = &record.traditional;
+        chars = key.chars().collect();
+
+        if chars.len() == 1 {
+            let character = chars[0];
+
+            if is_cjk(&character) {
+                single_characters.insert(character);
+            }
+        }
+
+        //let pinyin = to_pinyin(&record.wade_giles_pinyin, &pinyins_map);
+    }
+
+    single_characters
+}
+
+fn main() -> Result<(), Box<dyn Error>> {
     let current_directory = env::current_dir().unwrap();
     println!("The current directory is {}", current_directory.display());
 
@@ -142,91 +304,84 @@ fn main() -> Result<(), Box<dyn Error>> {
     let mut pinyins_map: HashMap<String, PinyinMap> = HashMap::new();
 
     for pinyin in pinyins {
-        pinyins_map.insert(pinyin.wade_giles.clone(), pinyin);
+        let wade_giles = pinyin.wade_giles.clone();
+        pinyins_map.insert(wade_giles.clone(), pinyin);
     }
 
-    update_stroke_order(current_directory.join("stroke-count.txt"), current_directory.join("stroke-count1.txt"))?;
+    // update_stroke_order(
+    //     current_directory.join("stroke-count.txt"),
+    //     current_directory.join("stroke-count1.txt"),
+    // )?;
 
-    let mut hashset: HashSet<String> = HashSet::new();
-    
-    let stroke_order_map: HashMap<String, u8> =
-        get_stroke_order_map(assets_path.join("stroke-order.txt"))?;
+    //update_pinyins(pinyin_path, assets_path.join("pinyin-updated.txt"))?;
 
-    let mut list = try_get_ce_dict_records(file_path, current_directory.join("cache.json"))?;
-    let mut single_characters: HashSet<char> = HashSet::new();
+    let stroke_order_map = get_stroke_order_map(assets_path.join("stroke-order.txt"))?;
+    let list = try_get_ce_dict_records(file_path, current_directory.join("cache.json"))?;
+    let dict =
+        get_group_ce_records_by_simplified(&list, current_directory.join("cache-dict.json"))?;
 
-    for record in list {
+    let dates_and_days_of_week = get_from_file(assets_path.join("dates-and-days-of-week.txt"))?;
+    let chemical_elements = get_lines_from_file(assets_path.join("chemical_elements.txt"))?;
+    let adjectives = get_lines_from_file(assets_path.join("adjectives.txt"))?;
+    let adverbs = get_lines_from_file(assets_path.join("adverbs.txt"))?;
+    let verbs = get_lines_from_file(assets_path.join("verbs.txt"))?;
+
+    for (key, records) in dict {
         let mut new_record = EnhancedRecord {
-            simplified: record.simplified.clone(),
-            stroke_count: None,
+            simplified: key.clone(),
+            simplified_stroke_count: stroke_order_map.get(&key).unwrap_or(&0).to_owned(),
             details: Vec::new(),
         };
 
-        let key = &record.simplified.clone();
+        for record in records {
+            let pinyin = to_pinyin(&record.wade_giles_pinyin, &pinyins_map);
 
-        if key.chars().count() == 1 {
-            let character = key.chars().next().unwrap();
+            let mut item = Detail {
+                meanings: Vec::new(),
+                pinyin: pinyin,
+                wade_giles_pinyin: record.wade_giles_pinyin,
+                traditional_stroke_count: stroke_order_map
+                    .get(&record.traditional)
+                    .unwrap_or(&0)
+                    .to_owned(),
+                tags: Vec::new(),
+                classifiers: Vec::new(),
+                traditional: record.traditional,
+            };
 
-            if is_cjk(&character) {
-                single_characters.insert(character);
+            if adverbs.contains(&key) {}
+
+            if adverbs.contains(&key) {}
+
+            if verbs.contains(&key) {}
+
+            let mut meanings = item.meanings;
+
+            for meaning in record.meanings {
+                if meaning.contains("Japanese") {}
+                if meaning.contains("(Tw)") {}
+                if meaning.contains("also pr") {}
+                if meaning.contains("(fig.)") {}
+                if meaning.contains("(idiom)") {}
+                if meaning.contains("see also") {}
+                if meaning.contains("variant") {}
+                if meaning.contains("abbr.") {}
+                if meaning.contains("CL") {}
+
+                let meaning_record = Meaning {
+                    context: "".to_string(),
+                    lexical_item: "".to_string(),
+                    value: meaning,
+                };
+
+                meanings.push(meaning_record.clone());
             }
-        }
 
-        let breakdown = record.wade_giles_pinyin.split(" ").map(|s| s.trim());
+            item.meanings = meanings;
 
-        for item in breakdown {
-            if !pinyins_map.contains_key(item) {
-                hashset.insert(item.to_string().to_lowercase());
-            }
-        }
-
-        match stroke_order_map.get(key) {
-            Some(stroke_count) => {
-                new_record.stroke_count = Some(*stroke_count);
-            }
-            None => {}
+            new_record.details.push(item);
         }
     }
 
-    for item in hashset {
-        println!("{}", item);
-    }
-
-    // if current_directory.join("list.json").exists() {
-    //     list = serde_json::from_reader(file).unwrap();
-    // } else {
-    //     let reader = BufReader::new(file);
-
-    //     for line in reader.lines() {
-    //         let line = line.unwrap();
-
-    //         if line.starts_with("#") {
-    //             continue;
-    //         }
-    //         let record = parse_ce_record(&line);
-    //         let key = record.simplified.clone();
-    //         list.push(record.clone());
-
-    //         let breakdown = record.wade_giles_pinyin.split(" ");
-
-    //         if line.contains("/to ") {
-    //             chem_elem.write_all(format!("{}\n", record.simplified).as_bytes())?;
-    //             continue;
-    //         }
-
-    //         for item in breakdown {
-    //             if !pinyins_map.contains_key(item) {
-    //                 hashset.insert(item.to_string().to_lowercase());
-    //             }
-    //         }
-    //         dict.entry(key).or_insert(Vec::new()).push(record);
-    //     }
-    // }
-
-    // let json = serde_json::to_string(&list).unwrap();
-    // fs::write("list.json", json).unwrap();
-
-    //let json = serde_json::to_string(&dict).unwrap();
-    //fs::write("grouped_by_simplified.json", json).unwrap();
     Ok(())
 }

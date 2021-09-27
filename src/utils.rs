@@ -2,19 +2,19 @@ use crate::CERecord;
 use crate::PinyinMap;
 use lazy_static::lazy_static;
 use regex::Regex;
+use scraper::Html;
+use scraper::Selector;
+use select::document::Document;
+use select::predicate::{Attr, Class, Name};
 use std::collections::BTreeSet;
 use std::env;
+use std::error::Error;
 use std::fs;
 use std::fs::File;
 use std::fs::OpenOptions;
 use std::io::prelude::*;
 use std::io::LineWriter;
 use std::io::{prelude::*, BufReader};
-use scraper::Html;
-use scraper::Selector;
-use select::document::Document;
-use select::predicate::{Attr, Class, Name};
-use std::error::Error;
 
 pub fn is_cjk(data: &char) -> bool {
     match *data {
