@@ -10,6 +10,8 @@ use crate::utils::is_cjk;
 use crate::utils::parse_ce_record;
 use crate::utils::remove_duplicates;
 use api::get_info_from_writtenchinese;
+use lazy_static::lazy_static;
+use regex::Regex;
 use scraper::Html;
 use scraper::Selector;
 use select::document::Document;
@@ -321,13 +323,21 @@ fn main() -> Result<(), Box<dyn Error>> {
         get_group_ce_records_by_simplified(&list, current_directory.join("cache-dict.json"))?;
 
     let dates_and_days_of_week = get_from_file(assets_path.join("dates-and-days-of-week.txt"))?;
-    let chemical_elements = get_lines_from_file(assets_path.join("chemical_elements.txt"))?;
+    let chemical_elements = get_lines_from_file(assets_path.join("chemical-elements.txt"))?;
     let adjectives = get_lines_from_file(assets_path.join("adjectives.txt"))?;
     let adverbs = get_lines_from_file(assets_path.join("adverbs.txt"))?;
     let verbs = get_lines_from_file(assets_path.join("verbs.txt"))?;
 
+    lazy_static! {
+        static ref LITERATURE_REGEX: Regex =
+            Regex::new(r"\/\(?lit\.\)?\s(.*)\s(\(idiom\))?",).unwrap();
+        static ref FIGURATIVELY_REGEX: Regex = Regex::new(r"\/\(fig\.\)\s(.*)\/?",).unwrap();
+        static ref COLLOQUIAL_REGEX: Regex = Regex::new(r"\/\(coll\.\)\s(.*)\/?",).unwrap();
+        static ref EXTRACT_PINYIN_REGEX: Regex = Regex::new(r"[(?P<pinyin>.*?)\]",).unwrap();
+    }
+
     for (key, records) in dict {
-        let mut new_record = EnhancedRecord {
+        let mut new_record = Group {
             simplified: key.clone(),
             simplified_stroke_count: stroke_order_map.get(&key).unwrap_or(&0).to_owned(),
             details: Vec::new(),
@@ -338,8 +348,9 @@ fn main() -> Result<(), Box<dyn Error>> {
 
             let mut item = Detail {
                 meanings: Vec::new(),
-                pinyin: pinyin,
-                wade_giles_pinyin: record.wade_giles_pinyin,
+                pronunciation: Vec::new(),
+                simplified: record.simplified.clone(),
+                simplified_stroke_count: new_record.simplified_stroke_count.clone(),
                 traditional_stroke_count: stroke_order_map
                     .get(&record.traditional)
                     .unwrap_or(&0)
@@ -348,6 +359,11 @@ fn main() -> Result<(), Box<dyn Error>> {
                 classifiers: Vec::new(),
                 traditional: record.traditional,
             };
+
+            item.pronunciation.push(Pronunciation {
+                pinyin: pinyin,
+                wade_giles_pinyin: record.wade_giles_pinyin,
+            });
 
             if adverbs.contains(&key) {}
 
@@ -358,21 +374,80 @@ fn main() -> Result<(), Box<dyn Error>> {
             let mut meanings = item.meanings;
 
             for meaning in record.meanings {
-                if meaning.contains("Japanese") {}
-                if meaning.contains("(Tw)") {}
-                if meaning.contains("also pr") {}
-                if meaning.contains("(fig.)") {}
-                if meaning.contains("(idiom)") {}
-                if meaning.contains("see also") {}
-                if meaning.contains("variant") {}
-                if meaning.contains("abbr.") {}
-                if meaning.contains("CL") {}
-
-                let meaning_record = Meaning {
+                let mut meaning_record = Meaning {
                     context: "".to_string(),
                     lexical_item: "".to_string(),
-                    value: meaning,
+                    value: meaning.to_string(),
                 };
+
+                if meaning.contains("(honorific)") {}
+                if meaning.contains("(dialect)") {}
+                if meaning.contains("(polite)") {}
+
+                if meaning.contains("Japanese") {}
+                if meaning.contains("(Tw)") {
+                    meaning_record.context = "taiwanese".to_string();
+                }
+                if meaning.contains("also pr.") {
+                    let captures = EXTRACT_PINYIN_REGEX.captures(&meaning).unwrap();
+
+                    let wade_giles_pinyin = captures.name("pinyin").unwrap().as_str().to_string();
+                    let pinyin = to_pinyin(&wade_giles_pinyin, &pinyins_map);
+
+                    item.pronunciation.push(Pronunciation {
+                        pinyin: pinyin,
+                        wade_giles_pinyin: wade_giles_pinyin,
+                    });
+                }
+
+                if meaning.contains("(coll.) ") {
+                    let captures = COLLOQUIAL_REGEX.captures(&meaning).unwrap();
+                    let mut temp = captures.iter();
+                    temp.next();
+                    let text = temp.next().unwrap().unwrap().as_str();
+
+                    meaning_record.lexical_item = "colloquial".to_string();
+                    meaning_record.value = text.to_owned();
+                }
+
+                if meaning.contains("lit.") {
+                    let captures = LITERATURE_REGEX.captures(&meaning).unwrap();
+                    let mut temp = captures.iter();
+                    temp.next();
+                    let text = temp.next().unwrap().unwrap().as_str();
+
+                    meaning_record.context = "literature".to_string();
+                    meaning_record.lexical_item = "literature".to_string();
+                    meaning_record.value = "literature".to_string();
+                }
+
+                if meaning.contains("(fig.)") {
+                    let captures = FIGURATIVELY_REGEX.captures(&meaning).unwrap();
+                    let mut temp = captures.iter();
+                    temp.next();
+                    let text = temp.next().unwrap().unwrap().as_str();
+
+                    meaning_record.lexical_item = "figuratively".to_string();
+                }
+                if meaning.contains("(idiom)") {
+                    meaning_record.lexical_item = "idiom".to_string();
+                }
+                if meaning.contains("see also") {}
+
+                if meaning.contains("variant") {
+                    meaning_record.lexical_item = "variant".to_string();
+                }
+                if meaning.contains("abbr.") {
+                    meaning_record.lexical_item = "abbreviation".to_string();
+                }
+                if meaning.contains("CL") {
+                    let classifier = Classifier {
+                        description: "".to_string(),
+                        value: "".to_string(),
+                    };
+
+                    item.classifiers.push(classifier);
+                }
 
                 meanings.push(meaning_record.clone());
             }

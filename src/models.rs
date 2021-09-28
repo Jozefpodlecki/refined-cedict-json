@@ -15,9 +15,16 @@ pub struct Classifier {
 }
 
 #[derive(Serialize, Deserialize, Clone)]
-pub struct Detail {
+pub struct Pronunciation {
     pub pinyin: String,
     pub wade_giles_pinyin: String,
+}
+
+#[derive(Serialize, Deserialize, Clone)]
+pub struct Detail {
+    pub pronunciation: Vec<Pronunciation>,
+    pub simplified: String,
+    pub simplified_stroke_count: u8,
     pub traditional: String,
     pub traditional_stroke_count: u8,
     pub meanings: Vec<Meaning>,
@@ -26,7 +33,7 @@ pub struct Detail {
 }
 
 #[derive(Serialize, Deserialize)]
-pub struct EnhancedRecord {
+pub struct Group {
     pub simplified: String,
     pub simplified_stroke_count: u8,
     pub details: Vec<Detail>,
