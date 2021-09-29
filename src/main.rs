@@ -211,7 +211,7 @@ fn to_pinyin(wade_giles_pinyin: &str, pinyin_map: &HashMap<String, PinyinMap>) -
     let mut result = "".to_string();
 
     for item in breakdown {
-        let normalized = item.to_string().to_lowercase();
+        let mut normalized = item.to_string().to_lowercase();
         let chars: Vec<char> = normalized.chars().collect();
         let first_char = chars.first().unwrap();
 
@@ -223,6 +223,13 @@ fn to_pinyin(wade_giles_pinyin: &str, pinyin_map: &HashMap<String, PinyinMap>) -
         if normalized == "·" || normalized == "," {
             result = result + " " + &normalized;
             continue;
+        }
+
+        match normalized.as_str() {
+            "lu:4" => normalized = "lv4".to_owned(),
+            "lu:3" => normalized = "lv3".to_owned(),
+            "lu:2" => normalized = "lv2".to_owned(),
+            _ => {}
         }
 
         let pinyin = pinyin_map.get(&normalized).unwrap();
@@ -329,14 +336,14 @@ fn main() -> Result<(), Box<dyn Error>> {
     let verbs = get_lines_from_file(assets_path.join("verbs.txt"))?;
 
     lazy_static! {
-        static ref LITERATURE_REGEX: Regex =
-            Regex::new(r"\/\(?lit\.\)?\s(.*)\s(\(idiom\))?",).unwrap();
-        static ref FIGURATIVELY_REGEX: Regex = Regex::new(r"\/\(fig\.\)\s(.*)\/?",).unwrap();
+        static ref EXTRACT_CLASSIFIER_REGEX: Regex = Regex::new(r"(.*)\|(.*)\[(.*)\]").unwrap();
         static ref COLLOQUIAL_REGEX: Regex = Regex::new(r"\/\(coll\.\)\s(.*)\/?",).unwrap();
         static ref EXTRACT_PINYIN_REGEX: Regex = Regex::new(r"[(?P<pinyin>.*?)\]",).unwrap();
     }
 
     for (key, records) in dict {
+        println!("Processing: {}", key);
+
         let mut new_record = Group {
             simplified: key.clone(),
             simplified_stroke_count: stroke_order_map.get(&key).unwrap_or(&0).to_owned(),
@@ -346,7 +353,7 @@ fn main() -> Result<(), Box<dyn Error>> {
         for record in records {
             let pinyin = to_pinyin(&record.wade_giles_pinyin, &pinyins_map);
 
-            let mut item = Detail {
+            let mut detail = Detail {
                 meanings: Vec::new(),
                 pronunciation: Vec::new(),
                 simplified: record.simplified.clone(),
@@ -360,18 +367,32 @@ fn main() -> Result<(), Box<dyn Error>> {
                 traditional: record.traditional,
             };
 
-            item.pronunciation.push(Pronunciation {
+            detail.pronunciation.push(Pronunciation {
                 pinyin: pinyin,
                 wade_giles_pinyin: record.wade_giles_pinyin,
             });
 
-            if adverbs.contains(&key) {}
+            if dates_and_days_of_week.iter().any(|pr| pr.simplified == key) {
+                detail.tags.push("Dates and days of week".to_owned());
+            }
 
-            if adverbs.contains(&key) {}
+            if chemical_elements.contains(&key) {
+                detail.tags.push("chemical elements".to_owned());
+            }
 
-            if verbs.contains(&key) {}
+            if adjectives.contains(&key) {
+                detail.tags.push("adjective".to_owned());
+            }
 
-            let mut meanings = item.meanings;
+            if adverbs.contains(&key) {
+                detail.tags.push("adverb".to_owned());
+            }
+
+            if verbs.contains(&key) {
+                detail.tags.push("verb".to_owned());
+            }
+
+            let mut meanings = detail.meanings;
 
             for meaning in record.meanings {
                 let mut meaning_record = Meaning {
@@ -380,81 +401,163 @@ fn main() -> Result<(), Box<dyn Error>> {
                     value: meaning.to_string(),
                 };
 
-                if meaning.contains("(honorific)") {}
-                if meaning.contains("(dialect)") {}
-                if meaning.contains("(polite)") {}
-
-                if meaning.contains("Japanese") {}
-                if meaning.contains("(Tw)") {
-                    meaning_record.context = "taiwanese".to_string();
+                if meaning.contains("(honorific)") {
+                    let temp = str::replace(&meaning, "(honorific)", "");
+                    let result = temp.trim();
+                    meaning_record.context = "honorific".to_string();
+                    meaning_record.value = result.to_string();
                 }
+
+                if meaning.contains("(dialect)") {
+                    let temp = str::replace(&meaning, "(dialect)", "");
+                    let result = temp.trim();
+                    meaning_record.context = "dialect".to_string();
+                    meaning_record.value = result.to_string();
+                }
+
+                if meaning.contains("(polite)") {
+                    let temp = str::replace(&meaning, "(polite)", "");
+                    let result = temp.trim();
+                    meaning_record.context = "polite".to_string();
+                    meaning_record.value = result.to_string();
+                }
+
+                if meaning.contains("Japanese") {
+                    let temp = str::replace(&meaning, "(polite)", "");
+                    let result = temp.trim();
+                    meaning_record.context = "polite".to_string();
+                    meaning_record.value = result.to_string();
+                }
+
+                if meaning.contains("(Tw)") {
+                    let temp = str::replace(&meaning, "(Tw)", "");
+                    let result = temp.trim();
+                    meaning_record.context = "taiwan".to_string();
+                    meaning_record.value = result.to_string();
+                }
+
                 if meaning.contains("also pr.") {
                     let captures = EXTRACT_PINYIN_REGEX.captures(&meaning).unwrap();
 
                     let wade_giles_pinyin = captures.name("pinyin").unwrap().as_str().to_string();
                     let pinyin = to_pinyin(&wade_giles_pinyin, &pinyins_map);
 
-                    item.pronunciation.push(Pronunciation {
+                    detail.pronunciation.push(Pronunciation {
                         pinyin: pinyin,
                         wade_giles_pinyin: wade_giles_pinyin,
                     });
                 }
 
                 if meaning.contains("(coll.) ") {
-                    let captures = COLLOQUIAL_REGEX.captures(&meaning).unwrap();
-                    let mut temp = captures.iter();
-                    temp.next();
-                    let text = temp.next().unwrap().unwrap().as_str();
+                    let mut processed = str::replace(&meaning, "(coll.)", "");
+                    processed = processed.trim().to_owned();
 
-                    meaning_record.lexical_item = "colloquial".to_string();
-                    meaning_record.value = text.to_owned();
+                    if meaning.contains("(Tw)") {
+                        processed = str::replace(&processed, "(Tw)", "");
+                        processed = processed.trim().to_owned();
+                    }
+
+                    meaning_record.context = "colloquial".to_string();
+                    meaning_record.value = processed.to_string();
                 }
 
                 if meaning.contains("lit.") {
-                    let captures = LITERATURE_REGEX.captures(&meaning).unwrap();
-                    let mut temp = captures.iter();
-                    temp.next();
-                    let text = temp.next().unwrap().unwrap().as_str();
+                    let mut pattern = "lit.";
+                    let mut processed = meaning.to_string();
+
+                    if meaning.contains("(lit.)") {
+                        pattern = "(lit.)";
+                    }
+
+                    if meaning.contains("(lit. and fig.)") {
+                        pattern = "(lit. and fig.)";
+                    }
+
+                    if meaning.contains("(idiom)") {
+                        meaning_record.lexical_item = "idiom".to_string();
+                        processed = str::replace(&meaning, "(idiom)", "");
+                    }
+
+                    processed = str::replace(&processed, pattern, "");
+                    let result = processed.trim();
 
                     meaning_record.context = "literature".to_string();
-                    meaning_record.lexical_item = "literature".to_string();
-                    meaning_record.value = "literature".to_string();
+
+                    meaning_record.value = result.to_string();
                 }
 
                 if meaning.contains("(fig.)") {
-                    let captures = FIGURATIVELY_REGEX.captures(&meaning).unwrap();
-                    let mut temp = captures.iter();
-                    temp.next();
-                    let text = temp.next().unwrap().unwrap().as_str();
+                    let mut processed = str::replace(&meaning, "(fig.)", "");
+                    processed = processed.trim().to_owned();
 
-                    meaning_record.lexical_item = "figuratively".to_string();
+                    meaning_record.context = "figuratively".to_string();
+                    meaning_record.value = processed.to_string();
                 }
                 if meaning.contains("(idiom)") {
+                    let mut processed = str::replace(&meaning, "(idiom)", "");
+                    processed = processed.trim().to_owned();
+
                     meaning_record.lexical_item = "idiom".to_string();
+                    meaning_record.value = processed.to_string();
                 }
-                if meaning.contains("see also") {}
+                if meaning.contains("see also") {
+                    let mut processed = str::replace(&meaning, "see also", "");
+                    processed = processed.trim().to_owned();
+
+                    meaning_record.context = "see also".to_string();
+                    meaning_record.value = processed.to_string();
+                }
 
                 if meaning.contains("variant") {
-                    meaning_record.lexical_item = "variant".to_string();
+                    let mut pattern = "variant of";
+
+                    if meaning.contains("old variant") {
+                        pattern = "old variant of";
+                        meaning_record.context = "old variant".to_string();
+                    } else {
+                        meaning_record.context = "variant".to_string();
+                    }
+
+                    let temp = str::replace(&meaning, pattern, "");
+                    let result = temp.trim();
+                    meaning_record.value = result.to_string();
                 }
                 if meaning.contains("abbr.") {
-                    meaning_record.lexical_item = "abbreviation".to_string();
+                    let mut pattern = "abbr. for";
+
+                    if meaning.contains("(abbr.)") {
+                        pattern = "(abbr.)";
+                    }
+
+                    let temp = str::replace(&meaning, pattern, "");
+                    let result = temp.trim();
+
+                    meaning_record.context = "abbreviation".to_string();
+                    meaning_record.value = result.to_string();
                 }
                 if meaning.contains("CL") {
-                    let classifier = Classifier {
-                        description: "".to_string(),
-                        value: "".to_string(),
-                    };
+                    let mut processed = str::replace(&meaning, "CL:", "");
+                    processed = processed.trim().to_owned();
 
-                    item.classifiers.push(classifier);
+                    for item in processed.split(",") {
+                        let captures = EXTRACT_CLASSIFIER_REGEX.captures(&item).unwrap();
+
+                        let classifier = Classifier {
+                            simplified: captures.get(1).unwrap().as_str().to_owned(),
+                            traditional: captures.get(2).unwrap().as_str().to_owned(),
+                            wade_giles_pinyin: captures.get(3).unwrap().as_str().to_owned(),
+                        };
+
+                        detail.classifiers.push(classifier);
+                    }
                 }
 
                 meanings.push(meaning_record.clone());
             }
 
-            item.meanings = meanings;
+            detail.meanings = meanings;
 
-            new_record.details.push(item);
+            new_record.details.push(detail);
         }
     }
 

@@ -10,8 +10,9 @@ pub struct Meaning {
 
 #[derive(Serialize, Deserialize, Clone)]
 pub struct Classifier {
-    pub value: String,
-    pub description: String,
+    pub simplified: String,
+    pub traditional: String,
+    pub wade_giles_pinyin: String,
 }
 
 #[derive(Serialize, Deserialize, Clone)]

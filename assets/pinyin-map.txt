@@ -587,7 +587,9 @@ chě che3
 suàn suan4
 zǎo zao3
 zhong zhong5
-lu:4 lu:4
+lǜ lv4
+lǚ lv3
+lǘ lv2
 rǎng rang3
 tǔ tu3
 niáng niang2
@@ -836,7 +838,7 @@ fan fan5
 cāng cang1
 kǔ ku3
 dou dou5
-lu:2 lu:2
+lu:2 lv2
 zé ze2
 ba ba5
 qián qian2
@@ -1077,7 +1079,8 @@ shan shan5
 zǐ zi3
 sōu sou1
 nài nai4
-lu:e4 lu:e4
+lu:e4 lve4
+lüè lve4
 jí ji2
 jiǒng jiong3
 niǎo niao3
