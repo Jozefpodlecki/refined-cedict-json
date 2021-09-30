@@ -1,0 +1,32 @@
+{
+  "simplified": "碱基",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jiǎn jī",
+          "wade_giles_pinyin": "jian3 ji1"
+        }
+      ],
+      "simplified": "碱基",
+      "simplified_stroke_count": 0,
+      "traditional": "鹼基",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "chemical base"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "nucleobase"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

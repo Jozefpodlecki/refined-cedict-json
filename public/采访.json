@@ -1,0 +1,33 @@
+{
+  "simplified": "采访",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cǎi fǎng",
+          "wade_giles_pinyin": "cai3 fang3"
+        }
+      ],
+      "simplified": "采访",
+      "traditional": "採訪",
+      "meanings": [
+        {
+          "value": "to interview"
+        },
+        {
+          "value": "to gather news"
+        },
+        {
+          "value": "to hunt for and collect"
+        },
+        {
+          "value": "to cover"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

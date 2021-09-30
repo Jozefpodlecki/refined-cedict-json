@@ -1,0 +1,32 @@
+{
+  "simplified": "猪排",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhū pái",
+          "wade_giles_pinyin": "zhu1 pai2"
+        }
+      ],
+      "simplified": "猪排",
+      "simplified_stroke_count": 0,
+      "traditional": "豬排",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "pork ribs"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "pork chop"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

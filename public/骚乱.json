@@ -1,0 +1,30 @@
+{
+  "simplified": "骚乱",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sāo luàn",
+          "wade_giles_pinyin": "sao1 luan4"
+        }
+      ],
+      "simplified": "骚乱",
+      "traditional": "騷亂",
+      "meanings": [
+        {
+          "value": "disturbance"
+        },
+        {
+          "value": "riot"
+        },
+        {
+          "value": "to create a disturbance"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

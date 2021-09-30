@@ -1,0 +1,25 @@
+{
+  "simplified": "报单",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bào dān",
+          "wade_giles_pinyin": "bao4 dan1"
+        }
+      ],
+      "simplified": "报单",
+      "traditional": "報單",
+      "meanings": [
+        {
+          "value": "a tax declaration form"
+        },
+        {
+          "value": "a tax return"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

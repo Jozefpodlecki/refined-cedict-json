@@ -1,0 +1,32 @@
+{
+  "simplified": "金奖",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jīn jiǎng",
+          "wade_giles_pinyin": "jin1 jiang3"
+        }
+      ],
+      "simplified": "金奖",
+      "simplified_stroke_count": 0,
+      "traditional": "金獎",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "gold medal"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "first prize"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

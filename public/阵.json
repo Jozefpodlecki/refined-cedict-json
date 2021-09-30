@@ -1,0 +1,43 @@
+{
+  "simplified": "阵",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhèn",
+          "wade_giles_pinyin": "zhen4"
+        }
+      ],
+      "simplified": "阵",
+      "simplified_stroke_count": 7,
+      "traditional": "陣",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "disposition of troops"
+        },
+        {
+          "value": "wave"
+        },
+        {
+          "value": "spate"
+        },
+        {
+          "value": "burst"
+        },
+        {
+          "value": "spell"
+        },
+        {
+          "value": "short period of time"
+        },
+        {
+          "value": "classifier for events or states of short duration"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

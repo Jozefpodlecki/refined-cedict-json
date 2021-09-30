@@ -1,0 +1,42 @@
+{
+  "simplified": "患",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huàn",
+          "wade_giles_pinyin": "huan4"
+        }
+      ],
+      "simplified": "患",
+      "simplified_stroke_count": 11,
+      "traditional": "患",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "to suffer (from illness)"
+        },
+        {
+          "value": "to contract (a disease)"
+        },
+        {
+          "value": "misfortune"
+        },
+        {
+          "value": "trouble"
+        },
+        {
+          "value": "danger"
+        },
+        {
+          "value": "worry"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

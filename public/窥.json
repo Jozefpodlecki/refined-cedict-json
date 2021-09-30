@@ -1,0 +1,48 @@
+{
+  "simplified": "窥",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kuī",
+          "wade_giles_pinyin": "kui1"
+        }
+      ],
+      "simplified": "窥",
+      "simplified_stroke_count": 13,
+      "traditional": "窺",
+      "traditional_stroke_count": 16,
+      "meanings": [],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kuī",
+          "wade_giles_pinyin": "kui1"
+        }
+      ],
+      "simplified": "窥",
+      "simplified_stroke_count": 13,
+      "traditional": "闚",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 窺|窥[kui1]",
+          "simplified": "窺",
+          "traditional": "窥",
+          "wade_giles_pinyin": "kui1"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

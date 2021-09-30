@@ -1,0 +1,30 @@
+{
+  "simplified": "绷着脸",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "běng zhe liǎn",
+          "wade_giles_pinyin": "beng3 zhe5 lian3"
+        }
+      ],
+      "simplified": "绷着脸",
+      "traditional": "繃著臉",
+      "meanings": [
+        {
+          "value": "to have a taut face"
+        },
+        {
+          "value": "to pull a long face"
+        },
+        {
+          "value": "to look displeased"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

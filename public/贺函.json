@@ -1,0 +1,32 @@
+{
+  "simplified": "贺函",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hè hán",
+          "wade_giles_pinyin": "he4 han2"
+        }
+      ],
+      "simplified": "贺函",
+      "simplified_stroke_count": null,
+      "traditional": "賀函",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "letter of congratulations"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "greeting card (e.g. for New Year)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

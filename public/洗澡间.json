@@ -1,0 +1,48 @@
+{
+  "simplified": "洗澡间",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xǐ zǎo jiān",
+          "wade_giles_pinyin": "xi3 zao3 jian1"
+        }
+      ],
+      "simplified": "洗澡间",
+      "simplified_stroke_count": null,
+      "traditional": "洗澡間",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "bathroom"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "restroom"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "shower room"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "CL:間|间[jian1]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "間",
+          "traditional": "间",
+          "wade_giles_pinyin": "jian1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

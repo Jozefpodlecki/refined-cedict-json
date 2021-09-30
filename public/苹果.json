@@ -1,0 +1,33 @@
+{
+  "simplified": "苹果",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "píng guǒ",
+          "wade_giles_pinyin": "ping2 guo3"
+        }
+      ],
+      "simplified": "苹果",
+      "traditional": "蘋果",
+      "meanings": [
+        {
+          "value": "apple"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        },
+        {
+          "simplified": "顆",
+          "traditional": "颗",
+          "wade_giles_pinyin": "ke1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

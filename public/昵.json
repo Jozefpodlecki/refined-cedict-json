@@ -1,0 +1,58 @@
+{
+  "simplified": "昵",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nì",
+          "wade_giles_pinyin": "ni4"
+        }
+      ],
+      "simplified": "昵",
+      "simplified_stroke_count": 9,
+      "traditional": "昵",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 暱|昵[ni4]",
+          "simplified": "暱",
+          "traditional": "昵",
+          "wade_giles_pinyin": "ni4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nì",
+          "wade_giles_pinyin": "ni4"
+        }
+      ],
+      "simplified": "昵",
+      "simplified_stroke_count": 9,
+      "traditional": "暱",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "familiar"
+        },
+        {
+          "value": "intimate"
+        },
+        {
+          "value": "to approach"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

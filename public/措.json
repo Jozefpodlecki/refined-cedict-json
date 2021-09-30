@@ -1,0 +1,48 @@
+{
+  "simplified": "措",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cuò",
+          "wade_giles_pinyin": "cuo4"
+        }
+      ],
+      "simplified": "措",
+      "simplified_stroke_count": 11,
+      "traditional": "措",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "to handle"
+        },
+        {
+          "value": "to manage"
+        },
+        {
+          "value": "to put in order"
+        },
+        {
+          "value": "to arrange"
+        },
+        {
+          "value": "to administer"
+        },
+        {
+          "value": "to execute"
+        },
+        {
+          "value": "to take action on"
+        },
+        {
+          "value": "to plan"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

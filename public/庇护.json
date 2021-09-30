@@ -1,0 +1,36 @@
+{
+  "simplified": "庇护",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bì hù",
+          "wade_giles_pinyin": "bi4 hu4"
+        }
+      ],
+      "simplified": "庇护",
+      "traditional": "庇護",
+      "meanings": [
+        {
+          "value": "asylum"
+        },
+        {
+          "value": "shelter"
+        },
+        {
+          "value": "to shield"
+        },
+        {
+          "value": "to put under protection"
+        },
+        {
+          "value": "to take under one's wing"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

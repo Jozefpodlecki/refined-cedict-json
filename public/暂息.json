@@ -1,0 +1,32 @@
+{
+  "simplified": "暂息",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zàn xī",
+          "wade_giles_pinyin": "zan4 xi1"
+        }
+      ],
+      "simplified": "暂息",
+      "simplified_stroke_count": null,
+      "traditional": "暫息",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "a lull (in the storm)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "brief break (in rain)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

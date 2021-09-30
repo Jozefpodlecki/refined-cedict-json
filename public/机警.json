@@ -1,0 +1,37 @@
+{
+  "simplified": "机警",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jī jǐng",
+          "wade_giles_pinyin": "ji1 jing3"
+        }
+      ],
+      "simplified": "机警",
+      "traditional": "機警",
+      "meanings": [
+        {
+          "value": "perceptive"
+        },
+        {
+          "value": "astute"
+        },
+        {
+          "value": "sharp"
+        },
+        {
+          "value": "sharp-witted"
+        },
+        {
+          "value": "vigilant"
+        },
+        {
+          "value": "alert"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

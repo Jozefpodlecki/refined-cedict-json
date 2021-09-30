@@ -1,0 +1,39 @@
+{
+  "simplified": "杀菌",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shā jūn",
+          "wade_giles_pinyin": "sha1 jun1"
+        }
+      ],
+      "simplified": "杀菌",
+      "simplified_stroke_count": 0,
+      "traditional": "殺菌",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to kill germs"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to disinfect"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to sterilize"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

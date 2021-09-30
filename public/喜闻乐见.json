@@ -1,0 +1,31 @@
+{
+  "simplified": "喜闻乐见",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xǐ wén lè jiàn",
+          "wade_giles_pinyin": "xi3 wen2 le4 jian4"
+        }
+      ],
+      "simplified": "喜闻乐见",
+      "traditional": "喜聞樂見",
+      "meanings": [
+        {
+          "lexical_item": "idiom",
+          "value": "to love to hear and see"
+        },
+        {
+          "value": "well received"
+        },
+        {
+          "value": "to one's liking"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

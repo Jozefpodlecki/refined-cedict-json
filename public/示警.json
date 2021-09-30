@@ -1,0 +1,34 @@
+{
+  "simplified": "示警",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shì jǐng",
+          "wade_giles_pinyin": "shi4 jing3"
+        }
+      ],
+      "simplified": "示警",
+      "simplified_stroke_count": 0,
+      "traditional": "示警",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to warn"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "a warning sign"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

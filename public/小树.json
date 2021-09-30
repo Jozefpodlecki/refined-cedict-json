@@ -1,0 +1,34 @@
+{
+  "simplified": "小树",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiǎo shù",
+          "wade_giles_pinyin": "xiao3 shu4"
+        }
+      ],
+      "simplified": "小树",
+      "traditional": "小樹",
+      "meanings": [
+        {
+          "value": "shrub"
+        },
+        {
+          "value": "small tree"
+        },
+        {
+          "value": "sapling"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "棵",
+          "traditional": "",
+          "wade_giles_pinyin": "ke1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

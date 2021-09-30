@@ -1,0 +1,77 @@
+{
+  "simplified": "点子",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diǎn zi",
+          "wade_giles_pinyin": "dian3 zi5"
+        }
+      ],
+      "simplified": "点子",
+      "simplified_stroke_count": null,
+      "traditional": "點子",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "spot"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "point"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "dot"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "speck"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "drop (of liquid)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "droplet"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "point (of argument)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "idea"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "crux"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "indication"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "pointer"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

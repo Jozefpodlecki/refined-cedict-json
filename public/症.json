@@ -1,0 +1,54 @@
+{
+  "simplified": "症",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhèng",
+          "wade_giles_pinyin": "zheng4"
+        }
+      ],
+      "simplified": "症",
+      "simplified_stroke_count": 10,
+      "traditional": "症",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "disease"
+        },
+        {
+          "value": "illness"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhēng",
+          "wade_giles_pinyin": "zheng1"
+        }
+      ],
+      "simplified": "症",
+      "simplified_stroke_count": 10,
+      "traditional": "癥",
+      "traditional_stroke_count": 20,
+      "meanings": [
+        {
+          "value": "abdominal tumor"
+        },
+        {
+          "value": "bowel obstruction"
+        },
+        {
+          "context": "figuratively",
+          "value": "sticking point"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

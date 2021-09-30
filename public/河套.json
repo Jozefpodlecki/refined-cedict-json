@@ -1,0 +1,39 @@
+{
+  "simplified": "河套",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hé tào",
+          "wade_giles_pinyin": "He2 tao4"
+        }
+      ],
+      "simplified": "河套",
+      "traditional": "河套",
+      "meanings": [
+        {
+          "value": "the Great Bend of the Yellow River in Inner Mongolia"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hé tào",
+          "wade_giles_pinyin": "he2 tao4"
+        }
+      ],
+      "simplified": "河套",
+      "traditional": "河套",
+      "meanings": [
+        {
+          "value": "river bend"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

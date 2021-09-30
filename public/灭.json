@@ -1,0 +1,36 @@
+{
+  "simplified": "灭",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "miè",
+          "wade_giles_pinyin": "mie4"
+        }
+      ],
+      "simplified": "灭",
+      "simplified_stroke_count": 5,
+      "traditional": "滅",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "to extinguish or put out"
+        },
+        {
+          "value": "to go out (of a fire etc)"
+        },
+        {
+          "value": "to exterminate or wipe out"
+        },
+        {
+          "value": "to drown"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

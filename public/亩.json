@@ -1,0 +1,97 @@
+{
+  "simplified": "亩",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mǔ",
+          "wade_giles_pinyin": "mu3"
+        }
+      ],
+      "simplified": "亩",
+      "simplified_stroke_count": 7,
+      "traditional": "畂",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 畝|亩[mu3]",
+          "simplified": "畝",
+          "traditional": "亩",
+          "wade_giles_pinyin": "mu3"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mǔ",
+          "wade_giles_pinyin": "mu3"
+        }
+      ],
+      "simplified": "亩",
+      "simplified_stroke_count": 7,
+      "traditional": "畆",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 畝|亩[mu3]",
+          "simplified": "畝",
+          "traditional": "亩",
+          "wade_giles_pinyin": "mu3"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mǔ",
+          "wade_giles_pinyin": "mu3"
+        }
+      ],
+      "simplified": "亩",
+      "simplified_stroke_count": 7,
+      "traditional": "畝",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "classifier for fields"
+        },
+        {
+          "value": "unit of area equal to one fifteenth of a hectare"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mǔ",
+          "wade_giles_pinyin": "mu3"
+        }
+      ],
+      "simplified": "亩",
+      "simplified_stroke_count": 7,
+      "traditional": "畮",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 畝|亩[mu3]",
+          "simplified": "畝",
+          "traditional": "亩",
+          "wade_giles_pinyin": "mu3"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

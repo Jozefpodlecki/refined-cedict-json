@@ -1,0 +1,34 @@
+{
+  "simplified": "潲",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shào",
+          "wade_giles_pinyin": "shao4"
+        }
+      ],
+      "simplified": "潲",
+      "simplified_stroke_count": 15,
+      "traditional": "潲",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "driving rain"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to sprinkle"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

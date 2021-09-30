@@ -1,0 +1,36 @@
+{
+  "simplified": "动情",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dòng qíng",
+          "wade_giles_pinyin": "dong4 qing2"
+        }
+      ],
+      "simplified": "动情",
+      "traditional": "動情",
+      "meanings": [
+        {
+          "value": "to get excited"
+        },
+        {
+          "value": "passionate"
+        },
+        {
+          "value": "aroused to passion"
+        },
+        {
+          "value": "to fall in love"
+        },
+        {
+          "value": "on heat (of animals)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

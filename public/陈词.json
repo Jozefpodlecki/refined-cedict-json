@@ -1,0 +1,44 @@
+{
+  "simplified": "陈词",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chén cí",
+          "wade_giles_pinyin": "chen2 ci2"
+        }
+      ],
+      "simplified": "陈词",
+      "simplified_stroke_count": 0,
+      "traditional": "陳詞",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to state one's views"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "speech"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "statement"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "plea"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

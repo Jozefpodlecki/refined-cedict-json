@@ -1,0 +1,27 @@
+{
+  "simplified": "客诉",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kè sù",
+          "wade_giles_pinyin": "ke4 su4"
+        }
+      ],
+      "simplified": "客诉",
+      "traditional": "客訴",
+      "meanings": [
+        {
+          "value": "customer complaint"
+        },
+        {
+          "value": "to complain about a company's product or service"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

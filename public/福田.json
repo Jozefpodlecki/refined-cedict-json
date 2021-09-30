@@ -1,0 +1,46 @@
+{
+  "simplified": "福田",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fú tián",
+          "wade_giles_pinyin": "Fu2 tian2"
+        }
+      ],
+      "simplified": "福田",
+      "traditional": "福田",
+      "meanings": [
+        {
+          "value": "Futian district of Shenzhen City 深圳市, Guangdong"
+        },
+        {
+          "context": "Japanese",
+          "value": "Fukuda (Japanese surname)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fú tián",
+          "wade_giles_pinyin": "fu2 tian2"
+        }
+      ],
+      "simplified": "福田",
+      "traditional": "福田",
+      "meanings": [
+        {
+          "value": "field for growing happiness"
+        },
+        {
+          "value": "domain for practices leading to enlightenment (Buddhism)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

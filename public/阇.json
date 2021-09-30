@@ -1,0 +1,47 @@
+{
+  "simplified": "阇",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dū",
+          "wade_giles_pinyin": "du1"
+        }
+      ],
+      "simplified": "阇",
+      "simplified_stroke_count": 11,
+      "traditional": "闍",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "defensive platform over gate"
+        },
+        {
+          "value": "barbican"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shé",
+          "wade_giles_pinyin": "she2"
+        }
+      ],
+      "simplified": "阇",
+      "simplified_stroke_count": 11,
+      "traditional": "闍",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "(used in transliteration from Sanskrit)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

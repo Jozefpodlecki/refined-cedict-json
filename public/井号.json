@@ -1,0 +1,37 @@
+{
+  "simplified": "井号",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jǐng hào",
+          "wade_giles_pinyin": "jing3 hao4"
+        }
+      ],
+      "simplified": "井号",
+      "simplified_stroke_count": 0,
+      "traditional": "井號",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "number sign # (punctuation)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "hash symbol"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "pound sign"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

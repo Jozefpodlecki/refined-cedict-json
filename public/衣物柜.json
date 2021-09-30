@@ -1,0 +1,25 @@
+{
+  "simplified": "衣物柜",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yī wù guì",
+          "wade_giles_pinyin": "yi1 wu4 gui4"
+        }
+      ],
+      "simplified": "衣物柜",
+      "traditional": "衣物櫃",
+      "meanings": [
+        {
+          "value": "locker"
+        },
+        {
+          "value": "lockable compartment"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

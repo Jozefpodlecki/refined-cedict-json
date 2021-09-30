@@ -1,0 +1,27 @@
+{
+  "simplified": "接地",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiē dì",
+          "wade_giles_pinyin": "jie1 di4"
+        }
+      ],
+      "simplified": "接地",
+      "traditional": "接地",
+      "meanings": [
+        {
+          "value": "earth (electric connection)"
+        },
+        {
+          "value": "to earth"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

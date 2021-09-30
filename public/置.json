@@ -1,0 +1,36 @@
+{
+  "simplified": "置",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhì",
+          "wade_giles_pinyin": "zhi4"
+        }
+      ],
+      "simplified": "置",
+      "simplified_stroke_count": 13,
+      "traditional": "置",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "to install"
+        },
+        {
+          "value": "to place"
+        },
+        {
+          "value": "to put"
+        },
+        {
+          "value": "to buy"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

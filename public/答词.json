@@ -1,0 +1,25 @@
+{
+  "simplified": "答词",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dá cí",
+          "wade_giles_pinyin": "da2 ci2"
+        }
+      ],
+      "simplified": "答词",
+      "traditional": "答詞",
+      "meanings": [
+        {
+          "value": "reply"
+        },
+        {
+          "value": "thank-you speech"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

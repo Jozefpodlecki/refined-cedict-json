@@ -1,0 +1,35 @@
+{
+  "simplified": "枯木逢春",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kū mù féng chūn",
+          "wade_giles_pinyin": "ku1 mu4 feng2 chun1"
+        }
+      ],
+      "simplified": "枯木逢春",
+      "traditional": "枯木逢春",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "the spring comes upon a withered tree"
+        },
+        {
+          "value": "fig. to get a new lease on life"
+        },
+        {
+          "value": "to be revived"
+        },
+        {
+          "value": "(of a difficult situation) to suddenly improve"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "simplified": "闸道",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhá dào",
+          "wade_giles_pinyin": "zha2 dao4"
+        }
+      ],
+      "simplified": "闸道",
+      "traditional": "閘道",
+      "meanings": [
+        {
+          "context": "taiwan",
+          "value": "(computing) gateway"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

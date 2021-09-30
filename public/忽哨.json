@@ -1,0 +1,34 @@
+{
+  "simplified": "忽哨",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hū shào",
+          "wade_giles_pinyin": "hu1 shao4"
+        }
+      ],
+      "simplified": "忽哨",
+      "simplified_stroke_count": null,
+      "traditional": "忽哨",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to whistle (with fingers in one's mouth)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "nowadays written 呼哨"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

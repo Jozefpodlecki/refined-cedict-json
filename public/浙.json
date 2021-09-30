@@ -1,0 +1,49 @@
+{
+  "simplified": "浙",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhè",
+          "wade_giles_pinyin": "Zhe4"
+        }
+      ],
+      "simplified": "浙",
+      "simplified_stroke_count": 10,
+      "traditional": "浙",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "value": "Zhejiang 浙江 province in east China"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhè",
+          "wade_giles_pinyin": "Zhe4"
+        }
+      ],
+      "simplified": "浙",
+      "simplified_stroke_count": 10,
+      "traditional": "淛",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 浙[Zhe4]",
+          "simplified": "浙",
+          "traditional": "",
+          "wade_giles_pinyin": "Zhe4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

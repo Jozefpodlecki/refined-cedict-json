@@ -1,0 +1,49 @@
+{
+  "simplified": "轮回",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lún huí",
+          "wade_giles_pinyin": "lun2 hui2"
+        }
+      ],
+      "simplified": "轮回",
+      "traditional": "輪回",
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 輪迴|轮回[lun2 hui2]",
+          "simplified": "輪",
+          "traditional": "迴|轮回",
+          "wade_giles_pinyin": "lun2 hui2"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lún huí",
+          "wade_giles_pinyin": "lun2 hui2"
+        }
+      ],
+      "simplified": "轮回",
+      "traditional": "輪迴",
+      "meanings": [],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "母亲",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mǔ qīn",
+          "wade_giles_pinyin": "mu3 qin1"
+        },
+        {
+          "pinyin": "mǔ qin",
+          "wade_giles_pinyin": "mu3 qin5"
+        }
+      ],
+      "simplified": "母亲",
+      "traditional": "母親",
+      "meanings": [
+        {
+          "value": "mother"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

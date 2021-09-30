@@ -1,0 +1,33 @@
+{
+  "simplified": "历史",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lì shǐ",
+          "wade_giles_pinyin": "li4 shi3"
+        }
+      ],
+      "simplified": "历史",
+      "traditional": "歷史",
+      "meanings": [
+        {
+          "value": "history"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "門",
+          "traditional": "门",
+          "wade_giles_pinyin": "men2"
+        },
+        {
+          "simplified": "段",
+          "traditional": "",
+          "wade_giles_pinyin": "duan4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

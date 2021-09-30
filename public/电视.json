@@ -1,0 +1,36 @@
+{
+  "simplified": "电视",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diàn shì",
+          "wade_giles_pinyin": "dian4 shi4"
+        }
+      ],
+      "simplified": "电视",
+      "traditional": "電視",
+      "meanings": [
+        {
+          "value": "television"
+        },
+        {
+          "value": "TV"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "臺",
+          "traditional": "台",
+          "wade_giles_pinyin": "tai2"
+        },
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

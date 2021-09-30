@@ -1,0 +1,29 @@
+{
+  "simplified": "野人",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yě rén",
+          "wade_giles_pinyin": "ye3 ren2"
+        }
+      ],
+      "simplified": "野人",
+      "traditional": "野人",
+      "meanings": [
+        {
+          "value": "a savage"
+        },
+        {
+          "value": "uncivilized person"
+        },
+        {
+          "context": "old",
+          "value": "commoner"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

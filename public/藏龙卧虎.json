@@ -1,0 +1,30 @@
+{
+  "simplified": "藏龙卧虎",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cáng lóng wò hǔ",
+          "wade_giles_pinyin": "cang2 long2 wo4 hu3"
+        }
+      ],
+      "simplified": "藏龙卧虎",
+      "traditional": "藏龍臥虎",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "hidden dragon, crouching tiger"
+        },
+        {
+          "value": "fig. talented individuals in hiding"
+        },
+        {
+          "value": "concealed talent"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

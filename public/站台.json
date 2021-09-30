@@ -1,0 +1,30 @@
+{
+  "simplified": "站台",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhàn tái",
+          "wade_giles_pinyin": "zhan4 tai2"
+        }
+      ],
+      "simplified": "站台",
+      "traditional": "站臺",
+      "meanings": [
+        {
+          "value": "platform (at a railway station)"
+        },
+        {
+          "context": "taiwan",
+          "value": "(of an influential person) to publicly lend one's support (e.g. for an election candidate)"
+        },
+        {
+          "context": "taiwan",
+          "value": "website"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

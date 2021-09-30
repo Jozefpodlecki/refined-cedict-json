@@ -1,0 +1,27 @@
+{
+  "simplified": "打食",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dǎ shí",
+          "wade_giles_pinyin": "da3 shi2"
+        }
+      ],
+      "simplified": "打食",
+      "traditional": "打食",
+      "meanings": [
+        {
+          "value": "to go in search of food (of animals)"
+        },
+        {
+          "value": "to take medicine for indigestion or gastro-intestinal upsets"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "simplified": "弩炮",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nǚ pào",
+          "wade_giles_pinyin": "nu3 pao4"
+        }
+      ],
+      "simplified": "弩炮",
+      "traditional": "弩砲",
+      "meanings": [
+        {
+          "value": "catapult"
+        },
+        {
+          "value": "ballista (siege catapult firing stone blocks)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

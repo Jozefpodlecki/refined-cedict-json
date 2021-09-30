@@ -1,0 +1,57 @@
+{
+  "simplified": "傅",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fù",
+          "wade_giles_pinyin": "Fu4"
+        }
+      ],
+      "simplified": "傅",
+      "simplified_stroke_count": 12,
+      "traditional": "傅",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "surname Fu"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fù",
+          "wade_giles_pinyin": "fu4"
+        }
+      ],
+      "simplified": "傅",
+      "simplified_stroke_count": 12,
+      "traditional": "傅",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "(bound form) instructor"
+        },
+        {
+          "value": "(literary) to instruct"
+        },
+        {
+          "value": "to attach"
+        },
+        {
+          "value": "to apply (makeup etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

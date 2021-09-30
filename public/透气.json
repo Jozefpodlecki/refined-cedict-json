@@ -1,0 +1,36 @@
+{
+  "simplified": "透气",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tòu qì",
+          "wade_giles_pinyin": "tou4 qi4"
+        }
+      ],
+      "simplified": "透气",
+      "traditional": "透氣",
+      "meanings": [
+        {
+          "value": "to flow freely (of air)"
+        },
+        {
+          "value": "to ventilate"
+        },
+        {
+          "value": "to breathe (of fabric etc)"
+        },
+        {
+          "value": "to take a breath of fresh air"
+        },
+        {
+          "value": "to divulge"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

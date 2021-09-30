@@ -1,0 +1,42 @@
+{
+  "simplified": "淡化",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dàn huà",
+          "wade_giles_pinyin": "dan4 hua4"
+        }
+      ],
+      "simplified": "淡化",
+      "traditional": "淡化",
+      "meanings": [
+        {
+          "value": "to water down"
+        },
+        {
+          "value": "to play down"
+        },
+        {
+          "value": "to trivialize"
+        },
+        {
+          "value": "to weaken"
+        },
+        {
+          "value": "to become dull with time"
+        },
+        {
+          "value": "to desalinate"
+        },
+        {
+          "value": "desalination"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

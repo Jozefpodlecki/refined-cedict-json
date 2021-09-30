@@ -1,0 +1,87 @@
+{
+  "simplified": "把",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bǎ",
+          "wade_giles_pinyin": "ba3"
+        }
+      ],
+      "simplified": "把",
+      "simplified_stroke_count": 7,
+      "traditional": "把",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to hold"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to contain"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to grasp"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to take hold of"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "handle"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "particle marking the following noun as a direct object"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "classifier for objects with handle"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "classifier for small objects: handful"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bà",
+          "wade_giles_pinyin": "ba4"
+        }
+      ],
+      "simplified": "把",
+      "simplified_stroke_count": 7,
+      "traditional": "把",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "handle"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "simplified": "医务所",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yī wù suǒ",
+          "wade_giles_pinyin": "yi1 wu4 suo3"
+        }
+      ],
+      "simplified": "医务所",
+      "traditional": "醫務所",
+      "meanings": [
+        {
+          "value": "clinic"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "家",
+          "traditional": "",
+          "wade_giles_pinyin": "jia1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

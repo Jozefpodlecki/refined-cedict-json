@@ -1,0 +1,54 @@
+{
+  "simplified": "鼓气",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " gǔ qì",
+          "wade_giles_pinyin": "gu3 qi4"
+        }
+      ],
+      "simplified": "鼓气",
+      "simplified_stroke_count": 0,
+      "traditional": "鼓氣",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to puff up"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to swell up"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to inflate"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to blow air into sth"
+        },
+        {
+          "context": "figuratively",
+          "lexical_item": "",
+          "value": "to encourage"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to support"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

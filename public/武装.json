@@ -1,0 +1,36 @@
+{
+  "simplified": "武装",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wǔ zhuāng",
+          "wade_giles_pinyin": "wu3 zhuang1"
+        }
+      ],
+      "simplified": "武装",
+      "traditional": "武裝",
+      "meanings": [
+        {
+          "value": "arms"
+        },
+        {
+          "value": "equipment"
+        },
+        {
+          "value": "to arm"
+        },
+        {
+          "value": "military"
+        },
+        {
+          "value": "armed (forces)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

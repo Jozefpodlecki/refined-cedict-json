@@ -1,0 +1,38 @@
+{
+  "simplified": "和棋",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " hé qí",
+          "wade_giles_pinyin": "he2 qi2"
+        }
+      ],
+      "simplified": "和棋",
+      "simplified_stroke_count": 0,
+      "traditional": "和棋",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "draw or tie in chess etc"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:盤|盘[pan2]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "盤",
+          "traditional": "盘",
+          "wade_giles_pinyin": "pan2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

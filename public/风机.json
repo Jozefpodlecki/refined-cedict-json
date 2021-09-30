@@ -1,0 +1,25 @@
+{
+  "simplified": "风机",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fēng jī",
+          "wade_giles_pinyin": "feng1 ji1"
+        }
+      ],
+      "simplified": "风机",
+      "traditional": "風機",
+      "meanings": [
+        {
+          "value": "fan"
+        },
+        {
+          "value": "ventilator"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

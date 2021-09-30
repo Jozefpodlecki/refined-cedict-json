@@ -1,0 +1,39 @@
+{
+  "simplified": "辞行",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " cí xíng",
+          "wade_giles_pinyin": "ci2 xing2"
+        }
+      ],
+      "simplified": "辞行",
+      "simplified_stroke_count": 0,
+      "traditional": "辭行",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to say goodbye"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "leave-taking"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "farewells"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

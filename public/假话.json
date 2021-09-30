@@ -1,0 +1,28 @@
+{
+  "simplified": "假话",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiǎ huà",
+          "wade_giles_pinyin": "jia3 hua4"
+        }
+      ],
+      "simplified": "假话",
+      "traditional": "假話",
+      "meanings": [
+        {
+          "value": "a lie"
+        },
+        {
+          "value": "untrue statement"
+        },
+        {
+          "value": "misstatement"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

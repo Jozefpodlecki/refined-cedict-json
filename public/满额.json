@@ -1,0 +1,34 @@
+{
+  "simplified": "满额",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mǎn é",
+          "wade_giles_pinyin": "man3 e2"
+        }
+      ],
+      "simplified": "满额",
+      "simplified_stroke_count": null,
+      "traditional": "滿額",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "the full amount"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to fulfill the quota"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

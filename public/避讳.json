@@ -1,0 +1,62 @@
+{
+  "simplified": "避讳",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bì huì",
+          "wade_giles_pinyin": "bi4 hui4"
+        }
+      ],
+      "simplified": "避讳",
+      "simplified_stroke_count": 0,
+      "traditional": "避諱",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to avoid a taboo word or topic"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bì hui",
+          "wade_giles_pinyin": "bi4 hui5"
+        }
+      ],
+      "simplified": "避讳",
+      "simplified_stroke_count": 0,
+      "traditional": "避諱",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to avoid a taboo word or topic"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to refrain from"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to avoid"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

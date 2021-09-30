@@ -1,0 +1,30 @@
+{
+  "simplified": "航行",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "háng xíng",
+          "wade_giles_pinyin": "hang2 xing2"
+        }
+      ],
+      "simplified": "航行",
+      "traditional": "航行",
+      "meanings": [
+        {
+          "value": "to sail"
+        },
+        {
+          "value": "to fly"
+        },
+        {
+          "value": "to navigate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

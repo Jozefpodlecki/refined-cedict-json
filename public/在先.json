@@ -1,0 +1,39 @@
+{
+  "simplified": "在先",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zài xiān",
+          "wade_giles_pinyin": "zai4 xian1"
+        }
+      ],
+      "simplified": "在先",
+      "traditional": "在先",
+      "meanings": [
+        {
+          "value": "to come first"
+        },
+        {
+          "value": "previous"
+        },
+        {
+          "value": "prior"
+        },
+        {
+          "value": "beforehand"
+        },
+        {
+          "value": "first"
+        },
+        {
+          "value": "formerly"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

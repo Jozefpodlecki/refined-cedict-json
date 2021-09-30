@@ -1,0 +1,67 @@
+{
+  "simplified": "当事",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dāng shì",
+          "wade_giles_pinyin": "dang1 shi4"
+        }
+      ],
+      "simplified": "当事",
+      "simplified_stroke_count": 0,
+      "traditional": "當事",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to be in charge"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to be confronted (with a matter)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "involved (in some matter)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dàng shì",
+          "wade_giles_pinyin": "dang4 shi4"
+        }
+      ],
+      "simplified": "当事",
+      "simplified_stroke_count": 0,
+      "traditional": "當事",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to consider as a matter of importance"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to be of importance"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

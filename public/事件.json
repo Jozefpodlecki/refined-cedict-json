@@ -1,0 +1,48 @@
+{
+  "simplified": "事件",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shì jiàn",
+          "wade_giles_pinyin": "shi4 jian4"
+        }
+      ],
+      "simplified": "事件",
+      "simplified_stroke_count": 0,
+      "traditional": "事件",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "event"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "happening"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "incident"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:個|个[ge4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

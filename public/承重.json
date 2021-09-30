@@ -1,0 +1,30 @@
+{
+  "simplified": "承重",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chéng zhòng",
+          "wade_giles_pinyin": "cheng2 zhong4"
+        }
+      ],
+      "simplified": "承重",
+      "traditional": "承重",
+      "meanings": [
+        {
+          "value": "to sustain"
+        },
+        {
+          "value": "to bear the weight (of the upper storeys in architecture)"
+        },
+        {
+          "value": "load-bearing"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

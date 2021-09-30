@@ -1,0 +1,32 @@
+{
+  "simplified": "矿区",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " kuàng qū",
+          "wade_giles_pinyin": "kuang4 qu1"
+        }
+      ],
+      "simplified": "矿区",
+      "simplified_stroke_count": 0,
+      "traditional": "礦區",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "mining site"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "mining area"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

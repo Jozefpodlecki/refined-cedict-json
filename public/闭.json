@@ -1,0 +1,44 @@
+{
+  "simplified": "闭",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bì",
+          "wade_giles_pinyin": "bi4"
+        }
+      ],
+      "simplified": "闭",
+      "simplified_stroke_count": 6,
+      "traditional": "閉",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to close"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to stop up"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to shut"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to obstruct"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

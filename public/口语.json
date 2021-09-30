@@ -1,0 +1,40 @@
+{
+  "simplified": "口语",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kǒu yǔ",
+          "wade_giles_pinyin": "kou3 yu3"
+        }
+      ],
+      "simplified": "口语",
+      "traditional": "口語",
+      "meanings": [
+        {
+          "value": "colloquial speech"
+        },
+        {
+          "value": "spoken language"
+        },
+        {
+          "value": "vernacular language"
+        },
+        {
+          "value": "slander"
+        },
+        {
+          "value": "gossip"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "門",
+          "traditional": "门",
+          "wade_giles_pinyin": "men2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

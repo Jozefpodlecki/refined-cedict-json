@@ -1,0 +1,27 @@
+{
+  "simplified": "推送",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " tuī sòng",
+          "wade_giles_pinyin": "tui1 song4"
+        }
+      ],
+      "simplified": "推送",
+      "simplified_stroke_count": 0,
+      "traditional": "推送",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "server push (computing)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "simplified": "怀疑",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huái yí",
+          "wade_giles_pinyin": "huai2 yi2"
+        }
+      ],
+      "simplified": "怀疑",
+      "traditional": "懷疑",
+      "meanings": [
+        {
+          "value": "to doubt (sth)"
+        },
+        {
+          "value": "to be skeptical of"
+        },
+        {
+          "value": "to have one's doubts"
+        },
+        {
+          "value": "to harbor suspicions"
+        },
+        {
+          "value": "to suspect that"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "simplified": "皱",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhòu",
+          "wade_giles_pinyin": "zhou4"
+        }
+      ],
+      "simplified": "皱",
+      "simplified_stroke_count": 10,
+      "traditional": "皺",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "to wrinkle"
+        },
+        {
+          "value": "wrinkled"
+        },
+        {
+          "value": "to crease"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "上山下乡",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shàng shān xià xiāng",
+          "wade_giles_pinyin": "shang4 shan1 xia4 xiang1"
+        }
+      ],
+      "simplified": "上山下乡",
+      "simplified_stroke_count": null,
+      "traditional": "上山下鄉",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to work in the fields (esp. young school-leavers)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "forced agricultural experience for city intellectuals"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

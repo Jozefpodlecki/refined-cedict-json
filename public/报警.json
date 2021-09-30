@@ -1,0 +1,27 @@
+{
+  "simplified": "报警",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bào jǐng",
+          "wade_giles_pinyin": "bao4 jing3"
+        }
+      ],
+      "simplified": "报警",
+      "traditional": "報警",
+      "meanings": [
+        {
+          "value": "to sound an alarm"
+        },
+        {
+          "value": "to report sth to the police"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

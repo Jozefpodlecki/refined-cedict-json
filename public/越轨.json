@@ -1,0 +1,39 @@
+{
+  "simplified": "越轨",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yuè guǐ",
+          "wade_giles_pinyin": "yue4 gui3"
+        }
+      ],
+      "simplified": "越轨",
+      "simplified_stroke_count": 0,
+      "traditional": "越軌",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to run off the track"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to step out of line"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to overstep the bounds of propriety"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

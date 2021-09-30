@@ -1,0 +1,28 @@
+{
+  "simplified": "外伤",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wài shāng",
+          "wade_giles_pinyin": "wai4 shang1"
+        }
+      ],
+      "simplified": "外伤",
+      "traditional": "外傷",
+      "meanings": [
+        {
+          "value": "injury"
+        },
+        {
+          "value": "wound"
+        },
+        {
+          "value": "trauma"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

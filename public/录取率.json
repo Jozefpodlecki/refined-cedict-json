@@ -1,0 +1,25 @@
+{
+  "simplified": "录取率",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lù qǔ lǜ",
+          "wade_giles_pinyin": "lu4 qu3 lu:4"
+        }
+      ],
+      "simplified": "录取率",
+      "traditional": "錄取率",
+      "meanings": [
+        {
+          "value": "acceptance rate"
+        },
+        {
+          "value": "admission rate"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

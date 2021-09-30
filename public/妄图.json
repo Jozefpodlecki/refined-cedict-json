@@ -1,0 +1,34 @@
+{
+  "simplified": "妄图",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wàng tú",
+          "wade_giles_pinyin": "wang4 tu2"
+        }
+      ],
+      "simplified": "妄图",
+      "simplified_stroke_count": null,
+      "traditional": "妄圖",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to try in vain"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "futile attempt"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

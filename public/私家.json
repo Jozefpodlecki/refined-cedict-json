@@ -1,0 +1,32 @@
+{
+  "simplified": "私家",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " sī jiā",
+          "wade_giles_pinyin": "si1 jia1"
+        }
+      ],
+      "simplified": "私家",
+      "simplified_stroke_count": 0,
+      "traditional": "私家",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "private"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "privately owned or managed"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

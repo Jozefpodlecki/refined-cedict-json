@@ -1,0 +1,42 @@
+{
+  "simplified": "国徽",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guó huī",
+          "wade_giles_pinyin": "Guo2 hui1"
+        }
+      ],
+      "simplified": "国徽",
+      "traditional": "國徽",
+      "meanings": [
+        {
+          "value": "the national emblem of the PRC (a red circle containing the five stars of the PRC flag over Tiananmen 天安門|天安门[Tian1 an1 men2])"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guó huī",
+          "wade_giles_pinyin": "guo2 hui1"
+        }
+      ],
+      "simplified": "国徽",
+      "traditional": "國徽",
+      "meanings": [
+        {
+          "value": "national emblem"
+        },
+        {
+          "value": "national coat of arms"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

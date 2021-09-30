@@ -1,0 +1,39 @@
+{
+  "simplified": "打草惊蛇",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dǎ cǎo jīng shé",
+          "wade_giles_pinyin": "da3 cao3 jing1 she2"
+        }
+      ],
+      "simplified": "打草惊蛇",
+      "simplified_stroke_count": 0,
+      "traditional": "打草驚蛇",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "lit. beat the grass to scare the snake"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "fig. to inadvertently alert an enemy"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to punish sb as a warning to others"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

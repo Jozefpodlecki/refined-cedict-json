@@ -1,0 +1,28 @@
+{
+  "simplified": "战力",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhàn lì",
+          "wade_giles_pinyin": "zhan4 li4"
+        }
+      ],
+      "simplified": "战力",
+      "traditional": "戰力",
+      "meanings": [
+        {
+          "value": "military strength"
+        },
+        {
+          "value": "military power"
+        },
+        {
+          "value": "military capability"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

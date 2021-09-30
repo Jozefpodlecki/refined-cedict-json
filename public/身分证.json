@@ -1,0 +1,32 @@
+{
+  "simplified": "身分证",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shēn fèn zhèng",
+          "wade_giles_pinyin": "shen1 fen4 zheng4"
+        }
+      ],
+      "simplified": "身分证",
+      "simplified_stroke_count": null,
+      "traditional": "身分證",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "identity card"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "also written 身份證|身份证[shen1 fen4 zheng4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

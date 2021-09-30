@@ -1,0 +1,25 @@
+{
+  "simplified": "景点",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jǐng diǎn",
+          "wade_giles_pinyin": "jing3 dian3"
+        }
+      ],
+      "simplified": "景点",
+      "traditional": "景點",
+      "meanings": [
+        {
+          "value": "scenic spot"
+        },
+        {
+          "value": "place of interest (tourism)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

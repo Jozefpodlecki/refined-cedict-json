@@ -1,0 +1,45 @@
+{
+  "simplified": "逆",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nì",
+          "wade_giles_pinyin": "ni4"
+        }
+      ],
+      "simplified": "逆",
+      "simplified_stroke_count": 9,
+      "traditional": "逆",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "contrary"
+        },
+        {
+          "value": "opposite"
+        },
+        {
+          "value": "backwards"
+        },
+        {
+          "value": "to go against"
+        },
+        {
+          "value": "to oppose"
+        },
+        {
+          "value": "to betray"
+        },
+        {
+          "value": "to rebel"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

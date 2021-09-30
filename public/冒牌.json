@@ -1,0 +1,42 @@
+{
+  "simplified": "冒牌",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mào pái",
+          "wade_giles_pinyin": "mao4 pai2"
+        }
+      ],
+      "simplified": "冒牌",
+      "simplified_stroke_count": null,
+      "traditional": "冒牌",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "fake"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "impostor"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "quack (doctor)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "imitation brand"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

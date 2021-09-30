@@ -1,0 +1,31 @@
+{
+  "simplified": "啃书",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kěn shū",
+          "wade_giles_pinyin": "ken3 shu1"
+        }
+      ],
+      "simplified": "啃书",
+      "traditional": "啃書",
+      "meanings": [
+        {
+          "context": "literature",
+          "value": "to gnaw a book"
+        },
+        {
+          "value": "to study"
+        },
+        {
+          "value": "to cram"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

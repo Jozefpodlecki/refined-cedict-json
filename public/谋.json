@@ -1,0 +1,33 @@
+{
+  "simplified": "谋",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "móu",
+          "wade_giles_pinyin": "mou2"
+        }
+      ],
+      "simplified": "谋",
+      "simplified_stroke_count": 11,
+      "traditional": "謀",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "to plan"
+        },
+        {
+          "value": "to seek"
+        },
+        {
+          "value": "scheme"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

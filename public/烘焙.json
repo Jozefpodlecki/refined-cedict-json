@@ -1,0 +1,34 @@
+{
+  "simplified": "烘焙",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " hōng bèi",
+          "wade_giles_pinyin": "hong1 bei4"
+        }
+      ],
+      "simplified": "烘焙",
+      "simplified_stroke_count": 0,
+      "traditional": "烘焙",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to cure by drying over a fire (tea, meat etc)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to bake"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

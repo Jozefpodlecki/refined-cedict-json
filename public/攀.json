@@ -1,0 +1,33 @@
+{
+  "simplified": "攀",
+  "simplified_stroke_count": 19,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pān",
+          "wade_giles_pinyin": "pan1"
+        }
+      ],
+      "simplified": "攀",
+      "simplified_stroke_count": 19,
+      "traditional": "攀",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "value": "to climb (by pulling oneself up)"
+        },
+        {
+          "value": "to implicate"
+        },
+        {
+          "value": "to claim connections of higher status"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

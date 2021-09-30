@@ -1,0 +1,59 @@
+{
+  "simplified": "猊",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ní",
+          "wade_giles_pinyin": "ni2"
+        }
+      ],
+      "simplified": "猊",
+      "simplified_stroke_count": 11,
+      "traditional": "猊",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "(mythical animal)"
+        },
+        {
+          "value": "lion"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ní",
+          "wade_giles_pinyin": "ni2"
+        }
+      ],
+      "simplified": "猊",
+      "simplified_stroke_count": 11,
+      "traditional": "貎",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "wild beast"
+        },
+        {
+          "value": "wild horse"
+        },
+        {
+          "value": "lion"
+        },
+        {
+          "value": "trad. form used erroneously for 貌"
+        },
+        {
+          "value": "simplified form used erroneously for 狻"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

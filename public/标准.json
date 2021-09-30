@@ -1,0 +1,48 @@
+{
+  "simplified": "标准",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " biāo zhǔn",
+          "wade_giles_pinyin": "biao1 zhun3"
+        }
+      ],
+      "simplified": "标准",
+      "simplified_stroke_count": 0,
+      "traditional": "標準",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(an official) standard"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "norm"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "criterion"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:個|个[ge4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

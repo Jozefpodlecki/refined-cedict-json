@@ -1,0 +1,61 @@
+{
+  "simplified": "厦",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xià",
+          "wade_giles_pinyin": "Xia4"
+        }
+      ],
+      "simplified": "厦",
+      "simplified_stroke_count": 12,
+      "traditional": "廈",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "value": "Xiamen or Amoy 廈門|厦门[Xia4 men2], Fujian",
+          "simplified": "X",
+          "traditional": "iamen or Amoy 廈門|厦门",
+          "wade_giles_pinyin": "Xia4 men2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shà",
+          "wade_giles_pinyin": "sha4"
+        },
+        {
+          "pinyin": "xià",
+          "wade_giles_pinyin": "xia4"
+        }
+      ],
+      "simplified": "厦",
+      "simplified_stroke_count": 12,
+      "traditional": "廈",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "tall building"
+        },
+        {
+          "value": "mansion"
+        },
+        {
+          "value": "rear annex"
+        },
+        {
+          "value": "lean-to"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

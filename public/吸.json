@@ -1,0 +1,36 @@
+{
+  "simplified": "吸",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xī",
+          "wade_giles_pinyin": "xi1"
+        }
+      ],
+      "simplified": "吸",
+      "simplified_stroke_count": 6,
+      "traditional": "吸",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "value": "to breathe"
+        },
+        {
+          "value": "to suck in"
+        },
+        {
+          "value": "to absorb"
+        },
+        {
+          "value": "to inhale"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

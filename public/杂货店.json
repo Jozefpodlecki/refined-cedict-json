@@ -1,0 +1,32 @@
+{
+  "simplified": "杂货店",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zá huò diàn",
+          "wade_giles_pinyin": "za2 huo4 dian4"
+        }
+      ],
+      "simplified": "杂货店",
+      "simplified_stroke_count": 0,
+      "traditional": "雜貨店",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "grocery store"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "emporium"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

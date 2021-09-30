@@ -1,0 +1,32 @@
+{
+  "simplified": "忌日",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jì rì",
+          "wade_giles_pinyin": "ji4 ri4"
+        }
+      ],
+      "simplified": "忌日",
+      "simplified_stroke_count": 0,
+      "traditional": "忌日",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "anniversary of a death"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "inauspicious day"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

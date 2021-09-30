@@ -1,0 +1,39 @@
+{
+  "simplified": "尾随",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " wěi suí",
+          "wade_giles_pinyin": "wei3 sui2"
+        }
+      ],
+      "simplified": "尾随",
+      "simplified_stroke_count": 0,
+      "traditional": "尾隨",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to tail behind"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to tag along"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to follow on the heels of"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

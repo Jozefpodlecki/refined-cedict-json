@@ -1,0 +1,52 @@
+{
+  "simplified": "辈",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bèi",
+          "wade_giles_pinyin": "bei4"
+        }
+      ],
+      "simplified": "辈",
+      "simplified_stroke_count": 12,
+      "traditional": "輩",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "lifetime"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "generation"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "group of people"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "class"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "classifier for generations"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(literary) classifier for people"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

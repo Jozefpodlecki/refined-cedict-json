@@ -1,0 +1,29 @@
+{
+  "simplified": "敲门砖",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiāo mén zhuān",
+          "wade_giles_pinyin": "qiao1 men2 zhuan1"
+        }
+      ],
+      "simplified": "敲门砖",
+      "traditional": "敲門磚",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "a brick as a door knocker ; fig. a temporary expedient"
+        },
+        {
+          "value": "to use sb as a stepping stone to fortune"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

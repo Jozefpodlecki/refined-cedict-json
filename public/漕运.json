@@ -1,0 +1,28 @@
+{
+  "simplified": "漕运",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cáo yùn",
+          "wade_giles_pinyin": "cao2 yun4"
+        }
+      ],
+      "simplified": "漕运",
+      "traditional": "漕運",
+      "meanings": [
+        {
+          "context": "old",
+          "value": "to transport by water"
+        },
+        {
+          "value": "to ship grain as tax"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

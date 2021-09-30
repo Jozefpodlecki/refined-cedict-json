@@ -1,0 +1,48 @@
+{
+  "simplified": "胁",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xié",
+          "wade_giles_pinyin": "xie2"
+        }
+      ],
+      "simplified": "胁",
+      "simplified_stroke_count": 8,
+      "traditional": "脅",
+      "traditional_stroke_count": 10,
+      "meanings": [],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xié",
+          "wade_giles_pinyin": "xie2"
+        }
+      ],
+      "simplified": "胁",
+      "simplified_stroke_count": 8,
+      "traditional": "脇",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 脅|胁[xie2]",
+          "simplified": "脅",
+          "traditional": "胁",
+          "wade_giles_pinyin": "xie2"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

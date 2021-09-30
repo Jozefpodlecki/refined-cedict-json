@@ -1,0 +1,36 @@
+{
+  "simplified": "惯",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guàn",
+          "wade_giles_pinyin": "guan4"
+        }
+      ],
+      "simplified": "惯",
+      "simplified_stroke_count": 11,
+      "traditional": "慣",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "accustomed to"
+        },
+        {
+          "value": "used to"
+        },
+        {
+          "value": "indulge"
+        },
+        {
+          "value": "to spoil (a child)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

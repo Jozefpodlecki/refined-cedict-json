@@ -1,0 +1,38 @@
+{
+  "simplified": "麻将",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " má jiàng",
+          "wade_giles_pinyin": "ma2 jiang4"
+        }
+      ],
+      "simplified": "麻将",
+      "simplified_stroke_count": 0,
+      "traditional": "麻將",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "mahjong"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:副[fu4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "副",
+          "traditional": "",
+          "wade_giles_pinyin": "fu4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

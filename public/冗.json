@@ -1,0 +1,63 @@
+{
+  "simplified": "冗",
+  "simplified_stroke_count": 4,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " rǒng",
+          "wade_giles_pinyin": "rong3"
+        }
+      ],
+      "simplified": "冗",
+      "simplified_stroke_count": 4,
+      "traditional": "冗",
+      "traditional_stroke_count": 4,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "extraneous"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "redundant"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "superfluous"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "busy schedule"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " rǒng",
+          "wade_giles_pinyin": "rong3"
+        }
+      ],
+      "simplified": "冗",
+      "simplified_stroke_count": 4,
+      "traditional": "宂",
+      "traditional_stroke_count": 5,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "冗[rong3]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

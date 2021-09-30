@@ -1,0 +1,36 @@
+{
+  "simplified": "找茬",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhǎo chá",
+          "wade_giles_pinyin": "zhao3 cha2"
+        }
+      ],
+      "simplified": "找茬",
+      "traditional": "找茬",
+      "meanings": [
+        {
+          "value": "to pick fault with"
+        },
+        {
+          "value": "to spot the differences"
+        },
+        {
+          "value": "to nitpick"
+        },
+        {
+          "value": "to pick a quarrel"
+        },
+        {
+          "value": "to find complaint with"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

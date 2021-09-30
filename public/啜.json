@@ -1,0 +1,39 @@
+{
+  "simplified": "啜",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chuò",
+          "wade_giles_pinyin": "chuo4"
+        }
+      ],
+      "simplified": "啜",
+      "simplified_stroke_count": 11,
+      "traditional": "啜",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(literary) to drink"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to sip"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to sob"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "simplified": "不通",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bù tōng",
+          "wade_giles_pinyin": "bu4 tong1"
+        }
+      ],
+      "simplified": "不通",
+      "traditional": "不通",
+      "meanings": [
+        {
+          "value": "to be obstructed"
+        },
+        {
+          "value": "to be blocked up"
+        },
+        {
+          "value": "to be impassable"
+        },
+        {
+          "value": "to make no sense"
+        },
+        {
+          "value": "to be illogical"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

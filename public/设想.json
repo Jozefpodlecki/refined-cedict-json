@@ -1,0 +1,36 @@
+{
+  "simplified": "设想",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shè xiǎng",
+          "wade_giles_pinyin": "she4 xiang3"
+        }
+      ],
+      "simplified": "设想",
+      "traditional": "設想",
+      "meanings": [
+        {
+          "value": "to imagine"
+        },
+        {
+          "value": "to assume"
+        },
+        {
+          "value": "to envisage"
+        },
+        {
+          "value": "tentative plan"
+        },
+        {
+          "value": "to have consideration for"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

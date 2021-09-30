@@ -1,0 +1,76 @@
+{
+  "simplified": "词",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cí",
+          "wade_giles_pinyin": "ci2"
+        }
+      ],
+      "simplified": "词",
+      "simplified_stroke_count": 7,
+      "traditional": "䛐",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 詞|词[ci2]",
+          "simplified": "詞",
+          "traditional": "词",
+          "wade_giles_pinyin": "ci2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cí",
+          "wade_giles_pinyin": "ci2"
+        }
+      ],
+      "simplified": "词",
+      "simplified_stroke_count": 7,
+      "traditional": "詞",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "word"
+        },
+        {
+          "value": "statement"
+        },
+        {
+          "value": "speech"
+        },
+        {
+          "value": "lyrics"
+        },
+        {
+          "value": "a form of lyric poetry, flourishing in the Song dynasty 宋朝|宋朝[Song4 chao2]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "組",
+          "traditional": "组",
+          "wade_giles_pinyin": "zu3"
+        },
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        },
+        {
+          "simplified": "首",
+          "traditional": "",
+          "wade_giles_pinyin": "shou3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

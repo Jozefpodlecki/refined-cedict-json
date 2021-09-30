@@ -1,0 +1,36 @@
+{
+  "simplified": "渍",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zì",
+          "wade_giles_pinyin": "zi4"
+        }
+      ],
+      "simplified": "渍",
+      "simplified_stroke_count": 11,
+      "traditional": "漬",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "to soak"
+        },
+        {
+          "value": "to be stained"
+        },
+        {
+          "value": "stain"
+        },
+        {
+          "value": "floodwater"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

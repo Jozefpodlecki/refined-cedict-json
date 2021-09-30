@@ -1,0 +1,39 @@
+{
+  "simplified": "削发",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xuē fà",
+          "wade_giles_pinyin": "xue1 fa4"
+        }
+      ],
+      "simplified": "削发",
+      "simplified_stroke_count": 0,
+      "traditional": "削髮",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to shave one's head"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "fig. to become a monk or nun"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to take the tonsure"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

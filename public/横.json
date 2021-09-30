@@ -1,0 +1,78 @@
+{
+  "simplified": "横",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "héng",
+          "wade_giles_pinyin": "heng2"
+        }
+      ],
+      "simplified": "横",
+      "simplified_stroke_count": 15,
+      "traditional": "橫",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "horizontal"
+        },
+        {
+          "value": "across"
+        },
+        {
+          "value": "crosswise"
+        },
+        {
+          "value": "horizontal stroke (in Chinese characters)"
+        },
+        {
+          "value": "to place (sth) flat (on a surface)"
+        },
+        {
+          "value": "to cross (a river, etc)"
+        },
+        {
+          "value": "in a jumble"
+        },
+        {
+          "value": "chaotic"
+        },
+        {
+          "value": "(in fixed expressions) harsh and unreasonable"
+        },
+        {
+          "value": "violent"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hèng",
+          "wade_giles_pinyin": "heng4"
+        }
+      ],
+      "simplified": "横",
+      "simplified_stroke_count": 15,
+      "traditional": "橫",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "harsh and unreasonable"
+        },
+        {
+          "value": "unexpected"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "simplified": "束",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shù",
+          "wade_giles_pinyin": "Shu4"
+        }
+      ],
+      "simplified": "束",
+      "simplified_stroke_count": 7,
+      "traditional": "束",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "value": "surname Shu"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shù",
+          "wade_giles_pinyin": "shu4"
+        }
+      ],
+      "simplified": "束",
+      "simplified_stroke_count": 7,
+      "traditional": "束",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "value": "to bind"
+        },
+        {
+          "value": "bunch"
+        },
+        {
+          "value": "bundle"
+        },
+        {
+          "value": "classifier for bunches, bundles, beams of light etc"
+        },
+        {
+          "value": "to control"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

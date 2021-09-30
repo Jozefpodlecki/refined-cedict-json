@@ -1,0 +1,55 @@
+{
+  "simplified": "钿",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diàn",
+          "wade_giles_pinyin": "dian4"
+        }
+      ],
+      "simplified": "钿",
+      "simplified_stroke_count": 10,
+      "traditional": "鈿",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "to inlay with gold, silver etc"
+        },
+        {
+          "value": "ancient inlaid ornament shaped as a flower"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tián",
+          "wade_giles_pinyin": "tian2"
+        }
+      ],
+      "simplified": "钿",
+      "simplified_stroke_count": 10,
+      "traditional": "鈿",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "dialect",
+          "value": "money"
+        },
+        {
+          "value": "coin"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

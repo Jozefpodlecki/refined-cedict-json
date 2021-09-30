@@ -1,0 +1,31 @@
+{
+  "simplified": "寸",
+  "simplified_stroke_count": 3,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cùn",
+          "wade_giles_pinyin": "cun4"
+        }
+      ],
+      "simplified": "寸",
+      "simplified_stroke_count": 3,
+      "traditional": "寸",
+      "traditional_stroke_count": 3,
+      "meanings": [
+        {
+          "value": "a unit of length"
+        },
+        {
+          "value": "inch"
+        },
+        {
+          "value": "thumb"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

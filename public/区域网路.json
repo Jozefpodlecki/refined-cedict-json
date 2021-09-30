@@ -1,0 +1,32 @@
+{
+  "simplified": "区域网路",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qū yù wǎng lù",
+          "wade_giles_pinyin": "qu1 yu4 wang3 lu4"
+        }
+      ],
+      "simplified": "区域网路",
+      "simplified_stroke_count": null,
+      "traditional": "區域網路",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "local area network"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "LAN"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

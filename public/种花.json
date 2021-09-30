@@ -1,0 +1,27 @@
+{
+  "simplified": "种花",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhòng huā",
+          "wade_giles_pinyin": "zhong4 hua1"
+        }
+      ],
+      "simplified": "种花",
+      "traditional": "種花",
+      "meanings": [
+        {
+          "value": "to grow flowers"
+        },
+        {
+          "value": "floriculture"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

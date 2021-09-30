@@ -1,0 +1,39 @@
+{
+  "simplified": "两性",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " liǎng xìng",
+          "wade_giles_pinyin": "liang3 xing4"
+        }
+      ],
+      "simplified": "两性",
+      "simplified_stroke_count": 0,
+      "traditional": "兩性",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "male and female"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "both types (acid and alkaline, positive and negative etc)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(chemistry) amphoteric"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "chemical elements"
+      ]
+    }
+  ]
+}

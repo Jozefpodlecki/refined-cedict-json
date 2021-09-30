@@ -1,0 +1,57 @@
+{
+  "simplified": "综",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zèng",
+          "wade_giles_pinyin": "zeng4"
+        }
+      ],
+      "simplified": "综",
+      "simplified_stroke_count": 11,
+      "traditional": "綜",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "heddle (device to form warp in weaving textiles)"
+        },
+        {
+          "value": "Taiwan pr. [zong4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zōng",
+          "wade_giles_pinyin": "zong1"
+        }
+      ],
+      "simplified": "综",
+      "simplified_stroke_count": 11,
+      "traditional": "綜",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "to sum up"
+        },
+        {
+          "value": "to put together"
+        },
+        {
+          "value": "Taiwan pr. [zong4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

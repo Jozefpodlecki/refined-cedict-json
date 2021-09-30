@@ -1,0 +1,37 @@
+{
+  "simplified": "御用",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yù yòng",
+          "wade_giles_pinyin": "yu4 yong4"
+        }
+      ],
+      "simplified": "御用",
+      "simplified_stroke_count": null,
+      "traditional": "御用",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "for use by the emperor"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "imperial"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "(derog.) in the pay of the ruler"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "交卸",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiāo xiè",
+          "wade_giles_pinyin": "jiao1 xie4"
+        }
+      ],
+      "simplified": "交卸",
+      "simplified_stroke_count": null,
+      "traditional": "交卸",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to hand over to a successor"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to relinquish one's office"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

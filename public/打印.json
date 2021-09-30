@@ -1,0 +1,30 @@
+{
+  "simplified": "打印",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dǎ yìn",
+          "wade_giles_pinyin": "da3 yin4"
+        }
+      ],
+      "simplified": "打印",
+      "traditional": "打印",
+      "meanings": [
+        {
+          "value": "to affix a seal"
+        },
+        {
+          "value": "to stamp"
+        },
+        {
+          "value": "to print out (with a printer)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

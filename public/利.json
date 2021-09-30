@@ -1,0 +1,87 @@
+{
+  "simplified": "利",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " lì",
+          "wade_giles_pinyin": "Li4"
+        }
+      ],
+      "simplified": "利",
+      "simplified_stroke_count": 7,
+      "traditional": "利",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "surname Li"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " lì",
+          "wade_giles_pinyin": "li4"
+        }
+      ],
+      "simplified": "利",
+      "simplified_stroke_count": 7,
+      "traditional": "利",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "sharp"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "favorable"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "advantage"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "benefit"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "profit"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "interest"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to do good to"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to benefit"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

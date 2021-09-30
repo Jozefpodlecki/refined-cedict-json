@@ -1,0 +1,28 @@
+{
+  "simplified": "野猪",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yě zhū",
+          "wade_giles_pinyin": "ye3 zhu1"
+        }
+      ],
+      "simplified": "野猪",
+      "traditional": "野豬",
+      "meanings": [
+        {
+          "value": "wild boar (Sus scrofa)"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "頭",
+          "traditional": "头",
+          "wade_giles_pinyin": "tou2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

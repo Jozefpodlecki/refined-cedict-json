@@ -1,0 +1,82 @@
+{
+  "simplified": "徇",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xùn",
+          "wade_giles_pinyin": "xun4"
+        }
+      ],
+      "simplified": "徇",
+      "simplified_stroke_count": 9,
+      "traditional": "徇",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to give in to"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to be swayed by (personal considerations etc)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Taiwan pr. [xun2]"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to follow"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to expose publicly"
+        },
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "侚[xun4]"
+        },
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "殉[xun4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xùn",
+          "wade_giles_pinyin": "xun4"
+        }
+      ],
+      "simplified": "徇",
+      "simplified_stroke_count": 9,
+      "traditional": "狥",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "徇[xun4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

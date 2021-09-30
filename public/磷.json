@@ -1,0 +1,73 @@
+{
+  "simplified": "磷",
+  "simplified_stroke_count": 17,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lín",
+          "wade_giles_pinyin": "lin2"
+        }
+      ],
+      "simplified": "磷",
+      "simplified_stroke_count": 17,
+      "traditional": "燐",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 磷[lin2]",
+          "simplified": "磷",
+          "traditional": "",
+          "wade_giles_pinyin": "lin2"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "chemical elements"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lín",
+          "wade_giles_pinyin": "lin2"
+        }
+      ],
+      "simplified": "磷",
+      "simplified_stroke_count": 17,
+      "traditional": "磷",
+      "traditional_stroke_count": 17,
+      "meanings": [],
+      "classifiers": [],
+      "tags": [
+        "chemical elements"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lín",
+          "wade_giles_pinyin": "lin2"
+        }
+      ],
+      "simplified": "磷",
+      "simplified_stroke_count": 17,
+      "traditional": "粦",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 磷[lin2]",
+          "simplified": "磷",
+          "traditional": "",
+          "wade_giles_pinyin": "lin2"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "chemical elements"
+      ]
+    }
+  ]
+}

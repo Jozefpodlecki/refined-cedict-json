@@ -1,0 +1,32 @@
+{
+  "simplified": "粪草",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fèn cǎo",
+          "wade_giles_pinyin": "fen4 cao3"
+        }
+      ],
+      "simplified": "粪草",
+      "simplified_stroke_count": 0,
+      "traditional": "糞草",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "trash"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "garbage"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

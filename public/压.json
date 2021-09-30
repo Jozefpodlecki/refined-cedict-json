@@ -1,0 +1,57 @@
+{
+  "simplified": "压",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yā",
+          "wade_giles_pinyin": "ya1"
+        }
+      ],
+      "simplified": "压",
+      "simplified_stroke_count": 6,
+      "traditional": "壓",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "to press"
+        },
+        {
+          "value": "to push down"
+        },
+        {
+          "value": "to keep under (control)"
+        },
+        {
+          "value": "pressure"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yà",
+          "wade_giles_pinyin": "ya4"
+        }
+      ],
+      "simplified": "压",
+      "simplified_stroke_count": 6,
+      "traditional": "壓",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "see 壓根兒|压根儿[ya4 gen1 r5]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

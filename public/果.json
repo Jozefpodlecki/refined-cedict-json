@@ -1,0 +1,73 @@
+{
+  "simplified": "果",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " guǒ",
+          "wade_giles_pinyin": "guo3"
+        }
+      ],
+      "simplified": "果",
+      "simplified_stroke_count": 8,
+      "traditional": "果",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "fruit"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "result"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "resolute"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "indeed"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "if really"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " guǒ",
+          "wade_giles_pinyin": "guo3"
+        }
+      ],
+      "simplified": "果",
+      "simplified_stroke_count": 8,
+      "traditional": "菓",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "果[guo3]"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "fruit"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "simplified": "公示",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gōng shì",
+          "wade_giles_pinyin": "gong1 shi4"
+        }
+      ],
+      "simplified": "公示",
+      "traditional": "公示",
+      "meanings": [
+        {
+          "value": "to make known to the public (for information or to seek comments)"
+        },
+        {
+          "value": "public notification"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

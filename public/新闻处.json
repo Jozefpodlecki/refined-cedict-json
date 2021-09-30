@@ -1,0 +1,32 @@
+{
+  "simplified": "新闻处",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xīn wén chù",
+          "wade_giles_pinyin": "xin1 wen2 chu4"
+        }
+      ],
+      "simplified": "新闻处",
+      "simplified_stroke_count": 0,
+      "traditional": "新聞處",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "news service"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "information agency"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

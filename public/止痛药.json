@@ -1,0 +1,37 @@
+{
+  "simplified": "止痛药",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhǐ tòng yào",
+          "wade_giles_pinyin": "zhi3 tong4 yao4"
+        }
+      ],
+      "simplified": "止痛药",
+      "simplified_stroke_count": 0,
+      "traditional": "止痛藥",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "painkiller"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "analgesic"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "anodyne"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

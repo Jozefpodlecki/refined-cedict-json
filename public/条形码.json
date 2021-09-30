@@ -1,0 +1,22 @@
+{
+  "simplified": "条形码",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tiáo xíng mǎ",
+          "wade_giles_pinyin": "tiao2 xing2 ma3"
+        }
+      ],
+      "simplified": "条形码",
+      "traditional": "條形碼",
+      "meanings": [
+        {
+          "value": "barcode"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

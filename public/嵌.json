@@ -1,0 +1,54 @@
+{
+  "simplified": "嵌",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kǎn",
+          "wade_giles_pinyin": "kan3"
+        }
+      ],
+      "simplified": "嵌",
+      "simplified_stroke_count": 12,
+      "traditional": "嵌",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "see 赤嵌樓|赤嵌楼[Chi4 kan3 lou2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiàn",
+          "wade_giles_pinyin": "qian4"
+        }
+      ],
+      "simplified": "嵌",
+      "simplified_stroke_count": 12,
+      "traditional": "嵌",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "to inlay"
+        },
+        {
+          "value": "to embed"
+        },
+        {
+          "value": "Taiwan pr. [qian1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

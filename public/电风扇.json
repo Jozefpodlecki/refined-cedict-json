@@ -1,0 +1,33 @@
+{
+  "simplified": "电风扇",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diàn fēng shàn",
+          "wade_giles_pinyin": "dian4 feng1 shan4"
+        }
+      ],
+      "simplified": "电风扇",
+      "traditional": "電風扇",
+      "meanings": [
+        {
+          "value": "electric fan"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "架",
+          "traditional": "",
+          "wade_giles_pinyin": "jia4"
+        },
+        {
+          "simplified": "臺",
+          "traditional": "台",
+          "wade_giles_pinyin": "tai2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

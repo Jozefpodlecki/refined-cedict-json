@@ -1,0 +1,43 @@
+{
+  "simplified": "游艇",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yóu tǐng",
+          "wade_giles_pinyin": "you2 ting3"
+        }
+      ],
+      "simplified": "游艇",
+      "simplified_stroke_count": 0,
+      "traditional": "遊艇",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "barge"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "yacht"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:隻|只[zhi1]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "隻",
+          "traditional": "只",
+          "wade_giles_pinyin": "zhi1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

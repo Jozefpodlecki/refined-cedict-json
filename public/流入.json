@@ -1,0 +1,44 @@
+{
+  "simplified": "流入",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " liú rù",
+          "wade_giles_pinyin": "liu2 ru4"
+        }
+      ],
+      "simplified": "流入",
+      "simplified_stroke_count": 0,
+      "traditional": "流入",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to flow into"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to drift into"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "influx"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "inflow"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

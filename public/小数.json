@@ -1,0 +1,52 @@
+{
+  "simplified": "小数",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xiǎo shù",
+          "wade_giles_pinyin": "xiao3 shu4"
+        }
+      ],
+      "simplified": "小数",
+      "simplified_stroke_count": 0,
+      "traditional": "小數",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "small figure"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "small amount"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "the part of a number to the right of the decimal point (or radix point)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "fractional part of a number"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "number between 0 and 1"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "decimal fraction"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

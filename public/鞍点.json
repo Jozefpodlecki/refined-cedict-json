@@ -1,0 +1,27 @@
+{
+  "simplified": "鞍点",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " ān diǎn",
+          "wade_giles_pinyin": "an1 dian3"
+        }
+      ],
+      "simplified": "鞍点",
+      "simplified_stroke_count": 0,
+      "traditional": "鞍點",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "saddle point (math.), a critical point of a function of several variables that is neither a maximum nor a minimum"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

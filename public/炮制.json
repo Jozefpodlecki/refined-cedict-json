@@ -1,0 +1,54 @@
+{
+  "simplified": "炮制",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " páo zhì",
+          "wade_giles_pinyin": "pao2 zhi4"
+        }
+      ],
+      "simplified": "炮制",
+      "simplified_stroke_count": 0,
+      "traditional": "炮製",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to concoct"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to invent"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to fabricate"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to produce"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to process"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "processing and curing (Chinese medicine)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "simplified": "搬运",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bān yùn",
+          "wade_giles_pinyin": "ban1 yun4"
+        }
+      ],
+      "simplified": "搬运",
+      "simplified_stroke_count": 0,
+      "traditional": "搬運",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "freight"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "transport"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "portage"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to transport"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to carry"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "simplified": "第",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dì",
+          "wade_giles_pinyin": "di4"
+        }
+      ],
+      "simplified": "第",
+      "simplified_stroke_count": 11,
+      "traditional": "第",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "(prefix indicating ordinal number, e.g. first, number two etc)"
+        },
+        {
+          "value": "order"
+        },
+        {
+          "context": "old",
+          "value": "rank in the imperial examinations"
+        },
+        {
+          "value": "mansion"
+        },
+        {
+          "value": "(literary) but"
+        },
+        {
+          "value": "just"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

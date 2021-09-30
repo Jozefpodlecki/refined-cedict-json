@@ -1,0 +1,34 @@
+{
+  "simplified": "领域",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lǐng yù",
+          "wade_giles_pinyin": "ling3 yu4"
+        }
+      ],
+      "simplified": "领域",
+      "traditional": "領域",
+      "meanings": [
+        {
+          "value": "domain"
+        },
+        {
+          "value": "sphere"
+        },
+        {
+          "value": "field"
+        },
+        {
+          "value": "territory"
+        },
+        {
+          "value": "area"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

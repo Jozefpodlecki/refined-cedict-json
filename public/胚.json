@@ -1,0 +1,44 @@
+{
+  "simplified": "胚",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pēi",
+          "wade_giles_pinyin": "pei1"
+        }
+      ],
+      "simplified": "胚",
+      "simplified_stroke_count": 9,
+      "traditional": "肧",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 胚[pei1]",
+          "simplified": "胚",
+          "traditional": "",
+          "wade_giles_pinyin": "pei1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pēi",
+          "wade_giles_pinyin": "pei1"
+        }
+      ],
+      "simplified": "胚",
+      "simplified_stroke_count": 9,
+      "traditional": "胚",
+      "traditional_stroke_count": 9,
+      "meanings": [],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

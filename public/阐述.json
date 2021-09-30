@@ -1,0 +1,30 @@
+{
+  "simplified": "阐述",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chǎn shù",
+          "wade_giles_pinyin": "chan3 shu4"
+        }
+      ],
+      "simplified": "阐述",
+      "traditional": "闡述",
+      "meanings": [
+        {
+          "value": "to expound (a position)"
+        },
+        {
+          "value": "to elaborate (on a topic)"
+        },
+        {
+          "value": "to treat (a subject)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

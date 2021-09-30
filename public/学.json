@@ -1,0 +1,49 @@
+{
+  "simplified": "学",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xué",
+          "wade_giles_pinyin": "xue2"
+        }
+      ],
+      "simplified": "学",
+      "simplified_stroke_count": 8,
+      "traditional": "學",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to learn"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to study"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to imitate"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "science"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "-ology"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

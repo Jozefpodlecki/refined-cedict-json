@@ -1,0 +1,43 @@
+{
+  "simplified": "影片",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yǐng piàn",
+          "wade_giles_pinyin": "ying3 pian4"
+        }
+      ],
+      "simplified": "影片",
+      "simplified_stroke_count": 0,
+      "traditional": "影片",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "film"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "movie"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:部[bu4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "部",
+          "traditional": "",
+          "wade_giles_pinyin": "bu4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

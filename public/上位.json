@@ -1,0 +1,33 @@
+{
+  "simplified": "上位",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shàng weì",
+          "wade_giles_pinyin": "shang4 wei4"
+        }
+      ],
+      "simplified": "上位",
+      "traditional": "上位",
+      "meanings": [
+        {
+          "value": "seat of honor"
+        },
+        {
+          "value": "person in a high-ranking position"
+        },
+        {
+          "value": "to be promoted to a more senior role"
+        },
+        {
+          "value": "(genetics) epistatic"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

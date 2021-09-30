@@ -1,0 +1,22 @@
+{
+  "simplified": "弧长参数",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hú cháng cān shù",
+          "wade_giles_pinyin": "hu2 chang2 can1 shu4"
+        }
+      ],
+      "simplified": "弧长参数",
+      "traditional": "弧長參數",
+      "meanings": [
+        {
+          "value": "parametrization by arc length (of a space curve)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

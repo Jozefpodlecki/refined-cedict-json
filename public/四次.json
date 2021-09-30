@@ -1,0 +1,37 @@
+{
+  "simplified": "四次",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " sì cì",
+          "wade_giles_pinyin": "si4 ci4"
+        }
+      ],
+      "simplified": "四次",
+      "simplified_stroke_count": 0,
+      "traditional": "四次",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "fourth"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "four times"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "quartic"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

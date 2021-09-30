@@ -1,0 +1,28 @@
+{
+  "simplified": "透水",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tòu shuǐ",
+          "wade_giles_pinyin": "tou4 shui3"
+        }
+      ],
+      "simplified": "透水",
+      "traditional": "透水",
+      "meanings": [
+        {
+          "value": "permeable"
+        },
+        {
+          "value": "percolation"
+        },
+        {
+          "value": "water leak"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

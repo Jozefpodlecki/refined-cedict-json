@@ -1,0 +1,25 @@
+{
+  "simplified": "朝鲜字母",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cháo xiǎn zì mǔ",
+          "wade_giles_pinyin": "Chao2 xian3 zi4 mu3"
+        }
+      ],
+      "simplified": "朝鲜字母",
+      "traditional": "朝鮮字母",
+      "meanings": [
+        {
+          "value": "hangul, Korean phonetic alphabet"
+        },
+        {
+          "value": "Korean letters"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

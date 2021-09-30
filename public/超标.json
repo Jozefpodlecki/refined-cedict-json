@@ -1,0 +1,30 @@
+{
+  "simplified": "超标",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chāo biāo",
+          "wade_giles_pinyin": "chao1 biao1"
+        }
+      ],
+      "simplified": "超标",
+      "traditional": "超標",
+      "meanings": [
+        {
+          "value": "to cross the limit"
+        },
+        {
+          "value": "to be over the accepted norm"
+        },
+        {
+          "value": "excessive"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

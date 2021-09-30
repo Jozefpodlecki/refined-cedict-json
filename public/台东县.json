@@ -1,0 +1,39 @@
+{
+  "simplified": "台东县",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tái dōng xiàn",
+          "wade_giles_pinyin": "Tai2 dong1 Xian4"
+        }
+      ],
+      "simplified": "台东县",
+      "traditional": "台東縣",
+      "meanings": [
+        {
+          "value": "Taitung County in southeast Taiwan"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tái dōng xiàn",
+          "wade_giles_pinyin": "Tai2 dong1 Xian4"
+        }
+      ],
+      "simplified": "台东县",
+      "traditional": "臺東縣",
+      "meanings": [
+        {
+          "value": "Taitung County in southeast Taiwan"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

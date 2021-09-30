@@ -1,0 +1,58 @@
+{
+  "simplified": "面板",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " miàn bǎn",
+          "wade_giles_pinyin": "mian4 ban3"
+        }
+      ],
+      "simplified": "面板",
+      "simplified_stroke_count": 0,
+      "traditional": "面板",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "panel"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "faceplate"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " miàn bǎn",
+          "wade_giles_pinyin": "mian4 ban3"
+        }
+      ],
+      "simplified": "面板",
+      "simplified_stroke_count": 0,
+      "traditional": "麵板",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "kneading board"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "breadboard"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

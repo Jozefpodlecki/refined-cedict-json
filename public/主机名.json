@@ -1,0 +1,27 @@
+{
+  "simplified": "主机名",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhǔ jī míng",
+          "wade_giles_pinyin": "zhu3 ji1 ming2"
+        }
+      ],
+      "simplified": "主机名",
+      "simplified_stroke_count": 0,
+      "traditional": "主機名",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "hostname (of a networked computer)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

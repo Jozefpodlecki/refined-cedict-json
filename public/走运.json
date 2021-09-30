@@ -1,0 +1,30 @@
+{
+  "simplified": "走运",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zǒu yùn",
+          "wade_giles_pinyin": "zou3 yun4"
+        }
+      ],
+      "simplified": "走运",
+      "traditional": "走運",
+      "meanings": [
+        {
+          "value": "to have good luck"
+        },
+        {
+          "value": "lucky"
+        },
+        {
+          "value": "in luck"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

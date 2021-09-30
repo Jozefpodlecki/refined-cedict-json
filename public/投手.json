@@ -1,0 +1,28 @@
+{
+  "simplified": "投手",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tóu shǒu",
+          "wade_giles_pinyin": "tou2 shou3"
+        }
+      ],
+      "simplified": "投手",
+      "traditional": "投手",
+      "meanings": [
+        {
+          "value": "thrower"
+        },
+        {
+          "value": "pitcher"
+        },
+        {
+          "value": "bowler"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

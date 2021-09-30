@@ -1,0 +1,46 @@
+{
+  "simplified": "词汇",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cí huì",
+          "wade_giles_pinyin": "ci2 hui4"
+        }
+      ],
+      "simplified": "词汇",
+      "traditional": "詞匯",
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "詞彙|词汇[ci2 hui4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cí huì",
+          "wade_giles_pinyin": "ci2 hui4"
+        }
+      ],
+      "simplified": "词汇",
+      "traditional": "詞彙",
+      "meanings": [
+        {
+          "value": "vocabulary"
+        },
+        {
+          "value": "list of words (e.g. for language teaching purposes)"
+        },
+        {
+          "value": "word"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

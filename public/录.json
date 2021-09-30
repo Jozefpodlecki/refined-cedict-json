@@ -1,0 +1,90 @@
+{
+  "simplified": "录",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lù",
+          "wade_giles_pinyin": "lu4"
+        }
+      ],
+      "simplified": "录",
+      "simplified_stroke_count": 8,
+      "traditional": "彔",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to carve wood"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lù",
+          "wade_giles_pinyin": "Lu4"
+        }
+      ],
+      "simplified": "录",
+      "simplified_stroke_count": 8,
+      "traditional": "錄",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "surname Lu"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lù",
+          "wade_giles_pinyin": "lu4"
+        }
+      ],
+      "simplified": "录",
+      "simplified_stroke_count": 8,
+      "traditional": "錄",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "diary"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "record"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to hit"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to copy"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

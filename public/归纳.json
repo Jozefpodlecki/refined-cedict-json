@@ -1,0 +1,33 @@
+{
+  "simplified": "归纳",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guī nà",
+          "wade_giles_pinyin": "gui1 na4"
+        }
+      ],
+      "simplified": "归纳",
+      "traditional": "歸納",
+      "meanings": [
+        {
+          "value": "to sum up"
+        },
+        {
+          "value": "to summarize"
+        },
+        {
+          "value": "to conclude from facts"
+        },
+        {
+          "value": "induction (method of deduction in logic)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

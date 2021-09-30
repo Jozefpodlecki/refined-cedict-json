@@ -1,0 +1,34 @@
+{
+  "simplified": "截肢",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jié zhī",
+          "wade_giles_pinyin": "jie2 zhi1"
+        }
+      ],
+      "simplified": "截肢",
+      "simplified_stroke_count": 0,
+      "traditional": "截肢",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "amputation (medicine)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to amputate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

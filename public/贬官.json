@@ -1,0 +1,34 @@
+{
+  "simplified": "贬官",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " biǎn guān",
+          "wade_giles_pinyin": "bian3 guan1"
+        }
+      ],
+      "simplified": "贬官",
+      "simplified_stroke_count": 0,
+      "traditional": "貶官",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to demote an official"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "a demoted official"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "背负",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bēi fù",
+          "wade_giles_pinyin": "bei1 fu4"
+        }
+      ],
+      "simplified": "背负",
+      "simplified_stroke_count": 0,
+      "traditional": "背負",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to bear"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to carry on one's back"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to shoulder"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

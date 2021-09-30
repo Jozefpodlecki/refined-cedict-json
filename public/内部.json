@@ -1,0 +1,37 @@
+{
+  "simplified": "内部",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nèi bù",
+          "wade_giles_pinyin": "nei4 bu4"
+        }
+      ],
+      "simplified": "内部",
+      "simplified_stroke_count": null,
+      "traditional": "內部",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "interior"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "inside (part, section)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "internal"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

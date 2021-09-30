@@ -1,0 +1,32 @@
+{
+  "simplified": "圆括号",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yuán kuò hào",
+          "wade_giles_pinyin": "yuan2 kuo4 hao4"
+        }
+      ],
+      "simplified": "圆括号",
+      "simplified_stroke_count": null,
+      "traditional": "圓括號",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "parentheses"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "round brackets ( )"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

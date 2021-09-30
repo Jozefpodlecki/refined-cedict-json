@@ -1,0 +1,28 @@
+{
+  "simplified": "蹭车",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cèng chē",
+          "wade_giles_pinyin": "ceng4 che1"
+        }
+      ],
+      "simplified": "蹭车",
+      "traditional": "蹭車",
+      "meanings": [
+        {
+          "context": "colloquial",
+          "value": "to ride in sb else's car to save money"
+        },
+        {
+          "value": "to ride on a train or bus without buying a ticket (fare-dodging)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

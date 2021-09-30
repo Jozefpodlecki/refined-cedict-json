@@ -1,0 +1,34 @@
+{
+  "simplified": "拼图",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " pīn tú",
+          "wade_giles_pinyin": "pin1 tu2"
+        }
+      ],
+      "simplified": "拼图",
+      "simplified_stroke_count": 0,
+      "traditional": "拼圖",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "jigsaw puzzle"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to do a jigsaw puzzle"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

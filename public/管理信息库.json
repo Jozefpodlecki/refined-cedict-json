@@ -1,0 +1,25 @@
+{
+  "simplified": "管理信息库",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guǎn lǐ xìn xī kù",
+          "wade_giles_pinyin": "guan3 li3 xin4 xi1 ku4"
+        }
+      ],
+      "simplified": "管理信息库",
+      "traditional": "管理信息庫",
+      "meanings": [
+        {
+          "value": "Management Information Base"
+        },
+        {
+          "value": "MIB"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "simplified": "杂志",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zá zhì",
+          "wade_giles_pinyin": "za2 zhi4"
+        }
+      ],
+      "simplified": "杂志",
+      "simplified_stroke_count": 0,
+      "traditional": "雜誌",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "magazine"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:本[ben3],份[fen4],期[qi1]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "本",
+          "traditional": "",
+          "wade_giles_pinyin": "ben3"
+        },
+        {
+          "simplified": "份",
+          "traditional": "",
+          "wade_giles_pinyin": "fen4"
+        },
+        {
+          "simplified": "期",
+          "traditional": "",
+          "wade_giles_pinyin": "qi1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

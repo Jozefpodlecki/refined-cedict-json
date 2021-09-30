@@ -1,0 +1,47 @@
+{
+  "simplified": "蓼",
+  "simplified_stroke_count": 17,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "liǎo",
+          "wade_giles_pinyin": "liao3"
+        }
+      ],
+      "simplified": "蓼",
+      "simplified_stroke_count": 17,
+      "traditional": "蓼",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "polygonum"
+        },
+        {
+          "value": "smartweed"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lù",
+          "wade_giles_pinyin": "lu4"
+        }
+      ],
+      "simplified": "蓼",
+      "simplified_stroke_count": 17,
+      "traditional": "蓼",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "luxuriant growth"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

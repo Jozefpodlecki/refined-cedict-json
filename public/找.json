@@ -1,0 +1,45 @@
+{
+  "simplified": "找",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhǎo",
+          "wade_giles_pinyin": "zhao3"
+        }
+      ],
+      "simplified": "找",
+      "simplified_stroke_count": 7,
+      "traditional": "找",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "value": "to try to find"
+        },
+        {
+          "value": "to look for"
+        },
+        {
+          "value": "to call on sb"
+        },
+        {
+          "value": "to find"
+        },
+        {
+          "value": "to seek"
+        },
+        {
+          "value": "to return"
+        },
+        {
+          "value": "to give change"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "simplified": "收词",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shōu cí",
+          "wade_giles_pinyin": "shou1 ci2"
+        }
+      ],
+      "simplified": "收词",
+      "traditional": "收詞",
+      "meanings": [
+        {
+          "value": "to collect words"
+        },
+        {
+          "value": "to harvest entries for a dictionary"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

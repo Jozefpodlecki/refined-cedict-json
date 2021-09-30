@@ -1,0 +1,32 @@
+{
+  "simplified": "壁画",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bì huà",
+          "wade_giles_pinyin": "bi4 hua4"
+        }
+      ],
+      "simplified": "壁画",
+      "simplified_stroke_count": null,
+      "traditional": "壁畫",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "mural (painting)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "fresco"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

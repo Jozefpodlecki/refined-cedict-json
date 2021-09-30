@@ -1,0 +1,27 @@
+{
+  "simplified": "转移支付",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhuǎn yí zhī fù",
+          "wade_giles_pinyin": "zhuan3 yi2 zhi1 fu4"
+        }
+      ],
+      "simplified": "转移支付",
+      "simplified_stroke_count": null,
+      "traditional": "轉移支付",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "transfer payment (payment from government or private sector for which no good or service is required in return)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

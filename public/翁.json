@@ -1,0 +1,54 @@
+{
+  "simplified": "翁",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wēng",
+          "wade_giles_pinyin": "Weng1"
+        }
+      ],
+      "simplified": "翁",
+      "simplified_stroke_count": 10,
+      "traditional": "翁",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "surname Weng"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wēng",
+          "wade_giles_pinyin": "weng1"
+        }
+      ],
+      "simplified": "翁",
+      "simplified_stroke_count": 10,
+      "traditional": "翁",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "elderly man"
+        },
+        {
+          "value": "father"
+        },
+        {
+          "value": "father-in-law"
+        },
+        {
+          "context": "old",
+          "value": "neck feathers of a bird"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

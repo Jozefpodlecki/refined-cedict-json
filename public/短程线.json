@@ -1,0 +1,25 @@
+{
+  "simplified": "短程线",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "duǎn chéng xiàn",
+          "wade_giles_pinyin": "duan3 cheng2 xian4"
+        }
+      ],
+      "simplified": "短程线",
+      "traditional": "短程線",
+      "meanings": [
+        {
+          "value": "a geodesic (curve)"
+        },
+        {
+          "value": "a shortest curve"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

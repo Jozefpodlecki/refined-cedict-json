@@ -1,0 +1,49 @@
+{
+  "simplified": "同谋",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tóng móu",
+          "wade_giles_pinyin": "tong2 mou2"
+        }
+      ],
+      "simplified": "同谋",
+      "simplified_stroke_count": null,
+      "traditional": "同謀",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to conspire with sb"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to plot"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "a conspirator"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "a partner in crime"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "an accomplice"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

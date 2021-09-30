@@ -1,0 +1,30 @@
+{
+  "simplified": "以人名命名",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǐ rén míng mìng míng",
+          "wade_giles_pinyin": "yi3 ren2 ming2 ming4 ming2"
+        }
+      ],
+      "simplified": "以人名命名",
+      "traditional": "以人名命名",
+      "meanings": [
+        {
+          "value": "to name sth after a person"
+        },
+        {
+          "value": "named after"
+        },
+        {
+          "value": "eponymous"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

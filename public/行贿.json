@@ -1,0 +1,27 @@
+{
+  "simplified": "行贿",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xíng huì",
+          "wade_giles_pinyin": "xing2 hui4"
+        }
+      ],
+      "simplified": "行贿",
+      "traditional": "行賄",
+      "meanings": [
+        {
+          "value": "to bribe"
+        },
+        {
+          "value": "to give bribes"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

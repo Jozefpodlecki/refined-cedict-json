@@ -1,0 +1,42 @@
+{
+  "simplified": "聚落",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jù luò",
+          "wade_giles_pinyin": "ju4 luo4"
+        }
+      ],
+      "simplified": "聚落",
+      "simplified_stroke_count": null,
+      "traditional": "聚落",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "settlement"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "dwelling place"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "town"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "village"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

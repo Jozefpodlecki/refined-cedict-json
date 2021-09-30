@@ -1,0 +1,36 @@
+{
+  "simplified": "封盖",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fēng gài",
+          "wade_giles_pinyin": "feng1 gai4"
+        }
+      ],
+      "simplified": "封盖",
+      "traditional": "封蓋",
+      "meanings": [
+        {
+          "value": "cap"
+        },
+        {
+          "value": "seal"
+        },
+        {
+          "value": "cover"
+        },
+        {
+          "value": "to cover"
+        },
+        {
+          "value": "blocked shot (basketball)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

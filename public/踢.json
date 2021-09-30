@@ -1,0 +1,33 @@
+{
+  "simplified": "踢",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tī",
+          "wade_giles_pinyin": "ti1"
+        }
+      ],
+      "simplified": "踢",
+      "simplified_stroke_count": 15,
+      "traditional": "踢",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "to kick"
+        },
+        {
+          "value": "to play (e.g. soccer)"
+        },
+        {
+          "value": "(slang) butch (in a lesbian relationship)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

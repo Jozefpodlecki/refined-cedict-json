@@ -1,0 +1,44 @@
+{
+  "simplified": "退出",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " tuì chū",
+          "wade_giles_pinyin": "tui4 chu1"
+        }
+      ],
+      "simplified": "退出",
+      "simplified_stroke_count": 0,
+      "traditional": "退出",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to withdraw"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to abort"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to quit"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to log out (computing)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

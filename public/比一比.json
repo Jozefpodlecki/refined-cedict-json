@@ -1,0 +1,27 @@
+{
+  "simplified": "比一比",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǐ yi bǐ",
+          "wade_giles_pinyin": "bi3 yi5 bi3"
+        }
+      ],
+      "simplified": "比一比",
+      "traditional": "比一比",
+      "meanings": [
+        {
+          "value": "to make a comparison"
+        },
+        {
+          "value": "to engage in a contest"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

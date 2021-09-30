@@ -1,0 +1,42 @@
+{
+  "simplified": "地头",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dì tóu",
+          "wade_giles_pinyin": "di4 tou2"
+        }
+      ],
+      "simplified": "地头",
+      "simplified_stroke_count": null,
+      "traditional": "地頭",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "place"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "locality"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "edge of a field"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "lower margin of a page"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

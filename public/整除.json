@@ -1,0 +1,34 @@
+{
+  "simplified": "整除",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhěng chú",
+          "wade_giles_pinyin": "zheng3 chu2"
+        }
+      ],
+      "simplified": "整除",
+      "simplified_stroke_count": 0,
+      "traditional": "整除",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to divide exactly without remainder (in integer arithmetic)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "exact division"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

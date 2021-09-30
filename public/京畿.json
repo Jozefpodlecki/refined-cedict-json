@@ -1,0 +1,39 @@
+{
+  "simplified": "京畿",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jīng jī",
+          "wade_giles_pinyin": "Jing1 ji1"
+        }
+      ],
+      "simplified": "京畿",
+      "traditional": "京畿",
+      "meanings": [
+        {
+          "value": "Gyeonggi Province, South Korea, surrounding Seoul and Incheon, capital Suweon City 水原市[Shui3 yuan2 shi4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jīng jī",
+          "wade_giles_pinyin": "jing1 ji1"
+        }
+      ],
+      "simplified": "京畿",
+      "traditional": "京畿",
+      "meanings": [
+        {
+          "value": "capital city and its surrounding area"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

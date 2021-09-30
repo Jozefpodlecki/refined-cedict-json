@@ -1,0 +1,42 @@
+{
+  "simplified": "呈",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chéng",
+          "wade_giles_pinyin": "cheng2"
+        }
+      ],
+      "simplified": "呈",
+      "simplified_stroke_count": 7,
+      "traditional": "呈",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "value": "to present to a superior"
+        },
+        {
+          "value": "memorial"
+        },
+        {
+          "value": "petition"
+        },
+        {
+          "value": "to present (a certain appearance)"
+        },
+        {
+          "value": "to assume (a shape)"
+        },
+        {
+          "value": "to be (a certain color)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

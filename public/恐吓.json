@@ -1,0 +1,27 @@
+{
+  "simplified": "恐吓",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kǒng hè",
+          "wade_giles_pinyin": "kong3 he4"
+        }
+      ],
+      "simplified": "恐吓",
+      "traditional": "恐嚇",
+      "meanings": [
+        {
+          "value": "to threaten"
+        },
+        {
+          "value": "to menace"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "simplified": "谱",
+  "simplified_stroke_count": 14,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pǔ",
+          "wade_giles_pinyin": "pu3"
+        }
+      ],
+      "simplified": "谱",
+      "simplified_stroke_count": 14,
+      "traditional": "譜",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "value": "chart"
+        },
+        {
+          "value": "list"
+        },
+        {
+          "value": "table"
+        },
+        {
+          "value": "register"
+        },
+        {
+          "value": "score (music)"
+        },
+        {
+          "value": "spectrum (physics)"
+        },
+        {
+          "value": "to set to music"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

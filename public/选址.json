@@ -1,0 +1,39 @@
+{
+  "simplified": "选址",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xuǎn zhǐ",
+          "wade_giles_pinyin": "xuan3 zhi3"
+        }
+      ],
+      "simplified": "选址",
+      "simplified_stroke_count": 0,
+      "traditional": "選址",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to select a suitable site"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "site"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "location"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

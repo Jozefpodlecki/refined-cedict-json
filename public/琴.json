@@ -1,0 +1,53 @@
+{
+  "simplified": "琴",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " qín",
+          "wade_giles_pinyin": "qin2"
+        }
+      ],
+      "simplified": "琴",
+      "simplified_stroke_count": 12,
+      "traditional": "琴",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "guqin 古琴[gu3 qin2] (a type of zither)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "musical instrument in general"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " qín",
+          "wade_giles_pinyin": "qin2"
+        }
+      ],
+      "simplified": "琴",
+      "simplified_stroke_count": 12,
+      "traditional": "琹",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "琴[qin2], guqin or zither"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

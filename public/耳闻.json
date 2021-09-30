@@ -1,0 +1,34 @@
+{
+  "simplified": "耳闻",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " ěr wén",
+          "wade_giles_pinyin": "er3 wen2"
+        }
+      ],
+      "simplified": "耳闻",
+      "simplified_stroke_count": 0,
+      "traditional": "耳聞",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to hear of"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to hear about"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

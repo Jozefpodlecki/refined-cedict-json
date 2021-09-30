@@ -1,0 +1,42 @@
+{
+  "simplified": "劳",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "láo",
+          "wade_giles_pinyin": "lao2"
+        }
+      ],
+      "simplified": "劳",
+      "simplified_stroke_count": 7,
+      "traditional": "勞",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "to toil"
+        },
+        {
+          "value": "labor"
+        },
+        {
+          "value": "laborer"
+        },
+        {
+          "value": "to put sb to trouble (of doing sth)"
+        },
+        {
+          "value": "meritorious deed"
+        },
+        {
+          "value": "to console (Taiwan pr. [lao4] for this sense)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

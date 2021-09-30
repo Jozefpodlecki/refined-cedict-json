@@ -1,0 +1,25 @@
+{
+  "simplified": "食物房",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shí wù fáng",
+          "wade_giles_pinyin": "shi2 wu4 fang2"
+        }
+      ],
+      "simplified": "食物房",
+      "traditional": "食物房",
+      "meanings": [
+        {
+          "value": "larder"
+        },
+        {
+          "value": "pantry"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

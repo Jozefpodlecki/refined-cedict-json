@@ -1,0 +1,24 @@
+{
+  "simplified": "点菜",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diǎn cài",
+          "wade_giles_pinyin": "dian3 cai4"
+        }
+      ],
+      "simplified": "点菜",
+      "traditional": "點菜",
+      "meanings": [
+        {
+          "value": "to order dishes (in a restaurant)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

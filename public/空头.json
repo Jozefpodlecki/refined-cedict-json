@@ -1,0 +1,40 @@
+{
+  "simplified": "空头",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kōng tóu",
+          "wade_giles_pinyin": "kong1 tou2"
+        }
+      ],
+      "simplified": "空头",
+      "traditional": "空頭",
+      "meanings": [
+        {
+          "value": "phony"
+        },
+        {
+          "value": "so-called"
+        },
+        {
+          "value": "armchair (expert)"
+        },
+        {
+          "value": "vain (promise)"
+        },
+        {
+          "value": "(finance) short-seller"
+        },
+        {
+          "value": "bear (market)"
+        },
+        {
+          "value": "short (selling)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

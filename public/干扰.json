@@ -1,0 +1,33 @@
+{
+  "simplified": "干扰",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gān rǎo",
+          "wade_giles_pinyin": "gan1 rao3"
+        }
+      ],
+      "simplified": "干扰",
+      "traditional": "干擾",
+      "meanings": [
+        {
+          "value": "to disturb"
+        },
+        {
+          "value": "to interfere"
+        },
+        {
+          "value": "perturbation"
+        },
+        {
+          "value": "interference (physics)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

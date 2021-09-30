@@ -1,0 +1,32 @@
+{
+  "simplified": "定存",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dìng cún",
+          "wade_giles_pinyin": "ding4 cun2"
+        }
+      ],
+      "simplified": "定存",
+      "traditional": "定存",
+      "meanings": [
+        {
+          "value": "certificate of deposit"
+        },
+        {
+          "value": "time deposit"
+        },
+        {
+          "context": "abbreviation",
+          "value": "定期存款|定期存款[ding4 qi1 cun2 kuan3]",
+          "simplified": "定",
+          "traditional": "期存款|定期存款",
+          "wade_giles_pinyin": "ding4 qi1 cun2 kuan3"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

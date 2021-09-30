@@ -1,0 +1,90 @@
+{
+  "simplified": "燮",
+  "simplified_stroke_count": 17,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiè",
+          "wade_giles_pinyin": "Xie4"
+        }
+      ],
+      "simplified": "燮",
+      "simplified_stroke_count": 17,
+      "traditional": "燮",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "surname Xie"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiè",
+          "wade_giles_pinyin": "xie4"
+        }
+      ],
+      "simplified": "燮",
+      "simplified_stroke_count": 17,
+      "traditional": "燮",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to blend"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to adjust"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to harmonize"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "harmony"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiè",
+          "wade_giles_pinyin": "xie4"
+        }
+      ],
+      "simplified": "燮",
+      "simplified_stroke_count": 17,
+      "traditional": "爕",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "context": "old variant",
+          "lexical_item": null,
+          "value": "燮[xie4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

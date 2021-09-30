@@ -1,0 +1,36 @@
+{
+  "simplified": "检",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiǎn",
+          "wade_giles_pinyin": "jian3"
+        }
+      ],
+      "simplified": "检",
+      "simplified_stroke_count": 11,
+      "traditional": "檢",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "to check"
+        },
+        {
+          "value": "to examine"
+        },
+        {
+          "value": "to inspect"
+        },
+        {
+          "value": "to exercise restraint"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

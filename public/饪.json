@@ -1,0 +1,55 @@
+{
+  "simplified": "饪",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rèn",
+          "wade_giles_pinyin": "ren4"
+        }
+      ],
+      "simplified": "饪",
+      "simplified_stroke_count": 7,
+      "traditional": "飪",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "cooked food"
+        },
+        {
+          "value": "to cook (until ready)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rèn",
+          "wade_giles_pinyin": "ren4"
+        }
+      ],
+      "simplified": "饪",
+      "simplified_stroke_count": 7,
+      "traditional": "餁",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 飪|饪[ren4]",
+          "simplified": "飪",
+          "traditional": "饪",
+          "wade_giles_pinyin": "ren4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

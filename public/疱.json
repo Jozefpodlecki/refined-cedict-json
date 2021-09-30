@@ -1,0 +1,37 @@
+{
+  "simplified": "疱",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pào",
+          "wade_giles_pinyin": "pao4"
+        }
+      ],
+      "simplified": "疱",
+      "simplified_stroke_count": 10,
+      "traditional": "皰",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "pimple"
+        },
+        {
+          "value": "acne"
+        },
+        {
+          "value": "blister"
+        },
+        {
+          "value": "boil"
+        },
+        {
+          "value": "ulcer"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

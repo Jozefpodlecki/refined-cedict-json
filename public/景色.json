@@ -1,0 +1,31 @@
+{
+  "simplified": "景色",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jǐng sè",
+          "wade_giles_pinyin": "jing3 se4"
+        }
+      ],
+      "simplified": "景色",
+      "traditional": "景色",
+      "meanings": [
+        {
+          "value": "scenery"
+        },
+        {
+          "value": "scene"
+        },
+        {
+          "value": "landscape"
+        },
+        {
+          "value": "view"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

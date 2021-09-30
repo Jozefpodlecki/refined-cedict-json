@@ -1,0 +1,32 @@
+{
+  "simplified": "组分",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zǔ fèn",
+          "wade_giles_pinyin": "zu3 fen4"
+        }
+      ],
+      "simplified": "组分",
+      "simplified_stroke_count": null,
+      "traditional": "組分",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "components"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "individual parts making up a compound"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

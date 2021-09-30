@@ -1,0 +1,38 @@
+{
+  "simplified": "高原",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " gāo yuán",
+          "wade_giles_pinyin": "gao1 yuan2"
+        }
+      ],
+      "simplified": "高原",
+      "simplified_stroke_count": 0,
+      "traditional": "高原",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "plateau"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:片[pian4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "片",
+          "traditional": "",
+          "wade_giles_pinyin": "pian4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

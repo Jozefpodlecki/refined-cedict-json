@@ -1,0 +1,33 @@
+{
+  "simplified": "笔录",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǐ lù",
+          "wade_giles_pinyin": "bi3 lu4"
+        }
+      ],
+      "simplified": "笔录",
+      "traditional": "筆錄",
+      "meanings": [
+        {
+          "value": "to put down in writing"
+        },
+        {
+          "value": "to take down notes"
+        },
+        {
+          "value": "transcript"
+        },
+        {
+          "value": "record"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

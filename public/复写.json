@@ -1,0 +1,34 @@
+{
+  "simplified": "复写",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fù xiě",
+          "wade_giles_pinyin": "fu4 xie3"
+        }
+      ],
+      "simplified": "复写",
+      "simplified_stroke_count": 0,
+      "traditional": "複寫",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to duplicate"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to carbon copy"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

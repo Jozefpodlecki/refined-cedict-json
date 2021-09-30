@@ -1,0 +1,67 @@
+{
+  "simplified": "邪",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xié",
+          "wade_giles_pinyin": "xie2"
+        }
+      ],
+      "simplified": "邪",
+      "simplified_stroke_count": 7,
+      "traditional": "衺",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 邪[xie2]",
+          "simplified": "邪",
+          "traditional": "",
+          "wade_giles_pinyin": "xie2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xié",
+          "wade_giles_pinyin": "xie2"
+        }
+      ],
+      "simplified": "邪",
+      "simplified_stroke_count": 7,
+      "traditional": "邪",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "value": "demonic"
+        },
+        {
+          "value": "iniquitous"
+        },
+        {
+          "value": "nefarious"
+        },
+        {
+          "value": "evil"
+        },
+        {
+          "value": "unhealthy influences that cause disease (Chinese medicine)"
+        },
+        {
+          "context": "colloquial",
+          "value": "strange"
+        },
+        {
+          "value": "abnormal"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

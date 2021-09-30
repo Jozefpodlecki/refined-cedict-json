@@ -1,0 +1,55 @@
+{
+  "simplified": "伝",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chuán",
+          "wade_giles_pinyin": "chuan2"
+        }
+      ],
+      "simplified": "伝",
+      "simplified_stroke_count": 6,
+      "traditional": "伝",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "context": "Japanese",
+          "value": "Japanese variant of 傳|传"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yún",
+          "wade_giles_pinyin": "yun2"
+        }
+      ],
+      "simplified": "伝",
+      "simplified_stroke_count": 6,
+      "traditional": "伝",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "value": "to summon"
+        },
+        {
+          "value": "to propagate"
+        },
+        {
+          "value": "to transmit"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

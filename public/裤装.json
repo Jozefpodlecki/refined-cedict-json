@@ -1,0 +1,26 @@
+{
+  "simplified": "裤装",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kù zhuāng",
+          "wade_giles_pinyin": "ku4 zhuang1"
+        }
+      ],
+      "simplified": "裤装",
+      "traditional": "褲裝",
+      "meanings": [
+        {
+          "value": "pants (trousers, shorts etc)"
+        },
+        {
+          "context": "taiwan",
+          "value": "pantsuit"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

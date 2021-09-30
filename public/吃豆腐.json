@@ -1,0 +1,44 @@
+{
+  "simplified": "吃豆腐",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chī dòu fu",
+          "wade_giles_pinyin": "chi1 dou4 fu5"
+        }
+      ],
+      "simplified": "吃豆腐",
+      "simplified_stroke_count": null,
+      "traditional": "吃豆腐",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to take liberties with (a woman)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to tease with sexual innuendo"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to sexually harass"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to take advantage of sb"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

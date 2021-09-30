@@ -1,0 +1,34 @@
+{
+  "simplified": "畴",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chóu",
+          "wade_giles_pinyin": "chou2"
+        }
+      ],
+      "simplified": "畴",
+      "simplified_stroke_count": 12,
+      "traditional": "疇",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "value": "arable fields"
+        },
+        {
+          "value": "cultivated field"
+        },
+        {
+          "value": "class"
+        },
+        {
+          "value": "category"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

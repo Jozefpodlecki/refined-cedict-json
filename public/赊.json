@@ -1,0 +1,36 @@
+{
+  "simplified": "赊",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shē",
+          "wade_giles_pinyin": "she1"
+        }
+      ],
+      "simplified": "赊",
+      "simplified_stroke_count": 11,
+      "traditional": "賒",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "to buy or sell on credit"
+        },
+        {
+          "value": "distant"
+        },
+        {
+          "value": "long (time)"
+        },
+        {
+          "value": "to forgive"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "simplified": "天花乱坠",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tiān huā luàn zhuì",
+          "wade_giles_pinyin": "tian1 hua1 luan4 zhui4"
+        }
+      ],
+      "simplified": "天花乱坠",
+      "traditional": "天花亂墜",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "a deluge of heavenly flowers"
+        },
+        {
+          "value": "fig. extravagant embellishments"
+        },
+        {
+          "value": "hype"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

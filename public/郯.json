@@ -1,0 +1,32 @@
+{
+  "simplified": "郯",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tán",
+          "wade_giles_pinyin": "Tan2"
+        }
+      ],
+      "simplified": "郯",
+      "simplified_stroke_count": 11,
+      "traditional": "郯",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "surname Tan"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "name of an ancient city"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

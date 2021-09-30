@@ -1,0 +1,48 @@
+{
+  "simplified": "摄",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shè",
+          "wade_giles_pinyin": "she4"
+        }
+      ],
+      "simplified": "摄",
+      "simplified_stroke_count": 13,
+      "traditional": "攝",
+      "traditional_stroke_count": 21,
+      "meanings": [
+        {
+          "value": "to take in"
+        },
+        {
+          "value": "to absorb"
+        },
+        {
+          "value": "to assimilate"
+        },
+        {
+          "value": "to act for"
+        },
+        {
+          "value": "to take a photo"
+        },
+        {
+          "value": "photo shoot"
+        },
+        {
+          "value": "photo"
+        },
+        {
+          "value": "to conserve (one's health)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

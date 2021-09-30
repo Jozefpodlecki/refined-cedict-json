@@ -1,0 +1,32 @@
+{
+  "simplified": "太阳",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tài yang",
+          "wade_giles_pinyin": "tai4 yang5"
+        }
+      ],
+      "simplified": "太阳",
+      "traditional": "太陽",
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "value": "太陽穴|太阳穴[tai4 yang2 xue2]",
+          "simplified": "太",
+          "traditional": "陽穴|太阳穴",
+          "wade_giles_pinyin": "tai4 yang2 xue2"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

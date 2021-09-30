@@ -1,0 +1,32 @@
+{
+  "simplified": "平局",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " píng jú",
+          "wade_giles_pinyin": "ping2 ju2"
+        }
+      ],
+      "simplified": "平局",
+      "simplified_stroke_count": 0,
+      "traditional": "平局",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "a draw (in competition)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "a tie"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

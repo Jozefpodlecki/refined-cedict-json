@@ -1,0 +1,30 @@
+{
+  "simplified": "客满",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kè mǎn",
+          "wade_giles_pinyin": "ke4 man3"
+        }
+      ],
+      "simplified": "客满",
+      "traditional": "客滿",
+      "meanings": [
+        {
+          "value": "to have a full house"
+        },
+        {
+          "value": "to be sold out"
+        },
+        {
+          "value": "no vacancy"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

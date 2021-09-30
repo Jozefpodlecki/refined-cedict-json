@@ -1,0 +1,48 @@
+{
+  "simplified": "珠",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhū",
+          "wade_giles_pinyin": "zhu1"
+        }
+      ],
+      "simplified": "珠",
+      "simplified_stroke_count": 10,
+      "traditional": "珠",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "bead"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "pearl"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:粒[li4],顆|颗[ke1]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "粒",
+          "traditional": "",
+          "wade_giles_pinyin": "li4"
+        },
+        {
+          "simplified": "顆",
+          "traditional": "颗",
+          "wade_giles_pinyin": "ke1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

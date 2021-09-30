@@ -1,0 +1,39 @@
+{
+  "simplified": "作假",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zuò jiǎ",
+          "wade_giles_pinyin": "zuo4 jia3"
+        }
+      ],
+      "simplified": "作假",
+      "traditional": "作假",
+      "meanings": [
+        {
+          "value": "to counterfeit"
+        },
+        {
+          "value": "to falsify"
+        },
+        {
+          "value": "to cheat"
+        },
+        {
+          "value": "to defraud"
+        },
+        {
+          "value": "fraudulent"
+        },
+        {
+          "value": "to behave affectedly"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

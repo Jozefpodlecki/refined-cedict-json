@@ -1,0 +1,34 @@
+{
+  "simplified": "相持",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiāng chí",
+          "wade_giles_pinyin": "xiang1 chi2"
+        }
+      ],
+      "simplified": "相持",
+      "simplified_stroke_count": null,
+      "traditional": "相持",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "locked in a stalemate"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to confront one another"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

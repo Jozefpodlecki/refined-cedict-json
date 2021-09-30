@@ -1,0 +1,54 @@
+{
+  "simplified": "足",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jù",
+          "wade_giles_pinyin": "ju4"
+        }
+      ],
+      "simplified": "足",
+      "simplified_stroke_count": 7,
+      "traditional": "足",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "value": "excessive"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zú",
+          "wade_giles_pinyin": "zu2"
+        }
+      ],
+      "simplified": "足",
+      "simplified_stroke_count": 7,
+      "traditional": "足",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "value": "foot"
+        },
+        {
+          "value": "to be sufficient"
+        },
+        {
+          "value": "ample"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

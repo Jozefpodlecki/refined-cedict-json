@@ -1,0 +1,44 @@
+{
+  "simplified": "镇住",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhèn zhù",
+          "wade_giles_pinyin": "zhen4 zhu4"
+        }
+      ],
+      "simplified": "镇住",
+      "simplified_stroke_count": 0,
+      "traditional": "鎮住",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to dominate"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to control"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to subdue"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to crush"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

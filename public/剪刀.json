@@ -1,0 +1,28 @@
+{
+  "simplified": "剪刀",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiǎn dāo",
+          "wade_giles_pinyin": "jian3 dao1"
+        }
+      ],
+      "simplified": "剪刀",
+      "traditional": "剪刀",
+      "meanings": [
+        {
+          "value": "scissors"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "把",
+          "traditional": "",
+          "wade_giles_pinyin": "ba3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

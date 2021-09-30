@@ -1,0 +1,31 @@
+{
+  "simplified": "芒刺在背",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "máng cì zài bèi",
+          "wade_giles_pinyin": "mang2 ci4 zai4 bei4"
+        }
+      ],
+      "simplified": "芒刺在背",
+      "traditional": "芒刺在背",
+      "meanings": [
+        {
+          "lexical_item": "idiom",
+          "value": "feeling brambles and thorns in one's back"
+        },
+        {
+          "value": "uneasy and nervous"
+        },
+        {
+          "value": "to be on pins and needles"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

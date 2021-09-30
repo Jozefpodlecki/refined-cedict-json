@@ -1,0 +1,31 @@
+{
+  "simplified": "点心",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diǎn xin",
+          "wade_giles_pinyin": "dian3 xin5"
+        }
+      ],
+      "simplified": "点心",
+      "traditional": "點心",
+      "meanings": [
+        {
+          "value": "light refreshments"
+        },
+        {
+          "value": "pastry"
+        },
+        {
+          "value": "dim sum (in Cantonese cooking)"
+        },
+        {
+          "value": "dessert"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "低压带",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dī yā dài",
+          "wade_giles_pinyin": "di1 ya1 dai4"
+        }
+      ],
+      "simplified": "低压带",
+      "simplified_stroke_count": 0,
+      "traditional": "低壓帶",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "low-pressure zone"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "depression (meteorology)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

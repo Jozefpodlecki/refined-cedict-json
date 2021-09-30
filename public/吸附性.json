@@ -1,0 +1,34 @@
+{
+  "simplified": "吸附性",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xī fù xìng",
+          "wade_giles_pinyin": "xi1 fu4 xing4"
+        }
+      ],
+      "simplified": "吸附性",
+      "simplified_stroke_count": 0,
+      "traditional": "吸附性",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "absorption"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "absorbability (chemistry)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "chemical elements"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "simplified": "贝斯",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bèi sī",
+          "wade_giles_pinyin": "Bei4 si1"
+        }
+      ],
+      "simplified": "贝斯",
+      "simplified_stroke_count": 0,
+      "traditional": "貝斯",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Bes, a minor god of ancient Egypt"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bèi sī",
+          "wade_giles_pinyin": "bei4 si1"
+        }
+      ],
+      "simplified": "贝斯",
+      "simplified_stroke_count": 0,
+      "traditional": "貝斯",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "bass (loanword)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "bass guitar"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

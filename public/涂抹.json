@@ -1,0 +1,39 @@
+{
+  "simplified": "涂抹",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tú mǒ",
+          "wade_giles_pinyin": "tu2 mo3"
+        }
+      ],
+      "simplified": "涂抹",
+      "traditional": "塗抹",
+      "meanings": [
+        {
+          "value": "to paint"
+        },
+        {
+          "value": "to smear"
+        },
+        {
+          "value": "to apply (makeup etc)"
+        },
+        {
+          "value": "to doodle"
+        },
+        {
+          "value": "to erase"
+        },
+        {
+          "value": "to obliterate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "simplified": "骗",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "piàn",
+          "wade_giles_pinyin": "pian4"
+        }
+      ],
+      "simplified": "骗",
+      "simplified_stroke_count": 12,
+      "traditional": "騙",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "value": "to cheat"
+        },
+        {
+          "value": "to swindle"
+        },
+        {
+          "value": "to deceive"
+        },
+        {
+          "value": "to get on (a horse etc) by swinging one leg over"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

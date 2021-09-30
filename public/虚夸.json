@@ -1,0 +1,39 @@
+{
+  "simplified": "虚夸",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xū kuā",
+          "wade_giles_pinyin": "xu1 kua1"
+        }
+      ],
+      "simplified": "虚夸",
+      "traditional": "虛誇",
+      "meanings": [
+        {
+          "value": "to boast"
+        },
+        {
+          "value": "to brag"
+        },
+        {
+          "value": "boastful"
+        },
+        {
+          "value": "exaggerative"
+        },
+        {
+          "value": "pompous"
+        },
+        {
+          "value": "bombastic"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

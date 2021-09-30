@@ -1,0 +1,31 @@
+{
+  "simplified": "偷工减料",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tōu gōng jiǎn liào",
+          "wade_giles_pinyin": "tou1 gong1 jian3 liao4"
+        }
+      ],
+      "simplified": "偷工减料",
+      "traditional": "偷工減料",
+      "meanings": [
+        {
+          "lexical_item": "idiom",
+          "value": "to skimp on the job and stint on materials"
+        },
+        {
+          "value": "jerry-building"
+        },
+        {
+          "value": "sloppy work"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "诡异",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guǐ yì",
+          "wade_giles_pinyin": "gui3 yi4"
+        }
+      ],
+      "simplified": "诡异",
+      "simplified_stroke_count": null,
+      "traditional": "詭異",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "strange"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "weird"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

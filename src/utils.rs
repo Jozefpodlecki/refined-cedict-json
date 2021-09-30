@@ -7,6 +7,7 @@ use scraper::Selector;
 use select::document::Document;
 use select::predicate::{Attr, Class, Name};
 use std::collections::BTreeSet;
+use std::collections::HashMap;
 use std::env;
 use std::error::Error;
 use std::fs;
@@ -28,6 +29,31 @@ pub fn is_cjk(data: &char) -> bool {
         '\u{2F800}'..='\u{2FA1F}' => true,
         _ => false,
     }
+}
+
+pub fn get_pinyins_map(file_path: &str) -> Result<HashMap<String, PinyinMap>, Box<dyn Error>> {
+    //let pinyins = get_pinyins(pinyin_path);
+    let file = File::open(file_path)?;
+    let reader = BufReader::new(file);
+    let mut pinyins_map: HashMap<String, PinyinMap> = HashMap::new();
+
+    for line in reader.lines() {
+        let line = line?;
+
+        let parts: Vec<&str> = line.split(" ").collect();
+
+        let pinyin = PinyinMap {
+            pinyin: parts[0].to_string(),
+            wade_giles: parts[1].to_string(),
+        };
+        pinyins_map.insert(parts[1].to_owned(), pinyin);
+    }
+
+    // for pinyin in pinyins {
+    //     let wade_giles = pinyin.wade_giles.clone();
+    //     pinyins_map.insert(wade_giles.clone(), pinyin);
+    // }
+    Ok(pinyins_map)
 }
 
 pub fn get_pinyins(file_path: &str) -> BTreeSet<PinyinMap> {

@@ -1,0 +1,34 @@
+{
+  "simplified": "十二月",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shí èr yuè",
+          "wade_giles_pinyin": "Shi2 er4 yue4"
+        }
+      ],
+      "simplified": "十二月",
+      "simplified_stroke_count": 0,
+      "traditional": "十二月",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "December"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "twelfth month (of the lunar year)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "Dates and days of week"
+      ]
+    }
+  ]
+}

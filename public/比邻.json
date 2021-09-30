@@ -1,0 +1,42 @@
+{
+  "simplified": "比邻",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǐ lín",
+          "wade_giles_pinyin": "bi3 lin2"
+        }
+      ],
+      "simplified": "比邻",
+      "simplified_stroke_count": null,
+      "traditional": "比鄰",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "neighbor"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "next-door neighbor"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "near"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "next to"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

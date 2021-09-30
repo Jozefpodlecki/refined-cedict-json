@@ -1,0 +1,27 @@
+{
+  "simplified": "奏乐",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zòu yuè",
+          "wade_giles_pinyin": "zou4 yue4"
+        }
+      ],
+      "simplified": "奏乐",
+      "traditional": "奏樂",
+      "meanings": [
+        {
+          "value": "to perform music"
+        },
+        {
+          "value": "to play a tune"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

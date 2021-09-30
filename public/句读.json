@@ -1,0 +1,31 @@
+{
+  "simplified": "句读",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jù dòu",
+          "wade_giles_pinyin": "ju4 dou4"
+        }
+      ],
+      "simplified": "句读",
+      "traditional": "句讀",
+      "meanings": [
+        {
+          "value": "pausing at the end of a phrase or sentence (in former times, before punctuation marks were used)"
+        },
+        {
+          "value": "punctuation"
+        },
+        {
+          "value": "periods and commas"
+        },
+        {
+          "value": "sentences and phrases"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

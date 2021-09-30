@@ -1,0 +1,44 @@
+{
+  "simplified": "申诉",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shēn sù",
+          "wade_giles_pinyin": "shen1 su4"
+        }
+      ],
+      "simplified": "申诉",
+      "simplified_stroke_count": 0,
+      "traditional": "申訴",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to file a complaint"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to appeal (to an authority, a higher court of justice etc)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "complaint"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "appeal"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

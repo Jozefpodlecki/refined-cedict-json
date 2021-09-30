@@ -1,0 +1,33 @@
+{
+  "simplified": "讹诈",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "é zhà",
+          "wade_giles_pinyin": "e2 zha4"
+        }
+      ],
+      "simplified": "讹诈",
+      "traditional": "訛詐",
+      "meanings": [
+        {
+          "value": "to extort under false pretenses"
+        },
+        {
+          "value": "to blackmail"
+        },
+        {
+          "value": "to bluff"
+        },
+        {
+          "value": "to defraud"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

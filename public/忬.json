@@ -1,0 +1,59 @@
+{
+  "simplified": "忬",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shū",
+          "wade_giles_pinyin": "shu1"
+        }
+      ],
+      "simplified": "忬",
+      "simplified_stroke_count": 7,
+      "traditional": "忬",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 舒[shu1]",
+          "simplified": "舒",
+          "traditional": "",
+          "wade_giles_pinyin": "shu1"
+        },
+        {
+          "context": "old variant",
+          "value": "old variant of 紓|纾[shu1]",
+          "simplified": "紓",
+          "traditional": "纾",
+          "wade_giles_pinyin": "shu1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yù",
+          "wade_giles_pinyin": "yu4"
+        }
+      ],
+      "simplified": "忬",
+      "simplified_stroke_count": 7,
+      "traditional": "忬",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 豫[yu4]",
+          "simplified": "豫",
+          "traditional": "",
+          "wade_giles_pinyin": "yu4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

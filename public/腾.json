@@ -1,0 +1,42 @@
+{
+  "simplified": "腾",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "téng",
+          "wade_giles_pinyin": "teng2"
+        }
+      ],
+      "simplified": "腾",
+      "simplified_stroke_count": 13,
+      "traditional": "騰",
+      "traditional_stroke_count": 20,
+      "meanings": [
+        {
+          "value": "to soar"
+        },
+        {
+          "value": "to gallop"
+        },
+        {
+          "value": "to prance"
+        },
+        {
+          "value": "to turn over"
+        },
+        {
+          "value": "to vacate"
+        },
+        {
+          "value": "to clear"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

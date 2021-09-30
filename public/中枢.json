@@ -1,0 +1,31 @@
+{
+  "simplified": "中枢",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhōng shū",
+          "wade_giles_pinyin": "zhong1 shu1"
+        }
+      ],
+      "simplified": "中枢",
+      "traditional": "中樞",
+      "meanings": [
+        {
+          "value": "center"
+        },
+        {
+          "value": "backbone"
+        },
+        {
+          "value": "hub (e.g. of transport network)"
+        },
+        {
+          "value": "the central administration"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

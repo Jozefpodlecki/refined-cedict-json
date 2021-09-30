@@ -1,0 +1,30 @@
+{
+  "simplified": "留饭",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "liú fàn",
+          "wade_giles_pinyin": "liu2 fan4"
+        }
+      ],
+      "simplified": "留饭",
+      "traditional": "留飯",
+      "meanings": [
+        {
+          "value": "to put some food aside for sb"
+        },
+        {
+          "value": "to invite sb to stay for a meal"
+        },
+        {
+          "value": "invitation to dinner"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

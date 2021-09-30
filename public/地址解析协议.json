@@ -1,0 +1,25 @@
+{
+  "simplified": "地址解析协议",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dì zhǐ jiě xī xié yì",
+          "wade_giles_pinyin": "di4 zhi3 jie3 xi1 xie2 yi4"
+        }
+      ],
+      "simplified": "地址解析协议",
+      "traditional": "地址解析協議",
+      "meanings": [
+        {
+          "value": "address resolution protocol"
+        },
+        {
+          "value": "ARP"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

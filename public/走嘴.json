@@ -1,0 +1,34 @@
+{
+  "simplified": "走嘴",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zǒu zuǐ",
+          "wade_giles_pinyin": "zou3 zui3"
+        }
+      ],
+      "simplified": "走嘴",
+      "simplified_stroke_count": null,
+      "traditional": "走嘴",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "a slip of the tongue"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to blurt out (a secret or stupid mistake)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

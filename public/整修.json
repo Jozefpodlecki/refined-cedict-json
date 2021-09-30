@@ -1,0 +1,39 @@
+{
+  "simplified": "整修",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhěng xiū",
+          "wade_giles_pinyin": "zheng3 xiu1"
+        }
+      ],
+      "simplified": "整修",
+      "traditional": "整修",
+      "meanings": [
+        {
+          "value": "to repair"
+        },
+        {
+          "value": "to refurbish"
+        },
+        {
+          "value": "to renovate"
+        },
+        {
+          "value": "to refit"
+        },
+        {
+          "value": "to mend"
+        },
+        {
+          "value": "to rebuild"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

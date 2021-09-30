@@ -1,0 +1,78 @@
+{
+  "simplified": "衣",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yī",
+          "wade_giles_pinyin": "yi1"
+        }
+      ],
+      "simplified": "衣",
+      "simplified_stroke_count": 6,
+      "traditional": "衣",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "clothes"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:件[jian4]"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Kangxi radical 145"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "件",
+          "traditional": "",
+          "wade_giles_pinyin": "jian4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yì",
+          "wade_giles_pinyin": "yi4"
+        }
+      ],
+      "simplified": "衣",
+      "simplified_stroke_count": 6,
+      "traditional": "衣",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to dress"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to wear"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to put on (clothes)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

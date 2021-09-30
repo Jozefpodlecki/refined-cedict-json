@@ -1,0 +1,30 @@
+{
+  "simplified": "赔付",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "péi fù",
+          "wade_giles_pinyin": "pei2 fu4"
+        }
+      ],
+      "simplified": "赔付",
+      "traditional": "賠付",
+      "meanings": [
+        {
+          "value": "to pay out"
+        },
+        {
+          "value": "to compensate"
+        },
+        {
+          "value": "(insurance) payment"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

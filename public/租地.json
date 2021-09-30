@@ -1,0 +1,27 @@
+{
+  "simplified": "租地",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zū dì",
+          "wade_giles_pinyin": "zu1 di4"
+        }
+      ],
+      "simplified": "租地",
+      "traditional": "租地",
+      "meanings": [
+        {
+          "value": "to rent land"
+        },
+        {
+          "value": "to lease farmland"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

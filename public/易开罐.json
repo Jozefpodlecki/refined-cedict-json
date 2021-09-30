@@ -1,0 +1,32 @@
+{
+  "simplified": "易开罐",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yì kāi guàn",
+          "wade_giles_pinyin": "yi4 kai1 guan4"
+        }
+      ],
+      "simplified": "易开罐",
+      "simplified_stroke_count": 0,
+      "traditional": "易開罐",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "taiwan",
+          "lexical_item": "",
+          "value": "pull-top can"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "easy-open can (with ring-pull)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

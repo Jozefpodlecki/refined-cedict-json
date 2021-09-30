@@ -1,0 +1,31 @@
+{
+  "simplified": "菜板",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cài bǎn",
+          "wade_giles_pinyin": "cai4 ban3"
+        }
+      ],
+      "simplified": "菜板",
+      "traditional": "菜板",
+      "meanings": [
+        {
+          "value": "chopping board"
+        },
+        {
+          "value": "cutting board"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "張",
+          "traditional": "张",
+          "wade_giles_pinyin": "zhang1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

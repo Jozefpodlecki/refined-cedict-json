@@ -1,0 +1,44 @@
+{
+  "simplified": "扒皮",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bā pí",
+          "wade_giles_pinyin": "ba1 pi2"
+        }
+      ],
+      "simplified": "扒皮",
+      "simplified_stroke_count": 0,
+      "traditional": "扒皮",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to flay"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to skin"
+        },
+        {
+          "context": "figuratively",
+          "lexical_item": "",
+          "value": "to exploit"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to take advantage of"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

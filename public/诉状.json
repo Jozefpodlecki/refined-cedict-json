@@ -1,0 +1,28 @@
+{
+  "simplified": "诉状",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sù zhuàng",
+          "wade_giles_pinyin": "su4 zhuang4"
+        }
+      ],
+      "simplified": "诉状",
+      "traditional": "訴狀",
+      "meanings": [
+        {
+          "value": "indictment"
+        },
+        {
+          "value": "plea"
+        },
+        {
+          "value": "complaint"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

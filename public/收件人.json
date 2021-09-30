@@ -1,0 +1,32 @@
+{
+  "simplified": "收件人",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shōu jiàn rén",
+          "wade_giles_pinyin": "shou1 jian4 ren2"
+        }
+      ],
+      "simplified": "收件人",
+      "simplified_stroke_count": 0,
+      "traditional": "收件人",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "recipient (of mail)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "To: (email header)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

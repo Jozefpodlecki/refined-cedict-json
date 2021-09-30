@@ -1,0 +1,32 @@
+{
+  "simplified": "襽",
+  "simplified_stroke_count": 23,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lán",
+          "wade_giles_pinyin": "lan2"
+        }
+      ],
+      "simplified": "襽",
+      "simplified_stroke_count": 23,
+      "traditional": "襽",
+      "traditional_stroke_count": 23,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 襴|襕[lan2]",
+          "simplified": "襴",
+          "traditional": "襕",
+          "wade_giles_pinyin": "lan2"
+        },
+        {
+          "value": "brocade"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

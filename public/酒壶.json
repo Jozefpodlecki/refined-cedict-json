@@ -1,0 +1,32 @@
+{
+  "simplified": "酒壶",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jiǔ hú",
+          "wade_giles_pinyin": "jiu3 hu2"
+        }
+      ],
+      "simplified": "酒壶",
+      "simplified_stroke_count": 0,
+      "traditional": "酒壺",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "wine pot"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "wine cup"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

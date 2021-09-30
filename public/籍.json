@@ -1,0 +1,56 @@
+{
+  "simplified": "籍",
+  "simplified_stroke_count": 20,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jí",
+          "wade_giles_pinyin": "Ji2"
+        }
+      ],
+      "simplified": "籍",
+      "simplified_stroke_count": 20,
+      "traditional": "籍",
+      "traditional_stroke_count": 20,
+      "meanings": [
+        {
+          "value": "surname Ji"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jí",
+          "wade_giles_pinyin": "ji2"
+        }
+      ],
+      "simplified": "籍",
+      "simplified_stroke_count": 20,
+      "traditional": "籍",
+      "traditional_stroke_count": 20,
+      "meanings": [
+        {
+          "value": "book or record"
+        },
+        {
+          "value": "registry"
+        },
+        {
+          "value": "roll"
+        },
+        {
+          "value": "place of one's family or ancestral records"
+        },
+        {
+          "value": "membership"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

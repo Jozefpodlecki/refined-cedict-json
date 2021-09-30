@@ -1,0 +1,28 @@
+{
+  "simplified": "尾矿",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wěi kuàng",
+          "wade_giles_pinyin": "wei3 kuang4"
+        }
+      ],
+      "simplified": "尾矿",
+      "traditional": "尾礦",
+      "meanings": [
+        {
+          "value": "mining waste"
+        },
+        {
+          "value": "waste remaining after processing ore"
+        },
+        {
+          "value": "tailings"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

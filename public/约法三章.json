@@ -1,0 +1,35 @@
+{
+  "simplified": "约法三章",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yuē fǎ sān zhāng",
+          "wade_giles_pinyin": "yue1 fa3 san1 zhang1"
+        }
+      ],
+      "simplified": "约法三章",
+      "traditional": "約法三章",
+      "meanings": [
+        {
+          "lexical_item": "idiom",
+          "value": "to agree on three laws"
+        },
+        {
+          "value": "three-point covenant"
+        },
+        {
+          "context": "figuratively",
+          "value": "preliminary agreement"
+        },
+        {
+          "value": "basic rules"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

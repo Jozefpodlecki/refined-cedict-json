@@ -1,0 +1,47 @@
+{
+  "simplified": "复迭",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fù dié",
+          "wade_giles_pinyin": "fu4 die2"
+        }
+      ],
+      "simplified": "复迭",
+      "traditional": "複迭",
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 複疊|复叠[fu4 die2]",
+          "simplified": "複",
+          "traditional": "疊|复叠",
+          "wade_giles_pinyin": "fu4 die2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fù dié",
+          "wade_giles_pinyin": "fu4 die2"
+        }
+      ],
+      "simplified": "复迭",
+      "traditional": "覆迭",
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 覆疊|覆叠[fu4 die2]",
+          "simplified": "覆",
+          "traditional": "疊|覆叠",
+          "wade_giles_pinyin": "fu4 die2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

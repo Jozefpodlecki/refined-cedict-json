@@ -1,0 +1,33 @@
+{
+  "simplified": "测",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cè",
+          "wade_giles_pinyin": "ce4"
+        }
+      ],
+      "simplified": "测",
+      "simplified_stroke_count": 9,
+      "traditional": "測",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "to survey"
+        },
+        {
+          "value": "to measure"
+        },
+        {
+          "value": "to conjecture"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

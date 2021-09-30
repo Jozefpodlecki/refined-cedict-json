@@ -1,0 +1,36 @@
+{
+  "simplified": "耳坠子",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ěr zhuì zi",
+          "wade_giles_pinyin": "er3 zhui4 zi5"
+        }
+      ],
+      "simplified": "耳坠子",
+      "traditional": "耳墜子",
+      "meanings": [
+        {
+          "value": "eardrops (pendant jewelry)"
+        },
+        {
+          "value": "earrings"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "對",
+          "traditional": "对",
+          "wade_giles_pinyin": "dui4"
+        },
+        {
+          "simplified": "隻",
+          "traditional": "只",
+          "wade_giles_pinyin": "zhi1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

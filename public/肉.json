@@ -1,0 +1,44 @@
+{
+  "simplified": "肉",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ròu",
+          "wade_giles_pinyin": "rou4"
+        }
+      ],
+      "simplified": "肉",
+      "simplified_stroke_count": 6,
+      "traditional": "肉",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "value": "meat"
+        },
+        {
+          "value": "flesh"
+        },
+        {
+          "value": "pulp (of a fruit)"
+        },
+        {
+          "context": "colloquial",
+          "value": "(of a fruit) squashy"
+        },
+        {
+          "value": "(of a person) flabby"
+        },
+        {
+          "value": "irresolute"
+        },
+        {
+          "value": "Kangxi radical 130"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

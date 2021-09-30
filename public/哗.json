@@ -1,0 +1,82 @@
+{
+  "simplified": "哗",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huā",
+          "wade_giles_pinyin": "hua1"
+        }
+      ],
+      "simplified": "哗",
+      "simplified_stroke_count": 9,
+      "traditional": "嘩",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "(onom.) bang"
+        },
+        {
+          "value": "clang"
+        },
+        {
+          "value": "sound of gurgling, splashing or flowing water"
+        },
+        {
+          "value": "(interjection expressing surprise) wow"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huá",
+          "wade_giles_pinyin": "hua2"
+        }
+      ],
+      "simplified": "哗",
+      "simplified_stroke_count": 9,
+      "traditional": "嘩",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "clamor"
+        },
+        {
+          "value": "noise"
+        },
+        {
+          "value": "(bound form) sound used to call cats"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huá",
+          "wade_giles_pinyin": "hua2"
+        }
+      ],
+      "simplified": "哗",
+      "simplified_stroke_count": 9,
+      "traditional": "譁",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 嘩|哗[hua2]",
+          "simplified": "嘩",
+          "traditional": "哗",
+          "wade_giles_pinyin": "hua2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

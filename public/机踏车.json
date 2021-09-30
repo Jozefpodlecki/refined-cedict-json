@@ -1,0 +1,30 @@
+{
+  "simplified": "机踏车",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jī tà chē",
+          "wade_giles_pinyin": "ji1 ta4 che1"
+        }
+      ],
+      "simplified": "机踏车",
+      "traditional": "機踏車",
+      "meanings": [
+        {
+          "context": "taiwan",
+          "value": "motorcycle"
+        },
+        {
+          "context": "abbreviation",
+          "value": "機器腳踏車|机器脚踏车[ji1 qi4 jiao3 ta4 che1]",
+          "simplified": "機",
+          "traditional": "器腳踏車|机器脚踏车",
+          "wade_giles_pinyin": "ji1 qi4 jiao3 ta4 che1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

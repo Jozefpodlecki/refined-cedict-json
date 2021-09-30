@@ -1,0 +1,25 @@
+{
+  "simplified": "现代音乐",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiàn dài yīn yuè",
+          "wade_giles_pinyin": "xian4 dai4 yin1 yue4"
+        }
+      ],
+      "simplified": "现代音乐",
+      "traditional": "現代音樂",
+      "meanings": [
+        {
+          "value": "modern music"
+        },
+        {
+          "value": "contemporary music"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "simplified": "主持人",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhǔ chí rén",
+          "wade_giles_pinyin": "zhu3 chi2 ren2"
+        }
+      ],
+      "simplified": "主持人",
+      "simplified_stroke_count": 0,
+      "traditional": "主持人",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "TV or radio presenter"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "host"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "anchor"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

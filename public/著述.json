@@ -1,0 +1,30 @@
+{
+  "simplified": "著述",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhù shù",
+          "wade_giles_pinyin": "zhu4 shu4"
+        }
+      ],
+      "simplified": "著述",
+      "traditional": "著述",
+      "meanings": [
+        {
+          "value": "writing"
+        },
+        {
+          "value": "to write"
+        },
+        {
+          "value": "to compile"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "simplified": "公布",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gōng bù",
+          "wade_giles_pinyin": "gong1 bu4"
+        }
+      ],
+      "simplified": "公布",
+      "traditional": "公佈",
+      "meanings": [
+        {
+          "value": "to announce"
+        },
+        {
+          "value": "to make public"
+        },
+        {
+          "value": "to publish"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

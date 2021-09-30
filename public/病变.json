@@ -1,0 +1,37 @@
+{
+  "simplified": "病变",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bìng biàn",
+          "wade_giles_pinyin": "bing4 bian4"
+        }
+      ],
+      "simplified": "病变",
+      "simplified_stroke_count": null,
+      "traditional": "病變",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "pathological changes"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "lesion"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "diseased (kidney, cornea etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

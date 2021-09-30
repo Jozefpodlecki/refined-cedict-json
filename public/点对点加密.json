@@ -1,0 +1,23 @@
+{
+  "simplified": "点对点加密",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diǎn duì diǎn jiā mì",
+          "wade_giles_pinyin": "dian3 dui4 dian3 jia1 mi4"
+        }
+      ],
+      "simplified": "点对点加密",
+      "traditional": "點對點加密",
+      "meanings": [
+        {
+          "context": "taiwan",
+          "value": "end-to-end encryption"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "simplified": "失火",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shī huǒ",
+          "wade_giles_pinyin": "shi1 huo3"
+        }
+      ],
+      "simplified": "失火",
+      "traditional": "失火",
+      "meanings": [
+        {
+          "value": "to catch fire"
+        },
+        {
+          "value": "on fire"
+        },
+        {
+          "value": "fire (alarm)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

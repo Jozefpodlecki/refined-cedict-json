@@ -1,0 +1,33 @@
+{
+  "simplified": "涂污",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tú wū",
+          "wade_giles_pinyin": "tu2 wu1"
+        }
+      ],
+      "simplified": "涂污",
+      "traditional": "塗污",
+      "meanings": [
+        {
+          "value": "smudge"
+        },
+        {
+          "value": "stain"
+        },
+        {
+          "value": "to smear (dirt, paint)"
+        },
+        {
+          "value": "to deface"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

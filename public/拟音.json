@@ -1,0 +1,30 @@
+{
+  "simplified": "拟音",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nǐ yīn",
+          "wade_giles_pinyin": "ni3 yin1"
+        }
+      ],
+      "simplified": "拟音",
+      "traditional": "擬音",
+      "meanings": [
+        {
+          "value": "to make a sound effect"
+        },
+        {
+          "value": "sound effect"
+        },
+        {
+          "value": "(historical linguistics) to reconstruct the sound system of an archaic language"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

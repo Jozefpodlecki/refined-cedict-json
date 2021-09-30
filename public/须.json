@@ -1,0 +1,77 @@
+{
+  "simplified": "须",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xū",
+          "wade_giles_pinyin": "xu1"
+        }
+      ],
+      "simplified": "须",
+      "simplified_stroke_count": 9,
+      "traditional": "須",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "must"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to have to"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to wait"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xū",
+          "wade_giles_pinyin": "xu1"
+        }
+      ],
+      "simplified": "须",
+      "simplified_stroke_count": 9,
+      "traditional": "鬚",
+      "traditional_stroke_count": 22,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "beard"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "mustache"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "feeler (of an insect etc)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "tassel"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

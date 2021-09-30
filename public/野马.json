@@ -1,0 +1,37 @@
+{
+  "simplified": "野马",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yě mǎ",
+          "wade_giles_pinyin": "ye3 ma3"
+        }
+      ],
+      "simplified": "野马",
+      "simplified_stroke_count": null,
+      "traditional": "野馬",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "feral horse"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "free-roaming horse"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "wild horse"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

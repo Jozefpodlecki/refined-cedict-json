@@ -1,0 +1,40 @@
+{
+  "simplified": "他",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tā",
+          "wade_giles_pinyin": "ta1"
+        }
+      ],
+      "simplified": "他",
+      "simplified_stroke_count": 5,
+      "traditional": "他",
+      "traditional_stroke_count": 5,
+      "meanings": [
+        {
+          "value": "he or him"
+        },
+        {
+          "value": "(used for either sex when the sex is unknown or unimportant)"
+        },
+        {
+          "value": "(used before sb's name for emphasis)"
+        },
+        {
+          "value": "(used as a meaningless mock object)"
+        },
+        {
+          "value": "other"
+        },
+        {
+          "value": "another"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

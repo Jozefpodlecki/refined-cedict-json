@@ -1,0 +1,32 @@
+{
+  "simplified": "大寺院",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dà sì yuàn",
+          "wade_giles_pinyin": "da4 si4 yuan4"
+        }
+      ],
+      "simplified": "大寺院",
+      "simplified_stroke_count": null,
+      "traditional": "大寺院",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "abbey"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "large monastery"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

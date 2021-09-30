@@ -1,0 +1,34 @@
+{
+  "simplified": "谨",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jǐn",
+          "wade_giles_pinyin": "jin3"
+        }
+      ],
+      "simplified": "谨",
+      "simplified_stroke_count": 13,
+      "traditional": "謹",
+      "traditional_stroke_count": 18,
+      "meanings": [
+        {
+          "value": "cautious"
+        },
+        {
+          "value": "careful"
+        },
+        {
+          "value": "solemnly"
+        },
+        {
+          "value": "sincerely (formal)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

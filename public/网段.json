@@ -1,0 +1,27 @@
+{
+  "simplified": "网段",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " wǎng duàn",
+          "wade_giles_pinyin": "wang3 duan4"
+        }
+      ],
+      "simplified": "网段",
+      "simplified_stroke_count": 0,
+      "traditional": "網段",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "network segment"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

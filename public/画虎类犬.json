@@ -1,0 +1,28 @@
+{
+  "simplified": "画虎类犬",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huà hǔ lèi quǎn",
+          "wade_giles_pinyin": "hua4 hu3 lei4 quan3"
+        }
+      ],
+      "simplified": "画虎类犬",
+      "traditional": "畫虎類犬",
+      "meanings": [
+        {
+          "lexical_item": "idiom",
+          "value": "to try to draw a tiger but end up with a likeness of a dog"
+        },
+        {
+          "value": "to try to do sth overambitious and end up botching it"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "simplified": "动态链接库",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dòng tài liàn jiē kù",
+          "wade_giles_pinyin": "dong4 tai4 lian4 jie1 ku4"
+        }
+      ],
+      "simplified": "动态链接库",
+      "traditional": "動態鏈接庫",
+      "meanings": [
+        {
+          "value": "dynamic-link library (DLL)"
+        },
+        {
+          "value": "shared library (computing)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "simplified": "凶恶",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiōng è",
+          "wade_giles_pinyin": "xiong1 e4"
+        }
+      ],
+      "simplified": "凶恶",
+      "traditional": "兇惡",
+      "meanings": [],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiōng è",
+          "wade_giles_pinyin": "xiong1 e4"
+        }
+      ],
+      "simplified": "凶恶",
+      "traditional": "凶惡",
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "兇惡|凶恶, fierce"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

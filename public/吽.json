@@ -1,0 +1,53 @@
+{
+  "simplified": "吽",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hōng",
+          "wade_giles_pinyin": "hong1"
+        }
+      ],
+      "simplified": "吽",
+      "simplified_stroke_count": 7,
+      "traditional": "吽",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "sound of a Buddhist incantation"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hǒu",
+          "wade_giles_pinyin": "hou3"
+        }
+      ],
+      "simplified": "吽",
+      "simplified_stroke_count": 7,
+      "traditional": "吽",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "roar or howl of an animal"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "bellow of rage"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

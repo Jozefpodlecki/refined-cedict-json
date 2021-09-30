@@ -1,0 +1,30 @@
+{
+  "simplified": "连锁",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lián suǒ",
+          "wade_giles_pinyin": "lian2 suo3"
+        }
+      ],
+      "simplified": "连锁",
+      "traditional": "連鎖",
+      "meanings": [
+        {
+          "value": "to interlock"
+        },
+        {
+          "value": "to be linked"
+        },
+        {
+          "value": "chain (store etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

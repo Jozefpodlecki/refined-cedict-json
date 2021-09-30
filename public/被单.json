@@ -1,0 +1,31 @@
+{
+  "simplified": "被单",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bèi dān",
+          "wade_giles_pinyin": "bei4 dan1"
+        }
+      ],
+      "simplified": "被单",
+      "traditional": "被單",
+      "meanings": [
+        {
+          "value": "(bed) sheet"
+        },
+        {
+          "value": "envelope for a padded coverlet"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "床",
+          "traditional": "",
+          "wade_giles_pinyin": "chuang2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

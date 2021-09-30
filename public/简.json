@@ -1,0 +1,43 @@
+{
+  "simplified": "简",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiǎn",
+          "wade_giles_pinyin": "jian3"
+        }
+      ],
+      "simplified": "简",
+      "simplified_stroke_count": 13,
+      "traditional": "簡",
+      "traditional_stroke_count": 18,
+      "meanings": [
+        {
+          "value": "simple"
+        },
+        {
+          "value": "uncomplicated"
+        },
+        {
+          "value": "letter"
+        },
+        {
+          "value": "to choose"
+        },
+        {
+          "value": "to select"
+        },
+        {
+          "context": "old",
+          "value": "bamboo strips used for writing"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

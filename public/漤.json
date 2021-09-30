@@ -1,0 +1,33 @@
+{
+  "simplified": "漤",
+  "simplified_stroke_count": 14,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lǎn",
+          "wade_giles_pinyin": "lan3"
+        }
+      ],
+      "simplified": "漤",
+      "simplified_stroke_count": 14,
+      "traditional": "漤",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "to soak (fruits) in hot water or limewater to remove astringent taste"
+        },
+        {
+          "value": "to marinate in salt etc"
+        },
+        {
+          "value": "to pickle"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

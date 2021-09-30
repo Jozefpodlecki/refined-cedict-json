@@ -1,0 +1,49 @@
+{
+  "simplified": "内地",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nèi dì",
+          "wade_giles_pinyin": "Nei4 di4"
+        }
+      ],
+      "simplified": "内地",
+      "traditional": "內地",
+      "meanings": [
+        {
+          "value": "mainland China (PRC excluding Hong Kong and Macau, but including islands such as Hainan)"
+        },
+        {
+          "context": "Japanese",
+          "value": "Japan (used in Taiwan during Japanese colonization)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nèi dì",
+          "wade_giles_pinyin": "nei4 di4"
+        }
+      ],
+      "simplified": "内地",
+      "traditional": "內地",
+      "meanings": [
+        {
+          "value": "inland"
+        },
+        {
+          "value": "interior"
+        },
+        {
+          "value": "hinterland"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

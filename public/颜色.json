@@ -1,0 +1,37 @@
+{
+  "simplified": "颜色",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yán sè",
+          "wade_giles_pinyin": "yan2 se4"
+        }
+      ],
+      "simplified": "颜色",
+      "traditional": "顏色",
+      "meanings": [
+        {
+          "value": "color"
+        },
+        {
+          "value": "countenance"
+        },
+        {
+          "value": "appearance"
+        },
+        {
+          "value": "facial expression"
+        },
+        {
+          "value": "pigment"
+        },
+        {
+          "value": "dyestuff"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

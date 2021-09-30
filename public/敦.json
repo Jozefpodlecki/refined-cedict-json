@@ -1,0 +1,51 @@
+{
+  "simplified": "敦",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dūn",
+          "wade_giles_pinyin": "dun1"
+        }
+      ],
+      "simplified": "敦",
+      "simplified_stroke_count": 12,
+      "traditional": "㪟",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 敦[dun1]",
+          "simplified": "敦",
+          "traditional": "",
+          "wade_giles_pinyin": "dun1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dūn",
+          "wade_giles_pinyin": "dun1"
+        }
+      ],
+      "simplified": "敦",
+      "simplified_stroke_count": 12,
+      "traditional": "敦",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "kindhearted"
+        },
+        {
+          "value": "place name"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

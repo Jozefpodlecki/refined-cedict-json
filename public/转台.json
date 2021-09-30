@@ -1,0 +1,46 @@
+{
+  "simplified": "转台",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhuǎn tái",
+          "wade_giles_pinyin": "zhuan3 tai2"
+        }
+      ],
+      "simplified": "转台",
+      "traditional": "轉台",
+      "meanings": [
+        {
+          "value": "to change the channel (TV)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhuàn tái",
+          "wade_giles_pinyin": "zhuan4 tai2"
+        }
+      ],
+      "simplified": "转台",
+      "traditional": "轉台",
+      "meanings": [
+        {
+          "value": "rotating stage"
+        },
+        {
+          "value": "swivel table"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

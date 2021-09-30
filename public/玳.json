@@ -1,0 +1,51 @@
+{
+  "simplified": "玳",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dài",
+          "wade_giles_pinyin": "dai4"
+        }
+      ],
+      "simplified": "玳",
+      "simplified_stroke_count": 9,
+      "traditional": "玳",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "tortoise shell"
+        },
+        {
+          "value": "turtle"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dài",
+          "wade_giles_pinyin": "dai4"
+        }
+      ],
+      "simplified": "玳",
+      "simplified_stroke_count": 9,
+      "traditional": "瑇",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 玳[dai4]",
+          "simplified": "玳",
+          "traditional": "",
+          "wade_giles_pinyin": "dai4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

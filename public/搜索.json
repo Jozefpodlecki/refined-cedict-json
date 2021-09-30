@@ -1,0 +1,30 @@
+{
+  "simplified": "搜索",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sōu suǒ",
+          "wade_giles_pinyin": "sou1 suo3"
+        }
+      ],
+      "simplified": "搜索",
+      "traditional": "搜索",
+      "meanings": [
+        {
+          "value": "to search (a place)"
+        },
+        {
+          "value": "to search (a database)"
+        },
+        {
+          "value": "to search for (sth)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

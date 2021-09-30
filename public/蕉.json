@@ -1,0 +1,44 @@
+{
+  "simplified": "蕉",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiāo",
+          "wade_giles_pinyin": "jiao1"
+        }
+      ],
+      "simplified": "蕉",
+      "simplified_stroke_count": 15,
+      "traditional": "蕉",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "banana"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiáo",
+          "wade_giles_pinyin": "qiao2"
+        }
+      ],
+      "simplified": "蕉",
+      "simplified_stroke_count": 15,
+      "traditional": "蕉",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "see 蕉萃[qiao2 cui4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

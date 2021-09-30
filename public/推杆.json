@@ -1,0 +1,30 @@
+{
+  "simplified": "推杆",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tuī gān",
+          "wade_giles_pinyin": "tui1 gan1"
+        }
+      ],
+      "simplified": "推杆",
+      "traditional": "推桿",
+      "meanings": [
+        {
+          "value": "push rod or tappet (mechanics)"
+        },
+        {
+          "value": "putter (golf)"
+        },
+        {
+          "value": "to putt (golf)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

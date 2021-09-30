@@ -1,0 +1,53 @@
+{
+  "simplified": "蒲",
+  "simplified_stroke_count": 16,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pú",
+          "wade_giles_pinyin": "Pu2"
+        }
+      ],
+      "simplified": "蒲",
+      "simplified_stroke_count": 16,
+      "traditional": "蒲",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "surname Pu"
+        },
+        {
+          "value": "old place name"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pú",
+          "wade_giles_pinyin": "pu2"
+        }
+      ],
+      "simplified": "蒲",
+      "simplified_stroke_count": 16,
+      "traditional": "蒲",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "refers to various monocotyledonous flowering plants including Acorus calamus and Typha orientalis"
+        },
+        {
+          "value": "common cattail"
+        },
+        {
+          "value": "bullrush"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

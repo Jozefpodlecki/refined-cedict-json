@@ -1,0 +1,34 @@
+{
+  "simplified": "放松",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fàng sōng",
+          "wade_giles_pinyin": "fang4 song1"
+        }
+      ],
+      "simplified": "放松",
+      "simplified_stroke_count": 0,
+      "traditional": "放鬆",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to loosen"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to relax"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

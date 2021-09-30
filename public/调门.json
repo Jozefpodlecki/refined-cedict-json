@@ -1,0 +1,51 @@
+{
+  "simplified": "调门",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diào mén",
+          "wade_giles_pinyin": "diao4 men2"
+        }
+      ],
+      "simplified": "调门",
+      "traditional": "調門",
+      "meanings": [
+        {
+          "value": "melody"
+        },
+        {
+          "value": "pitch or key (music)"
+        },
+        {
+          "value": "tone"
+        },
+        {
+          "value": "style"
+        },
+        {
+          "value": "point of view"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tiáo mén",
+          "wade_giles_pinyin": "tiao2 men2"
+        }
+      ],
+      "simplified": "调门",
+      "traditional": "調門",
+      "meanings": [
+        {
+          "value": "valve"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

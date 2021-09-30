@@ -1,0 +1,29 @@
+{
+  "simplified": "倒打一耙",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dào dǎ yī pá",
+          "wade_giles_pinyin": "dao4 da3 yi1 pa2"
+        }
+      ],
+      "simplified": "倒打一耙",
+      "traditional": "倒打一耙",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "to strike with a muckrake , cf Pigsy 豬八戒|猪八戒 in Journey to the West 西遊記|西游记; fig. to counterattack"
+        },
+        {
+          "value": "to make bogus accusations (against one's victim)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "simplified": "纵队",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zòng duì",
+          "wade_giles_pinyin": "zong4 dui4"
+        }
+      ],
+      "simplified": "纵队",
+      "traditional": "縱隊",
+      "meanings": [
+        {
+          "value": "column"
+        },
+        {
+          "value": "file"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "列",
+          "traditional": "",
+          "wade_giles_pinyin": "lie4"
+        },
+        {
+          "simplified": "路",
+          "traditional": "",
+          "wade_giles_pinyin": "lu4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

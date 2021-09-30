@@ -1,0 +1,36 @@
+{
+  "simplified": "蔽",
+  "simplified_stroke_count": 16,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bì",
+          "wade_giles_pinyin": "bi4"
+        }
+      ],
+      "simplified": "蔽",
+      "simplified_stroke_count": 16,
+      "traditional": "蔽",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "to cover"
+        },
+        {
+          "value": "to shield"
+        },
+        {
+          "value": "to screen"
+        },
+        {
+          "value": "to conceal"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

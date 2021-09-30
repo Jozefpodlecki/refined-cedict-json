@@ -1,0 +1,25 @@
+{
+  "simplified": "服务质量",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fú wù zhì liàng",
+          "wade_giles_pinyin": "fu2 wu4 zhi4 liang4"
+        }
+      ],
+      "simplified": "服务质量",
+      "traditional": "服務質量",
+      "meanings": [
+        {
+          "value": "Quality of Service"
+        },
+        {
+          "value": "QOS"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

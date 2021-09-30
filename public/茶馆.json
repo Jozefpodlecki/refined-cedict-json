@@ -1,0 +1,28 @@
+{
+  "simplified": "茶馆",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chá guǎn",
+          "wade_giles_pinyin": "cha2 guan3"
+        }
+      ],
+      "simplified": "茶馆",
+      "traditional": "茶館",
+      "meanings": [
+        {
+          "value": "teahouse"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "家",
+          "traditional": "",
+          "wade_giles_pinyin": "jia1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

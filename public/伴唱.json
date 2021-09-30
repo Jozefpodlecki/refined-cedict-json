@@ -1,0 +1,36 @@
+{
+  "simplified": "伴唱",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bàn chàng",
+          "wade_giles_pinyin": "ban4 chang4"
+        }
+      ],
+      "simplified": "伴唱",
+      "traditional": "伴唱",
+      "meanings": [
+        {
+          "value": "vocal accompaniment"
+        },
+        {
+          "value": "to accompany a singer"
+        },
+        {
+          "value": "to support of sb"
+        },
+        {
+          "value": "to echo sb"
+        },
+        {
+          "value": "to chime in with sb"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

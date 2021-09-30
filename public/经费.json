@@ -1,0 +1,31 @@
+{
+  "simplified": "经费",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jīng feì",
+          "wade_giles_pinyin": "jing1 fei4"
+        }
+      ],
+      "simplified": "经费",
+      "traditional": "經費",
+      "meanings": [
+        {
+          "value": "funds"
+        },
+        {
+          "value": "expenditure"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "筆",
+          "traditional": "笔",
+          "wade_giles_pinyin": "bi3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

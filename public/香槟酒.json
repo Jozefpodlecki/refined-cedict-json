@@ -1,0 +1,34 @@
+{
+  "simplified": "香槟酒",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiāng bīn jiǔ",
+          "wade_giles_pinyin": "xiang1 bin1 jiu3"
+        }
+      ],
+      "simplified": "香槟酒",
+      "traditional": "香檳酒",
+      "meanings": [
+        {
+          "context": "loanword",
+          "value": "champagne"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "瓶",
+          "traditional": "",
+          "wade_giles_pinyin": "ping2"
+        },
+        {
+          "simplified": "杯",
+          "traditional": "",
+          "wade_giles_pinyin": "bei1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

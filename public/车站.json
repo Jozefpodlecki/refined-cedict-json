@@ -1,0 +1,36 @@
+{
+  "simplified": "车站",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chē zhàn",
+          "wade_giles_pinyin": "che1 zhan4"
+        }
+      ],
+      "simplified": "车站",
+      "traditional": "車站",
+      "meanings": [
+        {
+          "value": "rail station"
+        },
+        {
+          "value": "bus stop"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "處",
+          "traditional": "处",
+          "wade_giles_pinyin": "chu4"
+        },
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

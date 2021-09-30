@@ -1,0 +1,24 @@
+{
+  "simplified": "书本",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shū běn",
+          "wade_giles_pinyin": "shu1 ben3"
+        }
+      ],
+      "simplified": "书本",
+      "traditional": "書本",
+      "meanings": [],
+      "classifiers": [
+        {
+          "simplified": "本",
+          "traditional": "",
+          "wade_giles_pinyin": "ben3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

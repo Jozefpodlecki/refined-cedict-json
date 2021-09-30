@@ -1,0 +1,25 @@
+{
+  "simplified": "票面值",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "piào miàn zhí",
+          "wade_giles_pinyin": "piao4 mian4 zhi2"
+        }
+      ],
+      "simplified": "票面值",
+      "traditional": "票面值",
+      "meanings": [
+        {
+          "value": "par value"
+        },
+        {
+          "value": "face value (of a bond)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

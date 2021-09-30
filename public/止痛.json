@@ -1,0 +1,30 @@
+{
+  "simplified": "止痛",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhǐ tòng",
+          "wade_giles_pinyin": "zhi3 tong4"
+        }
+      ],
+      "simplified": "止痛",
+      "traditional": "止痛",
+      "meanings": [
+        {
+          "value": "to relieve pain"
+        },
+        {
+          "value": "to stop pain"
+        },
+        {
+          "value": "analgesic"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

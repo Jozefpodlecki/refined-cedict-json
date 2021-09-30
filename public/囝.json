@@ -1,0 +1,48 @@
+{
+  "simplified": "囝",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiǎn",
+          "wade_giles_pinyin": "jian3"
+        }
+      ],
+      "simplified": "囝",
+      "simplified_stroke_count": 6,
+      "traditional": "囝",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "value": "child"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nān",
+          "wade_giles_pinyin": "nan1"
+        }
+      ],
+      "simplified": "囝",
+      "simplified_stroke_count": 6,
+      "traditional": "囝",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 囡[nan1]",
+          "simplified": "囡",
+          "traditional": "",
+          "wade_giles_pinyin": "nan1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

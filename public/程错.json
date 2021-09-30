@@ -1,0 +1,25 @@
+{
+  "simplified": "程错",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chéng cuò",
+          "wade_giles_pinyin": "cheng2 cuo4"
+        }
+      ],
+      "simplified": "程错",
+      "traditional": "程錯",
+      "meanings": [
+        {
+          "value": "(computing) glitch"
+        },
+        {
+          "value": "bug"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

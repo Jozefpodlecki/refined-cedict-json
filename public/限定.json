@@ -1,0 +1,34 @@
+{
+  "simplified": "限定",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xiàn dìng",
+          "wade_giles_pinyin": "xian4 ding4"
+        }
+      ],
+      "simplified": "限定",
+      "simplified_stroke_count": 0,
+      "traditional": "限定",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to restrict to"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to limit"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

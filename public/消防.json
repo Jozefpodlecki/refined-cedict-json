@@ -1,0 +1,32 @@
+{
+  "simplified": "消防",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xiāo fáng",
+          "wade_giles_pinyin": "xiao1 fang2"
+        }
+      ],
+      "simplified": "消防",
+      "simplified_stroke_count": 0,
+      "traditional": "消防",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "firefighting"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "fire control"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

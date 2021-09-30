@@ -1,0 +1,48 @@
+{
+  "simplified": "纵",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zòng",
+          "wade_giles_pinyin": "zong4"
+        }
+      ],
+      "simplified": "纵",
+      "simplified_stroke_count": 7,
+      "traditional": "縱",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "warp (the vertical threads in weaving)"
+        },
+        {
+          "value": "vertical"
+        },
+        {
+          "value": "longitudinal"
+        },
+        {
+          "value": "north-south (lines of longitude)"
+        },
+        {
+          "value": "lengthwise"
+        },
+        {
+          "value": "to release"
+        },
+        {
+          "value": "to indulge"
+        },
+        {
+          "value": "even if"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

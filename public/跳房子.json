@@ -1,0 +1,27 @@
+{
+  "simplified": "跳房子",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tiào fáng zi",
+          "wade_giles_pinyin": "tiao4 fang2 zi5"
+        }
+      ],
+      "simplified": "跳房子",
+      "traditional": "跳房子",
+      "meanings": [
+        {
+          "value": "hopscotch"
+        },
+        {
+          "value": "to play hopscotch"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

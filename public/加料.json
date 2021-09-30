@@ -1,0 +1,33 @@
+{
+  "simplified": "加料",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiā liào",
+          "wade_giles_pinyin": "jia1 liao4"
+        }
+      ],
+      "simplified": "加料",
+      "traditional": "加料",
+      "meanings": [
+        {
+          "value": "to feed in"
+        },
+        {
+          "value": "to load (raw material, supplies, fuel etc)"
+        },
+        {
+          "value": "to supply"
+        },
+        {
+          "value": "fortified (with added material)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

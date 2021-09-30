@@ -1,0 +1,38 @@
+{
+  "simplified": "轮子",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lún zi",
+          "wade_giles_pinyin": "lun2 zi5"
+        }
+      ],
+      "simplified": "轮子",
+      "simplified_stroke_count": null,
+      "traditional": "輪子",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "wheel"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "CL:個|个[ge4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

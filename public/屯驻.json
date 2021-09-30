@@ -1,0 +1,34 @@
+{
+  "simplified": "屯驻",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " tún zhù",
+          "wade_giles_pinyin": "tun2 zhu4"
+        }
+      ],
+      "simplified": "屯驻",
+      "simplified_stroke_count": 0,
+      "traditional": "屯駐",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to be stationed"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to be quartered"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

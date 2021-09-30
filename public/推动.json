@@ -1,0 +1,55 @@
+{
+  "simplified": "推动",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " tuī dòng",
+          "wade_giles_pinyin": "tui1 dong4"
+        }
+      ],
+      "simplified": "推动",
+      "simplified_stroke_count": 0,
+      "traditional": "推動",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to push (for acceptance of a plan)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to push forward"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to promote"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to actuate"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:個|个[ge4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

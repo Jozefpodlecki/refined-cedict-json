@@ -1,0 +1,31 @@
+{
+  "simplified": "强度",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiáng dù",
+          "wade_giles_pinyin": "qiang2 du4"
+        }
+      ],
+      "simplified": "强度",
+      "traditional": "強度",
+      "meanings": [
+        {
+          "value": "strength"
+        },
+        {
+          "value": "intensity"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

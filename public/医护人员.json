@@ -1,0 +1,25 @@
+{
+  "simplified": "医护人员",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yī hù rén yuán",
+          "wade_giles_pinyin": "yi1 hu4 ren2 yuan2"
+        }
+      ],
+      "simplified": "医护人员",
+      "traditional": "醫護人員",
+      "meanings": [
+        {
+          "value": "medical personnel"
+        },
+        {
+          "value": "doctors and nurses"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

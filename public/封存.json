@@ -1,0 +1,33 @@
+{
+  "simplified": "封存",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fēng cún",
+          "wade_giles_pinyin": "feng1 cun2"
+        }
+      ],
+      "simplified": "封存",
+      "traditional": "封存",
+      "meanings": [
+        {
+          "value": "to sequester"
+        },
+        {
+          "value": "to seal up (for safe keeping)"
+        },
+        {
+          "value": "to freeze (an account)"
+        },
+        {
+          "value": "to mothball"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "正教",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhèng jiào",
+          "wade_giles_pinyin": "zheng4 jiao4"
+        }
+      ],
+      "simplified": "正教",
+      "traditional": "正教",
+      "meanings": [
+        {
+          "context": "literature",
+          "value": "true religion"
+        },
+        {
+          "value": "orthodox religion"
+        },
+        {
+          "value": "orthodox Christianity"
+        },
+        {
+          "value": "Islam (in the writing of Chinese or Hui theologians)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

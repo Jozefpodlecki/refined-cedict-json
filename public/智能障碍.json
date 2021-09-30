@@ -1,0 +1,31 @@
+{
+  "simplified": "智能障碍",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhì néng zhàng ài",
+          "wade_giles_pinyin": "zhi4 neng2 zhang4 ai4"
+        }
+      ],
+      "simplified": "智能障碍",
+      "traditional": "智能障礙",
+      "meanings": [
+        {
+          "value": "intellectual disability"
+        },
+        {
+          "value": "cognitive disability"
+        },
+        {
+          "value": "learning disability"
+        },
+        {
+          "value": "mental retardation"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

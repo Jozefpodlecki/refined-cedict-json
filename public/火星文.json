@@ -1,0 +1,32 @@
+{
+  "simplified": "火星文",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " huǒ xīng wén",
+          "wade_giles_pinyin": "Huo3 xing1 wen2"
+        }
+      ],
+      "simplified": "火星文",
+      "simplified_stroke_count": 0,
+      "traditional": "火星文",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "",
+          "value": "Martian language"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "fig. Internet slang used to communicate secret messages that the general public or government can't understand"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

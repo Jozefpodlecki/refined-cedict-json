@@ -1,0 +1,34 @@
+{
+  "simplified": "加委",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jiā wěi",
+          "wade_giles_pinyin": "jia1 wei3"
+        }
+      ],
+      "simplified": "加委",
+      "simplified_stroke_count": 0,
+      "traditional": "加委",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to ratify (an election, by higher authority)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "confirmation (by higher committee)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

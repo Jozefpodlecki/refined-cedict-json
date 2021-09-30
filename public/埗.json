@@ -1,0 +1,52 @@
+{
+  "simplified": "埗",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bù",
+          "wade_giles_pinyin": "bu4"
+        }
+      ],
+      "simplified": "埗",
+      "simplified_stroke_count": 10,
+      "traditional": "埗",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "wharf"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "dock"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "jetty"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "trading center"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "port"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "place name"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

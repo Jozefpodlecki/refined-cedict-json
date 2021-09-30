@@ -1,0 +1,28 @@
+{
+  "simplified": "承销商",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chéng xiāo shāng",
+          "wade_giles_pinyin": "cheng2 xiao1 shang1"
+        }
+      ],
+      "simplified": "承销商",
+      "traditional": "承銷商",
+      "meanings": [
+        {
+          "value": "underwriting company"
+        },
+        {
+          "value": "dealership"
+        },
+        {
+          "value": "sales agency"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

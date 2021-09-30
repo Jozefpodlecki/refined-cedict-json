@@ -1,0 +1,33 @@
+{
+  "simplified": "进口",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jìn kǒu",
+          "wade_giles_pinyin": "jin4 kou3"
+        }
+      ],
+      "simplified": "进口",
+      "traditional": "進口",
+      "meanings": [
+        {
+          "value": "to import"
+        },
+        {
+          "value": "imported"
+        },
+        {
+          "value": "entrance"
+        },
+        {
+          "value": "inlet (for the intake of air, water etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

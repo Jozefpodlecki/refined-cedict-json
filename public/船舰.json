@@ -1,0 +1,25 @@
+{
+  "simplified": "船舰",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chuán jiàn",
+          "wade_giles_pinyin": "chuan2 jian4"
+        }
+      ],
+      "simplified": "船舰",
+      "traditional": "船艦",
+      "meanings": [
+        {
+          "value": "navy vessel"
+        },
+        {
+          "value": "(coast guard) patrol boat"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

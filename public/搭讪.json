@@ -1,0 +1,30 @@
+{
+  "simplified": "搭讪",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dā shàn",
+          "wade_giles_pinyin": "da1 shan4"
+        }
+      ],
+      "simplified": "搭讪",
+      "traditional": "搭訕",
+      "meanings": [
+        {
+          "value": "to hit on someone"
+        },
+        {
+          "value": "to strike up a conversation"
+        },
+        {
+          "value": "to start talking to end an awkward silence or embarrassing situation"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

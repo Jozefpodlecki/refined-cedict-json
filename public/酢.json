@@ -1,0 +1,48 @@
+{
+  "simplified": "酢",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " cù",
+          "wade_giles_pinyin": "cu4"
+        }
+      ],
+      "simplified": "酢",
+      "simplified_stroke_count": 12,
+      "traditional": "酢",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "醋[cu4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zuò",
+          "wade_giles_pinyin": "zuo4"
+        }
+      ],
+      "simplified": "酢",
+      "simplified_stroke_count": 12,
+      "traditional": "酢",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "toast to host by guest"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

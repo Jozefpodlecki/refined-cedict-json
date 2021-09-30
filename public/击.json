@@ -1,0 +1,36 @@
+{
+  "simplified": "击",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jī",
+          "wade_giles_pinyin": "ji1"
+        }
+      ],
+      "simplified": "击",
+      "simplified_stroke_count": 5,
+      "traditional": "擊",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "to hit"
+        },
+        {
+          "value": "to strike"
+        },
+        {
+          "value": "to break"
+        },
+        {
+          "value": "Taiwan pr. [ji2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "simplified": "英",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yīng",
+          "wade_giles_pinyin": "Ying1"
+        }
+      ],
+      "simplified": "英",
+      "simplified_stroke_count": 8,
+      "traditional": "英",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "United Kingdom"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "British"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "England"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "English"
+        },
+        {
+          "context": "abbreviation",
+          "lexical_item": "",
+          "value": "英國|英国[Ying1 guo2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yīng",
+          "wade_giles_pinyin": "ying1"
+        }
+      ],
+      "simplified": "英",
+      "simplified_stroke_count": 8,
+      "traditional": "英",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "hero"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "outstanding"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "excellent"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(literary) flower"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "blossom"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

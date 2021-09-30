@@ -1,0 +1,46 @@
+{
+  "simplified": "刚才",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gāng cái",
+          "wade_giles_pinyin": "gang1 cai2"
+        }
+      ],
+      "simplified": "刚才",
+      "traditional": "剛才",
+      "meanings": [
+        {
+          "value": "just now"
+        },
+        {
+          "value": "a moment ago"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gāng cái",
+          "wade_giles_pinyin": "gang1 cai2"
+        }
+      ],
+      "simplified": "刚才",
+      "traditional": "剛纔",
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "just now (variant of 剛才|刚才[gang1 cai2])",
+          "simplified": "j",
+          "traditional": "ust now ( 剛才|刚才",
+          "wade_giles_pinyin": "gang1 cai2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

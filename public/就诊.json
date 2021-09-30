@@ -1,0 +1,27 @@
+{
+  "simplified": "就诊",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiù zhěn",
+          "wade_giles_pinyin": "jiu4 zhen3"
+        }
+      ],
+      "simplified": "就诊",
+      "traditional": "就診",
+      "meanings": [
+        {
+          "value": "to see a doctor"
+        },
+        {
+          "value": "to seek medical advice"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

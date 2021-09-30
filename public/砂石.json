@@ -1,0 +1,37 @@
+{
+  "simplified": "砂石",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shā shí",
+          "wade_giles_pinyin": "sha1 shi2"
+        }
+      ],
+      "simplified": "砂石",
+      "simplified_stroke_count": 0,
+      "traditional": "砂石",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "sandstone"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "sand and stone"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "aggregate"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

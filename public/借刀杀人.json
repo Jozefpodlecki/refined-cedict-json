@@ -1,0 +1,31 @@
+{
+  "simplified": "借刀杀人",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiè dāo shā rén",
+          "wade_giles_pinyin": "jie4 dao1 sha1 ren2"
+        }
+      ],
+      "simplified": "借刀杀人",
+      "traditional": "借刀殺人",
+      "meanings": [
+        {
+          "value": "to lend sb a knife to kill sb"
+        },
+        {
+          "value": "to get sb else to do one's dirty work"
+        },
+        {
+          "lexical_item": "idiom",
+          "value": "to attack using the strength of another"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

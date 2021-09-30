@@ -1,0 +1,32 @@
+{
+  "simplified": "电键",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " diàn jiàn",
+          "wade_giles_pinyin": "dian4 jian4"
+        }
+      ],
+      "simplified": "电键",
+      "simplified_stroke_count": 0,
+      "traditional": "電鍵",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "electric key"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "switch"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

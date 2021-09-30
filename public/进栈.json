@@ -1,0 +1,27 @@
+{
+  "simplified": "进栈",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jìn zhàn",
+          "wade_giles_pinyin": "jin4 zhan4"
+        }
+      ],
+      "simplified": "进栈",
+      "simplified_stroke_count": 0,
+      "traditional": "進棧",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(computing) to push (a value) onto a stack"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

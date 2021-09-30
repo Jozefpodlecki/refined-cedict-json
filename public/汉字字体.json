@@ -1,0 +1,28 @@
+{
+  "simplified": "汉字字体",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hàn zì zì tǐ",
+          "wade_giles_pinyin": "han4 zi4 zi4 ti3"
+        }
+      ],
+      "simplified": "汉字字体",
+      "traditional": "漢字字體",
+      "meanings": [
+        {
+          "value": "calligraphic style of Chinese characters"
+        },
+        {
+          "value": "typeface"
+        },
+        {
+          "value": "font"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

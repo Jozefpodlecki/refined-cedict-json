@@ -1,0 +1,39 @@
+{
+  "simplified": "表示",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "biǎo shì",
+          "wade_giles_pinyin": "biao3 shi4"
+        }
+      ],
+      "simplified": "表示",
+      "traditional": "表示",
+      "meanings": [
+        {
+          "value": "to express"
+        },
+        {
+          "value": "to show"
+        },
+        {
+          "value": "to say"
+        },
+        {
+          "value": "to state"
+        },
+        {
+          "value": "to indicate"
+        },
+        {
+          "value": "to mean"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "simplified": "演艺人员",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǎn yì rén yuán",
+          "wade_giles_pinyin": "yan3 yi4 ren2 yuan2"
+        }
+      ],
+      "simplified": "演艺人员",
+      "traditional": "演藝人員",
+      "meanings": [
+        {
+          "value": "entertainer"
+        },
+        {
+          "value": "performer"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "simplified": "巧克力",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiǎo kè lì",
+          "wade_giles_pinyin": "qiao3 ke4 li4"
+        }
+      ],
+      "simplified": "巧克力",
+      "traditional": "巧克力",
+      "meanings": [
+        {
+          "context": "loanword",
+          "value": "chocolate"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "塊",
+          "traditional": "块",
+          "wade_giles_pinyin": "kuai4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

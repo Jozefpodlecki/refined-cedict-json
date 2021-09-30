@@ -1,0 +1,51 @@
+{
+  "simplified": "散光",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sǎn guāng",
+          "wade_giles_pinyin": "san3 guang1"
+        }
+      ],
+      "simplified": "散光",
+      "traditional": "散光",
+      "meanings": [
+        {
+          "value": "astigmatism"
+        },
+        {
+          "context": "see also",
+          "value": "散光[san4 guang1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sàn guāng",
+          "wade_giles_pinyin": "san4 guang1"
+        }
+      ],
+      "simplified": "散光",
+      "traditional": "散光",
+      "meanings": [
+        {
+          "value": "to diffuse light"
+        },
+        {
+          "context": "see also",
+          "value": "散光[san3 guang1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

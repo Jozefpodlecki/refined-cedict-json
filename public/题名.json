@@ -1,0 +1,27 @@
+{
+  "simplified": "题名",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tí míng",
+          "wade_giles_pinyin": "ti2 ming2"
+        }
+      ],
+      "simplified": "题名",
+      "traditional": "題名",
+      "meanings": [
+        {
+          "value": "autograph"
+        },
+        {
+          "value": "to sign one's name"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

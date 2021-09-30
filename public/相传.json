@@ -1,0 +1,44 @@
+{
+  "simplified": "相传",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xiāng chuán",
+          "wade_giles_pinyin": "xiang1 chuan2"
+        }
+      ],
+      "simplified": "相传",
+      "simplified_stroke_count": 0,
+      "traditional": "相傳",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to pass on"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to hand down"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "tradition has it that ..."
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "according to legend"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "共轭",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " gòng è",
+          "wade_giles_pinyin": "gong4 e4"
+        }
+      ],
+      "simplified": "共轭",
+      "simplified_stroke_count": 0,
+      "traditional": "共軛",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "conjugate (math.)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "conjugation"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

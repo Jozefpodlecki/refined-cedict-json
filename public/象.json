@@ -1,0 +1,60 @@
+{
+  "simplified": "象",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xiàng",
+          "wade_giles_pinyin": "xiang4"
+        }
+      ],
+      "simplified": "象",
+      "simplified_stroke_count": 12,
+      "traditional": "象",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "elephant"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:隻|只[zhi1]"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "shape"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "form"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "appearance"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to imitate"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "隻",
+          "traditional": "只",
+          "wade_giles_pinyin": "zhi1"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "泥鳅",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ní qiu",
+          "wade_giles_pinyin": "ni2 qiu5"
+        }
+      ],
+      "simplified": "泥鳅",
+      "traditional": "泥鰍",
+      "meanings": [
+        {
+          "value": "loach"
+        },
+        {
+          "value": "mud fish"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "條",
+          "traditional": "条",
+          "wade_giles_pinyin": "tiao2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

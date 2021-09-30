@@ -1,0 +1,30 @@
+{
+  "simplified": "试制",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shì zhì",
+          "wade_giles_pinyin": "shi4 zhi4"
+        }
+      ],
+      "simplified": "试制",
+      "traditional": "試製",
+      "meanings": [
+        {
+          "value": "to try out a new product (or manufacturing process)"
+        },
+        {
+          "value": "prototype"
+        },
+        {
+          "value": "trial product"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

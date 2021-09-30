@@ -1,0 +1,34 @@
+{
+  "simplified": "思谋",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sī móu",
+          "wade_giles_pinyin": "si1 mou2"
+        }
+      ],
+      "simplified": "思谋",
+      "simplified_stroke_count": null,
+      "traditional": "思謀",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to consider"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to turn over in one's mind"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "simplified": "陷",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xiàn",
+          "wade_giles_pinyin": "xian4"
+        }
+      ],
+      "simplified": "陷",
+      "simplified_stroke_count": 11,
+      "traditional": "陷",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "pitfall"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "trap"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to get stuck"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to sink"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to cave in"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to frame (false charge)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to capture (a city in battle)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to fall (to the enemy)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "defect"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

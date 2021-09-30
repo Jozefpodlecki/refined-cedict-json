@@ -1,0 +1,37 @@
+{
+  "simplified": "遗产",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yí chǎn",
+          "wade_giles_pinyin": "yi2 chan3"
+        }
+      ],
+      "simplified": "遗产",
+      "traditional": "遺產",
+      "meanings": [
+        {
+          "value": "heritage"
+        },
+        {
+          "value": "legacy"
+        },
+        {
+          "value": "inheritance"
+        },
+        {
+          "value": "bequest"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "筆",
+          "traditional": "笔",
+          "wade_giles_pinyin": "bi3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

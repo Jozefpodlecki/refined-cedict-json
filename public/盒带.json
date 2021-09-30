@@ -1,0 +1,43 @@
+{
+  "simplified": "盒带",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " hé dài",
+          "wade_giles_pinyin": "he2 dai4"
+        }
+      ],
+      "simplified": "盒带",
+      "simplified_stroke_count": 0,
+      "traditional": "盒帶",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "cassette tape"
+        },
+        {
+          "context": "abbreviation",
+          "lexical_item": "",
+          "value": "盒式錄音磁帶|盒式录音磁带"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:盤|盘[pan2]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "盤",
+          "traditional": "盘",
+          "wade_giles_pinyin": "pan2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

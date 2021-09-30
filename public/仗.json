@@ -1,0 +1,45 @@
+{
+  "simplified": "仗",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhàng",
+          "wade_giles_pinyin": "zhang4"
+        }
+      ],
+      "simplified": "仗",
+      "simplified_stroke_count": 5,
+      "traditional": "仗",
+      "traditional_stroke_count": 5,
+      "meanings": [
+        {
+          "value": "weaponry"
+        },
+        {
+          "value": "to hold (a weapon)"
+        },
+        {
+          "value": "to wield"
+        },
+        {
+          "value": "to rely on"
+        },
+        {
+          "value": "to depend on"
+        },
+        {
+          "value": "war"
+        },
+        {
+          "value": "battle"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

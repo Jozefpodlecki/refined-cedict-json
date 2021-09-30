@@ -1,0 +1,32 @@
+{
+  "simplified": "工事",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gōng shì",
+          "wade_giles_pinyin": "gong1 shi4"
+        }
+      ],
+      "simplified": "工事",
+      "traditional": "工事",
+      "meanings": [
+        {
+          "value": "defensive structure"
+        },
+        {
+          "value": "military fortifications"
+        },
+        {
+          "context": "taiwan",
+          "value": "construction works"
+        },
+        {
+          "value": "civil engineering works"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

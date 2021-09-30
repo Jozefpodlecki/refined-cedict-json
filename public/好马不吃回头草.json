@@ -1,0 +1,30 @@
+{
+  "simplified": "好马不吃回头草",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hǎo mǎ bù chī huí tóu cǎo",
+          "wade_giles_pinyin": "hao3 ma3 bu4 chi1 hui2 tou2 cao3"
+        }
+      ],
+      "simplified": "好马不吃回头草",
+      "traditional": "好馬不吃回頭草",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "a good horse doesn't turn around and graze the same patch again"
+        },
+        {
+          "value": "fig. once you've moved on, don't go back again (romantic relationship, job etc)"
+        },
+        {
+          "value": "leave the past behind"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

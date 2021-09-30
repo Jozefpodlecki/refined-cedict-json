@@ -1,0 +1,22 @@
+{
+  "simplified": "代数学基本定理",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dài shù xué jī běn dìng lǐ",
+          "wade_giles_pinyin": "dai4 shu4 xue2 ji1 ben3 ding4 li3"
+        }
+      ],
+      "simplified": "代数学基本定理",
+      "traditional": "代數學基本定理",
+      "meanings": [
+        {
+          "value": "fundamental theorem of algebra (every polynomial has a complex root)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

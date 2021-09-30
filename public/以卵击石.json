@@ -1,0 +1,29 @@
+{
+  "simplified": "以卵击石",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǐ luǎn jī shí",
+          "wade_giles_pinyin": "yi3 luan3 ji1 shi2"
+        }
+      ],
+      "simplified": "以卵击石",
+      "traditional": "以卵擊石",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "to strike a stone with egg ; to attempt the impossible"
+        },
+        {
+          "value": "to invite disaster by overreaching oneself"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

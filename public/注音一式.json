@@ -1,0 +1,37 @@
+{
+  "simplified": "注音一式",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhù yīn yī shì",
+          "wade_giles_pinyin": "zhu4 yin1 yi1 shi4"
+        }
+      ],
+      "simplified": "注音一式",
+      "simplified_stroke_count": 0,
+      "traditional": "注音一式",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Mandarin Phonetic Symbols 1"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Bopomofo"
+        },
+        {
+          "context": "abbreviation",
+          "lexical_item": "",
+          "value": "國語注音符號第一式|国语注音符号第一式[Guo2 yu3 zhu4 yin1 fu2 hao4 di4 yi1 shi4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

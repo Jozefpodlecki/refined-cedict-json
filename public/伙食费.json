@@ -1,0 +1,28 @@
+{
+  "simplified": "伙食费",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huǒ shí feì",
+          "wade_giles_pinyin": "huo3 shi2 fei4"
+        }
+      ],
+      "simplified": "伙食费",
+      "traditional": "伙食費",
+      "meanings": [
+        {
+          "value": "food expenses"
+        },
+        {
+          "value": "board expenses"
+        },
+        {
+          "value": "meals (cost)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

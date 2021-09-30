@@ -1,0 +1,37 @@
+{
+  "simplified": "没头没脸",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " méi tóu méi liǎn",
+          "wade_giles_pinyin": "mei2 tou2 mei2 lian3"
+        }
+      ],
+      "simplified": "没头没脸",
+      "simplified_stroke_count": 0,
+      "traditional": "沒頭沒臉",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "lit. without head, without face"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "fig. frenzily"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "haphazardly"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

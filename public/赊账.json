@@ -1,0 +1,30 @@
+{
+  "simplified": "赊账",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shē zhàng",
+          "wade_giles_pinyin": "she1 zhang4"
+        }
+      ],
+      "simplified": "赊账",
+      "traditional": "賒賬",
+      "meanings": [
+        {
+          "value": "to buy or sell on credit"
+        },
+        {
+          "value": "outstanding account"
+        },
+        {
+          "value": "to have an outstanding account"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

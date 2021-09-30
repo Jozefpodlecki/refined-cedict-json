@@ -1,0 +1,51 @@
+{
+  "simplified": "殊",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shū",
+          "wade_giles_pinyin": "shu1"
+        }
+      ],
+      "simplified": "殊",
+      "simplified_stroke_count": 10,
+      "traditional": "殊",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "different"
+        },
+        {
+          "value": "unique"
+        },
+        {
+          "value": "special"
+        },
+        {
+          "value": "very"
+        },
+        {
+          "value": "(classical) to behead"
+        },
+        {
+          "value": "to die"
+        },
+        {
+          "value": "to cut off"
+        },
+        {
+          "value": "to separate"
+        },
+        {
+          "value": "to surpass"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

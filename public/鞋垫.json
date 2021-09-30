@@ -1,0 +1,32 @@
+{
+  "simplified": "鞋垫",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xié diàn",
+          "wade_giles_pinyin": "xie2 dian4"
+        }
+      ],
+      "simplified": "鞋垫",
+      "simplified_stroke_count": 0,
+      "traditional": "鞋墊",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "insole"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "shoe insert"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "香皂",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xiāng zào",
+          "wade_giles_pinyin": "xiang1 zao4"
+        }
+      ],
+      "simplified": "香皂",
+      "simplified_stroke_count": 0,
+      "traditional": "香皂",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "perfumed soap"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "toilet soap"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:塊|块[kuai4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "塊",
+          "traditional": "块",
+          "wade_giles_pinyin": "kuai4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

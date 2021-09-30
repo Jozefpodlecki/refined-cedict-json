@@ -1,0 +1,118 @@
+{
+  "simplified": "乘",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chéng",
+          "wade_giles_pinyin": "Cheng2"
+        }
+      ],
+      "simplified": "乘",
+      "simplified_stroke_count": 10,
+      "traditional": "乘",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "surname Cheng"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chéng",
+          "wade_giles_pinyin": "cheng2"
+        }
+      ],
+      "simplified": "乘",
+      "simplified_stroke_count": 10,
+      "traditional": "乘",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "to ride"
+        },
+        {
+          "value": "to mount"
+        },
+        {
+          "value": "to make use of"
+        },
+        {
+          "value": "to avail oneself of"
+        },
+        {
+          "value": "to take advantage of"
+        },
+        {
+          "value": "to multiply (math.)"
+        },
+        {
+          "value": "Buddhist sect or creed"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shèng",
+          "wade_giles_pinyin": "sheng4"
+        }
+      ],
+      "simplified": "乘",
+      "simplified_stroke_count": 10,
+      "traditional": "乘",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "four horse military chariot (archaic)"
+        },
+        {
+          "value": "four (archaic)"
+        },
+        {
+          "value": "generic term for history books"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chéng",
+          "wade_giles_pinyin": "cheng2"
+        }
+      ],
+      "simplified": "乘",
+      "simplified_stroke_count": 10,
+      "traditional": "椉",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 乘[cheng2]",
+          "simplified": "乘",
+          "traditional": "",
+          "wade_giles_pinyin": "cheng2"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

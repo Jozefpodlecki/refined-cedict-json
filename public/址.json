@@ -1,0 +1,63 @@
+{
+  "simplified": "址",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhǐ",
+          "wade_giles_pinyin": "zhi3"
+        }
+      ],
+      "simplified": "址",
+      "simplified_stroke_count": 7,
+      "traditional": "址",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "location"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "site"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "foundation of a building"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhǐ",
+          "wade_giles_pinyin": "zhi3"
+        }
+      ],
+      "simplified": "址",
+      "simplified_stroke_count": 7,
+      "traditional": "阯",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "foundation of a building ( 址[zhi3])"
+        },
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "islet ( 沚[zhi3])"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

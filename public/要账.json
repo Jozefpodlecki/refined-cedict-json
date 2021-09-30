@@ -1,0 +1,27 @@
+{
+  "simplified": "要账",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yào zhàng",
+          "wade_giles_pinyin": "yao4 zhang4"
+        }
+      ],
+      "simplified": "要账",
+      "traditional": "要賬",
+      "meanings": [
+        {
+          "value": "to demand repayment"
+        },
+        {
+          "value": "to collect debt"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

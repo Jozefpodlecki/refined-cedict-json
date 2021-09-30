@@ -1,0 +1,31 @@
+{
+  "simplified": "沉睡",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chén shuì",
+          "wade_giles_pinyin": "chen2 shui4"
+        }
+      ],
+      "simplified": "沉睡",
+      "traditional": "沉睡",
+      "meanings": [
+        {
+          "value": "to be fast asleep"
+        },
+        {
+          "context": "figuratively",
+          "value": "to lie dormant"
+        },
+        {
+          "value": "to lie undiscovered"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "隶属",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " lì shǔ",
+          "wade_giles_pinyin": "li4 shu3"
+        }
+      ],
+      "simplified": "隶属",
+      "simplified_stroke_count": 0,
+      "traditional": "隸屬",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to belong to (a category)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to be attached to"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

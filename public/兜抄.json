@@ -1,0 +1,39 @@
+{
+  "simplified": "兜抄",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dōu chāo",
+          "wade_giles_pinyin": "dou1 chao1"
+        }
+      ],
+      "simplified": "兜抄",
+      "simplified_stroke_count": null,
+      "traditional": "兜抄",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to surround and attack"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to corner"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to envelop"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

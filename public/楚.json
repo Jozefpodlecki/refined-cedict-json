@@ -1,0 +1,49 @@
+{
+  "simplified": "楚",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chǔ",
+          "wade_giles_pinyin": "Chu3"
+        }
+      ],
+      "simplified": "楚",
+      "simplified_stroke_count": 13,
+      "traditional": "楚",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "value": "Hubei 湖北省[Hu2 bei3 Sheng3] and Hunan 湖南省[Hu2 nan2 Sheng3] provinces together",
+          "simplified": "H",
+          "traditional": "ubei 湖北省",
+          "wade_giles_pinyin": "Hu2 bei3 Sheng3"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chǔ",
+          "wade_giles_pinyin": "chu3"
+        }
+      ],
+      "simplified": "楚",
+      "simplified_stroke_count": 13,
+      "traditional": "楚",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "old",
+          "value": "punishment cane"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

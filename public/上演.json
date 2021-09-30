@@ -1,0 +1,33 @@
+{
+  "simplified": "上演",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shàng yǎn",
+          "wade_giles_pinyin": "shang4 yan3"
+        }
+      ],
+      "simplified": "上演",
+      "traditional": "上演",
+      "meanings": [
+        {
+          "value": "to screen (a movie)"
+        },
+        {
+          "value": "to stage (a play)"
+        },
+        {
+          "value": "a screening"
+        },
+        {
+          "value": "a staging"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

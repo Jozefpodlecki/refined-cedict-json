@@ -1,0 +1,26 @@
+{
+  "simplified": "国家安全局",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guó jiā ān quán jú",
+          "wade_giles_pinyin": "Guo2 jia1 An1 quan2 ju2"
+        }
+      ],
+      "simplified": "国家安全局",
+      "traditional": "國家安全局",
+      "meanings": [
+        {
+          "context": "taiwan",
+          "value": "National Security Bureau (NSB)"
+        },
+        {
+          "value": "National Security Agency (NSA) (USA)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

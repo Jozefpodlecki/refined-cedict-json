@@ -1,0 +1,37 @@
+{
+  "simplified": "减压症",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiǎn yā zhèng",
+          "wade_giles_pinyin": "jian3 ya1 zheng4"
+        }
+      ],
+      "simplified": "减压症",
+      "simplified_stroke_count": null,
+      "traditional": "減壓症",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "decompression sickness"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "the bends"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "also 減壓病|减压病[jian3 ya1 bing4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

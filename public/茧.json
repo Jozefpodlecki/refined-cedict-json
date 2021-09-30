@@ -1,0 +1,53 @@
+{
+  "simplified": "茧",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jiǎn",
+          "wade_giles_pinyin": "jian3"
+        }
+      ],
+      "simplified": "茧",
+      "simplified_stroke_count": 12,
+      "traditional": "繭",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "cocoon"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "callus"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jiǎn",
+          "wade_giles_pinyin": "jian3"
+        }
+      ],
+      "simplified": "茧",
+      "simplified_stroke_count": 12,
+      "traditional": "蠒",
+      "traditional_stroke_count": 20,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "繭|茧[jian3]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

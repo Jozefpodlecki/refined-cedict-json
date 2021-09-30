@@ -1,0 +1,34 @@
+{
+  "simplified": "入伙",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rù huǒ",
+          "wade_giles_pinyin": "ru4 huo3"
+        }
+      ],
+      "simplified": "入伙",
+      "simplified_stroke_count": null,
+      "traditional": "入伙",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to join a group"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to become a member"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

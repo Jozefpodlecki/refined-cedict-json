@@ -1,0 +1,28 @@
+{
+  "simplified": "猪流感",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhū liú gǎn",
+          "wade_giles_pinyin": "zhu1 liu2 gan3"
+        }
+      ],
+      "simplified": "猪流感",
+      "traditional": "豬流感",
+      "meanings": [
+        {
+          "value": "swine influenza"
+        },
+        {
+          "value": "swine flu"
+        },
+        {
+          "value": "influenza A (H1N1)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

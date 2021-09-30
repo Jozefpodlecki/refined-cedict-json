@@ -1,0 +1,32 @@
+{
+  "simplified": "历次",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lì cì",
+          "wade_giles_pinyin": "li4 ci4"
+        }
+      ],
+      "simplified": "历次",
+      "simplified_stroke_count": null,
+      "traditional": "歷次",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "each (item in sequence)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "successive"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "宾馆",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bīn guǎn",
+          "wade_giles_pinyin": "bin1 guan3"
+        }
+      ],
+      "simplified": "宾馆",
+      "traditional": "賓館",
+      "meanings": [
+        {
+          "value": "guesthouse"
+        },
+        {
+          "value": "lodge"
+        },
+        {
+          "value": "hotel"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        },
+        {
+          "simplified": "家",
+          "traditional": "",
+          "wade_giles_pinyin": "jia1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

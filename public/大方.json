@@ -1,0 +1,63 @@
+{
+  "simplified": "大方",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dà fāng",
+          "wade_giles_pinyin": "da4 fang1"
+        }
+      ],
+      "simplified": "大方",
+      "traditional": "大方",
+      "meanings": [
+        {
+          "value": "expert"
+        },
+        {
+          "value": "scholar"
+        },
+        {
+          "value": "mother earth"
+        },
+        {
+          "value": "a type of green tea"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dà fang",
+          "wade_giles_pinyin": "da4 fang5"
+        }
+      ],
+      "simplified": "大方",
+      "traditional": "大方",
+      "meanings": [
+        {
+          "value": "generous"
+        },
+        {
+          "value": "magnanimous"
+        },
+        {
+          "value": "stylish"
+        },
+        {
+          "value": "in good taste"
+        },
+        {
+          "value": "easy-mannered"
+        },
+        {
+          "value": "natural and relaxed"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

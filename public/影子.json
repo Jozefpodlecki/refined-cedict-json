@@ -1,0 +1,58 @@
+{
+  "simplified": "影子",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yǐng zi",
+          "wade_giles_pinyin": "ying3 zi5"
+        }
+      ],
+      "simplified": "影子",
+      "simplified_stroke_count": 0,
+      "traditional": "影子",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "shadow"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "reflection"
+        },
+        {
+          "context": "figuratively",
+          "lexical_item": "",
+          "value": "hint"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "indication"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "influence"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:個|个[ge4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

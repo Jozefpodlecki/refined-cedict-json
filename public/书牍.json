@@ -1,0 +1,28 @@
+{
+  "simplified": "书牍",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shū dú",
+          "wade_giles_pinyin": "shu1 du2"
+        }
+      ],
+      "simplified": "书牍",
+      "traditional": "書牘",
+      "meanings": [
+        {
+          "value": "letter"
+        },
+        {
+          "value": "wooden writing strips (arch.)"
+        },
+        {
+          "value": "general term for letters and documents"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

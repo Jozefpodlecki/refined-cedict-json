@@ -1,0 +1,40 @@
+{
+  "simplified": "弹",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dàn",
+          "wade_giles_pinyin": "dan4"
+        }
+      ],
+      "simplified": "弹",
+      "simplified_stroke_count": 11,
+      "traditional": "彈",
+      "traditional_stroke_count": 15,
+      "meanings": [],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tán",
+          "wade_giles_pinyin": "tan2"
+        }
+      ],
+      "simplified": "弹",
+      "simplified_stroke_count": 11,
+      "traditional": "彈",
+      "traditional_stroke_count": 15,
+      "meanings": [],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

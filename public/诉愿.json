@@ -1,0 +1,34 @@
+{
+  "simplified": "诉愿",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sù yuàn",
+          "wade_giles_pinyin": "su4 yuan4"
+        }
+      ],
+      "simplified": "诉愿",
+      "simplified_stroke_count": null,
+      "traditional": "訴願",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to appeal"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "an appeal (law)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

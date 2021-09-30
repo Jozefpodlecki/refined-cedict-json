@@ -1,0 +1,28 @@
+{
+  "simplified": "八音",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bā yīn",
+          "wade_giles_pinyin": "ba1 yin1"
+        }
+      ],
+      "simplified": "八音",
+      "traditional": "八音",
+      "meanings": [
+        {
+          "value": "ancient classification system for musical instruments, based on the material of which the instrument is made (metal 金, stone 石, clay 土, leather 革, silk 絲|丝, wood 木, gourd 匏, bamboo 竹)"
+        },
+        {
+          "value": "the eight kinds of sound produced by instruments in these categories"
+        },
+        {
+          "value": "music"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

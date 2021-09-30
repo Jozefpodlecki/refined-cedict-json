@@ -1,0 +1,32 @@
+{
+  "simplified": "曑",
+  "simplified_stroke_count": 17,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shēn",
+          "wade_giles_pinyin": "shen1"
+        }
+      ],
+      "simplified": "曑",
+      "simplified_stroke_count": 17,
+      "traditional": "曑",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 參|参[shen1]",
+          "simplified": "參",
+          "traditional": "参",
+          "wade_giles_pinyin": "shen1"
+        },
+        {
+          "value": "(constellation)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

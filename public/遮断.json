@@ -1,0 +1,30 @@
+{
+  "simplified": "遮断",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhē duàn",
+          "wade_giles_pinyin": "zhe1 duan4"
+        }
+      ],
+      "simplified": "遮断",
+      "traditional": "遮斷",
+      "meanings": [
+        {
+          "value": "to cut off"
+        },
+        {
+          "value": "to interrupt"
+        },
+        {
+          "value": "to prevent access"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

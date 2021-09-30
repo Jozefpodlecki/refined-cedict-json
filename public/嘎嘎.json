@@ -1,0 +1,32 @@
+{
+  "simplified": "嘎嘎",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gā gā",
+          "wade_giles_pinyin": "ga1 ga1"
+        },
+        {
+          "pinyin": "gā ga",
+          "wade_giles_pinyin": "ga1 ga5"
+        }
+      ],
+      "simplified": "嘎嘎",
+      "traditional": "嘎嘎",
+      "meanings": [
+        {
+          "value": "(onom.) quack"
+        },
+        {
+          "value": "honk"
+        },
+        {
+          "value": "(northern dialect) very"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

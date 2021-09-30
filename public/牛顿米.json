@@ -1,0 +1,27 @@
+{
+  "simplified": "牛顿米",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "niú dùn mǐ",
+          "wade_giles_pinyin": "niu2 dun4 mi3"
+        }
+      ],
+      "simplified": "牛顿米",
+      "simplified_stroke_count": null,
+      "traditional": "牛頓米",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "newton meter, unit of torque (symbol: N⋅m)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

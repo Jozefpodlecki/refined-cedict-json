@@ -1,0 +1,48 @@
+{
+  "simplified": "毡",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhān",
+          "wade_giles_pinyin": "zhan1"
+        }
+      ],
+      "simplified": "毡",
+      "simplified_stroke_count": 9,
+      "traditional": "氈",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "felt (fabric)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhān",
+          "wade_giles_pinyin": "zhan1"
+        }
+      ],
+      "simplified": "毡",
+      "simplified_stroke_count": 9,
+      "traditional": "氊",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 氈|毡[zhan1]",
+          "simplified": "氈",
+          "traditional": "毡",
+          "wade_giles_pinyin": "zhan1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

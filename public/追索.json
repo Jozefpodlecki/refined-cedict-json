@@ -1,0 +1,39 @@
+{
+  "simplified": "追索",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhuī suǒ",
+          "wade_giles_pinyin": "zhui1 suo3"
+        }
+      ],
+      "simplified": "追索",
+      "traditional": "追索",
+      "meanings": [
+        {
+          "value": "to demand payment"
+        },
+        {
+          "value": "to extort"
+        },
+        {
+          "value": "to trace"
+        },
+        {
+          "value": "to seek"
+        },
+        {
+          "value": "to pursue"
+        },
+        {
+          "value": "to explore"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

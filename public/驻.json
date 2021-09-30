@@ -1,0 +1,33 @@
+{
+  "simplified": "驻",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhù",
+          "wade_giles_pinyin": "zhu4"
+        }
+      ],
+      "simplified": "驻",
+      "simplified_stroke_count": 8,
+      "traditional": "駐",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "to halt"
+        },
+        {
+          "value": "to stay"
+        },
+        {
+          "value": "to be stationed (of troops, diplomats etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

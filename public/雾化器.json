@@ -1,0 +1,37 @@
+{
+  "simplified": "雾化器",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wù huà qì",
+          "wade_giles_pinyin": "wu4 hua4 qi4"
+        }
+      ],
+      "simplified": "雾化器",
+      "simplified_stroke_count": null,
+      "traditional": "霧化器",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "nebulizer"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "spray"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "atomizer"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

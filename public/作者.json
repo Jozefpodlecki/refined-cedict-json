@@ -1,0 +1,31 @@
+{
+  "simplified": "作者",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zuò zhě",
+          "wade_giles_pinyin": "zuo4 zhe3"
+        }
+      ],
+      "simplified": "作者",
+      "traditional": "作者",
+      "meanings": [
+        {
+          "value": "author"
+        },
+        {
+          "value": "writer"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

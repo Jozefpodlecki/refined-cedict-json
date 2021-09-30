@@ -1,0 +1,39 @@
+{
+  "simplified": "监视",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jiān shì",
+          "wade_giles_pinyin": "jian1 shi4"
+        }
+      ],
+      "simplified": "监视",
+      "simplified_stroke_count": 0,
+      "traditional": "監視",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to monitor"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to keep a close watch over"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "surveillance"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

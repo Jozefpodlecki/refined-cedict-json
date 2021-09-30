@@ -1,0 +1,30 @@
+{
+  "simplified": "开业",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kāi yè",
+          "wade_giles_pinyin": "kai1 ye4"
+        }
+      ],
+      "simplified": "开业",
+      "traditional": "開業",
+      "meanings": [
+        {
+          "value": "to open a business"
+        },
+        {
+          "value": "to open a practice"
+        },
+        {
+          "value": "open (for business)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

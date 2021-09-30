@@ -1,0 +1,44 @@
+{
+  "simplified": "写作",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xiě zuò",
+          "wade_giles_pinyin": "xie3 zuo4"
+        }
+      ],
+      "simplified": "写作",
+      "simplified_stroke_count": 0,
+      "traditional": "寫作",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to write"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to compose"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "writing"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "written works"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

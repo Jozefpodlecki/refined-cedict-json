@@ -1,0 +1,22 @@
+{
+  "simplified": "记忆器",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jì yì qì",
+          "wade_giles_pinyin": "ji4 yi4 qi4"
+        }
+      ],
+      "simplified": "记忆器",
+      "traditional": "記憶器",
+      "meanings": [
+        {
+          "value": "memristor (memory transistor)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

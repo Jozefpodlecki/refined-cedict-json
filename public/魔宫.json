@@ -1,0 +1,32 @@
+{
+  "simplified": "魔宫",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mó gōng",
+          "wade_giles_pinyin": "mo2 gong1"
+        }
+      ],
+      "simplified": "魔宫",
+      "simplified_stroke_count": null,
+      "traditional": "魔宮",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": null,
+          "value": "devils' castle"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "place occupied by sinister forces"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

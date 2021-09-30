@@ -1,0 +1,27 @@
+{
+  "simplified": "补税",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǔ shuì",
+          "wade_giles_pinyin": "bu3 shui4"
+        }
+      ],
+      "simplified": "补税",
+      "traditional": "補稅",
+      "meanings": [
+        {
+          "value": "to pay a tax one has evaded"
+        },
+        {
+          "value": "to pay an overdue tax"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

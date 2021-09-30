@@ -1,0 +1,52 @@
+{
+  "simplified": "禁用",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jīn yòng",
+          "wade_giles_pinyin": "jin1 yong4"
+        }
+      ],
+      "simplified": "禁用",
+      "traditional": "禁用",
+      "meanings": [
+        {
+          "value": "to withstand heavy use"
+        },
+        {
+          "value": "durable"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jìn yòng",
+          "wade_giles_pinyin": "jin4 yong4"
+        }
+      ],
+      "simplified": "禁用",
+      "traditional": "禁用",
+      "meanings": [
+        {
+          "value": "to prohibit the use of sth"
+        },
+        {
+          "value": "to ban"
+        },
+        {
+          "value": "(computing) to disable"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

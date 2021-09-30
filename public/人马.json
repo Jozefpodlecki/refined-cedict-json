@@ -1,0 +1,37 @@
+{
+  "simplified": "人马",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rén mǎ",
+          "wade_giles_pinyin": "ren2 ma3"
+        }
+      ],
+      "simplified": "人马",
+      "traditional": "人馬",
+      "meanings": [
+        {
+          "value": "men and horses"
+        },
+        {
+          "value": "troops"
+        },
+        {
+          "value": "group of people"
+        },
+        {
+          "value": "troop"
+        },
+        {
+          "value": "staff"
+        },
+        {
+          "value": "centaur"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "腌肉",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yān ròu",
+          "wade_giles_pinyin": "yan1 rou4"
+        }
+      ],
+      "simplified": "腌肉",
+      "traditional": "醃肉",
+      "meanings": [
+        {
+          "value": "salt pork"
+        },
+        {
+          "value": "bacon"
+        },
+        {
+          "value": "marinaded meat"
+        },
+        {
+          "value": "cured meat"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

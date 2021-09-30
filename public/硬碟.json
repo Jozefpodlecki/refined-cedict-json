@@ -1,0 +1,32 @@
+{
+  "simplified": "硬碟",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yìng dié",
+          "wade_giles_pinyin": "ying4 die2"
+        }
+      ],
+      "simplified": "硬碟",
+      "simplified_stroke_count": 0,
+      "traditional": "硬碟",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "taiwan",
+          "lexical_item": "",
+          "value": "hard disk"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "hard drive"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

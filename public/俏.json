@@ -1,0 +1,35 @@
+{
+  "simplified": "俏",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiào",
+          "wade_giles_pinyin": "qiao4"
+        }
+      ],
+      "simplified": "俏",
+      "simplified_stroke_count": 9,
+      "traditional": "俏",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "good-looking"
+        },
+        {
+          "value": "charming"
+        },
+        {
+          "value": "(of goods) in great demand"
+        },
+        {
+          "context": "colloquial",
+          "value": "to season (food)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

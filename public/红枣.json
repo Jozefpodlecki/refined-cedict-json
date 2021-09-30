@@ -1,0 +1,32 @@
+{
+  "simplified": "红枣",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " hóng zǎo",
+          "wade_giles_pinyin": "hong2 zao3"
+        }
+      ],
+      "simplified": "红枣",
+      "simplified_stroke_count": 0,
+      "traditional": "紅棗",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "jujube"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "red date"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

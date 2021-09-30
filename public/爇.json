@@ -1,0 +1,62 @@
+{
+  "simplified": "爇",
+  "simplified_stroke_count": 19,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " rè",
+          "wade_giles_pinyin": "re4"
+        }
+      ],
+      "simplified": "爇",
+      "simplified_stroke_count": 19,
+      "traditional": "爇",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "heat"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to burn"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " ruò",
+          "wade_giles_pinyin": "ruo4"
+        }
+      ],
+      "simplified": "爇",
+      "simplified_stroke_count": 19,
+      "traditional": "爇",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "burn"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "heat"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

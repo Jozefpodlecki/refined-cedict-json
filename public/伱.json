@@ -1,0 +1,32 @@
+{
+  "simplified": "伱",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nǐ",
+          "wade_giles_pinyin": "ni3"
+        }
+      ],
+      "simplified": "伱",
+      "simplified_stroke_count": 7,
+      "traditional": "伱",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "archaic variant of 你[ni3]",
+          "simplified": "a",
+          "traditional": "rchaic  你",
+          "wade_giles_pinyin": "ni3"
+        },
+        {
+          "value": "you"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

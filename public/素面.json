@@ -1,0 +1,42 @@
+{
+  "simplified": "素面",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sù miàn",
+          "wade_giles_pinyin": "su4 mian4"
+        }
+      ],
+      "simplified": "素面",
+      "traditional": "素面",
+      "meanings": [
+        {
+          "value": "face (of a woman) without makeup"
+        },
+        {
+          "value": "solid color (unpatterned)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sù miàn",
+          "wade_giles_pinyin": "su4 mian4"
+        }
+      ],
+      "simplified": "素面",
+      "traditional": "素麵",
+      "meanings": [
+        {
+          "value": "vegetable noodle dish"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

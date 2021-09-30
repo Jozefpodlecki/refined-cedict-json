@@ -1,0 +1,74 @@
+{
+  "simplified": "落空",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lào kōng",
+          "wade_giles_pinyin": "lao4 kong1"
+        }
+      ],
+      "simplified": "落空",
+      "traditional": "落空",
+      "meanings": [
+        {
+          "value": "to fail to achieve something"
+        },
+        {
+          "value": "to be fruitless"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "luò kōng",
+          "wade_giles_pinyin": "luo4 kong1"
+        }
+      ],
+      "simplified": "落空",
+      "traditional": "落空",
+      "meanings": [
+        {
+          "value": "to fail"
+        },
+        {
+          "value": "to fall through"
+        },
+        {
+          "value": "to come to nothing"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "luò kòng",
+          "wade_giles_pinyin": "luo4 kong4"
+        }
+      ],
+      "simplified": "落空",
+      "traditional": "落空",
+      "meanings": [
+        {
+          "value": "to omit"
+        },
+        {
+          "value": "to neglect"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

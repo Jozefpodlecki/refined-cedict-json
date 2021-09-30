@@ -1,0 +1,54 @@
+{
+  "simplified": "婀",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "e1",
+          "wade_giles_pinyin": "e1"
+        }
+      ],
+      "simplified": "婀",
+      "simplified_stroke_count": 11,
+      "traditional": "娿",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 婀[e1]",
+          "simplified": "婀",
+          "traditional": "",
+          "wade_giles_pinyin": "e1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "e1",
+          "wade_giles_pinyin": "e1"
+        }
+      ],
+      "simplified": "婀",
+      "simplified_stroke_count": 11,
+      "traditional": "婀",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "graceful"
+        },
+        {
+          "value": "willowy"
+        },
+        {
+          "value": "unstable"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

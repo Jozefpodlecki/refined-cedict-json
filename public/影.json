@@ -1,0 +1,46 @@
+{
+  "simplified": "影",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǐng",
+          "wade_giles_pinyin": "ying3"
+        }
+      ],
+      "simplified": "影",
+      "simplified_stroke_count": 15,
+      "traditional": "影",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "picture"
+        },
+        {
+          "value": "image"
+        },
+        {
+          "value": "film"
+        },
+        {
+          "value": "movie"
+        },
+        {
+          "value": "photograph"
+        },
+        {
+          "value": "reflection"
+        },
+        {
+          "value": "shadow"
+        },
+        {
+          "value": "trace"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

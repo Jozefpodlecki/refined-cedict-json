@@ -1,0 +1,36 @@
+{
+  "simplified": "熏陶",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xūn táo",
+          "wade_giles_pinyin": "xun1 tao2"
+        }
+      ],
+      "simplified": "熏陶",
+      "traditional": "薰陶",
+      "meanings": [
+        {
+          "value": "to seep in"
+        },
+        {
+          "value": "to influence"
+        },
+        {
+          "value": "to nurture"
+        },
+        {
+          "value": "influence"
+        },
+        {
+          "value": "training"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

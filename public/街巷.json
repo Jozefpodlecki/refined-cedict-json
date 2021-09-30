@@ -1,0 +1,28 @@
+{
+  "simplified": "街巷",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiē xiàng",
+          "wade_giles_pinyin": "jie1 xiang4"
+        }
+      ],
+      "simplified": "街巷",
+      "traditional": "街巷",
+      "meanings": [
+        {
+          "value": "streets and alleys"
+        },
+        {
+          "value": "street"
+        },
+        {
+          "value": "alley"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

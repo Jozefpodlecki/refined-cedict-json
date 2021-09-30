@@ -1,0 +1,30 @@
+{
+  "simplified": "拐弯",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guǎi wān",
+          "wade_giles_pinyin": "guai3 wan1"
+        }
+      ],
+      "simplified": "拐弯",
+      "traditional": "拐彎",
+      "meanings": [
+        {
+          "value": "to go round a curve"
+        },
+        {
+          "value": "to turn a corner"
+        },
+        {
+          "value": "fig. a new direction"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

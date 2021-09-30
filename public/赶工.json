@@ -1,0 +1,34 @@
+{
+  "simplified": "赶工",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " gǎn gōng",
+          "wade_giles_pinyin": "gan3 gong1"
+        }
+      ],
+      "simplified": "赶工",
+      "simplified_stroke_count": 0,
+      "traditional": "趕工",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to work against the clock"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to hurry with work to get it done in time"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

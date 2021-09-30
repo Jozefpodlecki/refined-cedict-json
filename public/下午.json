@@ -1,0 +1,31 @@
+{
+  "simplified": "下午",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xià wǔ",
+          "wade_giles_pinyin": "xia4 wu3"
+        }
+      ],
+      "simplified": "下午",
+      "traditional": "下午",
+      "meanings": [
+        {
+          "value": "afternoon"
+        },
+        {
+          "value": "p.m."
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

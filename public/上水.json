@@ -1,0 +1,52 @@
+{
+  "simplified": "上水",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shàng shuǐ",
+          "wade_giles_pinyin": "Shang4 shui3"
+        }
+      ],
+      "simplified": "上水",
+      "traditional": "上水",
+      "meanings": [
+        {
+          "value": "Sheung Shui (area in Hong Kong)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shàng shuǐ",
+          "wade_giles_pinyin": "shang4 shui3"
+        }
+      ],
+      "simplified": "上水",
+      "traditional": "上水",
+      "meanings": [
+        {
+          "value": "upper reaches (of a river)"
+        },
+        {
+          "value": "to go upstream"
+        },
+        {
+          "value": "to add some water"
+        },
+        {
+          "value": "to water (a crop etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

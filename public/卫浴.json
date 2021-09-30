@@ -1,0 +1,25 @@
+{
+  "simplified": "卫浴",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "weì yù",
+          "wade_giles_pinyin": "wei4 yu4"
+        }
+      ],
+      "simplified": "卫浴",
+      "traditional": "衛浴",
+      "meanings": [
+        {
+          "value": "sanitary (related to toilet and bathroom)"
+        },
+        {
+          "value": "bathroom"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

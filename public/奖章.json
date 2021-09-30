@@ -1,0 +1,28 @@
+{
+  "simplified": "奖章",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiǎng zhāng",
+          "wade_giles_pinyin": "jiang3 zhang1"
+        }
+      ],
+      "simplified": "奖章",
+      "traditional": "獎章",
+      "meanings": [
+        {
+          "value": "medal"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "枚",
+          "traditional": "",
+          "wade_giles_pinyin": "mei2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

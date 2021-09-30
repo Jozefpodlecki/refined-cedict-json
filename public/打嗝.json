@@ -1,0 +1,39 @@
+{
+  "simplified": "打嗝",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dǎ gé",
+          "wade_giles_pinyin": "da3 ge2"
+        }
+      ],
+      "simplified": "打嗝",
+      "simplified_stroke_count": null,
+      "traditional": "打嗝",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to hiccup"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to belch"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to burp"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "simplified": "记号",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jì hao",
+          "wade_giles_pinyin": "ji4 hao5"
+        }
+      ],
+      "simplified": "记号",
+      "simplified_stroke_count": null,
+      "traditional": "記號",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "mark"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "symbol"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "notation"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "seal"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

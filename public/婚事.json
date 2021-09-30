@@ -1,0 +1,36 @@
+{
+  "simplified": "婚事",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hūn shì",
+          "wade_giles_pinyin": "hun1 shi4"
+        }
+      ],
+      "simplified": "婚事",
+      "traditional": "婚事",
+      "meanings": [
+        {
+          "value": "wedding"
+        },
+        {
+          "value": "marriage"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "門",
+          "traditional": "门",
+          "wade_giles_pinyin": "men2"
+        },
+        {
+          "simplified": "樁",
+          "traditional": "桩",
+          "wade_giles_pinyin": "zhuang1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

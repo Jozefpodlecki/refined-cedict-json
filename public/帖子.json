@@ -1,0 +1,31 @@
+{
+  "simplified": "帖子",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tiě zi",
+          "wade_giles_pinyin": "tie3 zi5"
+        }
+      ],
+      "simplified": "帖子",
+      "traditional": "帖子",
+      "meanings": [
+        {
+          "value": "card"
+        },
+        {
+          "value": "invitation"
+        },
+        {
+          "value": "message"
+        },
+        {
+          "value": "(forum) post"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

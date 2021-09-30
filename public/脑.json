@@ -1,0 +1,34 @@
+{
+  "simplified": "脑",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nǎo",
+          "wade_giles_pinyin": "nao3"
+        }
+      ],
+      "simplified": "脑",
+      "simplified_stroke_count": 10,
+      "traditional": "腦",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "brain"
+        },
+        {
+          "value": "mind"
+        },
+        {
+          "value": "head"
+        },
+        {
+          "value": "essence"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

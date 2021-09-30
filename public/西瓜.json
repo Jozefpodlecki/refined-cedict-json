@@ -1,0 +1,34 @@
+{
+  "simplified": "西瓜",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xī guā",
+          "wade_giles_pinyin": "xi1 gua1"
+        }
+      ],
+      "simplified": "西瓜",
+      "traditional": "西瓜",
+      "meanings": [],
+      "classifiers": [
+        {
+          "simplified": "顆",
+          "traditional": "颗",
+          "wade_giles_pinyin": "ke1"
+        },
+        {
+          "simplified": "粒",
+          "traditional": "",
+          "wade_giles_pinyin": "li4"
+        },
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge5"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

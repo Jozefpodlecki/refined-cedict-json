@@ -1,0 +1,30 @@
+{
+  "simplified": "救助",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiù zhù",
+          "wade_giles_pinyin": "jiu4 zhu4"
+        }
+      ],
+      "simplified": "救助",
+      "traditional": "救助",
+      "meanings": [
+        {
+          "value": "to help sb in trouble"
+        },
+        {
+          "value": "aid"
+        },
+        {
+          "value": "assistance"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "simplified": "悠闲",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yōu xián",
+          "wade_giles_pinyin": "you1 xian2"
+        }
+      ],
+      "simplified": "悠闲",
+      "traditional": "悠閑",
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "悠閒|悠闲"
+        },
+        {
+          "value": "leisurely"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yōu xián",
+          "wade_giles_pinyin": "you1 xian2"
+        }
+      ],
+      "simplified": "悠闲",
+      "traditional": "悠閒",
+      "meanings": [
+        {
+          "value": "leisurely"
+        },
+        {
+          "value": "carefree"
+        },
+        {
+          "value": "relaxed"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

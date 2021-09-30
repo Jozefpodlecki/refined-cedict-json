@@ -1,0 +1,42 @@
+{
+  "simplified": "感觉",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gǎn jué",
+          "wade_giles_pinyin": "gan3 jue2"
+        }
+      ],
+      "simplified": "感觉",
+      "traditional": "感覺",
+      "meanings": [
+        {
+          "value": "to feel"
+        },
+        {
+          "value": "to become aware of"
+        },
+        {
+          "value": "feeling"
+        },
+        {
+          "value": "sense"
+        },
+        {
+          "value": "perception"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

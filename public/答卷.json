@@ -1,0 +1,36 @@
+{
+  "simplified": "答卷",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dá juàn",
+          "wade_giles_pinyin": "da2 juan4"
+        }
+      ],
+      "simplified": "答卷",
+      "traditional": "答卷",
+      "meanings": [
+        {
+          "value": "completed examination paper"
+        },
+        {
+          "value": "answer sheet"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "份",
+          "traditional": "",
+          "wade_giles_pinyin": "fen4"
+        },
+        {
+          "simplified": "張",
+          "traditional": "张",
+          "wade_giles_pinyin": "zhang1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

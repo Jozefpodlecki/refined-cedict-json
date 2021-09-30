@@ -1,0 +1,32 @@
+{
+  "simplified": "汽船",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " qì chuán",
+          "wade_giles_pinyin": "qi4 chuan2"
+        }
+      ],
+      "simplified": "汽船",
+      "simplified_stroke_count": 0,
+      "traditional": "汽船",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "steamboat"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "steamship"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

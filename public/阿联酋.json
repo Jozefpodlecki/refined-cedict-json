@@ -1,0 +1,32 @@
+{
+  "simplified": "阿联酋",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ā lián qiú",
+          "wade_giles_pinyin": "A1 lian2 qiu2"
+        }
+      ],
+      "simplified": "阿联酋",
+      "simplified_stroke_count": null,
+      "traditional": "阿聯酋",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "United Arab Emirates"
+        },
+        {
+          "context": "abbreviation",
+          "lexical_item": null,
+          "value": "阿拉伯聯合酋長國|阿拉伯联合酋长国[A1 la1 bo2 Lian2 he2 Qiu2 zhang3 guo2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

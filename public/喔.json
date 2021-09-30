@@ -1,0 +1,47 @@
+{
+  "simplified": "喔",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ō​",
+          "wade_giles_pinyin": "o1"
+        }
+      ],
+      "simplified": "喔",
+      "simplified_stroke_count": 12,
+      "traditional": "喔",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "I see"
+        },
+        {
+          "value": "oh"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wo",
+          "wade_giles_pinyin": "wo5"
+        }
+      ],
+      "simplified": "喔",
+      "simplified_stroke_count": 12,
+      "traditional": "喔",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "(particle) marker of surprise, sudden realization, reminder"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

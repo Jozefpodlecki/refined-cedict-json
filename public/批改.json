@@ -1,0 +1,36 @@
+{
+  "simplified": "批改",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pī gǎi",
+          "wade_giles_pinyin": "pi1 gai3"
+        }
+      ],
+      "simplified": "批改",
+      "traditional": "批改",
+      "meanings": [
+        {
+          "value": "to mark (homework, exam scripts etc)"
+        },
+        {
+          "value": "to correct and criticize (an article)"
+        },
+        {
+          "value": "to check"
+        },
+        {
+          "value": "to correct"
+        },
+        {
+          "value": "a correction (to a piece of writing)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

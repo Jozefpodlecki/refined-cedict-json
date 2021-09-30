@@ -1,0 +1,40 @@
+{
+  "simplified": "露台",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lù tái",
+          "wade_giles_pinyin": "lu4 tai2"
+        }
+      ],
+      "simplified": "露台",
+      "traditional": "露臺",
+      "meanings": [
+        {
+          "value": "balcony"
+        },
+        {
+          "value": "patio"
+        },
+        {
+          "value": "flat roof"
+        },
+        {
+          "value": "terrace"
+        },
+        {
+          "value": "deck (unroofed platform)"
+        },
+        {
+          "value": "outdoor stage"
+        },
+        {
+          "value": "ancient imperial celestial observation terrace"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

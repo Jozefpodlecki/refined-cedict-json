@@ -1,0 +1,27 @@
+{
+  "simplified": "一卡通",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yī kǎ tōng",
+          "wade_giles_pinyin": "Yi1 ka3 tong1"
+        }
+      ],
+      "simplified": "一卡通",
+      "simplified_stroke_count": 0,
+      "traditional": "一卡通",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "the name of various contactless smartcards, notably Yikatong (mainly for public transport in Beijing) and iPASS (mainly for public transport in Taiwan)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "使馆",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shǐ guǎn",
+          "wade_giles_pinyin": "shi3 guan3"
+        }
+      ],
+      "simplified": "使馆",
+      "simplified_stroke_count": 0,
+      "traditional": "使館",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "consulate"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "diplomatic mission"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

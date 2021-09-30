@@ -1,0 +1,48 @@
+{
+  "simplified": "瘥",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chài",
+          "wade_giles_pinyin": "chai4"
+        }
+      ],
+      "simplified": "瘥",
+      "simplified_stroke_count": 15,
+      "traditional": "瘥",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "to recover from disease"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cuó",
+          "wade_giles_pinyin": "cuo2"
+        }
+      ],
+      "simplified": "瘥",
+      "simplified_stroke_count": 15,
+      "traditional": "瘥",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "disease"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

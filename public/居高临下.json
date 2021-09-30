@@ -1,0 +1,37 @@
+{
+  "simplified": "居高临下",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jū gāo lín xià",
+          "wade_giles_pinyin": "ju1 gao1 lin2 xia4"
+        }
+      ],
+      "simplified": "居高临下",
+      "traditional": "居高臨下",
+      "meanings": [
+        {
+          "lexical_item": "idiom",
+          "value": "to live high and look down"
+        },
+        {
+          "value": "to overlook"
+        },
+        {
+          "value": "to tower above"
+        },
+        {
+          "value": "to occupy the high ground"
+        },
+        {
+          "value": "fig. arrogance based on one's social position"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

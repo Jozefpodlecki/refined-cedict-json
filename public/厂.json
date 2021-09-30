@@ -1,0 +1,73 @@
+{
+  "simplified": "厂",
+  "simplified_stroke_count": 2,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " hǎn",
+          "wade_giles_pinyin": "han3"
+        }
+      ],
+      "simplified": "厂",
+      "simplified_stroke_count": 2,
+      "traditional": "厂",
+      "traditional_stroke_count": 2,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "\"cliff\" radical in Chinese characters (Kangxi radical 27), occurring in 原, 历, 压 etc"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chǎng",
+          "wade_giles_pinyin": "chang3"
+        }
+      ],
+      "simplified": "厂",
+      "simplified_stroke_count": 2,
+      "traditional": "廠",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "factory"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "yard"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "depot"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "workhouse"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "works"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(industrial) plant"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

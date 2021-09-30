@@ -1,0 +1,54 @@
+{
+  "simplified": "畜",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chù",
+          "wade_giles_pinyin": "chu4"
+        }
+      ],
+      "simplified": "畜",
+      "simplified_stroke_count": 10,
+      "traditional": "畜",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "livestock"
+        },
+        {
+          "value": "domesticated animal"
+        },
+        {
+          "value": "domestic animal"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xù",
+          "wade_giles_pinyin": "xu4"
+        }
+      ],
+      "simplified": "畜",
+      "simplified_stroke_count": 10,
+      "traditional": "畜",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "to raise (animals)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

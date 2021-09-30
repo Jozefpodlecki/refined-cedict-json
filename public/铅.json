@@ -1,0 +1,52 @@
+{
+  "simplified": "铅",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiān",
+          "wade_giles_pinyin": "qian1"
+        }
+      ],
+      "simplified": "铅",
+      "simplified_stroke_count": 10,
+      "traditional": "鈆",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "old variant",
+          "lexical_item": null,
+          "value": "鉛|铅[qian1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "chemical elements"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiān",
+          "wade_giles_pinyin": "qian1"
+        }
+      ],
+      "simplified": "铅",
+      "simplified_stroke_count": 10,
+      "traditional": "鉛",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "lead (chemistry)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "chemical elements"
+      ]
+    }
+  ]
+}

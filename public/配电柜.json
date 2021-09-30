@@ -1,0 +1,32 @@
+{
+  "simplified": "配电柜",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " pèi diàn guì",
+          "wade_giles_pinyin": "pei4 dian4 gui4"
+        }
+      ],
+      "simplified": "配电柜",
+      "simplified_stroke_count": 0,
+      "traditional": "配電櫃",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "power cabinet"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "switch box"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

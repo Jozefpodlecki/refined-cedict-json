@@ -1,0 +1,27 @@
+{
+  "simplified": "鸣号",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "míng hào",
+          "wade_giles_pinyin": "ming2 hao4"
+        }
+      ],
+      "simplified": "鸣号",
+      "traditional": "鳴號",
+      "meanings": [
+        {
+          "value": "to sound the horn"
+        },
+        {
+          "value": "to honk"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

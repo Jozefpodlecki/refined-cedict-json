@@ -1,0 +1,26 @@
+{
+  "simplified": "家语",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiā yǔ",
+          "wade_giles_pinyin": "Jia1 yu3"
+        }
+      ],
+      "simplified": "家语",
+      "traditional": "家語",
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "value": "The School Sayings of Confucius ( 孔子家語|孔子家语[Kong3 zi3 Jia1 yu3])",
+          "simplified": "T",
+          "traditional": "he School Sayings of Confucius ( 孔子家語|孔子家语",
+          "wade_giles_pinyin": "Kong3 zi3 Jia1 yu3"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "simplified": "加",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiā",
+          "wade_giles_pinyin": "Jia1"
+        }
+      ],
+      "simplified": "加",
+      "simplified_stroke_count": 5,
+      "traditional": "加",
+      "traditional_stroke_count": 5,
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "value": "Canada 加拿大[Jia1 na2 da4]",
+          "simplified": "C",
+          "traditional": "anada 加拿大",
+          "wade_giles_pinyin": "Jia1 na2 da4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiā",
+          "wade_giles_pinyin": "jia1"
+        }
+      ],
+      "simplified": "加",
+      "simplified_stroke_count": 5,
+      "traditional": "加",
+      "traditional_stroke_count": 5,
+      "meanings": [],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "冻结",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dòng jié",
+          "wade_giles_pinyin": "dong4 jie2"
+        }
+      ],
+      "simplified": "冻结",
+      "simplified_stroke_count": 0,
+      "traditional": "凍結",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to freeze (water etc)"
+        },
+        {
+          "context": "figuratively",
+          "lexical_item": "",
+          "value": "to freeze (assets, prices etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

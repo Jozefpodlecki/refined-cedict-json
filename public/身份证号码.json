@@ -1,0 +1,22 @@
+{
+  "simplified": "身份证号码",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shēn fèn zhèng hào mǎ",
+          "wade_giles_pinyin": "shen1 fen4 zheng4 hao4 ma3"
+        }
+      ],
+      "simplified": "身份证号码",
+      "traditional": "身份證號碼",
+      "meanings": [
+        {
+          "value": "I.D. number"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

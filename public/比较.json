@@ -1,0 +1,40 @@
+{
+  "simplified": "比较",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǐ jiào",
+          "wade_giles_pinyin": "bi3 jiao4"
+        }
+      ],
+      "simplified": "比较",
+      "traditional": "比較",
+      "meanings": [
+        {
+          "value": "to compare"
+        },
+        {
+          "value": "to contrast"
+        },
+        {
+          "value": "comparatively"
+        },
+        {
+          "value": "relatively"
+        },
+        {
+          "value": "quite"
+        },
+        {
+          "value": "comparison"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "adverb",
+        "verb"
+      ]
+    }
+  ]
+}

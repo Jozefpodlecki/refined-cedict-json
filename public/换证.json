@@ -1,0 +1,27 @@
+{
+  "simplified": "换证",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huàn zhèng",
+          "wade_giles_pinyin": "huan4 zheng4"
+        }
+      ],
+      "simplified": "换证",
+      "traditional": "換證",
+      "meanings": [
+        {
+          "value": "to renew a certificate (ID card etc)"
+        },
+        {
+          "value": "to leave an ID at the desk to gain entrance"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

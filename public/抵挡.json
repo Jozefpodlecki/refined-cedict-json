@@ -1,0 +1,36 @@
+{
+  "simplified": "抵挡",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dǐ dǎng",
+          "wade_giles_pinyin": "di3 dang3"
+        }
+      ],
+      "simplified": "抵挡",
+      "traditional": "抵擋",
+      "meanings": [
+        {
+          "value": "to resist"
+        },
+        {
+          "value": "to hold back"
+        },
+        {
+          "value": "to stop"
+        },
+        {
+          "value": "to ward off"
+        },
+        {
+          "value": "to withstand"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

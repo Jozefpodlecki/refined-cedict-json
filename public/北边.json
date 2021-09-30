@@ -1,0 +1,44 @@
+{
+  "simplified": "北边",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " běi biān",
+          "wade_giles_pinyin": "bei3 bian1"
+        }
+      ],
+      "simplified": "北边",
+      "simplified_stroke_count": 0,
+      "traditional": "北邊",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "north"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "north side"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "northern part"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to the north of"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

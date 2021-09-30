@@ -1,0 +1,32 @@
+{
+  "simplified": "逆断层",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nì duàn céng",
+          "wade_giles_pinyin": "ni4 duan4 ceng2"
+        }
+      ],
+      "simplified": "逆断层",
+      "simplified_stroke_count": null,
+      "traditional": "逆斷層",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "reverse fault (geology)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "compression fault, where one block pushes over the other at dip of less than 45 degrees"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "simplified": "花茶",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huā chá",
+          "wade_giles_pinyin": "hua1 cha2"
+        }
+      ],
+      "simplified": "花茶",
+      "traditional": "花茶",
+      "meanings": [
+        {
+          "value": "scented tea"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "杯",
+          "traditional": "",
+          "wade_giles_pinyin": "bei1"
+        },
+        {
+          "simplified": "壺",
+          "traditional": "壶",
+          "wade_giles_pinyin": "hu2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

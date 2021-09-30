@@ -1,0 +1,51 @@
+{
+  "simplified": "蹄",
+  "simplified_stroke_count": 16,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tí",
+          "wade_giles_pinyin": "ti2"
+        }
+      ],
+      "simplified": "蹄",
+      "simplified_stroke_count": 16,
+      "traditional": "蹄",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "hoof"
+        },
+        {
+          "value": "pig's trotters"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tí",
+          "wade_giles_pinyin": "ti2"
+        }
+      ],
+      "simplified": "蹄",
+      "simplified_stroke_count": 16,
+      "traditional": "蹏",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 蹄[ti2]",
+          "simplified": "蹄",
+          "traditional": "",
+          "wade_giles_pinyin": "ti2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

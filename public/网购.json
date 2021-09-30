@@ -1,0 +1,27 @@
+{
+  "simplified": "网购",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wǎng gòu",
+          "wade_giles_pinyin": "wang3 gou4"
+        }
+      ],
+      "simplified": "网购",
+      "traditional": "網購",
+      "meanings": [
+        {
+          "value": "Internet shopping"
+        },
+        {
+          "value": "to purchase online"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

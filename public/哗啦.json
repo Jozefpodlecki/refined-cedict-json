@@ -1,0 +1,46 @@
+{
+  "simplified": "哗啦",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huā lā",
+          "wade_giles_pinyin": "hua1 la1"
+        }
+      ],
+      "simplified": "哗啦",
+      "traditional": "嘩啦",
+      "meanings": [
+        {
+          "value": "(onom.) sound of a crash"
+        },
+        {
+          "value": "with a crash"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huá la",
+          "wade_giles_pinyin": "hua2 la5"
+        }
+      ],
+      "simplified": "哗啦",
+      "traditional": "嘩啦",
+      "meanings": [
+        {
+          "value": "to collapse"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

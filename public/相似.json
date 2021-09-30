@@ -1,0 +1,36 @@
+{
+  "simplified": "相似",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiāng sì",
+          "wade_giles_pinyin": "xiang1 si4"
+        }
+      ],
+      "simplified": "相似",
+      "traditional": "相似",
+      "meanings": [
+        {
+          "value": "to resemble"
+        },
+        {
+          "value": "similar"
+        },
+        {
+          "value": "like"
+        },
+        {
+          "value": "resemblance"
+        },
+        {
+          "value": "similarity"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

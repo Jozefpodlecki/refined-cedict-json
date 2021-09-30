@@ -1,0 +1,30 @@
+{
+  "simplified": "放哨",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fàng shào",
+          "wade_giles_pinyin": "fang4 shao4"
+        }
+      ],
+      "simplified": "放哨",
+      "traditional": "放哨",
+      "meanings": [
+        {
+          "value": "to keep watch"
+        },
+        {
+          "value": "to do sentry duty"
+        },
+        {
+          "value": "to be on patrol"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

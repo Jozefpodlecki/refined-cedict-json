@@ -1,0 +1,48 @@
+{
+  "simplified": "舞会",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " wǔ huì",
+          "wade_giles_pinyin": "wu3 hui4"
+        }
+      ],
+      "simplified": "舞会",
+      "simplified_stroke_count": 0,
+      "traditional": "舞會",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "dance"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "ball"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "party"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:場|场[chang3]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "場",
+          "traditional": "场",
+          "wade_giles_pinyin": "chang3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

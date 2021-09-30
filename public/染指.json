@@ -1,0 +1,32 @@
+{
+  "simplified": "染指",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rǎn zhǐ",
+          "wade_giles_pinyin": "ran3 zhi3"
+        }
+      ],
+      "simplified": "染指",
+      "traditional": "染指",
+      "meanings": [
+        {
+          "lexical_item": "idiom",
+          "value": "to dip a finger ; fig. to get one's finger in the pie"
+        },
+        {
+          "value": "to get a share of the action"
+        },
+        {
+          "context": "abbreviation",
+          "value": "染指於鼎|染指于鼎"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

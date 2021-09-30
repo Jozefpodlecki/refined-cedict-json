@@ -1,0 +1,39 @@
+{
+  "simplified": "摒挡",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bìng dàng",
+          "wade_giles_pinyin": "bing4 dang4"
+        }
+      ],
+      "simplified": "摒挡",
+      "simplified_stroke_count": null,
+      "traditional": "摒擋",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to put in order"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to arrange (literary)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "cuisine"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

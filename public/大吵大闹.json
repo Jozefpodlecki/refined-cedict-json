@@ -1,0 +1,28 @@
+{
+  "simplified": "大吵大闹",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dà chǎo dà nào",
+          "wade_giles_pinyin": "da4 chao3 da4 nao4"
+        }
+      ],
+      "simplified": "大吵大闹",
+      "traditional": "大吵大鬧",
+      "meanings": [
+        {
+          "lexical_item": "idiom",
+          "value": "to shout and scream ; to kick up a fuss"
+        },
+        {
+          "value": "to make a scene"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

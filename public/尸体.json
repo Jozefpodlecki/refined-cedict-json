@@ -1,0 +1,34 @@
+{
+  "simplified": "尸体",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shī tǐ",
+          "wade_giles_pinyin": "shi1 ti3"
+        }
+      ],
+      "simplified": "尸体",
+      "traditional": "屍體",
+      "meanings": [
+        {
+          "value": "dead body"
+        },
+        {
+          "value": "corpse"
+        },
+        {
+          "value": "carcass"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "具",
+          "traditional": "",
+          "wade_giles_pinyin": "ju4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

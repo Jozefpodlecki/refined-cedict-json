@@ -1,0 +1,68 @@
+{
+  "simplified": "胸",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xiōng",
+          "wade_giles_pinyin": "xiong1"
+        }
+      ],
+      "simplified": "胸",
+      "simplified_stroke_count": 10,
+      "traditional": "胷",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "胸[xiong1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xiōng",
+          "wade_giles_pinyin": "xiong1"
+        }
+      ],
+      "simplified": "胸",
+      "simplified_stroke_count": 10,
+      "traditional": "胸",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "chest"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "bosom"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "heart"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "mind"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "thorax"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

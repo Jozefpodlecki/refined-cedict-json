@@ -1,0 +1,48 @@
+{
+  "simplified": "末日",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mò rì",
+          "wade_giles_pinyin": "Mo4 ri4"
+        }
+      ],
+      "simplified": "末日",
+      "traditional": "末日",
+      "meanings": [
+        {
+          "value": "Judgment Day (in Christian eschatology)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mò rì",
+          "wade_giles_pinyin": "mo4 ri4"
+        }
+      ],
+      "simplified": "末日",
+      "traditional": "末日",
+      "meanings": [
+        {
+          "value": "last day"
+        },
+        {
+          "value": "end"
+        },
+        {
+          "value": "final days"
+        },
+        {
+          "value": "doomsday"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

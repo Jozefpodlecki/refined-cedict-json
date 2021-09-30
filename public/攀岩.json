@@ -1,0 +1,27 @@
+{
+  "simplified": "攀岩",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pān yán",
+          "wade_giles_pinyin": "pan1 yan2"
+        }
+      ],
+      "simplified": "攀岩",
+      "traditional": "攀岩",
+      "meanings": [
+        {
+          "value": "rock climbing"
+        },
+        {
+          "value": "to climb a rockface"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

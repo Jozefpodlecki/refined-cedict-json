@@ -1,0 +1,45 @@
+{
+  "simplified": "制服",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhì fú",
+          "wade_giles_pinyin": "zhi4 fu2"
+        }
+      ],
+      "simplified": "制服",
+      "traditional": "制服",
+      "meanings": [
+        {
+          "value": "to subdue"
+        },
+        {
+          "value": "to check"
+        },
+        {
+          "value": "to bring under control"
+        },
+        {
+          "value": "(in former times) what one is allowed to wear depending on social status"
+        },
+        {
+          "value": "uniform (army, party, school etc)"
+        },
+        {
+          "value": "livery (for company employees)"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "套",
+          "traditional": "",
+          "wade_giles_pinyin": "tao4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

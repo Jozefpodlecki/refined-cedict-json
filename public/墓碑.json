@@ -1,0 +1,32 @@
+{
+  "simplified": "墓碑",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " mù bēi",
+          "wade_giles_pinyin": "mu4 bei1"
+        }
+      ],
+      "simplified": "墓碑",
+      "simplified_stroke_count": 0,
+      "traditional": "墓碑",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "gravestone"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "tombstone"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

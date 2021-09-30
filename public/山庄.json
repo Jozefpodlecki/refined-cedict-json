@@ -1,0 +1,28 @@
+{
+  "simplified": "山庄",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shān zhuāng",
+          "wade_giles_pinyin": "shan1 zhuang1"
+        }
+      ],
+      "simplified": "山庄",
+      "traditional": "山莊",
+      "meanings": [
+        {
+          "value": "manor house"
+        },
+        {
+          "value": "villa"
+        },
+        {
+          "value": "(used in hotel names)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "simplified": "饭店",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fàn diàn",
+          "wade_giles_pinyin": "fan4 dian4"
+        }
+      ],
+      "simplified": "饭店",
+      "simplified_stroke_count": 0,
+      "traditional": "飯店",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "restaurant"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "hotel"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:家[jia1],個|个[ge4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "家",
+          "traditional": "",
+          "wade_giles_pinyin": "jia1"
+        },
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

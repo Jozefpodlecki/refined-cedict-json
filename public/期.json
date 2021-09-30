@@ -1,0 +1,82 @@
+{
+  "simplified": "期",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qī",
+          "wade_giles_pinyin": "qi1"
+        }
+      ],
+      "simplified": "期",
+      "simplified_stroke_count": 12,
+      "traditional": "朞",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 期[qi1]",
+          "simplified": "期",
+          "traditional": "",
+          "wade_giles_pinyin": "qi1"
+        },
+        {
+          "value": "period"
+        },
+        {
+          "value": "cycle"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qī",
+          "wade_giles_pinyin": "qi1"
+        }
+      ],
+      "simplified": "期",
+      "simplified_stroke_count": 12,
+      "traditional": "期",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "a period of time"
+        },
+        {
+          "value": "phase"
+        },
+        {
+          "value": "stage"
+        },
+        {
+          "value": "classifier for issues of a periodical, courses of study"
+        },
+        {
+          "value": "time"
+        },
+        {
+          "value": "term"
+        },
+        {
+          "value": "period"
+        },
+        {
+          "value": "to hope"
+        },
+        {
+          "value": "Taiwan pr. [qi2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

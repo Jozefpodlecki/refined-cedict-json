@@ -1,0 +1,49 @@
+{
+  "simplified": "奔腾",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bēn téng",
+          "wade_giles_pinyin": "Ben1 teng2"
+        }
+      ],
+      "simplified": "奔腾",
+      "traditional": "奔騰",
+      "meanings": [
+        {
+          "value": "Pentium (microprocessor by Intel)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bēn téng",
+          "wade_giles_pinyin": "ben1 teng2"
+        }
+      ],
+      "simplified": "奔腾",
+      "traditional": "奔騰",
+      "meanings": [
+        {
+          "value": "(of waves) to surge forward"
+        },
+        {
+          "value": "to roll on in waves"
+        },
+        {
+          "value": "to gallop"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

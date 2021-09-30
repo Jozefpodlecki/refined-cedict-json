@@ -1,0 +1,42 @@
+{
+  "simplified": "字汇",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zì huì",
+          "wade_giles_pinyin": "Zi4 hui4"
+        }
+      ],
+      "simplified": "字汇",
+      "traditional": "字彙",
+      "meanings": [
+        {
+          "value": "Zihui, Chinese character dictionary with 33,179 entries, released in 17th century"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zì huì",
+          "wade_giles_pinyin": "zi4 hui4"
+        }
+      ],
+      "simplified": "字汇",
+      "traditional": "字彙",
+      "meanings": [
+        {
+          "value": "(computer) character repertoire"
+        },
+        {
+          "value": "glossary, lexicon"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "simplified": "梗",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gěng",
+          "wade_giles_pinyin": "geng3"
+        }
+      ],
+      "simplified": "梗",
+      "simplified_stroke_count": 11,
+      "traditional": "梗",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "branch"
+        },
+        {
+          "value": "stem"
+        },
+        {
+          "value": "stalk"
+        },
+        {
+          "value": "to block"
+        },
+        {
+          "value": "to hinder"
+        },
+        {
+          "value": "(neologism that evolved from 哏[gen2], initially in Taiwan, during the first decade of the 21st century) memorable creative idea (joke, catchphrase, meme, neologism, witty remark etc)"
+        },
+        {
+          "value": "prominent feature of a creative work (punchline of a joke, trope in a drama, special ingredient in a dish, riff in a pop song etc)"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "根",
+          "traditional": "",
+          "wade_giles_pinyin": "gen1"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

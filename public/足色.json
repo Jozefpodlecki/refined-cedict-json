@@ -1,0 +1,32 @@
+{
+  "simplified": "足色",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zú sè",
+          "wade_giles_pinyin": "zu2 se4"
+        }
+      ],
+      "simplified": "足色",
+      "simplified_stroke_count": 0,
+      "traditional": "足色",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(gold or silver) of standard purity"
+        },
+        {
+          "context": "figuratively",
+          "lexical_item": "",
+          "value": "fine"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

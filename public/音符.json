@@ -1,0 +1,42 @@
+{
+  "simplified": "音符",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yīn fú",
+          "wade_giles_pinyin": "yin1 fu2"
+        }
+      ],
+      "simplified": "音符",
+      "simplified_stroke_count": 0,
+      "traditional": "音符",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(music) note"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "phonetic component of a Chinese character"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "phonetic symbol"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "phonogram"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

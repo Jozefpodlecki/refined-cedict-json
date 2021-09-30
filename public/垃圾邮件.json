@@ -1,0 +1,28 @@
+{
+  "simplified": "垃圾邮件",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lā jī yóu jiàn",
+          "wade_giles_pinyin": "la1 ji1 you2 jian4"
+        }
+      ],
+      "simplified": "垃圾邮件",
+      "traditional": "垃圾郵件",
+      "meanings": [
+        {
+          "value": "junk mail"
+        },
+        {
+          "value": "spam"
+        },
+        {
+          "value": "unsolicited mail"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

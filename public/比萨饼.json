@@ -1,0 +1,29 @@
+{
+  "simplified": "比萨饼",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǐ sà bǐng",
+          "wade_giles_pinyin": "bi3 sa4 bing3"
+        }
+      ],
+      "simplified": "比萨饼",
+      "traditional": "比薩餅",
+      "meanings": [
+        {
+          "context": "loanword",
+          "value": "pizza"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "張",
+          "traditional": "张",
+          "wade_giles_pinyin": "zhang1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

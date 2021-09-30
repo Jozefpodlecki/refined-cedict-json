@@ -1,0 +1,76 @@
+{
+  "simplified": "闹",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nào",
+          "wade_giles_pinyin": "nao4"
+        }
+      ],
+      "simplified": "闹",
+      "simplified_stroke_count": 8,
+      "traditional": "閙",
+      "traditional_stroke_count": 4,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 鬧|闹[nao4]",
+          "simplified": "鬧",
+          "traditional": "闹",
+          "wade_giles_pinyin": "nao4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nào",
+          "wade_giles_pinyin": "nao4"
+        }
+      ],
+      "simplified": "闹",
+      "simplified_stroke_count": 8,
+      "traditional": "鬧",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "noisy"
+        },
+        {
+          "value": "cacophonous"
+        },
+        {
+          "value": "to make noise"
+        },
+        {
+          "value": "to disturb"
+        },
+        {
+          "value": "to vent (feelings)"
+        },
+        {
+          "value": "to fall ill"
+        },
+        {
+          "value": "to have an attack (of sickness)"
+        },
+        {
+          "value": "to go in (for some activity)"
+        },
+        {
+          "value": "to joke"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "simplified": "货运",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huò yùn",
+          "wade_giles_pinyin": "huo4 yun4"
+        }
+      ],
+      "simplified": "货运",
+      "traditional": "貨運",
+      "meanings": [
+        {
+          "value": "freight transport"
+        },
+        {
+          "value": "cargo"
+        },
+        {
+          "value": "transported goods"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

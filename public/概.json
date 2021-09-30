@@ -1,0 +1,51 @@
+{
+  "simplified": "概",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gài",
+          "wade_giles_pinyin": "gai4"
+        }
+      ],
+      "simplified": "概",
+      "simplified_stroke_count": 13,
+      "traditional": "概",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "general"
+        },
+        {
+          "value": "approximate"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gài",
+          "wade_giles_pinyin": "gai4"
+        }
+      ],
+      "simplified": "概",
+      "simplified_stroke_count": 13,
+      "traditional": "槩",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 概[gai4]",
+          "simplified": "概",
+          "traditional": "",
+          "wade_giles_pinyin": "gai4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

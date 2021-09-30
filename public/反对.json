@@ -1,0 +1,33 @@
+{
+  "simplified": "反对",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fǎn duì",
+          "wade_giles_pinyin": "fan3 dui4"
+        }
+      ],
+      "simplified": "反对",
+      "traditional": "反對",
+      "meanings": [
+        {
+          "value": "to fight against"
+        },
+        {
+          "value": "to oppose"
+        },
+        {
+          "value": "to be opposed to"
+        },
+        {
+          "value": "opposition"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

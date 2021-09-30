@@ -1,0 +1,32 @@
+{
+  "simplified": "同时",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tóng shí",
+          "wade_giles_pinyin": "tong2 shi2"
+        }
+      ],
+      "simplified": "同时",
+      "simplified_stroke_count": null,
+      "traditional": "同時",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "at the same time"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "simultaneously"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "simplified": "喊",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hǎn",
+          "wade_giles_pinyin": "han3"
+        }
+      ],
+      "simplified": "喊",
+      "simplified_stroke_count": 12,
+      "traditional": "喊",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "to yell"
+        },
+        {
+          "value": "to shout"
+        },
+        {
+          "value": "to call out for (a person)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

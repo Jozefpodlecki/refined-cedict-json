@@ -1,0 +1,39 @@
+{
+  "simplified": "吹了",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chuī le",
+          "wade_giles_pinyin": "chui1 le5"
+        }
+      ],
+      "simplified": "吹了",
+      "traditional": "吹了",
+      "meanings": [
+        {
+          "value": "failed"
+        },
+        {
+          "value": "busted"
+        },
+        {
+          "value": "to have not succeeded"
+        },
+        {
+          "value": "to have died"
+        },
+        {
+          "value": "to have parted company"
+        },
+        {
+          "value": "to have chilled (of a relationship)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

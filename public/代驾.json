@@ -1,0 +1,34 @@
+{
+  "simplified": "代驾",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dài jià",
+          "wade_giles_pinyin": "dai4 jia4"
+        }
+      ],
+      "simplified": "代驾",
+      "simplified_stroke_count": 0,
+      "traditional": "代駕",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "lexical_item": "",
+          "value": "to drive a vehicle for its owner (often as a paid service for sb who has consumed alcohol) ( 代理駕駛|代理驾驶[dai4 li3 jia4 shi3])"
+        },
+        {
+          "context": "abbreviation",
+          "lexical_item": "",
+          "value": "substitute driver ( 代駕司機|代驾司机[dai4 jia4 si1 ji1])"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

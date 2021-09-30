@@ -1,0 +1,33 @@
+{
+  "simplified": "回车",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huí chē",
+          "wade_giles_pinyin": "hui2 che1"
+        }
+      ],
+      "simplified": "回车",
+      "traditional": "回車",
+      "meanings": [
+        {
+          "value": "to turn a vehicle around"
+        },
+        {
+          "value": "(computing) \"carriage return\" character"
+        },
+        {
+          "value": "the \"Enter\" key"
+        },
+        {
+          "value": "to hit the \"Enter\" key"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "simplified": "男排",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nán pái",
+          "wade_giles_pinyin": "nan2 pai2"
+        }
+      ],
+      "simplified": "男排",
+      "traditional": "男排",
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "value": "男子排球"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

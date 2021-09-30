@@ -1,0 +1,44 @@
+{
+  "simplified": "栾",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "luán",
+          "wade_giles_pinyin": "Luan2"
+        }
+      ],
+      "simplified": "栾",
+      "simplified_stroke_count": 10,
+      "traditional": "欒",
+      "traditional_stroke_count": 23,
+      "meanings": [
+        {
+          "value": "surname Luan"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "luán",
+          "wade_giles_pinyin": "luan2"
+        }
+      ],
+      "simplified": "栾",
+      "simplified_stroke_count": 10,
+      "traditional": "欒",
+      "traditional_stroke_count": 23,
+      "meanings": [
+        {
+          "value": "Koelreuteria paniculata"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "simplified": "抹灰",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mǒ huī",
+          "wade_giles_pinyin": "mo3 hui1"
+        },
+        {
+          "pinyin": "mò huī",
+          "wade_giles_pinyin": "mo4 hui1"
+        }
+      ],
+      "simplified": "抹灰",
+      "traditional": "抹灰",
+      "meanings": [
+        {
+          "value": "to plaster"
+        },
+        {
+          "value": "to render (a wall)"
+        },
+        {
+          "context": "figuratively",
+          "value": "to bring shame on"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

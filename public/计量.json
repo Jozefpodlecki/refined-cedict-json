@@ -1,0 +1,34 @@
+{
+  "simplified": "计量",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jì liàng",
+          "wade_giles_pinyin": "ji4 liang4"
+        }
+      ],
+      "simplified": "计量",
+      "simplified_stroke_count": 0,
+      "traditional": "計量",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "measurement"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to calculate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

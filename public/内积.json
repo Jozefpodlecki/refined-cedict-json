@@ -1,0 +1,25 @@
+{
+  "simplified": "内积",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nèi jī",
+          "wade_giles_pinyin": "nei4 ji1"
+        }
+      ],
+      "simplified": "内积",
+      "traditional": "內積",
+      "meanings": [
+        {
+          "value": "inner product"
+        },
+        {
+          "value": "the dot product of two vectors"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

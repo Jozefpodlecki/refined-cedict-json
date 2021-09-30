@@ -1,0 +1,32 @@
+{
+  "simplified": "龋",
+  "simplified_stroke_count": 17,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " qǔ",
+          "wade_giles_pinyin": "qu3"
+        }
+      ],
+      "simplified": "龋",
+      "simplified_stroke_count": 17,
+      "traditional": "齲",
+      "traditional_stroke_count": 24,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "decayed teeth"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "dental caries"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

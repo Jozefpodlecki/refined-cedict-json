@@ -1,0 +1,28 @@
+{
+  "simplified": "梨子",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lí zi",
+          "wade_giles_pinyin": "li2 zi5"
+        }
+      ],
+      "simplified": "梨子",
+      "traditional": "梨子",
+      "meanings": [
+        {
+          "value": "pear"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

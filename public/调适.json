@@ -1,0 +1,36 @@
+{
+  "simplified": "调适",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tiáo shì",
+          "wade_giles_pinyin": "tiao2 shi4"
+        }
+      ],
+      "simplified": "调适",
+      "traditional": "調適",
+      "meanings": [
+        {
+          "value": "to adapt (to an environment etc)"
+        },
+        {
+          "value": "to make sth suitable"
+        },
+        {
+          "value": "adaptation"
+        },
+        {
+          "value": "adjustment"
+        },
+        {
+          "value": "adaptive"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

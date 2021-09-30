@@ -1,0 +1,34 @@
+{
+  "simplified": "考勤",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " kǎo qín",
+          "wade_giles_pinyin": "kao3 qin2"
+        }
+      ],
+      "simplified": "考勤",
+      "simplified_stroke_count": 0,
+      "traditional": "考勤",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to check attendance (at school or workplace)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to monitor efficiency (of workers)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

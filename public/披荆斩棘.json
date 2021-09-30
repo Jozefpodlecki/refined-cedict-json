@@ -1,0 +1,44 @@
+{
+  "simplified": "披荆斩棘",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " pī jīng zhǎn jí",
+          "wade_giles_pinyin": "pi1 jing1 zhan3 ji2"
+        }
+      ],
+      "simplified": "披荆斩棘",
+      "simplified_stroke_count": 0,
+      "traditional": "披荊斬棘",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "lit. to cut one's way through thistles and thorns"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "fig. to overcome all obstacles on the way"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to break through hardships"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to blaze a new trail"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

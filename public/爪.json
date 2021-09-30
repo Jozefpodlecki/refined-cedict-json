@@ -1,0 +1,68 @@
+{
+  "simplified": "爪",
+  "simplified_stroke_count": 4,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhǎo",
+          "wade_giles_pinyin": "zhao3"
+        }
+      ],
+      "simplified": "爪",
+      "simplified_stroke_count": 4,
+      "traditional": "爪",
+      "traditional_stroke_count": 4,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "foot of a bird or animal"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "paw"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "claws"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "talons"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhuǎ",
+          "wade_giles_pinyin": "zhua3"
+        }
+      ],
+      "simplified": "爪",
+      "simplified_stroke_count": 4,
+      "traditional": "爪",
+      "traditional_stroke_count": 4,
+      "meanings": [
+        {
+          "context": "colloquial",
+          "lexical_item": "",
+          "value": "foot of an animal or bird"
+        },
+        {
+          "context": "colloquial",
+          "lexical_item": "",
+          "value": "foot supporting a cooking pot etc"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

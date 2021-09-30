@@ -1,0 +1,32 @@
+{
+  "simplified": "理发院",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " lǐ fà yuàn",
+          "wade_giles_pinyin": "li3 fa4 yuan4"
+        }
+      ],
+      "simplified": "理发院",
+      "simplified_stroke_count": 0,
+      "traditional": "理髮院",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "barbershop"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "hair parlor"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

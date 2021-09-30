@@ -1,0 +1,34 @@
+{
+  "simplified": "唤雨呼风",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huàn yǔ hū fēng",
+          "wade_giles_pinyin": "huan4 yu3 hu1 feng1"
+        }
+      ],
+      "simplified": "唤雨呼风",
+      "traditional": "喚雨呼風",
+      "meanings": [
+        {
+          "lexical_item": "idiom",
+          "value": "to call the wind and summon the rain"
+        },
+        {
+          "value": "to exercise magical powers"
+        },
+        {
+          "value": "fig. to stir up troubles"
+        },
+        {
+          "value": "also 呼風喚雨|呼风唤雨[hu1 feng1 huan4 yu3]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

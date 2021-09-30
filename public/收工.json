@@ -1,0 +1,34 @@
+{
+  "simplified": "收工",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shōu gōng",
+          "wade_giles_pinyin": "shou1 gong1"
+        }
+      ],
+      "simplified": "收工",
+      "simplified_stroke_count": null,
+      "traditional": "收工",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to stop work for the day (generally of laborers)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to knock off"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

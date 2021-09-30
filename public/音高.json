@@ -1,0 +1,25 @@
+{
+  "simplified": "音高",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yīn gāo",
+          "wade_giles_pinyin": "yin1 gao1"
+        }
+      ],
+      "simplified": "音高",
+      "traditional": "音高",
+      "meanings": [
+        {
+          "value": "pitch (music)"
+        },
+        {
+          "value": "tone"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

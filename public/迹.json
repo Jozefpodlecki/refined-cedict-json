@@ -1,0 +1,89 @@
+{
+  "simplified": "迹",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jì",
+          "wade_giles_pinyin": "ji4"
+        }
+      ],
+      "simplified": "迹",
+      "simplified_stroke_count": 9,
+      "traditional": "跡",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "footprint"
+        },
+        {
+          "value": "mark"
+        },
+        {
+          "value": "trace"
+        },
+        {
+          "value": "vestige"
+        },
+        {
+          "value": "sign"
+        },
+        {
+          "value": "indication"
+        },
+        {
+          "value": "Taiwan pr. [ji1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jì",
+          "wade_giles_pinyin": "ji4"
+        }
+      ],
+      "simplified": "迹",
+      "simplified_stroke_count": 9,
+      "traditional": "蹟",
+      "traditional_stroke_count": 18,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 跡|迹[ji4]",
+          "simplified": "跡",
+          "traditional": "迹",
+          "wade_giles_pinyin": "ji4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jì",
+          "wade_giles_pinyin": "ji4"
+        }
+      ],
+      "simplified": "迹",
+      "simplified_stroke_count": 9,
+      "traditional": "迹",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 跡|迹[ji4]",
+          "simplified": "跡",
+          "traditional": "迹",
+          "wade_giles_pinyin": "ji4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

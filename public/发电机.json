@@ -1,0 +1,25 @@
+{
+  "simplified": "发电机",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fā diàn jī",
+          "wade_giles_pinyin": "fa1 dian4 ji1"
+        }
+      ],
+      "simplified": "发电机",
+      "traditional": "發電機",
+      "meanings": [
+        {
+          "value": "electricity generator"
+        },
+        {
+          "value": "dynamo"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

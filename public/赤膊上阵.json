@@ -1,0 +1,32 @@
+{
+  "simplified": "赤膊上阵",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chì bó shàng zhèn",
+          "wade_giles_pinyin": "chi4 bo2 shang4 zhen4"
+        }
+      ],
+      "simplified": "赤膊上阵",
+      "traditional": "赤膊上陣",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "to go into battle bare-breasted"
+        },
+        {
+          "value": "fig. to go all out"
+        },
+        {
+          "value": "to come out in the open"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

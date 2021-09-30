@@ -1,0 +1,35 @@
+{
+  "simplified": "桌球",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhuō qiú",
+          "wade_giles_pinyin": "zhuo1 qiu2"
+        }
+      ],
+      "simplified": "桌球",
+      "traditional": "桌球",
+      "meanings": [
+        {
+          "value": "table tennis"
+        },
+        {
+          "context": "taiwan",
+          "value": "table tennis ball"
+        },
+        {
+          "value": "billiards"
+        },
+        {
+          "value": "pool"
+        },
+        {
+          "value": "snooker (HK, Singapore, Malaysia)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

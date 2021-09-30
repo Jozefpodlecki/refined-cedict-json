@@ -1,0 +1,27 @@
+{
+  "simplified": "会面",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huì miàn",
+          "wade_giles_pinyin": "hui4 mian4"
+        }
+      ],
+      "simplified": "会面",
+      "traditional": "會面",
+      "meanings": [
+        {
+          "value": "to meet with"
+        },
+        {
+          "value": "meeting"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

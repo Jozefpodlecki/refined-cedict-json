@@ -1,0 +1,34 @@
+{
+  "simplified": "正化",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhèng huà",
+          "wade_giles_pinyin": "zheng4 hua4"
+        }
+      ],
+      "simplified": "正化",
+      "simplified_stroke_count": 0,
+      "traditional": "正化",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "normalization"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to normalize"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

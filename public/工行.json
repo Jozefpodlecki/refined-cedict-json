@@ -1,0 +1,32 @@
+{
+  "simplified": "工行",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " gōng háng",
+          "wade_giles_pinyin": "Gong1 hang2"
+        }
+      ],
+      "simplified": "工行",
+      "simplified_stroke_count": 0,
+      "traditional": "工行",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "ICBC (Industrial and Commercial Bank of China)"
+        },
+        {
+          "context": "abbreviation",
+          "lexical_item": "",
+          "value": "工商銀行|工商银行[Gong1 Shang1 Yin2 hang2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

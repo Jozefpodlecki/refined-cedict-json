@@ -1,0 +1,117 @@
+{
+  "simplified": "以",
+  "simplified_stroke_count": 4,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǐ",
+          "wade_giles_pinyin": "yi3"
+        }
+      ],
+      "simplified": "以",
+      "simplified_stroke_count": 4,
+      "traditional": "㕥",
+      "traditional_stroke_count": 5,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 以[yi3]",
+          "simplified": "以",
+          "traditional": "",
+          "wade_giles_pinyin": "yi3"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǐ",
+          "wade_giles_pinyin": "yi3"
+        }
+      ],
+      "simplified": "以",
+      "simplified_stroke_count": 4,
+      "traditional": "㠯",
+      "traditional_stroke_count": 5,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 以[yi3]",
+          "simplified": "以",
+          "traditional": "",
+          "wade_giles_pinyin": "yi3"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǐ",
+          "wade_giles_pinyin": "Yi3"
+        }
+      ],
+      "simplified": "以",
+      "simplified_stroke_count": 4,
+      "traditional": "以",
+      "traditional_stroke_count": 4,
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "value": "Israel 以色列[Yi3 se4 lie4]",
+          "simplified": "I",
+          "traditional": "srael 以色列",
+          "wade_giles_pinyin": "Yi3 se4 lie4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǐ",
+          "wade_giles_pinyin": "yi3"
+        }
+      ],
+      "simplified": "以",
+      "simplified_stroke_count": 4,
+      "traditional": "以",
+      "traditional_stroke_count": 4,
+      "meanings": [
+        {
+          "value": "to use"
+        },
+        {
+          "value": "by means of"
+        },
+        {
+          "value": "according to"
+        },
+        {
+          "value": "in order to"
+        },
+        {
+          "value": "because of"
+        },
+        {
+          "value": "at (a certain date or place)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

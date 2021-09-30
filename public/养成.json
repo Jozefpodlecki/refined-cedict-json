@@ -1,0 +1,33 @@
+{
+  "simplified": "养成",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǎng chéng",
+          "wade_giles_pinyin": "yang3 cheng2"
+        }
+      ],
+      "simplified": "养成",
+      "traditional": "養成",
+      "meanings": [
+        {
+          "value": "to cultivate"
+        },
+        {
+          "value": "to raise"
+        },
+        {
+          "value": "to form (a habit)"
+        },
+        {
+          "value": "to acquire"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

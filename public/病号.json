@@ -1,0 +1,28 @@
+{
+  "simplified": "病号",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bìng hào",
+          "wade_giles_pinyin": "bing4 hao4"
+        }
+      ],
+      "simplified": "病号",
+      "traditional": "病號",
+      "meanings": [
+        {
+          "value": "sick personnel"
+        },
+        {
+          "value": "person on the sick list"
+        },
+        {
+          "value": "patient"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "simplified": "暑",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shǔ",
+          "wade_giles_pinyin": "shu3"
+        }
+      ],
+      "simplified": "暑",
+      "simplified_stroke_count": 12,
+      "traditional": "暑",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "heat"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "hot weather"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "summer heat"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

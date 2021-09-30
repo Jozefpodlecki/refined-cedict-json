@@ -1,0 +1,39 @@
+{
+  "simplified": "遏制",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "è zhì",
+          "wade_giles_pinyin": "e4 zhi4"
+        }
+      ],
+      "simplified": "遏制",
+      "traditional": "遏制",
+      "meanings": [
+        {
+          "value": "to check"
+        },
+        {
+          "value": "to contain"
+        },
+        {
+          "value": "to hold back"
+        },
+        {
+          "value": "to keep within limits"
+        },
+        {
+          "value": "to constrain"
+        },
+        {
+          "value": "to restrain"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

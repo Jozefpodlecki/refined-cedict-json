@@ -1,0 +1,54 @@
+{
+  "simplified": "昏迷",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " hūn mí",
+          "wade_giles_pinyin": "hun1 mi2"
+        }
+      ],
+      "simplified": "昏迷",
+      "simplified_stroke_count": 0,
+      "traditional": "昏迷",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to lose consciousness"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to be in a coma"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "stupor"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "coma"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "stunned"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "disoriented"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

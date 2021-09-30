@@ -1,0 +1,27 @@
+{
+  "simplified": "给付",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jǐ fù",
+          "wade_giles_pinyin": "ji3 fu4"
+        }
+      ],
+      "simplified": "给付",
+      "traditional": "給付",
+      "meanings": [
+        {
+          "value": "to pay"
+        },
+        {
+          "value": "payment"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

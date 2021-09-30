@@ -1,0 +1,57 @@
+{
+  "simplified": "毋",
+  "simplified_stroke_count": 4,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wú",
+          "wade_giles_pinyin": "Wu2"
+        }
+      ],
+      "simplified": "毋",
+      "simplified_stroke_count": 4,
+      "traditional": "毋",
+      "traditional_stroke_count": 4,
+      "meanings": [
+        {
+          "value": "surname Wu"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wú",
+          "wade_giles_pinyin": "wu2"
+        }
+      ],
+      "simplified": "毋",
+      "simplified_stroke_count": 4,
+      "traditional": "毋",
+      "traditional_stroke_count": 4,
+      "meanings": [
+        {
+          "value": "(literary) no"
+        },
+        {
+          "value": "don't"
+        },
+        {
+          "value": "to not have"
+        },
+        {
+          "value": "nobody"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

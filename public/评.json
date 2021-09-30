@@ -1,0 +1,39 @@
+{
+  "simplified": "评",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "píng",
+          "wade_giles_pinyin": "ping2"
+        }
+      ],
+      "simplified": "评",
+      "simplified_stroke_count": 7,
+      "traditional": "評",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "to discuss"
+        },
+        {
+          "value": "to comment"
+        },
+        {
+          "value": "to criticize"
+        },
+        {
+          "value": "to judge"
+        },
+        {
+          "value": "to choose (by public appraisal)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

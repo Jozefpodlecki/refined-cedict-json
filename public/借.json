@@ -1,0 +1,61 @@
+{
+  "simplified": "借",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiè",
+          "wade_giles_pinyin": "jie4"
+        }
+      ],
+      "simplified": "借",
+      "simplified_stroke_count": 10,
+      "traditional": "借",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "to lend"
+        },
+        {
+          "value": "to borrow"
+        },
+        {
+          "value": "by means of"
+        },
+        {
+          "value": "to take (an opportunity)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiè",
+          "wade_giles_pinyin": "jie4"
+        }
+      ],
+      "simplified": "借",
+      "simplified_stroke_count": 10,
+      "traditional": "藉",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 借[jie4]",
+          "simplified": "借",
+          "traditional": "",
+          "wade_giles_pinyin": "jie4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

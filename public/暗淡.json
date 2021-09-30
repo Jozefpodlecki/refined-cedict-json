@@ -1,0 +1,38 @@
+{
+  "simplified": "暗淡",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "àn dàn",
+          "wade_giles_pinyin": "an4 dan4"
+        }
+      ],
+      "simplified": "暗淡",
+      "traditional": "暗淡",
+      "meanings": [
+        {
+          "value": "dark"
+        },
+        {
+          "value": "dim (light)"
+        },
+        {
+          "value": "dull (color)"
+        },
+        {
+          "value": "drab"
+        },
+        {
+          "context": "figuratively",
+          "value": "gloomy"
+        },
+        {
+          "value": "bleak"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

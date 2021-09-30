@@ -1,0 +1,72 @@
+{
+  "simplified": "越",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yuè",
+          "wade_giles_pinyin": "Yue4"
+        }
+      ],
+      "simplified": "越",
+      "simplified_stroke_count": 12,
+      "traditional": "越",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "generic word for peoples or states of south China or south Asia at different historical periods"
+        },
+        {
+          "context": "abbreviation",
+          "lexical_item": "",
+          "value": "Vietnam 越南"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yuè",
+          "wade_giles_pinyin": "yue4"
+        }
+      ],
+      "simplified": "越",
+      "simplified_stroke_count": 12,
+      "traditional": "越",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to exceed"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to climb over"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to surpass"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "the more... the more"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

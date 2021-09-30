@@ -1,0 +1,31 @@
+{
+  "simplified": "放电",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fàng diàn",
+          "wade_giles_pinyin": "fang4 dian4"
+        }
+      ],
+      "simplified": "放电",
+      "traditional": "放電",
+      "meanings": [
+        {
+          "value": "electrical discharge"
+        },
+        {
+          "context": "colloquial",
+          "value": "to lure"
+        },
+        {
+          "value": "to entice"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

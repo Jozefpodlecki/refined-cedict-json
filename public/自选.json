@@ -1,0 +1,33 @@
+{
+  "simplified": "自选",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zì xuǎn",
+          "wade_giles_pinyin": "zi4 xuan3"
+        }
+      ],
+      "simplified": "自选",
+      "traditional": "自選",
+      "meanings": [
+        {
+          "value": "to choose by oneself"
+        },
+        {
+          "value": "free to choose"
+        },
+        {
+          "value": "optional"
+        },
+        {
+          "value": "self-service"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

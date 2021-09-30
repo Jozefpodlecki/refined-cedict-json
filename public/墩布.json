@@ -1,0 +1,31 @@
+{
+  "simplified": "墩布",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dūn bù",
+          "wade_giles_pinyin": "dun1 bu4"
+        }
+      ],
+      "simplified": "墩布",
+      "traditional": "墩布",
+      "meanings": [
+        {
+          "value": "swab"
+        },
+        {
+          "value": "mop"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "把",
+          "traditional": "",
+          "wade_giles_pinyin": "ba3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

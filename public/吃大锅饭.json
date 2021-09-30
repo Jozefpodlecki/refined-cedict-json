@@ -1,0 +1,27 @@
+{
+  "simplified": "吃大锅饭",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chī dà guō fàn",
+          "wade_giles_pinyin": "chi1 da4 guo1 fan4"
+        }
+      ],
+      "simplified": "吃大锅饭",
+      "traditional": "吃大鍋飯",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "to eat from the common pot"
+        },
+        {
+          "value": "fig. to be rewarded the same, regardless of performance"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

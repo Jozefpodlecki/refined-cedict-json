@@ -1,0 +1,31 @@
+{
+  "simplified": "锲而不舍",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiè ér bù shě",
+          "wade_giles_pinyin": "qie4 er2 bu4 she3"
+        }
+      ],
+      "simplified": "锲而不舍",
+      "traditional": "鍥而不捨",
+      "meanings": [
+        {
+          "lexical_item": "idiom",
+          "value": "to chip away at a task and not abandon it ; to chisel away at sth"
+        },
+        {
+          "value": "to persevere"
+        },
+        {
+          "value": "unflagging efforts"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

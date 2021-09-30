@@ -1,0 +1,39 @@
+{
+  "simplified": "灵长",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "líng cháng",
+          "wade_giles_pinyin": "ling2 chang2"
+        }
+      ],
+      "simplified": "灵长",
+      "traditional": "靈長",
+      "meanings": [
+        {
+          "value": "long life and prosperity"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "líng zhǎng",
+          "wade_giles_pinyin": "ling2 zhang3"
+        }
+      ],
+      "simplified": "灵长",
+      "traditional": "靈長",
+      "meanings": [
+        {
+          "value": "primate (monkey, hominid etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

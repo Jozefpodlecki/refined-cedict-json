@@ -1,0 +1,32 @@
+{
+  "simplified": "皇朝",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huáng cháo",
+          "wade_giles_pinyin": "huang2 chao2"
+        }
+      ],
+      "simplified": "皇朝",
+      "simplified_stroke_count": null,
+      "traditional": "皇朝",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "the imperial court"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "the government in imperial times"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "呼嚎",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hū háo",
+          "wade_giles_pinyin": "hu1 hao2"
+        }
+      ],
+      "simplified": "呼嚎",
+      "traditional": "呼嚎",
+      "meanings": [
+        {
+          "value": "to roar (of animals)"
+        },
+        {
+          "value": "to wail"
+        },
+        {
+          "value": "to cry out in distress"
+        },
+        {
+          "context": "see also",
+          "value": "呼號|呼号[hu1 hao2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

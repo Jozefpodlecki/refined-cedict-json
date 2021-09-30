@@ -1,0 +1,28 @@
+{
+  "simplified": "会计",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kuài jì",
+          "wade_giles_pinyin": "kuai4 ji4"
+        }
+      ],
+      "simplified": "会计",
+      "traditional": "會計",
+      "meanings": [
+        {
+          "value": "accountant"
+        },
+        {
+          "value": "accountancy"
+        },
+        {
+          "value": "accounting"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

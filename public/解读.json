@@ -1,0 +1,30 @@
+{
+  "simplified": "解读",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiě dú",
+          "wade_giles_pinyin": "jie3 du2"
+        }
+      ],
+      "simplified": "解读",
+      "traditional": "解讀",
+      "meanings": [
+        {
+          "value": "to decipher"
+        },
+        {
+          "value": "to decode"
+        },
+        {
+          "value": "to interpret"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

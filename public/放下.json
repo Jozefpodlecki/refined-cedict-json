@@ -1,0 +1,39 @@
+{
+  "simplified": "放下",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fàng xià",
+          "wade_giles_pinyin": "fang4 xia4"
+        }
+      ],
+      "simplified": "放下",
+      "traditional": "放下",
+      "meanings": [
+        {
+          "value": "to lay down"
+        },
+        {
+          "value": "to put down"
+        },
+        {
+          "value": "to let go of"
+        },
+        {
+          "value": "to relinquish"
+        },
+        {
+          "value": "to set aside"
+        },
+        {
+          "value": "to lower (the blinds etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

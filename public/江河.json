@@ -1,0 +1,39 @@
+{
+  "simplified": "江河",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiāng hé",
+          "wade_giles_pinyin": "Jiang1 He2"
+        }
+      ],
+      "simplified": "江河",
+      "traditional": "江河",
+      "meanings": [
+        {
+          "value": "Yangtze and Yellow rivers"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiāng hé",
+          "wade_giles_pinyin": "jiang1 he2"
+        }
+      ],
+      "simplified": "江河",
+      "traditional": "江河",
+      "meanings": [
+        {
+          "value": "river"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "爱人",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ài ren",
+          "wade_giles_pinyin": "ai4 ren5"
+        }
+      ],
+      "simplified": "爱人",
+      "traditional": "愛人",
+      "meanings": [
+        {
+          "value": "spouse (PRC)"
+        },
+        {
+          "value": "lover (non-PRC)"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

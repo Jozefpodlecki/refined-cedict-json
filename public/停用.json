@@ -1,0 +1,33 @@
+{
+  "simplified": "停用",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tíng yòng",
+          "wade_giles_pinyin": "ting2 yong4"
+        }
+      ],
+      "simplified": "停用",
+      "traditional": "停用",
+      "meanings": [
+        {
+          "value": "to stop using"
+        },
+        {
+          "value": "to suspend"
+        },
+        {
+          "value": "to discontinue"
+        },
+        {
+          "value": "to disable"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

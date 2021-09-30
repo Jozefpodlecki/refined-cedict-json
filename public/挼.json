@@ -1,0 +1,33 @@
+{
+  "simplified": "挼",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ruó",
+          "wade_giles_pinyin": "ruo2"
+        }
+      ],
+      "simplified": "挼",
+      "simplified_stroke_count": 10,
+      "traditional": "挼",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "to rub"
+        },
+        {
+          "value": "to crumple"
+        },
+        {
+          "value": "Taiwan pr. [nuo2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

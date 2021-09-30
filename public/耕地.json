@@ -1,0 +1,27 @@
+{
+  "simplified": "耕地",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gēng dì",
+          "wade_giles_pinyin": "geng1 di4"
+        }
+      ],
+      "simplified": "耕地",
+      "traditional": "耕地",
+      "meanings": [
+        {
+          "value": "arable land"
+        },
+        {
+          "value": "to plow land"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

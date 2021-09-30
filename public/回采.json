@@ -1,0 +1,33 @@
+{
+  "simplified": "回采",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huí cǎi",
+          "wade_giles_pinyin": "hui2 cai3"
+        }
+      ],
+      "simplified": "回采",
+      "traditional": "回採",
+      "meanings": [
+        {
+          "value": "stoping (excavating ore using stepped terraces)"
+        },
+        {
+          "value": "to extract ore"
+        },
+        {
+          "value": "extraction"
+        },
+        {
+          "value": "to pull back"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

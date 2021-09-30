@@ -1,0 +1,31 @@
+{
+  "simplified": "营养不良",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yíng yǎng bù liáng",
+          "wade_giles_pinyin": "ying2 yang3 bu4 liang2"
+        }
+      ],
+      "simplified": "营养不良",
+      "traditional": "營養不良",
+      "meanings": [
+        {
+          "value": "malnutrition"
+        },
+        {
+          "value": "undernourishment"
+        },
+        {
+          "value": "deficiency disease"
+        },
+        {
+          "value": "dystrophy"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "自动点唱机",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zì dòng diǎn chàng jī",
+          "wade_giles_pinyin": "zi4 dong4 dian3 chang4 ji1"
+        }
+      ],
+      "simplified": "自动点唱机",
+      "simplified_stroke_count": null,
+      "traditional": "自動點唱機",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "jukebox"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "nickelodeon"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

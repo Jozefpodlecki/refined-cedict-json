@@ -1,0 +1,34 @@
+{
+  "simplified": "粮",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "liáng",
+          "wade_giles_pinyin": "liang2"
+        }
+      ],
+      "simplified": "粮",
+      "simplified_stroke_count": 13,
+      "traditional": "糧",
+      "traditional_stroke_count": 18,
+      "meanings": [
+        {
+          "value": "grain"
+        },
+        {
+          "value": "food"
+        },
+        {
+          "value": "provisions"
+        },
+        {
+          "value": "agricultural tax paid in grain"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

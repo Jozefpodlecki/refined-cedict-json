@@ -1,0 +1,39 @@
+{
+  "simplified": "朗朗上口",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lǎng lǎng shàng kǒu",
+          "wade_giles_pinyin": "lang3 lang3 shang4 kou3"
+        }
+      ],
+      "simplified": "朗朗上口",
+      "simplified_stroke_count": null,
+      "traditional": "朗朗上口",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to flow right off the tongue (of lyrics or poetry)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to recite with ease"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "catchy (of a song)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

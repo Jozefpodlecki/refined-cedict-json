@@ -1,0 +1,32 @@
+{
+  "simplified": "东土",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dōng tǔ",
+          "wade_giles_pinyin": "Dong1 tu3"
+        }
+      ],
+      "simplified": "东土",
+      "simplified_stroke_count": null,
+      "traditional": "東土",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "the East"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "China"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "simplified": "挺",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tǐng",
+          "wade_giles_pinyin": "ting3"
+        }
+      ],
+      "simplified": "挺",
+      "simplified_stroke_count": 9,
+      "traditional": "挺",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "straight"
+        },
+        {
+          "value": "erect"
+        },
+        {
+          "value": "to stick out (a part of the body)"
+        },
+        {
+          "value": "to (physically) straighten up"
+        },
+        {
+          "value": "to support"
+        },
+        {
+          "value": "to withstand"
+        },
+        {
+          "value": "outstanding"
+        },
+        {
+          "context": "colloquial",
+          "value": "quite"
+        },
+        {
+          "value": "very"
+        },
+        {
+          "value": "classifier for machine guns"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "adverb",
+        "verb"
+      ]
+    }
+  ]
+}

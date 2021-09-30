@@ -1,0 +1,37 @@
+{
+  "simplified": "险",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xiǎn",
+          "wade_giles_pinyin": "xian3"
+        }
+      ],
+      "simplified": "险",
+      "simplified_stroke_count": 10,
+      "traditional": "險",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "danger"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "dangerous"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "rugged"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

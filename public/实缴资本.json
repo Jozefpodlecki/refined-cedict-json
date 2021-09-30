@@ -1,0 +1,32 @@
+{
+  "simplified": "实缴资本",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shí jiǎo zī běn",
+          "wade_giles_pinyin": "shi2 jiao3 zi1 ben3"
+        }
+      ],
+      "simplified": "实缴资本",
+      "simplified_stroke_count": null,
+      "traditional": "實繳資本",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "paid-in capital"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "contributed capital (finance)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

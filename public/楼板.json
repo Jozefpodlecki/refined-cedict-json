@@ -1,0 +1,32 @@
+{
+  "simplified": "楼板",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " lóu bǎn",
+          "wade_giles_pinyin": "lou2 ban3"
+        }
+      ],
+      "simplified": "楼板",
+      "simplified_stroke_count": 0,
+      "traditional": "樓板",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "floor"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "floor (ie. metal plate, concrete slab, wooden planking etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "鬼话连篇",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guǐ huà lián piān",
+          "wade_giles_pinyin": "gui3 hua4 lian2 pian1"
+        }
+      ],
+      "simplified": "鬼话连篇",
+      "traditional": "鬼話連篇",
+      "meanings": [
+        {
+          "lexical_item": "idiom",
+          "value": "to tell one lie after another"
+        },
+        {
+          "value": "to talk nonsense"
+        },
+        {
+          "value": "bogus story"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

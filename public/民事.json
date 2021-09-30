@@ -1,0 +1,37 @@
+{
+  "simplified": "民事",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " mín shì",
+          "wade_giles_pinyin": "min2 shi4"
+        }
+      ],
+      "simplified": "民事",
+      "simplified_stroke_count": 0,
+      "traditional": "民事",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "civil case"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "agricultural affairs"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "civil"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

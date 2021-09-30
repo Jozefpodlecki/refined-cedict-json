@@ -1,0 +1,63 @@
+{
+  "simplified": "晋",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jìn",
+          "wade_giles_pinyin": "Jin4"
+        }
+      ],
+      "simplified": "晋",
+      "simplified_stroke_count": 10,
+      "traditional": "晉",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "surname Jin"
+        },
+        {
+          "value": "the Jin Dynasties (265-420)"
+        },
+        {
+          "value": "Western Jin 西晉|西晋[Xi1 Jin4] (265-316), Eastern Jin 東晉|东晋[Dong1 Jin4] (317-420) and Later Jin Dynasty (936-946)"
+        },
+        {
+          "value": "short name for Shanxi province 山西[Shan1 xi1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jìn",
+          "wade_giles_pinyin": "jin4"
+        }
+      ],
+      "simplified": "晋",
+      "simplified_stroke_count": 10,
+      "traditional": "晉",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "to move forward"
+        },
+        {
+          "value": "to promote"
+        },
+        {
+          "value": "to advance"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

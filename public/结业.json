@@ -1,0 +1,39 @@
+{
+  "simplified": "结业",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jié yè",
+          "wade_giles_pinyin": "jie2 ye4"
+        }
+      ],
+      "simplified": "结业",
+      "simplified_stroke_count": null,
+      "traditional": "結業",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to finish school, esp. a short course"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to complete a course"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "(of a company) to cease operations"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

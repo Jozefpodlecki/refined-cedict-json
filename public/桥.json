@@ -1,0 +1,31 @@
+{
+  "simplified": "桥",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiáo",
+          "wade_giles_pinyin": "qiao2"
+        }
+      ],
+      "simplified": "桥",
+      "simplified_stroke_count": 10,
+      "traditional": "橋",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "bridge"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "座",
+          "traditional": "",
+          "wade_giles_pinyin": "zuo4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

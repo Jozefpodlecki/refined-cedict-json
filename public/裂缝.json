@@ -1,0 +1,43 @@
+{
+  "simplified": "裂缝",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "liè fèng",
+          "wade_giles_pinyin": "lie4 feng4"
+        }
+      ],
+      "simplified": "裂缝",
+      "simplified_stroke_count": null,
+      "traditional": "裂縫",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "crack"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "crevice"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "CL:道[dao4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "道",
+          "traditional": "",
+          "wade_giles_pinyin": "dao4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

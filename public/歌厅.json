@@ -1,0 +1,25 @@
+{
+  "simplified": "歌厅",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gē tīng",
+          "wade_giles_pinyin": "ge1 ting1"
+        }
+      ],
+      "simplified": "歌厅",
+      "traditional": "歌廳",
+      "meanings": [
+        {
+          "value": "karaoke hall"
+        },
+        {
+          "value": "singing hall (venue for concerts of popular songs)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

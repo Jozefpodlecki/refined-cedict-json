@@ -1,0 +1,34 @@
+{
+  "simplified": "履",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lǚ",
+          "wade_giles_pinyin": "lu:3"
+        }
+      ],
+      "simplified": "履",
+      "simplified_stroke_count": 15,
+      "traditional": "履",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "shoe"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to tread on"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

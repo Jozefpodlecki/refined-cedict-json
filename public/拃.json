@@ -1,0 +1,30 @@
+{
+  "simplified": "拃",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhǎ",
+          "wade_giles_pinyin": "zha3"
+        }
+      ],
+      "simplified": "拃",
+      "simplified_stroke_count": 8,
+      "traditional": "拃",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "span (unit of length based on the width of the expanded human hand)"
+        },
+        {
+          "value": "to span (measure with one's hand)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "simplified": "杠",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gāng",
+          "wade_giles_pinyin": "gang1"
+        }
+      ],
+      "simplified": "杠",
+      "simplified_stroke_count": 7,
+      "traditional": "杠",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "value": "flagpole"
+        },
+        {
+          "value": "footbridge"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gàng",
+          "wade_giles_pinyin": "gang4"
+        }
+      ],
+      "simplified": "杠",
+      "simplified_stroke_count": 7,
+      "traditional": "杠",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 槓|杠[gang4]",
+          "simplified": "槓",
+          "traditional": "杠",
+          "wade_giles_pinyin": "gang4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gàng",
+          "wade_giles_pinyin": "gang4"
+        }
+      ],
+      "simplified": "杠",
+      "simplified_stroke_count": 7,
+      "traditional": "槓",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "context": "old",
+          "value": "coffin-bearing pole"
+        },
+        {
+          "value": "thick pole"
+        },
+        {
+          "value": "bar"
+        },
+        {
+          "value": "rod"
+        },
+        {
+          "value": "thick line"
+        },
+        {
+          "value": "to mark with a thick line"
+        },
+        {
+          "value": "to sharpen (a knife, razor etc)"
+        },
+        {
+          "value": "to get into a dispute with"
+        },
+        {
+          "value": "standard"
+        },
+        {
+          "value": "criterion"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

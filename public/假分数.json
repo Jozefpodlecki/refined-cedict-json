@@ -1,0 +1,32 @@
+{
+  "simplified": "假分数",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jiǎ fēn shù",
+          "wade_giles_pinyin": "jia3 fen1 shu4"
+        }
+      ],
+      "simplified": "假分数",
+      "simplified_stroke_count": 0,
+      "traditional": "假分數",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "improper fraction (with numerator ≥ denominator, e.g. seven fifths)"
+        },
+        {
+          "context": "see also",
+          "lexical_item": "",
+          "value": ": proper fraction 真分數|真分数[zhen1 fen1 shu4] and mixed number 帶分數|带分数[dai4 fen1 shu4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "simplified": "案子",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " àn zi",
+          "wade_giles_pinyin": "an4 zi5"
+        }
+      ],
+      "simplified": "案子",
+      "simplified_stroke_count": 0,
+      "traditional": "案子",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "long table"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "counter"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "case"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "law case"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "legal case"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "judicial case"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

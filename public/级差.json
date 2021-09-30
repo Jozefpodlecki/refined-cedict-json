@@ -1,0 +1,32 @@
+{
+  "simplified": "级差",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jí chā",
+          "wade_giles_pinyin": "ji2 cha1"
+        }
+      ],
+      "simplified": "级差",
+      "simplified_stroke_count": 0,
+      "traditional": "級差",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "differential (between grades)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "salary differential"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

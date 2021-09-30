@@ -1,0 +1,44 @@
+{
+  "simplified": "酊",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dīng",
+          "wade_giles_pinyin": "ding1"
+        }
+      ],
+      "simplified": "酊",
+      "simplified_stroke_count": 9,
+      "traditional": "酊",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "tincture (loanword)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dǐng",
+          "wade_giles_pinyin": "ding3"
+        }
+      ],
+      "simplified": "酊",
+      "simplified_stroke_count": 9,
+      "traditional": "酊",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "intoxicated"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

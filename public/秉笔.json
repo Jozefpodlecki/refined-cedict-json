@@ -1,0 +1,34 @@
+{
+  "simplified": "秉笔",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǐng bǐ",
+          "wade_giles_pinyin": "bing3 bi3"
+        }
+      ],
+      "simplified": "秉笔",
+      "simplified_stroke_count": null,
+      "traditional": "秉筆",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to hold the pen"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to do the actual writing"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

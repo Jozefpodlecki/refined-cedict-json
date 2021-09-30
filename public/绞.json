@@ -1,0 +1,59 @@
+{
+  "simplified": "绞",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jiǎo",
+          "wade_giles_pinyin": "jiao3"
+        }
+      ],
+      "simplified": "绞",
+      "simplified_stroke_count": 9,
+      "traditional": "絞",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to twist (strands into a thread)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to entangle"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to wring"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to hang (by the neck)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to turn"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to wind"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "classifier for skeins of yarn"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

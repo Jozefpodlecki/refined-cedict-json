@@ -1,0 +1,30 @@
+{
+  "simplified": "归功",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guī gōng",
+          "wade_giles_pinyin": "gui1 gong1"
+        }
+      ],
+      "simplified": "归功",
+      "traditional": "歸功",
+      "meanings": [
+        {
+          "value": "to give credit"
+        },
+        {
+          "value": "to give sb his due"
+        },
+        {
+          "value": "attribution"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

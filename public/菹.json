@@ -1,0 +1,59 @@
+{
+  "simplified": "菹",
+  "simplified_stroke_count": 14,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zū",
+          "wade_giles_pinyin": "zu1"
+        }
+      ],
+      "simplified": "菹",
+      "simplified_stroke_count": 14,
+      "traditional": "菹",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "marshland"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "swamp"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "salted or pickled vegetables"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to mince"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to shred"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to mince human flesh and bones"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "Taiwan pr. [ju1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

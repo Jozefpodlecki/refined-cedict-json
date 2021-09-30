@@ -1,0 +1,34 @@
+{
+  "simplified": "翏",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "liù",
+          "wade_giles_pinyin": "liu4"
+        }
+      ],
+      "simplified": "翏",
+      "simplified_stroke_count": 11,
+      "traditional": "翏",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "the sound of the wind"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to soar"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

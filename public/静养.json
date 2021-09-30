@@ -1,0 +1,30 @@
+{
+  "simplified": "静养",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jìng yǎng",
+          "wade_giles_pinyin": "jing4 yang3"
+        }
+      ],
+      "simplified": "静养",
+      "traditional": "靜養",
+      "meanings": [
+        {
+          "value": "to convalesce"
+        },
+        {
+          "value": "to recuperate"
+        },
+        {
+          "value": "to fully relax"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

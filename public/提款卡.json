@@ -1,0 +1,25 @@
+{
+  "simplified": "提款卡",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tí kuǎn kǎ",
+          "wade_giles_pinyin": "ti2 kuan3 ka3"
+        }
+      ],
+      "simplified": "提款卡",
+      "traditional": "提款卡",
+      "meanings": [
+        {
+          "value": "debit card"
+        },
+        {
+          "value": "ATM card"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

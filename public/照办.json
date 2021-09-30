@@ -1,0 +1,44 @@
+{
+  "simplified": "照办",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhào bàn",
+          "wade_giles_pinyin": "zhao4 ban4"
+        }
+      ],
+      "simplified": "照办",
+      "simplified_stroke_count": null,
+      "traditional": "照辦",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to follow the rules"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to do as instructed"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to play by the book"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to comply with a request"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

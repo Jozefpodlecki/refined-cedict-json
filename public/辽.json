@@ -1,0 +1,28 @@
+{
+  "simplified": "辽",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "liáo",
+          "wade_giles_pinyin": "Liao2"
+        }
+      ],
+      "simplified": "辽",
+      "simplified_stroke_count": 5,
+      "traditional": "遼",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "short name for Liaoning 遼寧|辽宁[Liao2 ning2] province"
+        },
+        {
+          "value": "Liao or Khitan dynasty (907-1125)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "敌人",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dí rén",
+          "wade_giles_pinyin": "di2 ren2"
+        }
+      ],
+      "simplified": "敌人",
+      "traditional": "敵人",
+      "meanings": [
+        {
+          "value": "enemy"
+        },
+        {
+          "value": "CL:個|个[ge4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

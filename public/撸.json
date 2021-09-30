@@ -1,0 +1,34 @@
+{
+  "simplified": "撸",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lū",
+          "wade_giles_pinyin": "lu1"
+        }
+      ],
+      "simplified": "撸",
+      "simplified_stroke_count": 15,
+      "traditional": "擼",
+      "traditional_stroke_count": 18,
+      "meanings": [
+        {
+          "context": "dialect",
+          "value": "to rub one's hand along"
+        },
+        {
+          "value": "to fire (an employee)"
+        },
+        {
+          "value": "to reprimand"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

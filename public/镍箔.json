@@ -1,0 +1,38 @@
+{
+  "simplified": "镍箔",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " niè bó",
+          "wade_giles_pinyin": "nie4 bo2"
+        }
+      ],
+      "simplified": "镍箔",
+      "simplified_stroke_count": 0,
+      "traditional": "鎳箔",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "nickel sheet"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:張|张[zhang1]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "張",
+          "traditional": "张",
+          "wade_giles_pinyin": "zhang1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

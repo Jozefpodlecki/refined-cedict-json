@@ -1,0 +1,37 @@
+{
+  "simplified": "亏",
+  "simplified_stroke_count": 3,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kuī",
+          "wade_giles_pinyin": "kui1"
+        }
+      ],
+      "simplified": "亏",
+      "simplified_stroke_count": 3,
+      "traditional": "虧",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "deficiency"
+        },
+        {
+          "value": "deficit"
+        },
+        {
+          "value": "luckily"
+        },
+        {
+          "value": "it's lucky that..."
+        },
+        {
+          "value": "(often ironically) fancy that..."
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

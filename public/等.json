@@ -1,0 +1,89 @@
+{
+  "simplified": "等",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " děng",
+          "wade_giles_pinyin": "deng3"
+        }
+      ],
+      "simplified": "等",
+      "simplified_stroke_count": 12,
+      "traditional": "等",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "class"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "rank"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "grade"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "equal to"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "same as"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to wait for"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to await"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "et cetera"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "and so on"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "et al. (and other authors)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "after"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "as soon as"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "once"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

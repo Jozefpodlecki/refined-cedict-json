@@ -1,0 +1,29 @@
+{
+  "simplified": "美联社",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "měi lián shè",
+          "wade_giles_pinyin": "Mei3 Lian2 she4"
+        }
+      ],
+      "simplified": "美联社",
+      "traditional": "美聯社",
+      "meanings": [
+        {
+          "value": "Associated Press (AP)"
+        },
+        {
+          "context": "abbreviation",
+          "value": "美國聯合通訊社|美国联合通讯社[Mei3 guo2 Lian2 he2 Tong1 xun4 she4]",
+          "simplified": "美",
+          "traditional": "國聯合通訊社|美国联合通讯社",
+          "wade_giles_pinyin": "Mei3 guo2 Lian2 he2 Tong1 xun4 she4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

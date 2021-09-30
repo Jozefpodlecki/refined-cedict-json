@@ -1,0 +1,49 @@
+{
+  "simplified": "没事儿",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " méi shì r",
+          "wade_giles_pinyin": "mei2 shi4 r5"
+        }
+      ],
+      "simplified": "没事儿",
+      "simplified_stroke_count": 0,
+      "traditional": "沒事兒",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to have spare time"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "free from work"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "it's not important"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "it's nothing"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "never mind"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

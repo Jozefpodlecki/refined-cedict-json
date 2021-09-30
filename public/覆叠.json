@@ -1,0 +1,30 @@
+{
+  "simplified": "覆叠",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fù dié",
+          "wade_giles_pinyin": "fu4 die2"
+        }
+      ],
+      "simplified": "覆叠",
+      "traditional": "覆疊",
+      "meanings": [
+        {
+          "value": "to overlap"
+        },
+        {
+          "value": "to overlay"
+        },
+        {
+          "value": "cascaded (thermodynamic cycle)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

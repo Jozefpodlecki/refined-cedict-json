@@ -1,0 +1,42 @@
+{
+  "simplified": "训",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xùn",
+          "wade_giles_pinyin": "xun4"
+        }
+      ],
+      "simplified": "训",
+      "simplified_stroke_count": 5,
+      "traditional": "訓",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "to teach"
+        },
+        {
+          "value": "to train"
+        },
+        {
+          "value": "to admonish"
+        },
+        {
+          "value": "instruction (from superiors)"
+        },
+        {
+          "value": "teachings"
+        },
+        {
+          "value": "rule"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

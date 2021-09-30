@@ -1,0 +1,43 @@
+{
+  "simplified": "状",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhuàng",
+          "wade_giles_pinyin": "zhuang4"
+        }
+      ],
+      "simplified": "状",
+      "simplified_stroke_count": 7,
+      "traditional": "狀",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "accusation"
+        },
+        {
+          "value": "suit"
+        },
+        {
+          "value": "state"
+        },
+        {
+          "value": "condition"
+        },
+        {
+          "value": "strong"
+        },
+        {
+          "value": "great"
+        },
+        {
+          "value": "-shaped"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

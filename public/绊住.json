@@ -1,0 +1,39 @@
+{
+  "simplified": "绊住",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bàn zhù",
+          "wade_giles_pinyin": "ban4 zhu4"
+        }
+      ],
+      "simplified": "绊住",
+      "simplified_stroke_count": 0,
+      "traditional": "絆住",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to entangle"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to hinder"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to impede movement"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

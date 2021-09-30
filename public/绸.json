@@ -1,0 +1,31 @@
+{
+  "simplified": "绸",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chóu",
+          "wade_giles_pinyin": "chou2"
+        }
+      ],
+      "simplified": "绸",
+      "simplified_stroke_count": 11,
+      "traditional": "綢",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "(light) silk"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "匹",
+          "traditional": "",
+          "wade_giles_pinyin": "pi3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

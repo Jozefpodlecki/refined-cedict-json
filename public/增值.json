@@ -1,0 +1,30 @@
+{
+  "simplified": "增值",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zēng zhí",
+          "wade_giles_pinyin": "zeng1 zhi2"
+        }
+      ],
+      "simplified": "增值",
+      "traditional": "增值",
+      "meanings": [
+        {
+          "value": "to appreciate (financially)"
+        },
+        {
+          "value": "to increase in value"
+        },
+        {
+          "value": "value-added (accountancy)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

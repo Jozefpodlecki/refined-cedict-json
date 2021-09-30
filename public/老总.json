@@ -1,0 +1,47 @@
+{
+  "simplified": "老总",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lǎo zǒng",
+          "wade_giles_pinyin": "lao3 zong3"
+        }
+      ],
+      "simplified": "老总",
+      "simplified_stroke_count": null,
+      "traditional": "老總",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "boss"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "sir (person with a leading role in an organization)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "(after a surname) high ranking commander in the PLA"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "(Qing dynasty) high ranking government official"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "(old) courteous term used by the general populace in addressing a rank-and-file soldier or police officer"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

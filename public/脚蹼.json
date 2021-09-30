@@ -1,0 +1,32 @@
+{
+  "simplified": "脚蹼",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiǎo pǔ",
+          "wade_giles_pinyin": "jiao3 pu3"
+        }
+      ],
+      "simplified": "脚蹼",
+      "simplified_stroke_count": null,
+      "traditional": "腳蹼",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "flippers"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "fins"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

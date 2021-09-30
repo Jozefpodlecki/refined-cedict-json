@@ -1,0 +1,31 @@
+{
+  "simplified": "假条",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jià tiáo",
+          "wade_giles_pinyin": "jia4 tiao2"
+        }
+      ],
+      "simplified": "假条",
+      "traditional": "假條",
+      "meanings": [
+        {
+          "value": "leave of absence request (from work or school)"
+        },
+        {
+          "value": "excuse note"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "張",
+          "traditional": "张",
+          "wade_giles_pinyin": "zhang1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "simplified": "来文",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lái wén",
+          "wade_giles_pinyin": "lai2 wen2"
+        }
+      ],
+      "simplified": "来文",
+      "traditional": "來文",
+      "meanings": [
+        {
+          "value": "received document"
+        },
+        {
+          "value": "sent document"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

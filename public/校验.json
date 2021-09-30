@@ -1,0 +1,34 @@
+{
+  "simplified": "校验",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jiào yàn",
+          "wade_giles_pinyin": "jiao4 yan4"
+        }
+      ],
+      "simplified": "校验",
+      "simplified_stroke_count": 0,
+      "traditional": "校驗",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to check"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to examine"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

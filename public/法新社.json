@@ -1,0 +1,32 @@
+{
+  "simplified": "法新社",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fǎ xīn shè",
+          "wade_giles_pinyin": "Fa3 xin1 she4"
+        }
+      ],
+      "simplified": "法新社",
+      "simplified_stroke_count": 0,
+      "traditional": "法新社",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Agence France Presse"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "AFP news agency"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

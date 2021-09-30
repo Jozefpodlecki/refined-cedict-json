@@ -1,0 +1,29 @@
+{
+  "simplified": "肉夹馍",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ròu jiā mó",
+          "wade_giles_pinyin": "rou4 jia1 mo2"
+        }
+      ],
+      "simplified": "肉夹馍",
+      "traditional": "肉夾饃",
+      "meanings": [
+        {
+          "context": "literature",
+          "value": "meat wedged in steamed bun"
+        },
+        {
+          "value": "\"Chinese burger\""
+        },
+        {
+          "value": "sliced meat sandwich popular in north China"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

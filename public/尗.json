@@ -1,0 +1,36 @@
+{
+  "simplified": "尗",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shū",
+          "wade_giles_pinyin": "shu1"
+        }
+      ],
+      "simplified": "尗",
+      "simplified_stroke_count": 6,
+      "traditional": "尗",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "archaic  菽[shu1]",
+          "simplified": "a",
+          "traditional": "rchaic  菽",
+          "wade_giles_pinyin": "shu1"
+        },
+        {
+          "context": "variant",
+          "value": "archaic  叔[shu1]",
+          "simplified": "a",
+          "traditional": "rchaic  叔",
+          "wade_giles_pinyin": "shu1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

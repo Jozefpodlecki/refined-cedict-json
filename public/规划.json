@@ -1,0 +1,33 @@
+{
+  "simplified": "规划",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guī huà",
+          "wade_giles_pinyin": "gui1 hua4"
+        }
+      ],
+      "simplified": "规划",
+      "traditional": "規劃",
+      "meanings": [
+        {
+          "value": "to plan (how to do sth)"
+        },
+        {
+          "value": "planning"
+        },
+        {
+          "value": "plan"
+        },
+        {
+          "value": "program"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

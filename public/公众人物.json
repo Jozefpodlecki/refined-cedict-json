@@ -1,0 +1,32 @@
+{
+  "simplified": "公众人物",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gōng zhòng rén wù",
+          "wade_giles_pinyin": "gong1 zhong4 ren2 wu4"
+        }
+      ],
+      "simplified": "公众人物",
+      "simplified_stroke_count": null,
+      "traditional": "公眾人物",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "public figure"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "famous person"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

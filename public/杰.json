@@ -1,0 +1,57 @@
+{
+  "simplified": "杰",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jié",
+          "wade_giles_pinyin": "jie2"
+        }
+      ],
+      "simplified": "杰",
+      "simplified_stroke_count": 8,
+      "traditional": "傑",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "hero"
+        },
+        {
+          "value": "heroic"
+        },
+        {
+          "value": "outstanding person"
+        },
+        {
+          "value": "prominent"
+        },
+        {
+          "value": "distinguished"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jié",
+          "wade_giles_pinyin": "jie2"
+        }
+      ],
+      "simplified": "杰",
+      "simplified_stroke_count": 8,
+      "traditional": "杰",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "傑|杰[jie2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

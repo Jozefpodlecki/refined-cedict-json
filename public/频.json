@@ -1,0 +1,31 @@
+{
+  "simplified": "频",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pín",
+          "wade_giles_pinyin": "pin2"
+        }
+      ],
+      "simplified": "频",
+      "simplified_stroke_count": 13,
+      "traditional": "頻",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "frequency"
+        },
+        {
+          "value": "frequently"
+        },
+        {
+          "value": "repetitious"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

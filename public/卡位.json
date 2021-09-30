@@ -1,0 +1,48 @@
+{
+  "simplified": "卡位",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " kǎ weì",
+          "wade_giles_pinyin": "ka3 wei4"
+        },
+        {
+          "pinyin": " qiǎ weì",
+          "wade_giles_pinyin": "qia3 wei4"
+        }
+      ],
+      "simplified": "卡位",
+      "simplified_stroke_count": 0,
+      "traditional": "卡位",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(also pr. [qia3 wei4]) to jockey for position (sports)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to box out (basketball)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to establish oneself in a competitive market (commerce)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(always pr. [ka3 wei4] for this sense) booth seating"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

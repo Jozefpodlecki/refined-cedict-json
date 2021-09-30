@@ -1,0 +1,34 @@
+{
+  "simplified": "蹓",
+  "simplified_stroke_count": 17,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "liù",
+          "wade_giles_pinyin": "liu4"
+        }
+      ],
+      "simplified": "蹓",
+      "simplified_stroke_count": 17,
+      "traditional": "蹓",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to stroll"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "walk a horse"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

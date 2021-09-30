@@ -1,0 +1,42 @@
+{
+  "simplified": "另",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lìng",
+          "wade_giles_pinyin": "ling4"
+        }
+      ],
+      "simplified": "另",
+      "simplified_stroke_count": 5,
+      "traditional": "另",
+      "traditional_stroke_count": 5,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "other"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "another"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "separate"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "separately"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

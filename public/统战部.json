@@ -1,0 +1,29 @@
+{
+  "simplified": "统战部",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tǒng zhàn bù",
+          "wade_giles_pinyin": "Tong3 Zhan4 bu4"
+        }
+      ],
+      "simplified": "统战部",
+      "traditional": "統戰部",
+      "meanings": [
+        {
+          "value": "United Front Work Department of CCP Central Committee (UFWD)"
+        },
+        {
+          "context": "abbreviation",
+          "value": "統一戰線工作部|统一战线工作部[Tong3 yi1 Zhan4 xian4 Gong1 zuo4 bu4]",
+          "simplified": "統",
+          "traditional": "一戰線工作部|统一战线工作部",
+          "wade_giles_pinyin": "Tong3 yi1 Zhan4 xian4 Gong1 zuo4 bu4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

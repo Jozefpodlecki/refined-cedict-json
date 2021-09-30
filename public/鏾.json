@@ -1,0 +1,32 @@
+{
+  "simplified": "鏾",
+  "simplified_stroke_count": 20,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sǎn",
+          "wade_giles_pinyin": "san3"
+        }
+      ],
+      "simplified": "鏾",
+      "simplified_stroke_count": 20,
+      "traditional": "鏾",
+      "traditional_stroke_count": 20,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "the trigger of a crossbow"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "crossbow"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

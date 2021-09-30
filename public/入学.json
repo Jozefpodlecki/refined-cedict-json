@@ -1,0 +1,34 @@
+{
+  "simplified": "入学",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " rù xué",
+          "wade_giles_pinyin": "ru4 xue2"
+        }
+      ],
+      "simplified": "入学",
+      "simplified_stroke_count": 0,
+      "traditional": "入學",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to enter a school or college"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to go to school for the first time as a child"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

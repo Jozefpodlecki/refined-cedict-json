@@ -1,0 +1,34 @@
+{
+  "simplified": "签字",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " qiān zì",
+          "wade_giles_pinyin": "qian1 zi4"
+        }
+      ],
+      "simplified": "签字",
+      "simplified_stroke_count": 0,
+      "traditional": "簽字",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to sign (one's name)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "signature"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

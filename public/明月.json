@@ -1,0 +1,31 @@
+{
+  "simplified": "明月",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "míng yuè",
+          "wade_giles_pinyin": "ming2 yue4"
+        }
+      ],
+      "simplified": "明月",
+      "traditional": "明月",
+      "meanings": [
+        {
+          "value": "bright moon"
+        },
+        {
+          "value": "refers to 夜明珠, a legendary pearl that can glow in the dark"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "輪",
+          "traditional": "轮",
+          "wade_giles_pinyin": "lun2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

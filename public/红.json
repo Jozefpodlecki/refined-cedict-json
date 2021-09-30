@@ -1,0 +1,53 @@
+{
+  "simplified": "红",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hóng",
+          "wade_giles_pinyin": "Hong2"
+        }
+      ],
+      "simplified": "红",
+      "simplified_stroke_count": 6,
+      "traditional": "紅",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "surname Hong"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hóng",
+          "wade_giles_pinyin": "hong2"
+        }
+      ],
+      "simplified": "红",
+      "simplified_stroke_count": 6,
+      "traditional": "紅",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "red"
+        },
+        {
+          "value": "popular"
+        },
+        {
+          "value": "revolutionary"
+        },
+        {
+          "value": "bonus"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

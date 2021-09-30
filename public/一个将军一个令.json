@@ -1,0 +1,30 @@
+{
+  "simplified": "一个将军一个令",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yī gè jiāng jūn yī gè lìng",
+          "wade_giles_pinyin": "yi1 ge4 jiang1 jun1 yi1 ge4 ling4"
+        }
+      ],
+      "simplified": "一个将军一个令",
+      "traditional": "一個將軍一個令",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "one general, one order"
+        },
+        {
+          "value": "fig. every boss has their own rules"
+        },
+        {
+          "value": "everyone has their own way of doing things"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "simplified": "撤销",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chè xiāo",
+          "wade_giles_pinyin": "che4 xiao1"
+        }
+      ],
+      "simplified": "撤销",
+      "traditional": "撤銷",
+      "meanings": [
+        {
+          "value": "to repeal"
+        },
+        {
+          "value": "to revoke"
+        },
+        {
+          "value": "(computing) to undo"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

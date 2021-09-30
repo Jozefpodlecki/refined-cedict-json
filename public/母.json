@@ -1,0 +1,37 @@
+{
+  "simplified": "母",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mǔ",
+          "wade_giles_pinyin": "mu3"
+        }
+      ],
+      "simplified": "母",
+      "simplified_stroke_count": 5,
+      "traditional": "母",
+      "traditional_stroke_count": 5,
+      "meanings": [
+        {
+          "value": "mother"
+        },
+        {
+          "value": "elderly female relative"
+        },
+        {
+          "value": "origin"
+        },
+        {
+          "value": "source"
+        },
+        {
+          "value": "(of animals) female"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

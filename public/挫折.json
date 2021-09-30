@@ -1,0 +1,54 @@
+{
+  "simplified": "挫折",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cuò zhé",
+          "wade_giles_pinyin": "cuo4 zhe2"
+        }
+      ],
+      "simplified": "挫折",
+      "traditional": "挫折",
+      "meanings": [
+        {
+          "value": "setback"
+        },
+        {
+          "value": "reverse"
+        },
+        {
+          "value": "check"
+        },
+        {
+          "value": "defeat"
+        },
+        {
+          "value": "frustration"
+        },
+        {
+          "value": "disappointment"
+        },
+        {
+          "value": "to frustrate"
+        },
+        {
+          "value": "to discourage"
+        },
+        {
+          "value": "to set sb back"
+        },
+        {
+          "value": "to blunt"
+        },
+        {
+          "value": "to subdue"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

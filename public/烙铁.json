@@ -1,0 +1,31 @@
+{
+  "simplified": "烙铁",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lào tie",
+          "wade_giles_pinyin": "lao4 tie5"
+        }
+      ],
+      "simplified": "烙铁",
+      "traditional": "烙鐵",
+      "meanings": [
+        {
+          "value": "flatiron"
+        },
+        {
+          "value": "iron"
+        },
+        {
+          "value": "branding iron"
+        },
+        {
+          "value": "soldering iron"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

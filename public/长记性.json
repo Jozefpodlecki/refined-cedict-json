@@ -1,0 +1,34 @@
+{
+  "simplified": "长记性",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhǎng jì xing",
+          "wade_giles_pinyin": "zhang3 ji4 xing5"
+        }
+      ],
+      "simplified": "长记性",
+      "simplified_stroke_count": 0,
+      "traditional": "長記性",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "colloquial",
+          "lexical_item": "",
+          "value": "to learn one's lesson"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to have enough brains to learn from one's mistakes"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

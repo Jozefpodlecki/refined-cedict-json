@@ -1,0 +1,25 @@
+{
+  "simplified": "舰长",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiàn zhǎng",
+          "wade_giles_pinyin": "jian4 zhang3"
+        }
+      ],
+      "simplified": "舰长",
+      "traditional": "艦長",
+      "meanings": [
+        {
+          "value": "commander"
+        },
+        {
+          "value": "captain (of a warship)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

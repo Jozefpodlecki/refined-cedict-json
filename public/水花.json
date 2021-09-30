@@ -1,0 +1,37 @@
+{
+  "simplified": "水花",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shuǐ huā",
+          "wade_giles_pinyin": "shui3 hua1"
+        }
+      ],
+      "simplified": "水花",
+      "simplified_stroke_count": null,
+      "traditional": "水花",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "splash"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "algal bloom"
+        },
+        {
+          "context": "dialect",
+          "lexical_item": null,
+          "value": "chickenpox"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

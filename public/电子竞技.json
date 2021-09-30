@@ -1,0 +1,29 @@
+{
+  "simplified": "电子竞技",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diàn zǐ jìng jì",
+          "wade_giles_pinyin": "dian4 zi3 jing4 ji4"
+        }
+      ],
+      "simplified": "电子竞技",
+      "traditional": "電子競技",
+      "meanings": [
+        {
+          "value": "video gaming (as a sport)"
+        },
+        {
+          "context": "abbreviation",
+          "value": "e-sports (abbr. to 電競|电竞[dian4 jing4])",
+          "simplified": "e",
+          "traditional": "-sports (abbr. to 電競|电竞",
+          "wade_giles_pinyin": "dian4 jing4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

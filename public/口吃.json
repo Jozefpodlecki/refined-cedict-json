@@ -1,0 +1,31 @@
+{
+  "simplified": "口吃",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kǒu chī",
+          "wade_giles_pinyin": "kou3 chi1"
+        },
+        {
+          "pinyin": "kǒu jí",
+          "wade_giles_pinyin": "kou3 ji2"
+        }
+      ],
+      "simplified": "口吃",
+      "traditional": "口吃",
+      "meanings": [
+        {
+          "value": "to stammer"
+        },
+        {
+          "value": "to stutter"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "妈妈",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mā ma",
+          "wade_giles_pinyin": "ma1 ma5"
+        }
+      ],
+      "simplified": "妈妈",
+      "traditional": "媽媽",
+      "meanings": [
+        {
+          "value": "mama"
+        },
+        {
+          "value": "mommy"
+        },
+        {
+          "value": "mother"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        },
+        {
+          "simplified": "位",
+          "traditional": "",
+          "wade_giles_pinyin": "wei4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

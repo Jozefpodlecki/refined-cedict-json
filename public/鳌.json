@@ -1,0 +1,48 @@
+{
+  "simplified": "鳌",
+  "simplified_stroke_count": 18,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "áo",
+          "wade_giles_pinyin": "ao2"
+        }
+      ],
+      "simplified": "鳌",
+      "simplified_stroke_count": 18,
+      "traditional": "鰲",
+      "traditional_stroke_count": 22,
+      "meanings": [
+        {
+          "value": "mythological sea turtle"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "áo",
+          "wade_giles_pinyin": "ao2"
+        }
+      ],
+      "simplified": "鳌",
+      "simplified_stroke_count": 18,
+      "traditional": "鼇",
+      "traditional_stroke_count": 23,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 鰲|鳌[ao2]",
+          "simplified": "鰲",
+          "traditional": "鳌",
+          "wade_giles_pinyin": "ao2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

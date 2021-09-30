@@ -1,0 +1,36 @@
+{
+  "simplified": "冲突",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chōng tū",
+          "wade_giles_pinyin": "chong1 tu1"
+        }
+      ],
+      "simplified": "冲突",
+      "traditional": "衝突",
+      "meanings": [
+        {
+          "value": "conflict"
+        },
+        {
+          "value": "to conflict"
+        },
+        {
+          "value": "clash of opposing forces"
+        },
+        {
+          "value": "collision (of interests)"
+        },
+        {
+          "value": "contention"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

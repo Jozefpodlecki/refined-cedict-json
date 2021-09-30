@@ -1,0 +1,33 @@
+{
+  "simplified": "犍",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiān",
+          "wade_giles_pinyin": "jian1"
+        }
+      ],
+      "simplified": "犍",
+      "simplified_stroke_count": 13,
+      "traditional": "犍",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "bullock"
+        },
+        {
+          "value": "castrated bull"
+        },
+        {
+          "value": "to castrate livestock"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "参赞",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " cān zàn",
+          "wade_giles_pinyin": "can1 zan4"
+        }
+      ],
+      "simplified": "参赞",
+      "simplified_stroke_count": 0,
+      "traditional": "參贊",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to serve as an adviser"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(diplomatic rank) attaché"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "counselor"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

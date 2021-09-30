@@ -1,0 +1,34 @@
+{
+  "simplified": "赋诗",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fù shī",
+          "wade_giles_pinyin": "fu4 shi1"
+        }
+      ],
+      "simplified": "赋诗",
+      "simplified_stroke_count": 0,
+      "traditional": "賦詩",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to versify"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to compose poetry"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "simplified": "皮肤",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pí fū",
+          "wade_giles_pinyin": "pi2 fu1"
+        }
+      ],
+      "simplified": "皮肤",
+      "traditional": "皮膚",
+      "meanings": [
+        {
+          "value": "skin"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "層",
+          "traditional": "层",
+          "wade_giles_pinyin": "ceng2"
+        },
+        {
+          "simplified": "塊",
+          "traditional": "块",
+          "wade_giles_pinyin": "kuai4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

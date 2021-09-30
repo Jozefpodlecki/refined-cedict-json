@@ -1,0 +1,33 @@
+{
+  "simplified": "鸣",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "míng",
+          "wade_giles_pinyin": "ming2"
+        }
+      ],
+      "simplified": "鸣",
+      "simplified_stroke_count": 8,
+      "traditional": "鳴",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "to cry (of birds, animals and insects)"
+        },
+        {
+          "value": "to make a sound"
+        },
+        {
+          "value": "to voice (one's gratitude, grievance etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

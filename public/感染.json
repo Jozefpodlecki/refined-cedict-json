@@ -1,0 +1,30 @@
+{
+  "simplified": "感染",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gǎn rǎn",
+          "wade_giles_pinyin": "gan3 ran3"
+        }
+      ],
+      "simplified": "感染",
+      "traditional": "感染",
+      "meanings": [
+        {
+          "value": "infection"
+        },
+        {
+          "value": "to infect"
+        },
+        {
+          "value": "to influence"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

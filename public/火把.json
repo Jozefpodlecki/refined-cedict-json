@@ -1,0 +1,31 @@
+{
+  "simplified": "火把",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huǒ bǎ",
+          "wade_giles_pinyin": "huo3 ba3"
+        }
+      ],
+      "simplified": "火把",
+      "traditional": "火把",
+      "meanings": [
+        {
+          "value": "torch"
+        },
+        {
+          "value": "CL:把[ba3]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "把",
+          "traditional": "",
+          "wade_giles_pinyin": "ba3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

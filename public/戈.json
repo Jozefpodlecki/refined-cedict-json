@@ -1,0 +1,55 @@
+{
+  "simplified": "戈",
+  "simplified_stroke_count": 4,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gē",
+          "wade_giles_pinyin": "Ge1"
+        }
+      ],
+      "simplified": "戈",
+      "simplified_stroke_count": 4,
+      "traditional": "戈",
+      "traditional_stroke_count": 4,
+      "meanings": [
+        {
+          "value": "surname Ge"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gē",
+          "wade_giles_pinyin": "ge1"
+        }
+      ],
+      "simplified": "戈",
+      "simplified_stroke_count": 4,
+      "traditional": "戈",
+      "traditional_stroke_count": 4,
+      "meanings": [
+        {
+          "value": "dagger-axe"
+        },
+        {
+          "context": "abbreviation",
+          "value": "戈瑞[ge1 rui4]",
+          "simplified": "戈",
+          "traditional": "瑞",
+          "wade_giles_pinyin": "ge1 rui4"
+        },
+        {
+          "context": "taiwan",
+          "value": "abbr. for 戈雷[ge1 lei2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

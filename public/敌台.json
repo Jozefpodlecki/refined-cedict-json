@@ -1,0 +1,28 @@
+{
+  "simplified": "敌台",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dí tái",
+          "wade_giles_pinyin": "di2 tai2"
+        }
+      ],
+      "simplified": "敌台",
+      "traditional": "敵臺",
+      "meanings": [
+        {
+          "value": "defensive tower"
+        },
+        {
+          "value": "lookout tower"
+        },
+        {
+          "value": "enemy radio station"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "simplified": "传递",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chuán dì",
+          "wade_giles_pinyin": "chuan2 di4"
+        }
+      ],
+      "simplified": "传递",
+      "traditional": "傳遞",
+      "meanings": [
+        {
+          "value": "to transmit"
+        },
+        {
+          "value": "to pass on to sb else"
+        },
+        {
+          "value": "(math.) transitive"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

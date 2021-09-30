@@ -1,0 +1,37 @@
+{
+  "simplified": "熟食",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shú shí",
+          "wade_giles_pinyin": "shu2 shi2"
+        }
+      ],
+      "simplified": "熟食",
+      "simplified_stroke_count": 0,
+      "traditional": "熟食",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "cooked food"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "prepared food"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "deli food"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

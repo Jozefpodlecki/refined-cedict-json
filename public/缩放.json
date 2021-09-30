@@ -1,0 +1,28 @@
+{
+  "simplified": "缩放",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "suō fàng",
+          "wade_giles_pinyin": "suo1 fang4"
+        }
+      ],
+      "simplified": "缩放",
+      "traditional": "縮放",
+      "meanings": [
+        {
+          "value": "scaling"
+        },
+        {
+          "value": "resizing"
+        },
+        {
+          "value": "zoom (graphics)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

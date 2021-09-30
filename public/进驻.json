@@ -1,0 +1,28 @@
+{
+  "simplified": "进驻",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jìn zhù",
+          "wade_giles_pinyin": "jin4 zhu4"
+        }
+      ],
+      "simplified": "进驻",
+      "traditional": "進駐",
+      "meanings": [
+        {
+          "value": "to enter and garrison"
+        },
+        {
+          "context": "figuratively",
+          "value": "to establish a presence in"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

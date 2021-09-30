@@ -1,0 +1,27 @@
+{
+  "simplified": "卖身",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mài shēn",
+          "wade_giles_pinyin": "mai4 shen1"
+        }
+      ],
+      "simplified": "卖身",
+      "traditional": "賣身",
+      "meanings": [
+        {
+          "value": "to prostitute oneself"
+        },
+        {
+          "value": "to sell oneself into slavery"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

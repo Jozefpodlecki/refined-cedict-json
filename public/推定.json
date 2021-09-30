@@ -1,0 +1,49 @@
+{
+  "simplified": "推定",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " tuī dìng",
+          "wade_giles_pinyin": "tui1 ding4"
+        }
+      ],
+      "simplified": "推定",
+      "simplified_stroke_count": 0,
+      "traditional": "推定",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to infer"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to consider and come to a judgment"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to recommend"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to estimate"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "deduced to be"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

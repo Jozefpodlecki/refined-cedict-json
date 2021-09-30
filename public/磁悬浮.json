@@ -1,0 +1,32 @@
+{
+  "simplified": "磁悬浮",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " cí xuán fú",
+          "wade_giles_pinyin": "ci2 xuan2 fu2"
+        }
+      ],
+      "simplified": "磁悬浮",
+      "simplified_stroke_count": 0,
+      "traditional": "磁懸浮",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "magnetic levitation (train)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "maglev"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

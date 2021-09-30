@@ -1,0 +1,39 @@
+{
+  "simplified": "敌",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dí",
+          "wade_giles_pinyin": "di2"
+        }
+      ],
+      "simplified": "敌",
+      "simplified_stroke_count": 10,
+      "traditional": "敵",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "enemy"
+        },
+        {
+          "value": "to be a match for"
+        },
+        {
+          "value": "to rival"
+        },
+        {
+          "value": "to resist"
+        },
+        {
+          "value": "to withstand"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "simplified": "乒乓球",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pīng pāng qiú",
+          "wade_giles_pinyin": "ping1 pang1 qiu2"
+        }
+      ],
+      "simplified": "乒乓球",
+      "traditional": "乒乓球",
+      "meanings": [
+        {
+          "value": "table tennis"
+        },
+        {
+          "value": "ping-pong"
+        },
+        {
+          "value": "table tennis ball"
+        },
+        {
+          "value": "CL:個|个[ge4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

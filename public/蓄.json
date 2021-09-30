@@ -1,0 +1,33 @@
+{
+  "simplified": "蓄",
+  "simplified_stroke_count": 14,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xù",
+          "wade_giles_pinyin": "xu4"
+        }
+      ],
+      "simplified": "蓄",
+      "simplified_stroke_count": 14,
+      "traditional": "蓄",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "to store up"
+        },
+        {
+          "value": "to grow (e.g. a beard)"
+        },
+        {
+          "value": "to entertain (ideas)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

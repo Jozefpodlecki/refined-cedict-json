@@ -1,0 +1,31 @@
+{
+  "simplified": "木工",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mù gōng",
+          "wade_giles_pinyin": "mu4 gong1"
+        }
+      ],
+      "simplified": "木工",
+      "traditional": "木工",
+      "meanings": [
+        {
+          "value": "woodwork"
+        },
+        {
+          "value": "carpentry"
+        },
+        {
+          "value": "woodworker"
+        },
+        {
+          "value": "carpenter"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

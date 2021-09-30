@@ -1,0 +1,28 @@
+{
+  "simplified": "雪鞋",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xuě xié",
+          "wade_giles_pinyin": "xue3 xie2"
+        }
+      ],
+      "simplified": "雪鞋",
+      "traditional": "雪鞋",
+      "meanings": [
+        {
+          "value": "snowshoes"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "雙",
+          "traditional": "双",
+          "wade_giles_pinyin": "shuang1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

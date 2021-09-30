@@ -1,0 +1,28 @@
+{
+  "simplified": "贷方",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dài fāng",
+          "wade_giles_pinyin": "dai4 fang1"
+        }
+      ],
+      "simplified": "贷方",
+      "traditional": "貸方",
+      "meanings": [
+        {
+          "value": "credit side (of a balance sheet)"
+        },
+        {
+          "value": "creditor"
+        },
+        {
+          "value": "lender"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

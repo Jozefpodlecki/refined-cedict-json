@@ -1,0 +1,29 @@
+{
+  "simplified": "鑳",
+  "simplified_stroke_count": 25,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiàn",
+          "wade_giles_pinyin": "jian4"
+        }
+      ],
+      "simplified": "鑳",
+      "simplified_stroke_count": 25,
+      "traditional": "鑳",
+      "traditional_stroke_count": 25,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 鍵|键[jian4]",
+          "simplified": "鍵",
+          "traditional": "键",
+          "wade_giles_pinyin": "jian4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

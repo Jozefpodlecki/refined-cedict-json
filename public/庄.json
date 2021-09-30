@@ -1,0 +1,85 @@
+{
+  "simplified": "庄",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhuāng",
+          "wade_giles_pinyin": "zhuang1"
+        }
+      ],
+      "simplified": "庄",
+      "simplified_stroke_count": 6,
+      "traditional": "庄",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 莊|庄[zhuang1]",
+          "simplified": "莊",
+          "traditional": "庄",
+          "wade_giles_pinyin": "zhuang1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhuāng",
+          "wade_giles_pinyin": "Zhuang1"
+        }
+      ],
+      "simplified": "庄",
+      "simplified_stroke_count": 6,
+      "traditional": "莊",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "surname Zhuang"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhuāng",
+          "wade_giles_pinyin": "zhuang1"
+        }
+      ],
+      "simplified": "庄",
+      "simplified_stroke_count": 6,
+      "traditional": "莊",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "farmstead"
+        },
+        {
+          "value": "village"
+        },
+        {
+          "value": "manor"
+        },
+        {
+          "value": "place of business"
+        },
+        {
+          "value": "banker (in a gambling game)"
+        },
+        {
+          "value": "grave or solemn"
+        },
+        {
+          "value": "holdings of a landlord (in imperial China)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "simplified": "帅",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shuài",
+          "wade_giles_pinyin": "Shuai4"
+        }
+      ],
+      "simplified": "帅",
+      "simplified_stroke_count": 5,
+      "traditional": "帥",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "surname Shuai"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shuài",
+          "wade_giles_pinyin": "shuai4"
+        }
+      ],
+      "simplified": "帅",
+      "simplified_stroke_count": 5,
+      "traditional": "帥",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "handsome"
+        },
+        {
+          "value": "graceful"
+        },
+        {
+          "value": "smart"
+        },
+        {
+          "value": "commander in chief"
+        },
+        {
+          "context": "colloquial",
+          "value": "cool!"
+        },
+        {
+          "value": "sweet!"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

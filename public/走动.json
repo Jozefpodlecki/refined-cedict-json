@@ -1,0 +1,59 @@
+{
+  "simplified": "走动",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zǒu dòng",
+          "wade_giles_pinyin": "zou3 dong4"
+        }
+      ],
+      "simplified": "走动",
+      "simplified_stroke_count": 0,
+      "traditional": "走動",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to walk around"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to move about"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to stretch one's legs"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to go for a walk"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to be mobile (e.g. after an illness)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to visit one another"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to pay a visit (go to the toilet)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

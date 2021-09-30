@@ -1,0 +1,28 @@
+{
+  "simplified": "词条",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cí tiáo",
+          "wade_giles_pinyin": "ci2 tiao2"
+        }
+      ],
+      "simplified": "词条",
+      "traditional": "詞條",
+      "meanings": [
+        {
+          "value": "dictionary entry"
+        },
+        {
+          "value": "lexical item"
+        },
+        {
+          "value": "term"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

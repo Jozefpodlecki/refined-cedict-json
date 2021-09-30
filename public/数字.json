@@ -1,0 +1,43 @@
+{
+  "simplified": "数字",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shù zì",
+          "wade_giles_pinyin": "shu4 zi4"
+        }
+      ],
+      "simplified": "数字",
+      "traditional": "數字",
+      "meanings": [
+        {
+          "value": "numeral"
+        },
+        {
+          "value": "digit"
+        },
+        {
+          "value": "number"
+        },
+        {
+          "value": "figure"
+        },
+        {
+          "value": "amount"
+        },
+        {
+          "value": "digital (electronics etc)"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

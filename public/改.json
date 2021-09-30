@@ -1,0 +1,44 @@
+{
+  "simplified": "改",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " gǎi",
+          "wade_giles_pinyin": "gai3"
+        }
+      ],
+      "simplified": "改",
+      "simplified_stroke_count": 7,
+      "traditional": "改",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to change"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to alter"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to transform"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to correct"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "simplified": "刻",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kè",
+          "wade_giles_pinyin": "ke4"
+        }
+      ],
+      "simplified": "刻",
+      "simplified_stroke_count": 8,
+      "traditional": "刻",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "quarter (hour)"
+        },
+        {
+          "value": "moment"
+        },
+        {
+          "value": "to carve"
+        },
+        {
+          "value": "to engrave"
+        },
+        {
+          "value": "to cut"
+        },
+        {
+          "value": "oppressive"
+        },
+        {
+          "value": "classifier for short time intervals"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "生活资料",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shēng huó zī liào",
+          "wade_giles_pinyin": "sheng1 huo2 zi1 liao4"
+        }
+      ],
+      "simplified": "生活资料",
+      "traditional": "生活資料",
+      "meanings": [
+        {
+          "value": "consumer goods"
+        },
+        {
+          "value": "means of livelihood"
+        },
+        {
+          "value": "means of subsistence"
+        },
+        {
+          "value": "documents relating to sb's life"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

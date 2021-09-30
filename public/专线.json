@@ -1,0 +1,48 @@
+{
+  "simplified": "专线",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhuān xiàn",
+          "wade_giles_pinyin": "zhuan1 xian4"
+        }
+      ],
+      "simplified": "专线",
+      "simplified_stroke_count": null,
+      "traditional": "專線",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "special-purpose phone line or communications link"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "hotline"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "special rail line (e.g. between airport and city)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "CL:條|条[tiao2]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "條",
+          "traditional": "条",
+          "wade_giles_pinyin": "tiao2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

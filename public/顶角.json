@@ -1,0 +1,37 @@
+{
+  "simplified": "顶角",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dǐng jiǎo",
+          "wade_giles_pinyin": "ding3 jiao3"
+        }
+      ],
+      "simplified": "顶角",
+      "simplified_stroke_count": null,
+      "traditional": "頂角",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "angle at apex"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "summit angle"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "cusp"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "simplified": "祁",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qí",
+          "wade_giles_pinyin": "Qi2"
+        }
+      ],
+      "simplified": "祁",
+      "simplified_stroke_count": 8,
+      "traditional": "祁",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "surname Qi"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qí",
+          "wade_giles_pinyin": "qi2"
+        }
+      ],
+      "simplified": "祁",
+      "simplified_stroke_count": 8,
+      "traditional": "祁",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "large"
+        },
+        {
+          "value": "vast"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

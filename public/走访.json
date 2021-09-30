@@ -1,0 +1,27 @@
+{
+  "simplified": "走访",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zǒu fǎng",
+          "wade_giles_pinyin": "zou3 fang3"
+        }
+      ],
+      "simplified": "走访",
+      "traditional": "走訪",
+      "meanings": [
+        {
+          "value": "to visit"
+        },
+        {
+          "value": "to travel to"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

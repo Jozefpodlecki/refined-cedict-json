@@ -1,0 +1,28 @@
+{
+  "simplified": "收支",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shōu zhī",
+          "wade_giles_pinyin": "shou1 zhi1"
+        }
+      ],
+      "simplified": "收支",
+      "traditional": "收支",
+      "meanings": [
+        {
+          "value": "cash flow"
+        },
+        {
+          "value": "financial balance"
+        },
+        {
+          "value": "income and expenditure"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

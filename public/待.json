@@ -1,0 +1,40 @@
+{
+  "simplified": "待",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dāi",
+          "wade_giles_pinyin": "dai1"
+        }
+      ],
+      "simplified": "待",
+      "simplified_stroke_count": 9,
+      "traditional": "待",
+      "traditional_stroke_count": 9,
+      "meanings": [],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dài",
+          "wade_giles_pinyin": "dai4"
+        }
+      ],
+      "simplified": "待",
+      "simplified_stroke_count": 9,
+      "traditional": "待",
+      "traditional_stroke_count": 9,
+      "meanings": [],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "simplified": "往来",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wǎng lái",
+          "wade_giles_pinyin": "wang3 lai2"
+        }
+      ],
+      "simplified": "往来",
+      "traditional": "往來",
+      "meanings": [
+        {
+          "value": "dealings"
+        },
+        {
+          "value": "contacts"
+        },
+        {
+          "value": "to go back and forth"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

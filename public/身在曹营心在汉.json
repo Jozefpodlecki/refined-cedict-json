@@ -1,0 +1,34 @@
+{
+  "simplified": "身在曹营心在汉",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shēn zài cáo yíng xīn zài hàn",
+          "wade_giles_pinyin": "shen1 zai4 Cao2 ying2 xin1 zai4 Han4"
+        }
+      ],
+      "simplified": "身在曹营心在汉",
+      "simplified_stroke_count": null,
+      "traditional": "身在曹營心在漢",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": "idiom",
+          "value": "live in Cao camp but have the heart in Han camp"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to be somewhere while longing to be somewhere else"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

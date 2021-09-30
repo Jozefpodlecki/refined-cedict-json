@@ -1,0 +1,33 @@
+{
+  "simplified": "开场",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kāi chǎng",
+          "wade_giles_pinyin": "kai1 chang3"
+        }
+      ],
+      "simplified": "开场",
+      "traditional": "開場",
+      "meanings": [
+        {
+          "value": "to begin"
+        },
+        {
+          "value": "to open"
+        },
+        {
+          "value": "to start"
+        },
+        {
+          "value": "beginning of an event"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

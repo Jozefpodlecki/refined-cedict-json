@@ -1,0 +1,34 @@
+{
+  "simplified": "饱览",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǎo lǎn",
+          "wade_giles_pinyin": "bao3 lan3"
+        }
+      ],
+      "simplified": "饱览",
+      "simplified_stroke_count": null,
+      "traditional": "飽覽",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to look intensively"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to feast one's eyes on"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

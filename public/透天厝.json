@@ -1,0 +1,29 @@
+{
+  "simplified": "透天厝",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tòu tiān cuò",
+          "wade_giles_pinyin": "tou4 tian1 cuo4"
+        }
+      ],
+      "simplified": "透天厝",
+      "traditional": "透天厝",
+      "meanings": [
+        {
+          "context": "taiwan",
+          "value": "row house"
+        },
+        {
+          "value": "townhouse"
+        },
+        {
+          "value": "terrace house"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

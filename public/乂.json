@@ -1,0 +1,36 @@
+{
+  "simplified": "乂",
+  "simplified_stroke_count": 2,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yì",
+          "wade_giles_pinyin": "yi4"
+        }
+      ],
+      "simplified": "乂",
+      "simplified_stroke_count": 2,
+      "traditional": "乂",
+      "traditional_stroke_count": 2,
+      "meanings": [
+        {
+          "value": "to regulate"
+        },
+        {
+          "value": "to govern"
+        },
+        {
+          "value": "to control"
+        },
+        {
+          "value": "to mow"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

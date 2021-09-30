@@ -1,0 +1,57 @@
+{
+  "simplified": "中意",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhōng yì",
+          "wade_giles_pinyin": "Zhong1 Yi4"
+        }
+      ],
+      "simplified": "中意",
+      "simplified_stroke_count": 0,
+      "traditional": "中意",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Sino-Italian"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhòng yì",
+          "wade_giles_pinyin": "zhong4 yi4"
+        }
+      ],
+      "simplified": "中意",
+      "simplified_stroke_count": 0,
+      "traditional": "中意",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to take one's fancy"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to be to one's liking"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

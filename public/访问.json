@@ -1,0 +1,36 @@
+{
+  "simplified": "访问",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fǎng wèn",
+          "wade_giles_pinyin": "fang3 wen4"
+        }
+      ],
+      "simplified": "访问",
+      "traditional": "訪問",
+      "meanings": [
+        {
+          "value": "to visit"
+        },
+        {
+          "value": "to call on"
+        },
+        {
+          "value": "to interview"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "次",
+          "traditional": "",
+          "wade_giles_pinyin": "ci4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

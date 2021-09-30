@@ -1,0 +1,42 @@
+{
+  "simplified": "诉求",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sù qiú",
+          "wade_giles_pinyin": "su4 qiu2"
+        }
+      ],
+      "simplified": "诉求",
+      "traditional": "訴求",
+      "meanings": [
+        {
+          "value": "to appeal"
+        },
+        {
+          "value": "to demand (an answer)"
+        },
+        {
+          "value": "requirement"
+        },
+        {
+          "value": "demand"
+        },
+        {
+          "value": "claim"
+        },
+        {
+          "value": "appeal"
+        },
+        {
+          "value": "(marketing) message"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

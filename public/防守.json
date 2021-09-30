@@ -1,0 +1,34 @@
+{
+  "simplified": "防守",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fáng shǒu",
+          "wade_giles_pinyin": "fang2 shou3"
+        }
+      ],
+      "simplified": "防守",
+      "simplified_stroke_count": null,
+      "traditional": "防守",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to defend"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to protect (against)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

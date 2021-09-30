@@ -1,0 +1,33 @@
+{
+  "simplified": "反转",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fǎn zhuǎn",
+          "wade_giles_pinyin": "fan3 zhuan3"
+        }
+      ],
+      "simplified": "反转",
+      "traditional": "反轉",
+      "meanings": [
+        {
+          "value": "reversal"
+        },
+        {
+          "value": "inversion"
+        },
+        {
+          "value": "to reverse"
+        },
+        {
+          "value": "to invert (upside down, inside out, back to front, white to black etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

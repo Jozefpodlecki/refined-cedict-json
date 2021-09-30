@@ -1,0 +1,32 @@
+{
+  "simplified": "资财",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zī cái",
+          "wade_giles_pinyin": "zi1 cai2"
+        }
+      ],
+      "simplified": "资财",
+      "simplified_stroke_count": 0,
+      "traditional": "資財",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "assets"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "capital and materials"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

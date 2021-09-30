@@ -1,0 +1,73 @@
+{
+  "simplified": "事儿",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shì r",
+          "wade_giles_pinyin": "shi4 r5"
+        }
+      ],
+      "simplified": "事儿",
+      "simplified_stroke_count": 0,
+      "traditional": "事兒",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "one's employment"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "business"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "matter that needs to be settled"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(northern dialect) (of a person) demanding"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "trying"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "troublesome"
+        },
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "erhua  事[shi4]"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:件[jian4],樁|桩[zhuang1]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "件",
+          "traditional": "",
+          "wade_giles_pinyin": "jian4"
+        },
+        {
+          "simplified": "樁",
+          "traditional": "桩",
+          "wade_giles_pinyin": "zhuang1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

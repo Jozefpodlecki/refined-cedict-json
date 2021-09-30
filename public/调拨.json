@@ -1,0 +1,52 @@
+{
+  "simplified": "调拨",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diào bō",
+          "wade_giles_pinyin": "diao4 bo1"
+        }
+      ],
+      "simplified": "调拨",
+      "traditional": "調撥",
+      "meanings": [
+        {
+          "value": "to send (products)"
+        },
+        {
+          "value": "to allocate"
+        },
+        {
+          "value": "to commit (funds)"
+        },
+        {
+          "value": "to channel (goods)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tiáo bō",
+          "wade_giles_pinyin": "tiao2 bo1"
+        }
+      ],
+      "simplified": "调拨",
+      "traditional": "調撥",
+      "meanings": [
+        {
+          "value": "to sow discord"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

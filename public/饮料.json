@@ -1,0 +1,25 @@
+{
+  "simplified": "饮料",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǐn liào",
+          "wade_giles_pinyin": "yin3 liao4"
+        }
+      ],
+      "simplified": "饮料",
+      "traditional": "飲料",
+      "meanings": [
+        {
+          "value": "drink"
+        },
+        {
+          "value": "beverage"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

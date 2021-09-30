@@ -1,0 +1,33 @@
+{
+  "simplified": "狗吠",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gǒu feì",
+          "wade_giles_pinyin": "gou3 fei4"
+        }
+      ],
+      "simplified": "狗吠",
+      "traditional": "狗吠",
+      "meanings": [
+        {
+          "value": "bark"
+        },
+        {
+          "value": "to bark"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "聲",
+          "traditional": "声",
+          "wade_giles_pinyin": "sheng1"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

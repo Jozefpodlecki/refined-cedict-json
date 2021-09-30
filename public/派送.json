@@ -1,0 +1,39 @@
+{
+  "simplified": "派送",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " pài sòng",
+          "wade_giles_pinyin": "pai4 song4"
+        }
+      ],
+      "simplified": "派送",
+      "simplified_stroke_count": 0,
+      "traditional": "派送",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to send"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to deliver"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to distribute"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

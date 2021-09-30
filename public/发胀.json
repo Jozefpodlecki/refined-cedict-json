@@ -1,0 +1,34 @@
+{
+  "simplified": "发胀",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fā zhàng",
+          "wade_giles_pinyin": "fa1 zhang4"
+        }
+      ],
+      "simplified": "发胀",
+      "simplified_stroke_count": 0,
+      "traditional": "發脹",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to swell up"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "swelling"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "simplified": "遣送",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiǎn sòng",
+          "wade_giles_pinyin": "qian3 song4"
+        }
+      ],
+      "simplified": "遣送",
+      "traditional": "遣送",
+      "meanings": [
+        {
+          "value": "to send away"
+        },
+        {
+          "value": "to deport"
+        },
+        {
+          "value": "to repatriate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

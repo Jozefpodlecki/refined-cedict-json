@@ -1,0 +1,28 @@
+{
+  "simplified": "中转站",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhōng zhuǎn zhàn",
+          "wade_giles_pinyin": "zhong1 zhuan3 zhan4"
+        }
+      ],
+      "simplified": "中转站",
+      "traditional": "中轉站",
+      "meanings": [
+        {
+          "value": "transit hub"
+        },
+        {
+          "value": "transport hub"
+        },
+        {
+          "value": "interchange"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "simplified": "审处",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shěn chǔ",
+          "wade_giles_pinyin": "shen3 chu3"
+        }
+      ],
+      "simplified": "审处",
+      "traditional": "審處",
+      "meanings": [
+        {
+          "value": "to deliberate and decide"
+        },
+        {
+          "value": "to try and punish"
+        },
+        {
+          "value": "trial and execution"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

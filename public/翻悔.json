@@ -1,0 +1,39 @@
+{
+  "simplified": "翻悔",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fān huǐ",
+          "wade_giles_pinyin": "fan1 hui3"
+        }
+      ],
+      "simplified": "翻悔",
+      "simplified_stroke_count": 0,
+      "traditional": "翻悔",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to renege"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to go back (on a deal)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to back out (of a promise)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

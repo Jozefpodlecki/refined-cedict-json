@@ -1,0 +1,28 @@
+{
+  "simplified": "呼牛呼马",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hū niú hū mǎ",
+          "wade_giles_pinyin": "hu1 niu2 hu1 ma3"
+        }
+      ],
+      "simplified": "呼牛呼马",
+      "traditional": "呼牛呼馬",
+      "meanings": [
+        {
+          "lexical_item": "idiom",
+          "value": "to call sth a cow or a horse ; it doesn't matter what you call it"
+        },
+        {
+          "value": "Insult me if you want, I don't care what you call me."
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

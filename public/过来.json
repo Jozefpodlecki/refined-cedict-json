@@ -1,0 +1,52 @@
+{
+  "simplified": "过来",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guò lái",
+          "wade_giles_pinyin": "guo4 lai2"
+        }
+      ],
+      "simplified": "过来",
+      "traditional": "過來",
+      "meanings": [
+        {
+          "value": "to come over"
+        },
+        {
+          "value": "to manage"
+        },
+        {
+          "value": "to handle"
+        },
+        {
+          "value": "to be able to take care of"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guò lai",
+          "wade_giles_pinyin": "guo4 lai5"
+        }
+      ],
+      "simplified": "过来",
+      "traditional": "過來",
+      "meanings": [
+        {
+          "value": "see 過來|过来[guo4 lai2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

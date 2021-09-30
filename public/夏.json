@@ -1,0 +1,50 @@
+{
+  "simplified": "夏",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xià",
+          "wade_giles_pinyin": "Xia4"
+        }
+      ],
+      "simplified": "夏",
+      "simplified_stroke_count": 10,
+      "traditional": "夏",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "the Xia or Hsia dynasty c. 2000 BC"
+        },
+        {
+          "value": "Xia of the Sixteen Kingdoms (407-432)"
+        },
+        {
+          "value": "surname Xia"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xià",
+          "wade_giles_pinyin": "xia4"
+        }
+      ],
+      "simplified": "夏",
+      "simplified_stroke_count": 10,
+      "traditional": "夏",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "summer"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

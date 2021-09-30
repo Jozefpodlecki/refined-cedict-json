@@ -1,0 +1,29 @@
+{
+  "simplified": "囖",
+  "simplified_stroke_count": 28,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "luo",
+          "wade_giles_pinyin": "luo5"
+        }
+      ],
+      "simplified": "囖",
+      "simplified_stroke_count": 28,
+      "traditional": "囖",
+      "traditional_stroke_count": 28,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "erroneous variant of 囉|啰[luo5]",
+          "simplified": "e",
+          "traditional": "rroneous  囉|啰",
+          "wade_giles_pinyin": "luo5"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

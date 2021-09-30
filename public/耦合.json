@@ -1,0 +1,39 @@
+{
+  "simplified": "耦合",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ǒu hé",
+          "wade_giles_pinyin": "ou3 he2"
+        }
+      ],
+      "simplified": "耦合",
+      "simplified_stroke_count": null,
+      "traditional": "耦合",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "coupling (physics)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "copula (statistics)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to be coupled (with sth)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "simplified": "领唱",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lǐng chàng",
+          "wade_giles_pinyin": "ling3 chang4"
+        }
+      ],
+      "simplified": "领唱",
+      "traditional": "領唱",
+      "meanings": [
+        {
+          "value": "to lead a chorus"
+        },
+        {
+          "value": "choirmaster"
+        },
+        {
+          "value": "leading singer"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

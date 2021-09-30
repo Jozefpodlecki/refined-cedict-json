@@ -1,0 +1,32 @@
+{
+  "simplified": "晴",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " qíng",
+          "wade_giles_pinyin": "qing2"
+        }
+      ],
+      "simplified": "晴",
+      "simplified_stroke_count": 12,
+      "traditional": "晴",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "clear"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "fine (weather)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

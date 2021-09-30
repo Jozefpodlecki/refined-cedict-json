@@ -1,0 +1,62 @@
+{
+  "simplified": "炼",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "liàn",
+          "wade_giles_pinyin": "lian4"
+        }
+      ],
+      "simplified": "炼",
+      "simplified_stroke_count": 9,
+      "traditional": "煉",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "to refine"
+        },
+        {
+          "value": "to smelt"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "liàn",
+          "wade_giles_pinyin": "lian4"
+        }
+      ],
+      "simplified": "炼",
+      "simplified_stroke_count": 9,
+      "traditional": "鍊",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 鏈|链[lian4], chain",
+          "simplified": "鏈",
+          "traditional": "链",
+          "wade_giles_pinyin": "lian4"
+        },
+        {
+          "context": "variant",
+          "value": "variant of 煉|炼[lian4]",
+          "simplified": "煉",
+          "traditional": "炼",
+          "wade_giles_pinyin": "lian4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

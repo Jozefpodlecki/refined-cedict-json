@@ -1,0 +1,42 @@
+{
+  "simplified": "海边",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " hǎi biān",
+          "wade_giles_pinyin": "hai3 bian1"
+        }
+      ],
+      "simplified": "海边",
+      "simplified_stroke_count": 0,
+      "traditional": "海邊",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "coast"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "seaside"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "seashore"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "beach"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

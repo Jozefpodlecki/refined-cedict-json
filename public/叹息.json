@@ -1,0 +1,34 @@
+{
+  "simplified": "叹息",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " tàn xī",
+          "wade_giles_pinyin": "tan4 xi1"
+        }
+      ],
+      "simplified": "叹息",
+      "simplified_stroke_count": 0,
+      "traditional": "嘆息",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to sigh"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to gasp (in admiration)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

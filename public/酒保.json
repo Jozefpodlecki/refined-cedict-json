@@ -1,0 +1,32 @@
+{
+  "simplified": "酒保",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiǔ bǎo",
+          "wade_giles_pinyin": "jiu3 bao3"
+        }
+      ],
+      "simplified": "酒保",
+      "simplified_stroke_count": null,
+      "traditional": "酒保",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "barman"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "bartender"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

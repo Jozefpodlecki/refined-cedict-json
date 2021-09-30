@@ -1,0 +1,27 @@
+{
+  "simplified": "到达",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dào dá",
+          "wade_giles_pinyin": "dao4 da2"
+        }
+      ],
+      "simplified": "到达",
+      "traditional": "到達",
+      "meanings": [
+        {
+          "value": "to reach"
+        },
+        {
+          "value": "to arrive"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

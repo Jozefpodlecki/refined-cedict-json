@@ -1,0 +1,32 @@
+{
+  "simplified": "诗律",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shī lǜ",
+          "wade_giles_pinyin": "shi1 lu:4"
+        }
+      ],
+      "simplified": "诗律",
+      "simplified_stroke_count": 0,
+      "traditional": "詩律",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "meters and forms of versification"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "prosody"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

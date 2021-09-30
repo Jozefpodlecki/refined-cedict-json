@@ -1,0 +1,33 @@
+{
+  "simplified": "笔电",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǐ diàn",
+          "wade_giles_pinyin": "bi3 dian4"
+        }
+      ],
+      "simplified": "笔电",
+      "traditional": "筆電",
+      "meanings": [
+        {
+          "value": "notebook (computer)"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "臺",
+          "traditional": "台",
+          "wade_giles_pinyin": "tai2"
+        },
+        {
+          "simplified": "部",
+          "traditional": "",
+          "wade_giles_pinyin": "bu4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

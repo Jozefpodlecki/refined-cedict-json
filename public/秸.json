@@ -1,0 +1,44 @@
+{
+  "simplified": "秸",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiē",
+          "wade_giles_pinyin": "jie1"
+        }
+      ],
+      "simplified": "秸",
+      "simplified_stroke_count": 11,
+      "traditional": "秸",
+      "traditional_stroke_count": 11,
+      "meanings": [],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiē",
+          "wade_giles_pinyin": "jie1"
+        }
+      ],
+      "simplified": "秸",
+      "simplified_stroke_count": 11,
+      "traditional": "稭",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 秸[jie1]",
+          "simplified": "秸",
+          "traditional": "",
+          "wade_giles_pinyin": "jie1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

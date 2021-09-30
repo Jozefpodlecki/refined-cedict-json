@@ -1,0 +1,25 @@
+{
+  "simplified": "临床特征",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lín chuáng tè zhēng",
+          "wade_giles_pinyin": "lin2 chuang2 te4 zheng1"
+        }
+      ],
+      "simplified": "临床特征",
+      "traditional": "臨床特徵",
+      "meanings": [
+        {
+          "value": "clinical characteristic"
+        },
+        {
+          "value": "diagnostic trait"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

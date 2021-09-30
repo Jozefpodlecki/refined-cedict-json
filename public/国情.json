@@ -1,0 +1,32 @@
+{
+  "simplified": "国情",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " guó qíng",
+          "wade_giles_pinyin": "guo2 qing2"
+        }
+      ],
+      "simplified": "国情",
+      "simplified_stroke_count": 0,
+      "traditional": "國情",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "the characteristics and circumstances particular to a country"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "current state of a country"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

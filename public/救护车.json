@@ -1,0 +1,28 @@
+{
+  "simplified": "救护车",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiù hù chē",
+          "wade_giles_pinyin": "jiu4 hu4 che1"
+        }
+      ],
+      "simplified": "救护车",
+      "traditional": "救護車",
+      "meanings": [
+        {
+          "value": "ambulance"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "輛",
+          "traditional": "辆",
+          "wade_giles_pinyin": "liang4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

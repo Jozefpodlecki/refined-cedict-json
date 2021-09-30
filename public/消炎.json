@@ -1,0 +1,30 @@
+{
+  "simplified": "消炎",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiāo yán",
+          "wade_giles_pinyin": "xiao1 yan2"
+        }
+      ],
+      "simplified": "消炎",
+      "traditional": "消炎",
+      "meanings": [
+        {
+          "value": "to reduce fever"
+        },
+        {
+          "value": "antipyretic"
+        },
+        {
+          "value": "to decrease inflammation"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "穿衣",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chuān yī",
+          "wade_giles_pinyin": "chuan1 yi1"
+        }
+      ],
+      "simplified": "穿衣",
+      "simplified_stroke_count": 0,
+      "traditional": "穿衣",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to wear clothes"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "clothing"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

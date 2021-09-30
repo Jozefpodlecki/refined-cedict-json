@@ -1,0 +1,30 @@
+{
+  "simplified": "起落",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qǐ luò",
+          "wade_giles_pinyin": "qi3 luo4"
+        }
+      ],
+      "simplified": "起落",
+      "traditional": "起落",
+      "meanings": [
+        {
+          "value": "to rise and fall"
+        },
+        {
+          "value": "takeoff and landing"
+        },
+        {
+          "value": "ups and downs"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

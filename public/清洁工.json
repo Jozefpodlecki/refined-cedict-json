@@ -1,0 +1,28 @@
+{
+  "simplified": "清洁工",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qīng jié gōng",
+          "wade_giles_pinyin": "qing1 jie2 gong1"
+        }
+      ],
+      "simplified": "清洁工",
+      "traditional": "清潔工",
+      "meanings": [
+        {
+          "value": "cleaner"
+        },
+        {
+          "value": "janitor"
+        },
+        {
+          "value": "garbage collector"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

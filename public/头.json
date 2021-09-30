@@ -1,0 +1,89 @@
+{
+  "simplified": "头",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tóu",
+          "wade_giles_pinyin": "tou2"
+        }
+      ],
+      "simplified": "头",
+      "simplified_stroke_count": 5,
+      "traditional": "頭",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "head"
+        },
+        {
+          "value": "hair style"
+        },
+        {
+          "value": "the top"
+        },
+        {
+          "value": "end"
+        },
+        {
+          "value": "beginning or end"
+        },
+        {
+          "value": "a stub"
+        },
+        {
+          "value": "remnant"
+        },
+        {
+          "value": "chief"
+        },
+        {
+          "value": "boss"
+        },
+        {
+          "value": "side"
+        },
+        {
+          "value": "aspect"
+        },
+        {
+          "value": "first"
+        },
+        {
+          "value": "leading"
+        },
+        {
+          "value": "classifier for pigs or livestock"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tou",
+          "wade_giles_pinyin": "tou5"
+        }
+      ],
+      "simplified": "头",
+      "simplified_stroke_count": 5,
+      "traditional": "頭",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "suffix for nouns"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

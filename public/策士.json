@@ -1,0 +1,32 @@
+{
+  "simplified": "策士",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " cè shì",
+          "wade_giles_pinyin": "ce4 shi4"
+        }
+      ],
+      "simplified": "策士",
+      "simplified_stroke_count": 0,
+      "traditional": "策士",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "strategist"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "counsellor on military strategy"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

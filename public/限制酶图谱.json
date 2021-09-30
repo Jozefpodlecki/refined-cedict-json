@@ -1,0 +1,25 @@
+{
+  "simplified": "限制酶图谱",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiàn zhì méi tú pǔ",
+          "wade_giles_pinyin": "xian4 zhi4 mei2 tu2 pu3"
+        }
+      ],
+      "simplified": "限制酶图谱",
+      "traditional": "限制酶圖譜",
+      "meanings": [
+        {
+          "value": "restriction mapping (in genomics)"
+        },
+        {
+          "value": "restriction pattern"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

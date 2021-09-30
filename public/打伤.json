@@ -1,0 +1,30 @@
+{
+  "simplified": "打伤",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dǎ shāng",
+          "wade_giles_pinyin": "da3 shang1"
+        }
+      ],
+      "simplified": "打伤",
+      "traditional": "打傷",
+      "meanings": [
+        {
+          "value": "to injure"
+        },
+        {
+          "value": "to wound"
+        },
+        {
+          "value": "to damage"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

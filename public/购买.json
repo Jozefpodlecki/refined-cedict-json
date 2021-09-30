@@ -1,0 +1,34 @@
+{
+  "simplified": "购买",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gòu mǎi",
+          "wade_giles_pinyin": "gou4 mai3"
+        }
+      ],
+      "simplified": "购买",
+      "simplified_stroke_count": null,
+      "traditional": "購買",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to purchase"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to buy"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

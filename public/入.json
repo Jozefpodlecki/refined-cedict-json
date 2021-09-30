@@ -1,0 +1,46 @@
+{
+  "simplified": "入",
+  "simplified_stroke_count": 2,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rù",
+          "wade_giles_pinyin": "ru4"
+        }
+      ],
+      "simplified": "入",
+      "simplified_stroke_count": 2,
+      "traditional": "入",
+      "traditional_stroke_count": 2,
+      "meanings": [
+        {
+          "value": "to enter"
+        },
+        {
+          "value": "to go into"
+        },
+        {
+          "value": "to join"
+        },
+        {
+          "value": "to become a member of"
+        },
+        {
+          "value": "to confirm or agree with"
+        },
+        {
+          "context": "abbreviation",
+          "value": "入聲|入声[ru4 sheng1]",
+          "simplified": "入",
+          "traditional": "聲|入声",
+          "wade_giles_pinyin": "ru4 sheng1"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "遭受",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zāo shòu",
+          "wade_giles_pinyin": "zao1 shou4"
+        }
+      ],
+      "simplified": "遭受",
+      "simplified_stroke_count": null,
+      "traditional": "遭受",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to suffer"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to sustain (loss, misfortune)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

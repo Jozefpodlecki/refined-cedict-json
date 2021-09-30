@@ -1,0 +1,39 @@
+{
+  "simplified": "迂回",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yū huí",
+          "wade_giles_pinyin": "yu1 hui2"
+        }
+      ],
+      "simplified": "迂回",
+      "traditional": "迂迴",
+      "meanings": [
+        {
+          "value": "roundabout route"
+        },
+        {
+          "value": "circuitous"
+        },
+        {
+          "value": "tortuous"
+        },
+        {
+          "value": "to outflank"
+        },
+        {
+          "value": "indirect"
+        },
+        {
+          "value": "roundabout"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

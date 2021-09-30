@@ -1,0 +1,53 @@
+{
+  "simplified": "避风港",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bì fēng gǎng",
+          "wade_giles_pinyin": "bi4 feng1 gang3"
+        }
+      ],
+      "simplified": "避风港",
+      "simplified_stroke_count": null,
+      "traditional": "避風港",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "haven"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "refuge"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "harbor"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "CL:座[zuo4],個|个[ge4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "座",
+          "traditional": "",
+          "wade_giles_pinyin": "zuo4"
+        },
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

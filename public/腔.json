@@ -1,0 +1,37 @@
+{
+  "simplified": "腔",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiāng",
+          "wade_giles_pinyin": "qiang1"
+        }
+      ],
+      "simplified": "腔",
+      "simplified_stroke_count": 12,
+      "traditional": "腔",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "cavity of body"
+        },
+        {
+          "value": "barrel (e.g. engine cylinder)"
+        },
+        {
+          "value": "compartment"
+        },
+        {
+          "value": "tune"
+        },
+        {
+          "value": "accent of speech"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

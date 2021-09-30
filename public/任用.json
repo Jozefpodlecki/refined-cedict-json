@@ -1,0 +1,34 @@
+{
+  "simplified": "任用",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " rèn yòng",
+          "wade_giles_pinyin": "ren4 yong4"
+        }
+      ],
+      "simplified": "任用",
+      "simplified_stroke_count": 0,
+      "traditional": "任用",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to appoint"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to assign"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "昏睡",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hūn shuì",
+          "wade_giles_pinyin": "hun1 shui4"
+        }
+      ],
+      "simplified": "昏睡",
+      "traditional": "昏睡",
+      "meanings": [
+        {
+          "value": "sleep"
+        },
+        {
+          "value": "drowse when unconscious"
+        },
+        {
+          "value": "lethargic sleep"
+        },
+        {
+          "value": "lethargy"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

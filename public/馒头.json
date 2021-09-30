@@ -1,0 +1,34 @@
+{
+  "simplified": "馒头",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mán tou",
+          "wade_giles_pinyin": "man2 tou5"
+        }
+      ],
+      "simplified": "馒头",
+      "traditional": "饅頭",
+      "meanings": [
+        {
+          "value": "steamed roll"
+        },
+        {
+          "value": "steamed bun"
+        },
+        {
+          "value": "steamed bread"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

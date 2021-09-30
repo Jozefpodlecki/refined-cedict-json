@@ -1,0 +1,38 @@
+{
+  "simplified": "生日",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shēng rì",
+          "wade_giles_pinyin": "sheng1 ri4"
+        }
+      ],
+      "simplified": "生日",
+      "simplified_stroke_count": null,
+      "traditional": "生日",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "birthday"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "CL:個|个[ge4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "simplified": "傀",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " guī",
+          "wade_giles_pinyin": "gui1"
+        }
+      ],
+      "simplified": "傀",
+      "simplified_stroke_count": 12,
+      "traditional": "傀",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "grand"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "strange"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "exotic"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " kuǐ",
+          "wade_giles_pinyin": "kui3"
+        }
+      ],
+      "simplified": "傀",
+      "simplified_stroke_count": 12,
+      "traditional": "傀",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "puppet"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

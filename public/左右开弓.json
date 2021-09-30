@@ -1,0 +1,35 @@
+{
+  "simplified": "左右开弓",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zuǒ yòu kāi gōng",
+          "wade_giles_pinyin": "zuo3 you4 kai1 gong1"
+        }
+      ],
+      "simplified": "左右开弓",
+      "traditional": "左右開弓",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "to shoot from both sides"
+        },
+        {
+          "value": "fig. to display ambidexterity"
+        },
+        {
+          "value": "to slap with one hand and then the other, in quick succession"
+        },
+        {
+          "value": "to use both feet equally (football)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

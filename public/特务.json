@@ -1,0 +1,42 @@
+{
+  "simplified": "特务",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " tè wu",
+          "wade_giles_pinyin": "te4 wu5"
+        }
+      ],
+      "simplified": "特务",
+      "simplified_stroke_count": 0,
+      "traditional": "特務",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "special assignment (military)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "special agent"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "operative"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "spy"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

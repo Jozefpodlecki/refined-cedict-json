@@ -1,0 +1,42 @@
+{
+  "simplified": "说话",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shuō huà",
+          "wade_giles_pinyin": "shuo1 hua4"
+        }
+      ],
+      "simplified": "说话",
+      "traditional": "說話",
+      "meanings": [
+        {
+          "value": "to speak"
+        },
+        {
+          "value": "to say"
+        },
+        {
+          "value": "to talk"
+        },
+        {
+          "value": "to gossip"
+        },
+        {
+          "value": "to tell stories"
+        },
+        {
+          "value": "talk"
+        },
+        {
+          "value": "word"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

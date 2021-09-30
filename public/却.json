@@ -1,0 +1,92 @@
+{
+  "simplified": "却",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " què",
+          "wade_giles_pinyin": "que4"
+        }
+      ],
+      "simplified": "却",
+      "simplified_stroke_count": 7,
+      "traditional": "㕁",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "old variant",
+          "lexical_item": "",
+          "value": "卻|却[que4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " què",
+          "wade_giles_pinyin": "que4"
+        }
+      ],
+      "simplified": "却",
+      "simplified_stroke_count": 7,
+      "traditional": "卻",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "but"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "yet"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "however"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "while"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to go back"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to decline"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to retreat"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "nevertheless"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "even though"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

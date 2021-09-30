@@ -1,0 +1,28 @@
+{
+  "simplified": "饰品",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shì pǐn",
+          "wade_giles_pinyin": "shi4 pin3"
+        }
+      ],
+      "simplified": "饰品",
+      "traditional": "飾品",
+      "meanings": [
+        {
+          "value": "ornament"
+        },
+        {
+          "value": "item of jewelry"
+        },
+        {
+          "value": "accessory"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

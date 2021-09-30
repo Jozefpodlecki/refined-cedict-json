@@ -1,0 +1,27 @@
+{
+  "simplified": "围坐",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wéi zuò",
+          "wade_giles_pinyin": "wei2 zuo4"
+        }
+      ],
+      "simplified": "围坐",
+      "traditional": "圍坐",
+      "meanings": [
+        {
+          "value": "to sit in a circle"
+        },
+        {
+          "value": "seated around (a narrator)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

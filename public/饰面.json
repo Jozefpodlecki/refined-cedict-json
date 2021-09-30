@@ -1,0 +1,32 @@
+{
+  "simplified": "饰面",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shì miàn",
+          "wade_giles_pinyin": "shi4 mian4"
+        }
+      ],
+      "simplified": "饰面",
+      "simplified_stroke_count": null,
+      "traditional": "飾面",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "ornamental facing"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "veneer"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

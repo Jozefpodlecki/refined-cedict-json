@@ -1,0 +1,25 @@
+{
+  "simplified": "假日",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jià rì",
+          "wade_giles_pinyin": "jia4 ri4"
+        }
+      ],
+      "simplified": "假日",
+      "traditional": "假日",
+      "meanings": [
+        {
+          "value": "holiday"
+        },
+        {
+          "value": "non-working day"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

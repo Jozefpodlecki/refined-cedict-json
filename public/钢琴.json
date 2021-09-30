@@ -1,0 +1,43 @@
+{
+  "simplified": "钢琴",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " gāng qín",
+          "wade_giles_pinyin": "gang1 qin2"
+        }
+      ],
+      "simplified": "钢琴",
+      "simplified_stroke_count": 0,
+      "traditional": "鋼琴",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "piano"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:架[jia4],臺|台[tai2]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "架",
+          "traditional": "",
+          "wade_giles_pinyin": "jia4"
+        },
+        {
+          "simplified": "臺",
+          "traditional": "台",
+          "wade_giles_pinyin": "tai2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

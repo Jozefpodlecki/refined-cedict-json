@@ -1,0 +1,39 @@
+{
+  "simplified": "设计",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shè jì",
+          "wade_giles_pinyin": "she4 ji4"
+        }
+      ],
+      "simplified": "设计",
+      "traditional": "設計",
+      "meanings": [
+        {
+          "value": "plan"
+        },
+        {
+          "value": "design"
+        },
+        {
+          "value": "to design"
+        },
+        {
+          "value": "to plan"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

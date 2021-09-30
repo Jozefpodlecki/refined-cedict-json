@@ -1,0 +1,44 @@
+{
+  "simplified": "棕",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zōng",
+          "wade_giles_pinyin": "zong1"
+        }
+      ],
+      "simplified": "棕",
+      "simplified_stroke_count": 12,
+      "traditional": "棕",
+      "traditional_stroke_count": 12,
+      "meanings": [],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zōng",
+          "wade_giles_pinyin": "zong1"
+        }
+      ],
+      "simplified": "棕",
+      "simplified_stroke_count": 12,
+      "traditional": "椶",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 棕[zong1]",
+          "simplified": "棕",
+          "traditional": "",
+          "wade_giles_pinyin": "zong1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

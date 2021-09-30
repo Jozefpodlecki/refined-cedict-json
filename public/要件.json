@@ -1,0 +1,37 @@
+{
+  "simplified": "要件",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yào jiàn",
+          "wade_giles_pinyin": "yao4 jian4"
+        }
+      ],
+      "simplified": "要件",
+      "traditional": "要件",
+      "meanings": [
+        {
+          "value": "key document"
+        },
+        {
+          "value": "important condition"
+        },
+        {
+          "value": "criterion"
+        },
+        {
+          "value": "requirement"
+        },
+        {
+          "value": "requisite"
+        },
+        {
+          "value": "cornerstone"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

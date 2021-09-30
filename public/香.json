@@ -1,0 +1,52 @@
+{
+  "simplified": "香",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiāng",
+          "wade_giles_pinyin": "xiang1"
+        }
+      ],
+      "simplified": "香",
+      "simplified_stroke_count": 9,
+      "traditional": "香",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "fragrant"
+        },
+        {
+          "value": "sweet smelling"
+        },
+        {
+          "value": "aromatic"
+        },
+        {
+          "value": "savory or appetizing"
+        },
+        {
+          "value": "(to eat) with relish"
+        },
+        {
+          "value": "(of sleep) sound"
+        },
+        {
+          "value": "perfume or spice"
+        },
+        {
+          "value": "joss or incense stick"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "根",
+          "traditional": "",
+          "wade_giles_pinyin": "gen1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

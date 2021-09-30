@@ -1,0 +1,40 @@
+{
+  "simplified": "关键",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guān jiàn",
+          "wade_giles_pinyin": "guan1 jian4"
+        }
+      ],
+      "simplified": "关键",
+      "traditional": "關鍵",
+      "meanings": [
+        {
+          "value": "crucial point"
+        },
+        {
+          "value": "crux"
+        },
+        {
+          "value": "key"
+        },
+        {
+          "value": "crucial"
+        },
+        {
+          "value": "pivotal"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "simplified": "遗",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yí",
+          "wade_giles_pinyin": "yi2"
+        }
+      ],
+      "simplified": "遗",
+      "simplified_stroke_count": 13,
+      "traditional": "遺",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "to lose"
+        },
+        {
+          "value": "to leave behind"
+        },
+        {
+          "value": "to omit"
+        },
+        {
+          "value": "to bequeath"
+        },
+        {
+          "value": "sth lost"
+        },
+        {
+          "value": "involuntary discharge (of urine etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

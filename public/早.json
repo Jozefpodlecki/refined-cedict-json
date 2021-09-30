@@ -1,0 +1,37 @@
+{
+  "simplified": "早",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zǎo",
+          "wade_giles_pinyin": "zao3"
+        }
+      ],
+      "simplified": "早",
+      "simplified_stroke_count": 6,
+      "traditional": "早",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "value": "early"
+        },
+        {
+          "value": "morning"
+        },
+        {
+          "value": "Good morning!"
+        },
+        {
+          "value": "long ago"
+        },
+        {
+          "value": "prematurely"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "盗采",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dào cǎi",
+          "wade_giles_pinyin": "dao4 cai3"
+        }
+      ],
+      "simplified": "盗采",
+      "simplified_stroke_count": 0,
+      "traditional": "盜採",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to mine (or harvest, log, trap animals etc) illegally"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "illegal mining (or logging etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

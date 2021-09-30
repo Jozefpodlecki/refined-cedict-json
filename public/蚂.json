@@ -1,0 +1,63 @@
+{
+  "simplified": "蚂",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mā",
+          "wade_giles_pinyin": "ma1"
+        }
+      ],
+      "simplified": "蚂",
+      "simplified_stroke_count": 9,
+      "traditional": "螞",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "dragonfly"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mǎ",
+          "wade_giles_pinyin": "ma3"
+        }
+      ],
+      "simplified": "蚂",
+      "simplified_stroke_count": 9,
+      "traditional": "螞",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "ant"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mà",
+          "wade_giles_pinyin": "ma4"
+        }
+      ],
+      "simplified": "蚂",
+      "simplified_stroke_count": 9,
+      "traditional": "螞",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "grasshopper"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "simplified": "清查",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qīng chá",
+          "wade_giles_pinyin": "qing1 cha2"
+        }
+      ],
+      "simplified": "清查",
+      "traditional": "清查",
+      "meanings": [
+        {
+          "value": "to investigate thoroughly"
+        },
+        {
+          "value": "to carefully inspect"
+        },
+        {
+          "value": "to verify"
+        },
+        {
+          "value": "to ferret out (undesirable elements)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

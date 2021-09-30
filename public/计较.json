@@ -1,0 +1,39 @@
+{
+  "simplified": "计较",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jì jiào",
+          "wade_giles_pinyin": "ji4 jiao4"
+        }
+      ],
+      "simplified": "计较",
+      "traditional": "計較",
+      "meanings": [
+        {
+          "value": "to bother about"
+        },
+        {
+          "value": "to haggle"
+        },
+        {
+          "value": "to bicker"
+        },
+        {
+          "value": "to argue"
+        },
+        {
+          "value": "plan"
+        },
+        {
+          "value": "stratagem"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

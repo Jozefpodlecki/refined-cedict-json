@@ -1,0 +1,37 @@
+{
+  "simplified": "海涂",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " hǎi tú",
+          "wade_giles_pinyin": "hai3 tu2"
+        }
+      ],
+      "simplified": "海涂",
+      "simplified_stroke_count": 0,
+      "traditional": "海塗",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "tidal marsh"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "shoal"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "shallows"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

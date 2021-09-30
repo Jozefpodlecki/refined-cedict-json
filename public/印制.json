@@ -1,0 +1,27 @@
+{
+  "simplified": "印制",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yìn zhì",
+          "wade_giles_pinyin": "yin4 zhi4"
+        }
+      ],
+      "simplified": "印制",
+      "traditional": "印製",
+      "meanings": [
+        {
+          "value": "to print"
+        },
+        {
+          "value": "to produce (a publication)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "鞭炮",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "biān pào",
+          "wade_giles_pinyin": "bian1 pao4"
+        }
+      ],
+      "simplified": "鞭炮",
+      "traditional": "鞭炮",
+      "meanings": [
+        {
+          "value": "firecrackers"
+        },
+        {
+          "value": "string of small firecrackers"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "枚",
+          "traditional": "",
+          "wade_giles_pinyin": "mei2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

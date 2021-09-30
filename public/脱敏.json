@@ -1,0 +1,27 @@
+{
+  "simplified": "脱敏",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tuō mǐn",
+          "wade_giles_pinyin": "tuo1 min3"
+        }
+      ],
+      "simplified": "脱敏",
+      "traditional": "脫敏",
+      "meanings": [
+        {
+          "value": "to desensitize"
+        },
+        {
+          "value": "to remove an allergic susceptibility"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

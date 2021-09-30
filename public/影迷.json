@@ -1,0 +1,31 @@
+{
+  "simplified": "影迷",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǐng mí",
+          "wade_giles_pinyin": "ying3 mi2"
+        }
+      ],
+      "simplified": "影迷",
+      "traditional": "影迷",
+      "meanings": [
+        {
+          "value": "film enthusiast"
+        },
+        {
+          "value": "movie fan"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

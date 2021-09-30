@@ -1,0 +1,30 @@
+{
+  "simplified": "逛",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guàng",
+          "wade_giles_pinyin": "guang4"
+        }
+      ],
+      "simplified": "逛",
+      "simplified_stroke_count": 11,
+      "traditional": "逛",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "to stroll"
+        },
+        {
+          "value": "to visit"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

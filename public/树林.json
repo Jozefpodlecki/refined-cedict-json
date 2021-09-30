@@ -1,0 +1,45 @@
+{
+  "simplified": "树林",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shù lín",
+          "wade_giles_pinyin": "Shu4 lin2"
+        }
+      ],
+      "simplified": "树林",
+      "traditional": "樹林",
+      "meanings": [
+        {
+          "value": "Shulin city in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shù lín",
+          "wade_giles_pinyin": "shu4 lin2"
+        }
+      ],
+      "simplified": "树林",
+      "traditional": "樹林",
+      "meanings": [
+        {
+          "value": "woods"
+        },
+        {
+          "value": "grove"
+        },
+        {
+          "value": "forest"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

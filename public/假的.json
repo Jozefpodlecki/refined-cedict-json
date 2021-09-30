@@ -1,0 +1,47 @@
+{
+  "simplified": "假的",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jiǎ de",
+          "wade_giles_pinyin": "jia3 de5"
+        }
+      ],
+      "simplified": "假的",
+      "simplified_stroke_count": 0,
+      "traditional": "假的",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "bogus"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "ersatz"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "fake"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "mock"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "phony"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

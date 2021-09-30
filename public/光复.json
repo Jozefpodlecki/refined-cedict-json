@@ -1,0 +1,40 @@
+{
+  "simplified": "光复",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guāng fù",
+          "wade_giles_pinyin": "Guang1 fu4"
+        }
+      ],
+      "simplified": "光复",
+      "traditional": "光復",
+      "meanings": [],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guāng fù",
+          "wade_giles_pinyin": "guang1 fu4"
+        }
+      ],
+      "simplified": "光复",
+      "traditional": "光復",
+      "meanings": [
+        {
+          "context": "Japanese",
+          "value": "the liberation of Taiwan from Japanese rule in 1945"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

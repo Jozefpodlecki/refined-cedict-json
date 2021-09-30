@@ -1,0 +1,28 @@
+{
+  "simplified": "猎头",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "liè tóu",
+          "wade_giles_pinyin": "lie4 tou2"
+        }
+      ],
+      "simplified": "猎头",
+      "traditional": "獵頭",
+      "meanings": [
+        {
+          "value": "headhunting (executive recruitment)"
+        },
+        {
+          "value": "headhunter (profession)"
+        },
+        {
+          "value": "headhunting (tribal custom)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

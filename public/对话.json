@@ -1,0 +1,28 @@
+{
+  "simplified": "对话",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "duì huà",
+          "wade_giles_pinyin": "dui4 hua4"
+        }
+      ],
+      "simplified": "对话",
+      "traditional": "對話",
+      "meanings": [
+        {
+          "value": "dialogue"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "音轨",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yīn guǐ",
+          "wade_giles_pinyin": "yin1 gui3"
+        }
+      ],
+      "simplified": "音轨",
+      "simplified_stroke_count": null,
+      "traditional": "音軌",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "sound track"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "track number (e.g. on a CD)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

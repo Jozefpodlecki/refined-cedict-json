@@ -1,0 +1,86 @@
+{
+  "simplified": "渠",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qú",
+          "wade_giles_pinyin": "Qu2"
+        }
+      ],
+      "simplified": "渠",
+      "simplified_stroke_count": 12,
+      "traditional": "渠",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "surname Qu"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jù",
+          "wade_giles_pinyin": "ju4"
+        }
+      ],
+      "simplified": "渠",
+      "simplified_stroke_count": 12,
+      "traditional": "渠",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "how can it be that?"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qú",
+          "wade_giles_pinyin": "qu2"
+        }
+      ],
+      "simplified": "渠",
+      "simplified_stroke_count": 12,
+      "traditional": "渠",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "big"
+        },
+        {
+          "value": "stream or canal"
+        },
+        {
+          "value": "drain"
+        },
+        {
+          "value": "ditch"
+        },
+        {
+          "context": "dialect",
+          "value": "him"
+        },
+        {
+          "context": "old",
+          "value": "outer rim of a carriage wheel"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "條",
+          "traditional": "条",
+          "wade_giles_pinyin": "tiao2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

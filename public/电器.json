@@ -1,0 +1,25 @@
+{
+  "simplified": "电器",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diàn qì",
+          "wade_giles_pinyin": "dian4 qi4"
+        }
+      ],
+      "simplified": "电器",
+      "traditional": "電器",
+      "meanings": [
+        {
+          "value": "(electrical) appliance"
+        },
+        {
+          "value": "device"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

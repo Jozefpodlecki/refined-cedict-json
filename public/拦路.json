@@ -1,0 +1,34 @@
+{
+  "simplified": "拦路",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " lán lù",
+          "wade_giles_pinyin": "lan2 lu4"
+        }
+      ],
+      "simplified": "拦路",
+      "simplified_stroke_count": 0,
+      "traditional": "攔路",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to block sb's path"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to waylay"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

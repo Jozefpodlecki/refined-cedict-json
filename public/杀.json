@@ -1,0 +1,54 @@
+{
+  "simplified": "杀",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shā",
+          "wade_giles_pinyin": "sha1"
+        }
+      ],
+      "simplified": "杀",
+      "simplified_stroke_count": 6,
+      "traditional": "殺",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to kill"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to murder"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to attack"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to weaken or reduce"
+        },
+        {
+          "context": "dialect",
+          "lexical_item": "",
+          "value": "to smart"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(used after a verb) extremely"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

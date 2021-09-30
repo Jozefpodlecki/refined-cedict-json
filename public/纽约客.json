@@ -1,0 +1,32 @@
+{
+  "simplified": "纽约客",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " niǔ yuē kè",
+          "wade_giles_pinyin": "Niu3 yue1 ke4"
+        }
+      ],
+      "simplified": "纽约客",
+      "simplified_stroke_count": 0,
+      "traditional": "紐約客",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "The New Yorker, US magazine"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "resident of New York"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

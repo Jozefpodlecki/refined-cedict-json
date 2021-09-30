@@ -1,0 +1,33 @@
+{
+  "simplified": "竞价",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jìng jià",
+          "wade_giles_pinyin": "jing4 jia4"
+        }
+      ],
+      "simplified": "竞价",
+      "traditional": "競價",
+      "meanings": [
+        {
+          "value": "price competition"
+        },
+        {
+          "value": "bid (in an auction)"
+        },
+        {
+          "value": "to compete on price"
+        },
+        {
+          "value": "to bid against sb"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

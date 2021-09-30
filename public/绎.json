@@ -1,0 +1,37 @@
+{
+  "simplified": "绎",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yì",
+          "wade_giles_pinyin": "yi4"
+        }
+      ],
+      "simplified": "绎",
+      "simplified_stroke_count": 8,
+      "traditional": "繹",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "value": "continuous"
+        },
+        {
+          "value": "to interpret"
+        },
+        {
+          "value": "to unravel"
+        },
+        {
+          "context": "old",
+          "value": "to draw silk"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

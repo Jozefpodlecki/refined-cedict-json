@@ -1,0 +1,32 @@
+{
+  "simplified": "蔬食",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shū shí",
+          "wade_giles_pinyin": "shu1 shi2"
+        }
+      ],
+      "simplified": "蔬食",
+      "simplified_stroke_count": 0,
+      "traditional": "蔬食",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "vegetarian meal"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "vegetarian diet"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

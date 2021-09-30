@@ -1,0 +1,36 @@
+{
+  "simplified": "蛮干",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mán gàn",
+          "wade_giles_pinyin": "man2 gan4"
+        }
+      ],
+      "simplified": "蛮干",
+      "traditional": "蠻幹",
+      "meanings": [
+        {
+          "value": "to act rashly"
+        },
+        {
+          "value": "to act precipitously regardless of the consequences"
+        },
+        {
+          "value": "reckless"
+        },
+        {
+          "value": "foolhardy"
+        },
+        {
+          "value": "daredevil"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "simplified": "护照",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hù zhào",
+          "wade_giles_pinyin": "hu4 zhao4"
+        }
+      ],
+      "simplified": "护照",
+      "traditional": "護照",
+      "meanings": [],
+      "classifiers": [
+        {
+          "simplified": "本",
+          "traditional": "",
+          "wade_giles_pinyin": "ben3"
+        },
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

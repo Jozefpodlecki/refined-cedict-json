@@ -1,0 +1,46 @@
+{
+  "simplified": "层",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "céng",
+          "wade_giles_pinyin": "ceng2"
+        }
+      ],
+      "simplified": "层",
+      "simplified_stroke_count": 7,
+      "traditional": "層",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "layer"
+        },
+        {
+          "value": "stratum"
+        },
+        {
+          "value": "laminated"
+        },
+        {
+          "value": "floor (of a building)"
+        },
+        {
+          "value": "storey"
+        },
+        {
+          "value": "classifier for layers"
+        },
+        {
+          "value": "repeated"
+        },
+        {
+          "value": "sheaf (math.)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

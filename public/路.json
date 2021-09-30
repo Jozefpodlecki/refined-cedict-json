@@ -1,0 +1,65 @@
+{
+  "simplified": "路",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lù",
+          "wade_giles_pinyin": "Lu4"
+        }
+      ],
+      "simplified": "路",
+      "simplified_stroke_count": 13,
+      "traditional": "路",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "surname Lu"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lù",
+          "wade_giles_pinyin": "lu4"
+        }
+      ],
+      "simplified": "路",
+      "simplified_stroke_count": 13,
+      "traditional": "路",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "road"
+        },
+        {
+          "value": "journey"
+        },
+        {
+          "value": "route"
+        },
+        {
+          "value": "line (bus etc)"
+        },
+        {
+          "value": "sort"
+        },
+        {
+          "value": "kind"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "條",
+          "traditional": "条",
+          "wade_giles_pinyin": "tiao2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

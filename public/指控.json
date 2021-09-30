@@ -1,0 +1,30 @@
+{
+  "simplified": "指控",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhǐ kòng",
+          "wade_giles_pinyin": "zhi3 kong4"
+        }
+      ],
+      "simplified": "指控",
+      "traditional": "指控",
+      "meanings": [
+        {
+          "value": "accusation"
+        },
+        {
+          "value": "a (criminal) charge"
+        },
+        {
+          "value": "to accuse"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

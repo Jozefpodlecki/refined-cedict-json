@@ -1,0 +1,47 @@
+{
+  "simplified": "头家",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tóu jiā",
+          "wade_giles_pinyin": "tou2 jia1"
+        }
+      ],
+      "simplified": "头家",
+      "simplified_stroke_count": null,
+      "traditional": "頭家",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "organizer of a gambling party who takes a cut of the winnings"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "banker (gambling)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "preceding player (in a game)"
+        },
+        {
+          "context": "dialect",
+          "lexical_item": null,
+          "value": "boss"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "proprietor"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

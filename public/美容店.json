@@ -1,0 +1,28 @@
+{
+  "simplified": "美容店",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "měi róng diàn",
+          "wade_giles_pinyin": "mei3 rong2 dian4"
+        }
+      ],
+      "simplified": "美容店",
+      "traditional": "美容店",
+      "meanings": [
+        {
+          "value": "beauty salon"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "家",
+          "traditional": "",
+          "wade_giles_pinyin": "jia1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

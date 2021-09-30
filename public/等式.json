@@ -1,0 +1,32 @@
+{
+  "simplified": "等式",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " děng shì",
+          "wade_giles_pinyin": "deng3 shi4"
+        }
+      ],
+      "simplified": "等式",
+      "simplified_stroke_count": 0,
+      "traditional": "等式",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "an equality"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "an equation"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

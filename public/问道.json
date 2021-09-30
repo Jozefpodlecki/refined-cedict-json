@@ -1,0 +1,34 @@
+{
+  "simplified": "问道",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " wèn dào",
+          "wade_giles_pinyin": "wen4 dao4"
+        }
+      ],
+      "simplified": "问道",
+      "simplified_stroke_count": 0,
+      "traditional": "問道",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to ask the way"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to ask"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

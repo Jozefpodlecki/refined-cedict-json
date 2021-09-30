@@ -1,0 +1,32 @@
+{
+  "simplified": "音量",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yīn liàng",
+          "wade_giles_pinyin": "yin1 liang4"
+        }
+      ],
+      "simplified": "音量",
+      "simplified_stroke_count": 0,
+      "traditional": "音量",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "loudness"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "volume"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

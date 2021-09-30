@@ -1,0 +1,39 @@
+{
+  "simplified": "浮出水面",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fú chū shuǐ miàn",
+          "wade_giles_pinyin": "fu2 chu1 shui3 mian4"
+        }
+      ],
+      "simplified": "浮出水面",
+      "simplified_stroke_count": 0,
+      "traditional": "浮出水面",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "idiom",
+          "value": "to float up ; to become evident"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to surface"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to appear"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

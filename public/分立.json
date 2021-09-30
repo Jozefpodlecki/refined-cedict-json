@@ -1,0 +1,36 @@
+{
+  "simplified": "分立",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fēn lì",
+          "wade_giles_pinyin": "fen1 li4"
+        }
+      ],
+      "simplified": "分立",
+      "traditional": "分立",
+      "meanings": [
+        {
+          "value": "to establish as separate entities"
+        },
+        {
+          "value": "to divide (a company etc) into independent entities"
+        },
+        {
+          "value": "discrete"
+        },
+        {
+          "value": "separate"
+        },
+        {
+          "value": "separation (of powers etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

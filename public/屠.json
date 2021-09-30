@@ -1,0 +1,51 @@
+{
+  "simplified": "屠",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tú",
+          "wade_giles_pinyin": "Tu2"
+        }
+      ],
+      "simplified": "屠",
+      "simplified_stroke_count": 12,
+      "traditional": "屠",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "surname Tu"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tú",
+          "wade_giles_pinyin": "tu2"
+        }
+      ],
+      "simplified": "屠",
+      "simplified_stroke_count": 12,
+      "traditional": "屠",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "to slaughter (animals for food)"
+        },
+        {
+          "value": "to massacre"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

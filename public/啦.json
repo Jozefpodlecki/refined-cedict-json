@@ -1,0 +1,41 @@
+{
+  "simplified": "啦",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lā",
+          "wade_giles_pinyin": "la1"
+        }
+      ],
+      "simplified": "啦",
+      "simplified_stroke_count": 11,
+      "traditional": "啦",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "dialect",
+          "value": "to chat"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "la",
+          "wade_giles_pinyin": "la5"
+        }
+      ],
+      "simplified": "啦",
+      "simplified_stroke_count": 11,
+      "traditional": "啦",
+      "traditional_stroke_count": 11,
+      "meanings": [],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

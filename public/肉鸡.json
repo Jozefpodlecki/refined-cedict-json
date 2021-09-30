@@ -1,0 +1,31 @@
+{
+  "simplified": "肉鸡",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ròu jī",
+          "wade_giles_pinyin": "rou4 ji1"
+        }
+      ],
+      "simplified": "肉鸡",
+      "traditional": "肉雞",
+      "meanings": [
+        {
+          "value": "chicken raised for meat"
+        },
+        {
+          "value": "broiler"
+        },
+        {
+          "value": "(computing) zombie"
+        },
+        {
+          "value": "infected computer in a botnet"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

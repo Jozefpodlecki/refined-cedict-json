@@ -1,0 +1,32 @@
+{
+  "simplified": "日化",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rì huà",
+          "wade_giles_pinyin": "ri4 hua4"
+        }
+      ],
+      "simplified": "日化",
+      "traditional": "日化",
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "value": "household chemicals (cleaning products etc) and toiletries ( 日用化學製品|日用化学制品[ri4 yong4 hua4 xue2 zhi4 pin3])",
+          "simplified": "h",
+          "traditional": "ousehold chemicals (cleaning products etc) and toiletries ( 日用化學製品|日用化学制品",
+          "wade_giles_pinyin": "ri4 yong4 hua4 xue2 zhi4 pin3"
+        },
+        {
+          "value": "(linguistics) to rhotacize"
+        },
+        {
+          "value": "rhotic"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

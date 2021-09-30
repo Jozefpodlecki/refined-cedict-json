@@ -1,0 +1,39 @@
+{
+  "simplified": "硌",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gè",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "simplified": "硌",
+      "simplified_stroke_count": 11,
+      "traditional": "硌",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "colloquial",
+          "lexical_item": null,
+          "value": "(of sth hard or rough) to press against some part of one's body causing discomfort (like a small stone in one's shoe)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to hurt"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to chafe"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

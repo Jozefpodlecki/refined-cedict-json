@@ -1,0 +1,32 @@
+{
+  "simplified": "魔怪",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mó guài",
+          "wade_giles_pinyin": "mo2 guai4"
+        }
+      ],
+      "simplified": "魔怪",
+      "simplified_stroke_count": null,
+      "traditional": "魔怪",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "demons and ghosts"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "ghouls and bogies"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

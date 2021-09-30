@@ -1,0 +1,48 @@
+{
+  "simplified": "挝",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " wō",
+          "wade_giles_pinyin": "wo1"
+        }
+      ],
+      "simplified": "挝",
+      "simplified_stroke_count": 9,
+      "traditional": "撾",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "ancient weapon with a tip shaped like a hand or claw"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhuā",
+          "wade_giles_pinyin": "zhua1"
+        }
+      ],
+      "simplified": "挝",
+      "simplified_stroke_count": 9,
+      "traditional": "撾",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "beat"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

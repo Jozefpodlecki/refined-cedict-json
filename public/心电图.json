@@ -1,0 +1,22 @@
+{
+  "simplified": "心电图",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xīn diàn tú",
+          "wade_giles_pinyin": "xin1 dian4 tu2"
+        }
+      ],
+      "simplified": "心电图",
+      "traditional": "心電圖",
+      "meanings": [
+        {
+          "value": "electrocardiogram (ECG)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "simplified": "散",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sàn",
+          "wade_giles_pinyin": "san4"
+        }
+      ],
+      "simplified": "散",
+      "simplified_stroke_count": 12,
+      "traditional": "㪚",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 散[san4]",
+          "simplified": "散",
+          "traditional": "",
+          "wade_giles_pinyin": "san4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sǎn",
+          "wade_giles_pinyin": "san3"
+        }
+      ],
+      "simplified": "散",
+      "simplified_stroke_count": 12,
+      "traditional": "散",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "scattered"
+        },
+        {
+          "value": "loose"
+        },
+        {
+          "value": "to come loose"
+        },
+        {
+          "value": "to fall apart"
+        },
+        {
+          "value": "leisurely"
+        },
+        {
+          "value": "powdered medicine"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sàn",
+          "wade_giles_pinyin": "san4"
+        }
+      ],
+      "simplified": "散",
+      "simplified_stroke_count": 12,
+      "traditional": "散",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "to scatter"
+        },
+        {
+          "value": "to break up (a meeting etc)"
+        },
+        {
+          "value": "to disperse"
+        },
+        {
+          "value": "to disseminate"
+        },
+        {
+          "value": "to dispel"
+        },
+        {
+          "context": "colloquial",
+          "value": "to sack"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

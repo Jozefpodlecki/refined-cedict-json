@@ -1,0 +1,25 @@
+{
+  "simplified": "海运费",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hǎi yùn feì",
+          "wade_giles_pinyin": "hai3 yun4 fei4"
+        }
+      ],
+      "simplified": "海运费",
+      "traditional": "海運費",
+      "meanings": [
+        {
+          "value": "shipping"
+        },
+        {
+          "value": "sea transport"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

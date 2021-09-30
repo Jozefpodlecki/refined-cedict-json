@@ -1,0 +1,27 @@
+{
+  "simplified": "回礼",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huí lǐ",
+          "wade_giles_pinyin": "hui2 li3"
+        }
+      ],
+      "simplified": "回礼",
+      "traditional": "回禮",
+      "meanings": [
+        {
+          "value": "to return a greeting"
+        },
+        {
+          "value": "to send a gift in return"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

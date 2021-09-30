@@ -1,0 +1,39 @@
+{
+  "simplified": "告退",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " gào tuì",
+          "wade_giles_pinyin": "gao4 tui4"
+        }
+      ],
+      "simplified": "告退",
+      "simplified_stroke_count": 0,
+      "traditional": "告退",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to petition for retirement (old)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to ask for leave to withdraw"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to ask to be excused"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

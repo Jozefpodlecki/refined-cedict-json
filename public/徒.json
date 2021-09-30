@@ -1,0 +1,87 @@
+{
+  "simplified": "徒",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " tú",
+          "wade_giles_pinyin": "Tu2"
+        }
+      ],
+      "simplified": "徒",
+      "simplified_stroke_count": 10,
+      "traditional": "徒",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "surname Tu"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " tú",
+          "wade_giles_pinyin": "tu2"
+        }
+      ],
+      "simplified": "徒",
+      "simplified_stroke_count": 10,
+      "traditional": "徒",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "disciple"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "apprentice"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "believer"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "on foot"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "bare or empty"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to no avail"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "only"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "prison sentence"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

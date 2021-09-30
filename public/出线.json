@@ -1,0 +1,37 @@
+{
+  "simplified": "出线",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chū xiàn",
+          "wade_giles_pinyin": "chu1 xian4"
+        }
+      ],
+      "simplified": "出线",
+      "traditional": "出線",
+      "meanings": [
+        {
+          "value": "(sports) to go out of bounds"
+        },
+        {
+          "value": "to go over the line"
+        },
+        {
+          "value": "to qualify for the next round of competition"
+        },
+        {
+          "context": "taiwan",
+          "value": "(fig.) to make the grade"
+        },
+        {
+          "value": "to achieve success"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

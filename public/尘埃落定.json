@@ -1,0 +1,62 @@
+{
+  "simplified": "尘埃落定",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chén āi luò dìng",
+          "wade_giles_pinyin": "Chen2 ai1 luo4 ding4"
+        }
+      ],
+      "simplified": "尘埃落定",
+      "simplified_stroke_count": null,
+      "traditional": "塵埃落定",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "\"Red Poppies\", novel by 阿來|阿来[A1 lai2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chén āi luò dìng",
+          "wade_giles_pinyin": "chen2 ai1 luo4 ding4"
+        }
+      ],
+      "simplified": "尘埃落定",
+      "simplified_stroke_count": null,
+      "traditional": "塵埃落定",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "lit. the dust has settled"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "fig. to get sorted out"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to be finalized"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

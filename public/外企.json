@@ -1,0 +1,29 @@
+{
+  "simplified": "外企",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wài qǐ",
+          "wade_giles_pinyin": "wai4 qi3"
+        }
+      ],
+      "simplified": "外企",
+      "traditional": "外企",
+      "meanings": [
+        {
+          "value": "foreign enterprise"
+        },
+        {
+          "value": "company established in mainland China with direct investment from foreign entities or from investors in Taiwan, Macao or Hong Kong"
+        },
+        {
+          "context": "abbreviation",
+          "value": "外資企業|外资企业"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

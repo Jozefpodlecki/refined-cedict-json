@@ -1,0 +1,46 @@
+{
+  "simplified": "部",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bù",
+          "wade_giles_pinyin": "bu4"
+        }
+      ],
+      "simplified": "部",
+      "simplified_stroke_count": 11,
+      "traditional": "部",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "ministry"
+        },
+        {
+          "value": "department"
+        },
+        {
+          "value": "section"
+        },
+        {
+          "value": "part"
+        },
+        {
+          "value": "division"
+        },
+        {
+          "value": "troops"
+        },
+        {
+          "value": "board"
+        },
+        {
+          "value": "classifier for works of literature, films, machines etc"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

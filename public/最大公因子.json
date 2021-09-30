@@ -1,0 +1,32 @@
+{
+  "simplified": "最大公因子",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zuì dà gōng yīn zǐ",
+          "wade_giles_pinyin": "zui4 da4 gong1 yin1 zi3"
+        }
+      ],
+      "simplified": "最大公因子",
+      "simplified_stroke_count": null,
+      "traditional": "最大公因子",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "highest common factor HCF"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "greatest common divisor GCD"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

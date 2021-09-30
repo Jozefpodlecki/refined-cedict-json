@@ -1,0 +1,48 @@
+{
+  "simplified": "鞍",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ān",
+          "wade_giles_pinyin": "an1"
+        }
+      ],
+      "simplified": "鞍",
+      "simplified_stroke_count": 15,
+      "traditional": "鞌",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "graphic variant of 鞍[an1]",
+          "simplified": "g",
+          "traditional": "raphic  鞍",
+          "wade_giles_pinyin": "an1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ān",
+          "wade_giles_pinyin": "an1"
+        }
+      ],
+      "simplified": "鞍",
+      "simplified_stroke_count": 15,
+      "traditional": "鞍",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "saddle"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

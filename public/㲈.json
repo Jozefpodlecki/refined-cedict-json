@@ -1,0 +1,52 @@
+{
+  "simplified": "㲈",
+  "simplified_stroke_count": 16,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sháo",
+          "wade_giles_pinyin": "shao2"
+        }
+      ],
+      "simplified": "㲈",
+      "simplified_stroke_count": 16,
+      "traditional": "㲈",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 韶[shao2]",
+          "simplified": "韶",
+          "traditional": "",
+          "wade_giles_pinyin": "shao2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "táo",
+          "wade_giles_pinyin": "tao2"
+        }
+      ],
+      "simplified": "㲈",
+      "simplified_stroke_count": 16,
+      "traditional": "㲈",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 鞀|鼗[tao2]",
+          "simplified": "鞀",
+          "traditional": "鼗",
+          "wade_giles_pinyin": "tao2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

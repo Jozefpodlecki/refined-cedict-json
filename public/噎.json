@@ -1,0 +1,33 @@
+{
+  "simplified": "噎",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yē",
+          "wade_giles_pinyin": "ye1"
+        }
+      ],
+      "simplified": "噎",
+      "simplified_stroke_count": 15,
+      "traditional": "噎",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "to choke (on)"
+        },
+        {
+          "value": "to choke up"
+        },
+        {
+          "value": "to suffocate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

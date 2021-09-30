@@ -1,0 +1,34 @@
+{
+  "simplified": "报导",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bào dǎo",
+          "wade_giles_pinyin": "bao4 dao3"
+        }
+      ],
+      "simplified": "报导",
+      "simplified_stroke_count": 0,
+      "traditional": "報導",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to report (in the media)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(news) report"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

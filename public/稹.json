@@ -1,0 +1,34 @@
+{
+  "simplified": "稹",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhěn",
+          "wade_giles_pinyin": "zhen3"
+        }
+      ],
+      "simplified": "稹",
+      "simplified_stroke_count": 15,
+      "traditional": "稹",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to accumulate"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "fine and close"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

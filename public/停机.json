@@ -1,0 +1,39 @@
+{
+  "simplified": "停机",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tíng jī",
+          "wade_giles_pinyin": "ting2 ji1"
+        }
+      ],
+      "simplified": "停机",
+      "traditional": "停機",
+      "meanings": [
+        {
+          "value": "(of a machine) to stop"
+        },
+        {
+          "value": "to shut down"
+        },
+        {
+          "value": "to park a plane"
+        },
+        {
+          "value": "to finish shooting (a TV program etc)"
+        },
+        {
+          "value": "to suspend a phone line"
+        },
+        {
+          "value": "(of a prepaid mobile phone) to be out of credit"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

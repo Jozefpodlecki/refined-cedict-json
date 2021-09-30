@@ -1,0 +1,34 @@
+{
+  "simplified": "合编",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hé biān",
+          "wade_giles_pinyin": "he2 bian1"
+        }
+      ],
+      "simplified": "合编",
+      "simplified_stroke_count": null,
+      "traditional": "合編",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to compile in collaboration with"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to merge and reorganize (army units etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

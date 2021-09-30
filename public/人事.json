@@ -1,0 +1,37 @@
+{
+  "simplified": "人事",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rén shì",
+          "wade_giles_pinyin": "ren2 shi4"
+        }
+      ],
+      "simplified": "人事",
+      "traditional": "人事",
+      "meanings": [
+        {
+          "value": "personnel"
+        },
+        {
+          "value": "human resources"
+        },
+        {
+          "value": "human affairs"
+        },
+        {
+          "value": "ways of the world"
+        },
+        {
+          "value": "(euphemism) sexuality"
+        },
+        {
+          "value": "the facts of life"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

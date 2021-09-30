@@ -1,0 +1,33 @@
+{
+  "simplified": "奇怪",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qí guài",
+          "wade_giles_pinyin": "qi2 guai4"
+        }
+      ],
+      "simplified": "奇怪",
+      "traditional": "奇怪",
+      "meanings": [
+        {
+          "value": "strange"
+        },
+        {
+          "value": "odd"
+        },
+        {
+          "value": "to marvel"
+        },
+        {
+          "value": "to be baffled"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "simplified": "耠",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huō",
+          "wade_giles_pinyin": "huo1"
+        }
+      ],
+      "simplified": "耠",
+      "simplified_stroke_count": 12,
+      "traditional": "耠",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "a hoe"
+        },
+        {
+          "value": "to hoe"
+        },
+        {
+          "value": "to loosen the soil with a hoe"
+        },
+        {
+          "value": "Taiwan pr. [he2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

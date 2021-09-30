@@ -1,0 +1,30 @@
+{
+  "simplified": "买",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mǎi",
+          "wade_giles_pinyin": "mai3"
+        }
+      ],
+      "simplified": "买",
+      "simplified_stroke_count": 0,
+      "traditional": "買",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "to buy"
+        },
+        {
+          "value": "to purchase"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

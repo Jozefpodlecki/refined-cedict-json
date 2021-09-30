@@ -1,0 +1,38 @@
+{
+  "simplified": "靠山吃山，靠水吃水",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kào shān chī shān , kào shuǐ chī shuǐ",
+          "wade_giles_pinyin": "kao4 shan1 chi1 shan1 , kao4 shui3 chi1 shui3"
+        }
+      ],
+      "simplified": "靠山吃山，靠水吃水",
+      "traditional": "靠山吃山，靠水吃水",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "the mountain dweller lives off the mountain, the shore dweller lives off the sea"
+        },
+        {
+          "value": "fig. to make the best use of local resources"
+        },
+        {
+          "value": "to exploit one's position to advance oneself"
+        },
+        {
+          "value": "to find one's niche"
+        },
+        {
+          "value": "to live off the land"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

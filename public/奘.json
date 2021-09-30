@@ -1,0 +1,53 @@
+{
+  "simplified": "奘",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zàng",
+          "wade_giles_pinyin": "zang4"
+        }
+      ],
+      "simplified": "奘",
+      "simplified_stroke_count": 10,
+      "traditional": "奘",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "great"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhuǎng",
+          "wade_giles_pinyin": "zhuang3"
+        }
+      ],
+      "simplified": "奘",
+      "simplified_stroke_count": 10,
+      "traditional": "奘",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "fat"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "stout"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

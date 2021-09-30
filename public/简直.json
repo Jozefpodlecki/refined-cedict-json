@@ -1,0 +1,39 @@
+{
+  "simplified": "简直",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiǎn zhí",
+          "wade_giles_pinyin": "jian3 zhi2"
+        }
+      ],
+      "simplified": "简直",
+      "simplified_stroke_count": null,
+      "traditional": "簡直",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "simply"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "at all"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "practically"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "adverb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "simplified": "达",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dá",
+          "wade_giles_pinyin": "Da2"
+        }
+      ],
+      "simplified": "达",
+      "simplified_stroke_count": 0,
+      "traditional": "達",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "surname Da"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dá",
+          "wade_giles_pinyin": "da2"
+        }
+      ],
+      "simplified": "达",
+      "simplified_stroke_count": 0,
+      "traditional": "達",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "to attain"
+        },
+        {
+          "value": "to reach"
+        },
+        {
+          "value": "to amount to"
+        },
+        {
+          "value": "to communicate"
+        },
+        {
+          "value": "eminent"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

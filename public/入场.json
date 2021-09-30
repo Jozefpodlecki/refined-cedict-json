@@ -1,0 +1,30 @@
+{
+  "simplified": "入场",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rù chǎng",
+          "wade_giles_pinyin": "ru4 chang3"
+        }
+      ],
+      "simplified": "入场",
+      "traditional": "入場",
+      "meanings": [
+        {
+          "value": "to enter the venue for a meeting"
+        },
+        {
+          "value": "to enter into an examination"
+        },
+        {
+          "value": "to enter a stadium, arena etc"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

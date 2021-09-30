@@ -1,0 +1,22 @@
+{
+  "simplified": "红名单",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hóng míng dān",
+          "wade_giles_pinyin": "hong2 ming2 dan1"
+        }
+      ],
+      "simplified": "红名单",
+      "traditional": "紅名單",
+      "meanings": [
+        {
+          "value": "whitelist"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

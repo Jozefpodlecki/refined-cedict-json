@@ -1,0 +1,34 @@
+{
+  "simplified": "落藉",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "luò jiè",
+          "wade_giles_pinyin": "luo4 jie4"
+        }
+      ],
+      "simplified": "落藉",
+      "simplified_stroke_count": null,
+      "traditional": "落藉",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to stay"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to reside (old)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

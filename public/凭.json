@@ -1,0 +1,72 @@
+{
+  "simplified": "凭",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "píng",
+          "wade_giles_pinyin": "ping2"
+        }
+      ],
+      "simplified": "凭",
+      "simplified_stroke_count": 8,
+      "traditional": "凴",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": null,
+          "value": "憑|凭[ping2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "píng",
+          "wade_giles_pinyin": "ping2"
+        }
+      ],
+      "simplified": "凭",
+      "simplified_stroke_count": 8,
+      "traditional": "憑",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to lean against"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to rely on"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "on the basis of"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "no matter (how, what etc)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "proof"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

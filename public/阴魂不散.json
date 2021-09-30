@@ -1,0 +1,37 @@
+{
+  "simplified": "阴魂不散",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yīn hún bù sàn",
+          "wade_giles_pinyin": "yin1 hun2 bu4 san4"
+        }
+      ],
+      "simplified": "阴魂不散",
+      "simplified_stroke_count": null,
+      "traditional": "陰魂不散",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "lit. the soul of a deceased has not yet dispersed"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "fig. the influence still lingers on"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "the spirit (of some doctrine) is still alive"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

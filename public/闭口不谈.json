@@ -1,0 +1,31 @@
+{
+  "simplified": "闭口不谈",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bì kǒu bù tán",
+          "wade_giles_pinyin": "bi4 kou3 bu4 tan2"
+        }
+      ],
+      "simplified": "闭口不谈",
+      "traditional": "閉口不談",
+      "meanings": [
+        {
+          "lexical_item": "idiom",
+          "value": "to refuse to say anything about"
+        },
+        {
+          "value": "to remain tight-lipped"
+        },
+        {
+          "value": "to avoid mentioning"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

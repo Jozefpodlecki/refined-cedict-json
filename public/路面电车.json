@@ -1,0 +1,26 @@
+{
+  "simplified": "路面电车",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lù miàn diàn chē",
+          "wade_giles_pinyin": "lu4 mian4 dian4 che1"
+        }
+      ],
+      "simplified": "路面电车",
+      "traditional": "路面電車",
+      "meanings": [
+        {
+          "context": "taiwan",
+          "value": "tram"
+        },
+        {
+          "value": "streetcar"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "simplified": "花旗",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huā qí",
+          "wade_giles_pinyin": "hua1 qi2"
+        }
+      ],
+      "simplified": "花旗",
+      "traditional": "花旗",
+      "meanings": [
+        {
+          "value": "the Stars and Stripes (US flag)"
+        },
+        {
+          "value": "by extension, the United States of America"
+        },
+        {
+          "context": "abbreviation",
+          "value": "Citibank 花旗銀行|花旗银行"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

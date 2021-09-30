@@ -1,0 +1,37 @@
+{
+  "simplified": "旦",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dàn",
+          "wade_giles_pinyin": "dan4"
+        }
+      ],
+      "simplified": "旦",
+      "simplified_stroke_count": 5,
+      "traditional": "旦",
+      "traditional_stroke_count": 5,
+      "meanings": [
+        {
+          "value": "dawn"
+        },
+        {
+          "value": "morning"
+        },
+        {
+          "value": "daybreak"
+        },
+        {
+          "value": "day"
+        },
+        {
+          "value": "dan, female roles in Chinese opera (traditionally played by specialized male actors)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

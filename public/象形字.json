@@ -1,0 +1,37 @@
+{
+  "simplified": "象形字",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xiàng xíng zì",
+          "wade_giles_pinyin": "xiang4 xing2 zi4"
+        }
+      ],
+      "simplified": "象形字",
+      "simplified_stroke_count": 0,
+      "traditional": "象形字",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "pictogram (one of the Six Methods 六書|六书 of forming Chinese characters)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Chinese character derived from a picture"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "sometimes called hieroglyph"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

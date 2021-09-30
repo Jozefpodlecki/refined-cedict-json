@@ -1,0 +1,49 @@
+{
+  "simplified": "引发",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǐn fā",
+          "wade_giles_pinyin": "yin3 fa1"
+        }
+      ],
+      "simplified": "引发",
+      "simplified_stroke_count": null,
+      "traditional": "引發",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to lead to"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to trigger"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to initiate"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to cause"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to evoke (emotions)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

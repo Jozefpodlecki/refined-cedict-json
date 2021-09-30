@@ -1,0 +1,27 @@
+{
+  "simplified": "自然语言处理",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zì rán yǔ yán chǔ lǐ",
+          "wade_giles_pinyin": "zi4 ran2 yu3 yan2 chu3 li3"
+        }
+      ],
+      "simplified": "自然语言处理",
+      "simplified_stroke_count": 0,
+      "traditional": "自然語言處理",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "natural language processing, NLP"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

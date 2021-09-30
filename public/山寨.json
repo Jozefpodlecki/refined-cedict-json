@@ -1,0 +1,47 @@
+{
+  "simplified": "山寨",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shān zhài",
+          "wade_giles_pinyin": "shan1 zhai4"
+        }
+      ],
+      "simplified": "山寨",
+      "simplified_stroke_count": null,
+      "traditional": "山寨",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "fortified hill village"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "mountain stronghold (esp. of bandits)"
+        },
+        {
+          "context": "figuratively",
+          "lexical_item": null,
+          "value": "knockoff (goods)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "counterfeit"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "imitation"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

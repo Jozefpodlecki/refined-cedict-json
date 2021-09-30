@@ -1,0 +1,63 @@
+{
+  "simplified": "徽",
+  "simplified_stroke_count": 17,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huī",
+          "wade_giles_pinyin": "hui1"
+        }
+      ],
+      "simplified": "徽",
+      "simplified_stroke_count": 17,
+      "traditional": "幑",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 徽[hui1]",
+          "simplified": "徽",
+          "traditional": "",
+          "wade_giles_pinyin": "hui1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huī",
+          "wade_giles_pinyin": "hui1"
+        }
+      ],
+      "simplified": "徽",
+      "simplified_stroke_count": 17,
+      "traditional": "徽",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "badge"
+        },
+        {
+          "value": "emblem"
+        },
+        {
+          "value": "insignia"
+        },
+        {
+          "value": "crest"
+        },
+        {
+          "value": "logo"
+        },
+        {
+          "value": "coat of arms"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "simplified": "说明书",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shuō míng shū",
+          "wade_giles_pinyin": "shuo1 ming2 shu1"
+        }
+      ],
+      "simplified": "说明书",
+      "traditional": "說明書",
+      "meanings": [
+        {
+          "value": "(technical) manual"
+        },
+        {
+          "value": "(book of) directions"
+        },
+        {
+          "value": "synopsis (of a play or film)"
+        },
+        {
+          "value": "specification (patent)"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "本",
+          "traditional": "",
+          "wade_giles_pinyin": "ben3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

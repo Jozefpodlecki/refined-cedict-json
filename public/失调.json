@@ -1,0 +1,62 @@
+{
+  "simplified": "失调",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shī diào",
+          "wade_giles_pinyin": "shi1 diao4"
+        }
+      ],
+      "simplified": "失调",
+      "simplified_stroke_count": 0,
+      "traditional": "失調",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "out of tune (music)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shī tiáo",
+          "wade_giles_pinyin": "shi1 tiao2"
+        }
+      ],
+      "simplified": "失调",
+      "simplified_stroke_count": 0,
+      "traditional": "失調",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "imbalance"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to become dysfunctional"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to lack proper care (after an illness etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

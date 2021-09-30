@@ -1,0 +1,30 @@
+{
+  "simplified": "隐含",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǐn hán",
+          "wade_giles_pinyin": "yin3 han2"
+        }
+      ],
+      "simplified": "隐含",
+      "traditional": "隱含",
+      "meanings": [
+        {
+          "value": "to contain in a concealed form"
+        },
+        {
+          "value": "to keep covered up"
+        },
+        {
+          "value": "implicit"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

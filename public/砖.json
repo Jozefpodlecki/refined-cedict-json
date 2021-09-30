@@ -1,0 +1,80 @@
+{
+  "simplified": "砖",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhuān",
+          "wade_giles_pinyin": "zhuan1"
+        }
+      ],
+      "simplified": "砖",
+      "simplified_stroke_count": 9,
+      "traditional": "塼",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "甎|砖[zhuan1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhuān",
+          "wade_giles_pinyin": "zhuan1"
+        }
+      ],
+      "simplified": "砖",
+      "simplified_stroke_count": 9,
+      "traditional": "甎",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "磚|砖[zhuan1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhuān",
+          "wade_giles_pinyin": "zhuan1"
+        }
+      ],
+      "simplified": "砖",
+      "simplified_stroke_count": 9,
+      "traditional": "磚",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "brick"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:塊|块[kuai4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "塊",
+          "traditional": "块",
+          "wade_giles_pinyin": "kuai4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "宴饮",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yàn yǐn",
+          "wade_giles_pinyin": "yan4 yin3"
+        }
+      ],
+      "simplified": "宴饮",
+      "simplified_stroke_count": 0,
+      "traditional": "宴飲",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to wine and dine"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to feast"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "banquet"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

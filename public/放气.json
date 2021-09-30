@@ -1,0 +1,30 @@
+{
+  "simplified": "放气",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fàng qì",
+          "wade_giles_pinyin": "fang4 qi4"
+        }
+      ],
+      "simplified": "放气",
+      "traditional": "放氣",
+      "meanings": [
+        {
+          "value": "to release breath"
+        },
+        {
+          "value": "to deflate"
+        },
+        {
+          "value": "to fart"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

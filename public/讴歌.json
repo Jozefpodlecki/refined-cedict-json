@@ -1,0 +1,46 @@
+{
+  "simplified": "讴歌",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ōu gē",
+          "wade_giles_pinyin": "Ou1 ge1"
+        }
+      ],
+      "simplified": "讴歌",
+      "traditional": "謳歌",
+      "meanings": [
+        {
+          "value": "Acura (Honda car model)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ōu gē",
+          "wade_giles_pinyin": "ou1 ge1"
+        }
+      ],
+      "simplified": "讴歌",
+      "traditional": "謳歌",
+      "meanings": [
+        {
+          "value": "(literary) to celebrate in song"
+        },
+        {
+          "value": "to eulogize"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

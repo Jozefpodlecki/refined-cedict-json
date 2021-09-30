@@ -1,0 +1,42 @@
+{
+  "simplified": "长孙",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhǎng sūn",
+          "wade_giles_pinyin": "Zhang3 sun1"
+        }
+      ],
+      "simplified": "长孙",
+      "traditional": "長孫",
+      "meanings": [
+        {
+          "value": "two-character surname Zhangsun"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhǎng sūn",
+          "wade_giles_pinyin": "zhang3 sun1"
+        }
+      ],
+      "simplified": "长孙",
+      "traditional": "長孫",
+      "meanings": [
+        {
+          "value": "eldest grandson"
+        },
+        {
+          "value": "the eldest son of one's eldest son"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

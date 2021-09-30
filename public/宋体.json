@@ -1,0 +1,32 @@
+{
+  "simplified": "宋体",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " sòng tǐ",
+          "wade_giles_pinyin": "song4 ti3"
+        }
+      ],
+      "simplified": "宋体",
+      "simplified_stroke_count": 0,
+      "traditional": "宋體",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Mincho"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Song font"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

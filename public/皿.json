@@ -1,0 +1,34 @@
+{
+  "simplified": "皿",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mǐn",
+          "wade_giles_pinyin": "min3"
+        }
+      ],
+      "simplified": "皿",
+      "simplified_stroke_count": 5,
+      "traditional": "皿",
+      "traditional_stroke_count": 5,
+      "meanings": [
+        {
+          "value": "dish"
+        },
+        {
+          "value": "vessel"
+        },
+        {
+          "value": "shallow container"
+        },
+        {
+          "value": "rad. no. 108"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

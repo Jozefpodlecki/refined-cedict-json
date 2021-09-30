@@ -1,0 +1,37 @@
+{
+  "simplified": "方向",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fāng xiàng",
+          "wade_giles_pinyin": "fang1 xiang4"
+        }
+      ],
+      "simplified": "方向",
+      "traditional": "方向",
+      "meanings": [
+        {
+          "value": "direction"
+        },
+        {
+          "value": "orientation"
+        },
+        {
+          "value": "path to follow"
+        },
+        {
+          "value": "CL:個|个[ge4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

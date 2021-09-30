@@ -1,0 +1,34 @@
+{
+  "simplified": "价值",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jià zhí",
+          "wade_giles_pinyin": "jia4 zhi2"
+        }
+      ],
+      "simplified": "价值",
+      "traditional": "價值",
+      "meanings": [
+        {
+          "value": "value"
+        },
+        {
+          "value": "worth"
+        },
+        {
+          "value": "fig. values (ethical, cultural etc)"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

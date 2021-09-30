@@ -1,0 +1,34 @@
+{
+  "simplified": "威慑",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " wēi shè",
+          "wade_giles_pinyin": "wei1 she4"
+        }
+      ],
+      "simplified": "威慑",
+      "simplified_stroke_count": 0,
+      "traditional": "威懾",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to cower by military force"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "deterrence"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

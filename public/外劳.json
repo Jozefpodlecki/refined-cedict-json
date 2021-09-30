@@ -1,0 +1,29 @@
+{
+  "simplified": "外劳",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wài láo",
+          "wade_giles_pinyin": "wai4 lao2"
+        }
+      ],
+      "simplified": "外劳",
+      "traditional": "外勞",
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "value": "外籍勞工|外籍劳工[wai4 ji2 lao2 gong1]",
+          "simplified": "外",
+          "traditional": "籍勞工|外籍劳工",
+          "wade_giles_pinyin": "wai4 ji2 lao2 gong1"
+        },
+        {
+          "value": "foreign worker"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

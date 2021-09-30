@@ -1,0 +1,29 @@
+{
+  "simplified": "心里痒痒",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xīn lǐ yǎng yang",
+          "wade_giles_pinyin": "xin1 li3 yang3 yang5"
+        }
+      ],
+      "simplified": "心里痒痒",
+      "traditional": "心裡癢癢",
+      "meanings": [
+        {
+          "context": "literature",
+          "value": "itchy heart"
+        },
+        {
+          "lexical_item": "idiom",
+          "value": "to be itching to do sth"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

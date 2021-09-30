@@ -1,0 +1,77 @@
+{
+  "simplified": "刷",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shuā",
+          "wade_giles_pinyin": "shua1"
+        }
+      ],
+      "simplified": "刷",
+      "simplified_stroke_count": 8,
+      "traditional": "刷",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to brush"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to paint"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to daub"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to paste up"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to skip class (of students)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to fire from a job"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shuà",
+          "wade_giles_pinyin": "shua4"
+        }
+      ],
+      "simplified": "刷",
+      "simplified_stroke_count": 8,
+      "traditional": "刷",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to select"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

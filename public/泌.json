@@ -1,0 +1,43 @@
+{
+  "simplified": "泌",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " mì",
+          "wade_giles_pinyin": "mi4"
+        },
+        {
+          "pinyin": " bì",
+          "wade_giles_pinyin": "bi4"
+        }
+      ],
+      "simplified": "泌",
+      "simplified_stroke_count": 8,
+      "traditional": "泌",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to secrete"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to excrete"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "also pr. [bi4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

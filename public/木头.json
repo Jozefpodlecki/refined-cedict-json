@@ -1,0 +1,53 @@
+{
+  "simplified": "木头",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " mù tou",
+          "wade_giles_pinyin": "mu4 tou5"
+        }
+      ],
+      "simplified": "木头",
+      "simplified_stroke_count": 0,
+      "traditional": "木頭",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "slow-witted"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "blockhead"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "log (of wood, timber etc)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:塊|块[kuai4],根[gen1]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "塊",
+          "traditional": "块",
+          "wade_giles_pinyin": "kuai4"
+        },
+        {
+          "simplified": "根",
+          "traditional": "",
+          "wade_giles_pinyin": "gen1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

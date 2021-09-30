@@ -1,0 +1,33 @@
+{
+  "simplified": "上坡",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shàng pō",
+          "wade_giles_pinyin": "shang4 po1"
+        }
+      ],
+      "simplified": "上坡",
+      "traditional": "上坡",
+      "meanings": [
+        {
+          "value": "uphill"
+        },
+        {
+          "value": "upslope"
+        },
+        {
+          "value": "to move upwards"
+        },
+        {
+          "value": "to climb a slope"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

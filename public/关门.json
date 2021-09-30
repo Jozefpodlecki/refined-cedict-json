@@ -1,0 +1,30 @@
+{
+  "simplified": "关门",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guān mén",
+          "wade_giles_pinyin": "guan1 men2"
+        }
+      ],
+      "simplified": "关门",
+      "traditional": "關門",
+      "meanings": [
+        {
+          "value": "to close a door"
+        },
+        {
+          "value": "to lock a door"
+        },
+        {
+          "value": "(of a shop etc) to close (for the night, or permanently)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "simplified": "阳台",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yáng tái",
+          "wade_giles_pinyin": "yang2 tai2"
+        }
+      ],
+      "simplified": "阳台",
+      "traditional": "陽台",
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 陽臺|阳台[yang2 tai2]",
+          "simplified": "陽",
+          "traditional": "臺|阳台",
+          "wade_giles_pinyin": "yang2 tai2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yáng tái",
+          "wade_giles_pinyin": "yang2 tai2"
+        }
+      ],
+      "simplified": "阳台",
+      "traditional": "陽臺",
+      "meanings": [
+        {
+          "value": "balcony"
+        },
+        {
+          "value": "porch"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

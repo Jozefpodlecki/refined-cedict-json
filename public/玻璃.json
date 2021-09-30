@@ -1,0 +1,36 @@
+{
+  "simplified": "玻璃",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bō li",
+          "wade_giles_pinyin": "bo1 li5"
+        }
+      ],
+      "simplified": "玻璃",
+      "traditional": "玻璃",
+      "meanings": [
+        {
+          "value": "glass"
+        },
+        {
+          "value": "(slang) male homosexual"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "張",
+          "traditional": "张",
+          "wade_giles_pinyin": "zhang1"
+        },
+        {
+          "simplified": "塊",
+          "traditional": "块",
+          "wade_giles_pinyin": "kuai4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

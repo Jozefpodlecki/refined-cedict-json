@@ -1,0 +1,30 @@
+{
+  "simplified": "拘禁",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jū jìn",
+          "wade_giles_pinyin": "ju1 jin4"
+        }
+      ],
+      "simplified": "拘禁",
+      "traditional": "拘禁",
+      "meanings": [
+        {
+          "value": "constraint"
+        },
+        {
+          "value": "to detain"
+        },
+        {
+          "value": "to take into custody"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

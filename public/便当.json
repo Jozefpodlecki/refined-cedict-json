@@ -1,0 +1,47 @@
+{
+  "simplified": "便当",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " biàn dāng",
+          "wade_giles_pinyin": "bian4 dang1"
+        }
+      ],
+      "simplified": "便当",
+      "simplified_stroke_count": 0,
+      "traditional": "便當",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "convenient"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "handy"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "easy"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "bento (a meal in a partitioned box)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "lunchbox"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

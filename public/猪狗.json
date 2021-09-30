@@ -1,0 +1,32 @@
+{
+  "simplified": "猪狗",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhū gǒu",
+          "wade_giles_pinyin": "zhu1 gou3"
+        }
+      ],
+      "simplified": "猪狗",
+      "simplified_stroke_count": 0,
+      "traditional": "豬狗",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "pig-dog (intended as insult)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Schweinhund"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

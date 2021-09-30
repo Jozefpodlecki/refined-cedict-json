@@ -1,0 +1,36 @@
+{
+  "simplified": "辩",
+  "simplified_stroke_count": 16,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "biàn",
+          "wade_giles_pinyin": "bian4"
+        }
+      ],
+      "simplified": "辩",
+      "simplified_stroke_count": 16,
+      "traditional": "辯",
+      "traditional_stroke_count": 21,
+      "meanings": [
+        {
+          "value": "to dispute"
+        },
+        {
+          "value": "to debate"
+        },
+        {
+          "value": "to argue"
+        },
+        {
+          "value": "to discuss"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

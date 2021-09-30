@@ -1,0 +1,44 @@
+{
+  "simplified": "辩护",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " biàn hù",
+          "wade_giles_pinyin": "bian4 hu4"
+        }
+      ],
+      "simplified": "辩护",
+      "simplified_stroke_count": 0,
+      "traditional": "辯護",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to speak in defense of"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to argue in favor of"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to defend"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to plead"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "转托",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhuǎn tuō",
+          "wade_giles_pinyin": "zhuan3 tuo1"
+        }
+      ],
+      "simplified": "转托",
+      "simplified_stroke_count": null,
+      "traditional": "轉托",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to pass on a task"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to delegate one's work"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to pass the buck"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

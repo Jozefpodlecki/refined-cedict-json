@@ -1,0 +1,50 @@
+{
+  "simplified": "骚动",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " sāo dòng",
+          "wade_giles_pinyin": "sao1 dong4"
+        }
+      ],
+      "simplified": "骚动",
+      "simplified_stroke_count": 0,
+      "traditional": "騷動",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "disturbance"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "uproar"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:陣|阵[zhen4]"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to become restless"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "陣",
+          "traditional": "阵",
+          "wade_giles_pinyin": "zhen4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

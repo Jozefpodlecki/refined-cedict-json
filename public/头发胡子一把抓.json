@@ -1,0 +1,42 @@
+{
+  "simplified": "头发胡子一把抓",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " tóu fa hú zi yī bǎ zhuā",
+          "wade_giles_pinyin": "tou2 fa5 hu2 zi5 yi1 ba3 zhua1"
+        }
+      ],
+      "simplified": "头发胡子一把抓",
+      "simplified_stroke_count": 0,
+      "traditional": "頭髮鬍子一把抓",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "",
+          "value": "hair and beard all in one stroke"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "fig. to handle different things by the same method"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "one method to solve all problems"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "one size fits all"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

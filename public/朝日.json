@@ -1,0 +1,40 @@
+{
+  "simplified": "朝日",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhāo rì",
+          "wade_giles_pinyin": "Zhao1 ri4"
+        }
+      ],
+      "simplified": "朝日",
+      "traditional": "朝日",
+      "meanings": [
+        {
+          "context": "Japanese",
+          "value": "Asahi (Japanese place name, company name etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhāo rì",
+          "wade_giles_pinyin": "zhao1 ri4"
+        }
+      ],
+      "simplified": "朝日",
+      "traditional": "朝日",
+      "meanings": [
+        {
+          "value": "morning sun"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

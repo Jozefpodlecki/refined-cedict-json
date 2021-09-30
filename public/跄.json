@@ -1,0 +1,47 @@
+{
+  "simplified": "跄",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiāng",
+          "wade_giles_pinyin": "qiang1"
+        }
+      ],
+      "simplified": "跄",
+      "simplified_stroke_count": 11,
+      "traditional": "蹌",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "walk rapidly"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiàng",
+          "wade_giles_pinyin": "qiang4"
+        }
+      ],
+      "simplified": "跄",
+      "simplified_stroke_count": 11,
+      "traditional": "蹌",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "stagger"
+        },
+        {
+          "value": "sway from side to side"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

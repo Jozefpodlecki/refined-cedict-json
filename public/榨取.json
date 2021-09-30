@@ -1,0 +1,39 @@
+{
+  "simplified": "榨取",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhà qǔ",
+          "wade_giles_pinyin": "zha4 qu3"
+        }
+      ],
+      "simplified": "榨取",
+      "simplified_stroke_count": 0,
+      "traditional": "榨取",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to extract"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to squeeze out (juice etc)"
+        },
+        {
+          "context": "figuratively",
+          "lexical_item": "",
+          "value": "to exploit"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "simplified": "聘用",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pìn yòng",
+          "wade_giles_pinyin": "pin4 yong4"
+        }
+      ],
+      "simplified": "聘用",
+      "traditional": "聘用",
+      "meanings": [
+        {
+          "value": "to employ"
+        },
+        {
+          "value": "to hire"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

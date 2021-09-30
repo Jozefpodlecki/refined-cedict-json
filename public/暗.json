@@ -1,0 +1,130 @@
+{
+  "simplified": "暗",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " àn",
+          "wade_giles_pinyin": "an4"
+        }
+      ],
+      "simplified": "暗",
+      "simplified_stroke_count": 13,
+      "traditional": "晻",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "暗[an4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " àn",
+          "wade_giles_pinyin": "an4"
+        }
+      ],
+      "simplified": "暗",
+      "simplified_stroke_count": 13,
+      "traditional": "暗",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "dark"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "gloomy"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "hidden"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "secret"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "muddled"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "obscure"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "in the dark"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " àn",
+          "wade_giles_pinyin": "an4"
+        }
+      ],
+      "simplified": "暗",
+      "simplified_stroke_count": 13,
+      "traditional": "闇",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to close (a door)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to eclipse"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "muddled"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "stupid"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "ignorant"
+        },
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "暗[an4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

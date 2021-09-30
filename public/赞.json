@@ -1,0 +1,118 @@
+{
+  "simplified": "赞",
+  "simplified_stroke_count": 16,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zàn",
+          "wade_giles_pinyin": "zan4"
+        }
+      ],
+      "simplified": "赞",
+      "simplified_stroke_count": 16,
+      "traditional": "讃",
+      "traditional_stroke_count": 22,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "讚|赞[zan4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zàn",
+          "wade_giles_pinyin": "zan4"
+        }
+      ],
+      "simplified": "赞",
+      "simplified_stroke_count": 16,
+      "traditional": "讚",
+      "traditional_stroke_count": 26,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "贊|赞[zan4]"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to praise"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zàn",
+          "wade_giles_pinyin": "zan4"
+        }
+      ],
+      "simplified": "赞",
+      "simplified_stroke_count": 16,
+      "traditional": "賛",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "贊|赞[zan4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zàn",
+          "wade_giles_pinyin": "zan4"
+        }
+      ],
+      "simplified": "赞",
+      "simplified_stroke_count": 16,
+      "traditional": "贊",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to patronize"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to support"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to praise"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(Internet slang) to like (an online post on Facebook etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

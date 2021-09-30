@@ -1,0 +1,37 @@
+{
+  "simplified": "骗局",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "piàn jú",
+          "wade_giles_pinyin": "pian4 ju2"
+        }
+      ],
+      "simplified": "骗局",
+      "traditional": "騙局",
+      "meanings": [
+        {
+          "value": "a swindle"
+        },
+        {
+          "value": "a trap"
+        },
+        {
+          "value": "a racket"
+        },
+        {
+          "value": "a scam"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "場",
+          "traditional": "场",
+          "wade_giles_pinyin": "chang3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

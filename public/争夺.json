@@ -1,0 +1,30 @@
+{
+  "simplified": "争夺",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhēng duó",
+          "wade_giles_pinyin": "zheng1 duo2"
+        }
+      ],
+      "simplified": "争夺",
+      "traditional": "爭奪",
+      "meanings": [
+        {
+          "value": "to fight over"
+        },
+        {
+          "value": "to contest"
+        },
+        {
+          "value": "to vie over"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

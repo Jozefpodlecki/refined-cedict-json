@@ -1,0 +1,34 @@
+{
+  "simplified": "假掰",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gei1 bāi",
+          "wade_giles_pinyin": "gei1 bai1"
+        }
+      ],
+      "simplified": "假掰",
+      "traditional": "假掰",
+      "meanings": [
+        {
+          "context": "taiwan",
+          "value": "affected"
+        },
+        {
+          "value": "pretentious"
+        },
+        {
+          "value": "to put on a display of histrionics"
+        },
+        {
+          "value": "(from Taiwanese, Tai-lo pr. [ké-pai])"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

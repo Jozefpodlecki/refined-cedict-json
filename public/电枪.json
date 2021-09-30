@@ -1,0 +1,25 @@
+{
+  "simplified": "电枪",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diàn qiāng",
+          "wade_giles_pinyin": "dian4 qiang1"
+        }
+      ],
+      "simplified": "电枪",
+      "traditional": "電槍",
+      "meanings": [
+        {
+          "value": "stun gun"
+        },
+        {
+          "value": "Taser"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

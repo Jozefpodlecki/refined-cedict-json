@@ -1,0 +1,58 @@
+{
+  "simplified": "对象",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " duì xiàng",
+          "wade_giles_pinyin": "dui4 xiang4"
+        }
+      ],
+      "simplified": "对象",
+      "simplified_stroke_count": 0,
+      "traditional": "對象",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "target"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "object"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "partner"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "boyfriend"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "girlfriend"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:個|个[ge4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

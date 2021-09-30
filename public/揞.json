@@ -1,0 +1,33 @@
+{
+  "simplified": "揞",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ǎn",
+          "wade_giles_pinyin": "an3"
+        }
+      ],
+      "simplified": "揞",
+      "simplified_stroke_count": 12,
+      "traditional": "揞",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "to apply (medicinal powder to a wound)"
+        },
+        {
+          "value": "to cover up"
+        },
+        {
+          "value": "to conceal"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

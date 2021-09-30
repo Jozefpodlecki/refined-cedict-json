@@ -1,0 +1,78 @@
+{
+  "simplified": "夫",
+  "simplified_stroke_count": 4,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fū",
+          "wade_giles_pinyin": "fu1"
+        }
+      ],
+      "simplified": "夫",
+      "simplified_stroke_count": 4,
+      "traditional": "夫",
+      "traditional_stroke_count": 4,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "husband"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "man"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "manual worker"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "conscripted laborer (old)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fú",
+          "wade_giles_pinyin": "fu2"
+        }
+      ],
+      "simplified": "夫",
+      "simplified_stroke_count": 4,
+      "traditional": "夫",
+      "traditional_stroke_count": 4,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(classical) this, that"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "he, she, they"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(exclamatory final particle)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(initial particle, introduces an opinion)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "simplified": "料号",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "liào hào",
+          "wade_giles_pinyin": "liao4 hao4"
+        }
+      ],
+      "simplified": "料号",
+      "traditional": "料號",
+      "meanings": [
+        {
+          "value": "part number"
+        },
+        {
+          "value": "material code"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

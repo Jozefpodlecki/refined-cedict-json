@@ -1,0 +1,67 @@
+{
+  "simplified": "伺",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " cì",
+          "wade_giles_pinyin": "ci4"
+        }
+      ],
+      "simplified": "伺",
+      "simplified_stroke_count": 7,
+      "traditional": "伺",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to wait on"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " sì",
+          "wade_giles_pinyin": "si4"
+        }
+      ],
+      "simplified": "伺",
+      "simplified_stroke_count": 7,
+      "traditional": "伺",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to watch"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to wait"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to examine"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to spy"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

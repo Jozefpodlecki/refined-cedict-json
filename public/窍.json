@@ -1,0 +1,35 @@
+{
+  "simplified": "窍",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiào",
+          "wade_giles_pinyin": "qiao4"
+        }
+      ],
+      "simplified": "窍",
+      "simplified_stroke_count": 10,
+      "traditional": "竅",
+      "traditional_stroke_count": 18,
+      "meanings": [
+        {
+          "value": "hole"
+        },
+        {
+          "value": "opening"
+        },
+        {
+          "value": "orifice (of the human body)"
+        },
+        {
+          "context": "figuratively",
+          "value": "key (to the solution of a problem)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "simplified": "确定",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "què dìng",
+          "wade_giles_pinyin": "que4 ding4"
+        }
+      ],
+      "simplified": "确定",
+      "traditional": "確定",
+      "meanings": [
+        {
+          "value": "definite"
+        },
+        {
+          "value": "certain"
+        },
+        {
+          "value": "fixed"
+        },
+        {
+          "value": "to fix (on sth)"
+        },
+        {
+          "value": "to determine"
+        },
+        {
+          "value": "to be sure"
+        },
+        {
+          "value": "to ensure"
+        },
+        {
+          "value": "to make certain"
+        },
+        {
+          "value": "to ascertain"
+        },
+        {
+          "value": "to clinch"
+        },
+        {
+          "value": "to recognize"
+        },
+        {
+          "value": "to confirm"
+        },
+        {
+          "value": "OK (on computer dialog box)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

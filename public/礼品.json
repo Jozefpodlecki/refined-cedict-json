@@ -1,0 +1,32 @@
+{
+  "simplified": "礼品",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " lǐ pǐn",
+          "wade_giles_pinyin": "li3 pin3"
+        }
+      ],
+      "simplified": "礼品",
+      "simplified_stroke_count": 0,
+      "traditional": "禮品",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "gift"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "present"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

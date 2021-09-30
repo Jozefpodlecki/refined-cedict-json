@@ -1,0 +1,37 @@
+{
+  "simplified": "结晶",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jié jīng",
+          "wade_giles_pinyin": "jie2 jing1"
+        }
+      ],
+      "simplified": "结晶",
+      "traditional": "結晶",
+      "meanings": [
+        {
+          "value": "to crystallize"
+        },
+        {
+          "value": "crystallization"
+        },
+        {
+          "value": "crystal"
+        },
+        {
+          "value": "crystalline"
+        },
+        {
+          "context": "figuratively",
+          "value": "the fruit (of labor etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

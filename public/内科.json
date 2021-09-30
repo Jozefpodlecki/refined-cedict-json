@@ -1,0 +1,32 @@
+{
+  "simplified": "内科",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " nèi kē",
+          "wade_giles_pinyin": "nei4 ke1"
+        }
+      ],
+      "simplified": "内科",
+      "simplified_stroke_count": 0,
+      "traditional": "內科",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "internal medicine"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "general medicine"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

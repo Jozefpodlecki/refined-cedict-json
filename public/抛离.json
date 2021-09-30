@@ -1,0 +1,39 @@
+{
+  "simplified": "抛离",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pāo lí",
+          "wade_giles_pinyin": "pao1 li2"
+        }
+      ],
+      "simplified": "抛离",
+      "simplified_stroke_count": null,
+      "traditional": "拋離",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to desert"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to leave"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to forsake"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

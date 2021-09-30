@@ -1,0 +1,45 @@
+{
+  "simplified": "拢",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lǒng",
+          "wade_giles_pinyin": "long3"
+        }
+      ],
+      "simplified": "拢",
+      "simplified_stroke_count": 8,
+      "traditional": "攏",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "value": "to gather together"
+        },
+        {
+          "value": "to collect"
+        },
+        {
+          "value": "to approach"
+        },
+        {
+          "value": "to draw near to"
+        },
+        {
+          "value": "to add"
+        },
+        {
+          "value": "to sum up"
+        },
+        {
+          "value": "to comb (hair)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

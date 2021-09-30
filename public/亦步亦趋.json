@@ -1,0 +1,31 @@
+{
+  "simplified": "亦步亦趋",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yì bù yì qū",
+          "wade_giles_pinyin": "yi4 bu4 yi4 qu1"
+        }
+      ],
+      "simplified": "亦步亦趋",
+      "traditional": "亦步亦趨",
+      "meanings": [
+        {
+          "lexical_item": "idiom",
+          "value": "to blindly follow suit"
+        },
+        {
+          "value": "to imitate slavishly"
+        },
+        {
+          "value": "to do what everyone else is doing"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

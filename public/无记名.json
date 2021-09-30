@@ -1,0 +1,40 @@
+{
+  "simplified": "无记名",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wú jì míng",
+          "wade_giles_pinyin": "wu2 ji4 ming2"
+        }
+      ],
+      "simplified": "无记名",
+      "traditional": "無記名",
+      "meanings": [
+        {
+          "value": "(of a document) not bearing a name"
+        },
+        {
+          "value": "unregistered (financial securities etc)"
+        },
+        {
+          "value": "bearer (bond)"
+        },
+        {
+          "value": "secret (ballot etc)"
+        },
+        {
+          "value": "anonymous"
+        },
+        {
+          "value": "unattributed (remarks)"
+        },
+        {
+          "value": "(of a check) payable to the bearer"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

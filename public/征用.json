@@ -1,0 +1,27 @@
+{
+  "simplified": "征用",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhēng yòng",
+          "wade_giles_pinyin": "zheng1 yong4"
+        }
+      ],
+      "simplified": "征用",
+      "traditional": "征用",
+      "meanings": [
+        {
+          "value": "to expropriate"
+        },
+        {
+          "value": "to commandeer"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

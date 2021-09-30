@@ -1,0 +1,36 @@
+{
+  "simplified": "刍",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chú",
+          "wade_giles_pinyin": "chu2"
+        }
+      ],
+      "simplified": "刍",
+      "simplified_stroke_count": 5,
+      "traditional": "芻",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "to mow or cut grass"
+        },
+        {
+          "value": "hay"
+        },
+        {
+          "value": "straw"
+        },
+        {
+          "value": "fodder"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

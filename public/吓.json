@@ -1,0 +1,63 @@
+{
+  "simplified": "吓",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hè",
+          "wade_giles_pinyin": "he4"
+        }
+      ],
+      "simplified": "吓",
+      "simplified_stroke_count": 6,
+      "traditional": "嚇",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "to scare"
+        },
+        {
+          "value": "to intimidate"
+        },
+        {
+          "value": "to threaten"
+        },
+        {
+          "value": "(interjection showing disapproval) tut-tut"
+        },
+        {
+          "value": "(interjection showing astonishment)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xià",
+          "wade_giles_pinyin": "xia4"
+        }
+      ],
+      "simplified": "吓",
+      "simplified_stroke_count": 6,
+      "traditional": "嚇",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "to frighten"
+        },
+        {
+          "value": "to scare"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "simplified": "重臂",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhòng bì",
+          "wade_giles_pinyin": "zhong4 bi4"
+        }
+      ],
+      "simplified": "重臂",
+      "traditional": "重臂",
+      "meanings": [
+        {
+          "value": "actuator (arm of a lever)"
+        },
+        {
+          "value": "lever"
+        },
+        {
+          "value": "actuating arm"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

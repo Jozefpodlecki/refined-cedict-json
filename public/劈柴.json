@@ -1,0 +1,62 @@
+{
+  "simplified": "劈柴",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " pī chái",
+          "wade_giles_pinyin": "pi1 chai2"
+        }
+      ],
+      "simplified": "劈柴",
+      "simplified_stroke_count": 0,
+      "traditional": "劈柴",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to chop firewood"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to split logs"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " pǐ chái",
+          "wade_giles_pinyin": "pi3 chai2"
+        }
+      ],
+      "simplified": "劈柴",
+      "simplified_stroke_count": 0,
+      "traditional": "劈柴",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "chopped wood"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "firewood"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

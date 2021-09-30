@@ -1,0 +1,32 @@
+{
+  "simplified": "蛋品",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dàn pǐn",
+          "wade_giles_pinyin": "dan4 pin3"
+        }
+      ],
+      "simplified": "蛋品",
+      "simplified_stroke_count": 0,
+      "traditional": "蛋品",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "egg products"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "egg-based products"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

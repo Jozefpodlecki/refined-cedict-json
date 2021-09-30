@@ -1,0 +1,30 @@
+{
+  "simplified": "开采",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kāi cǎi",
+          "wade_giles_pinyin": "kai1 cai3"
+        }
+      ],
+      "simplified": "开采",
+      "traditional": "開採",
+      "meanings": [
+        {
+          "value": "to extract (ore or other resource from a mine)"
+        },
+        {
+          "value": "to exploit"
+        },
+        {
+          "value": "to mine"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

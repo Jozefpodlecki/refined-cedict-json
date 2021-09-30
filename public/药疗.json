@@ -1,0 +1,25 @@
+{
+  "simplified": "药疗",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yào liáo",
+          "wade_giles_pinyin": "yao4 liao2"
+        }
+      ],
+      "simplified": "药疗",
+      "traditional": "藥療",
+      "meanings": [
+        {
+          "value": "medication"
+        },
+        {
+          "value": "herbal remedy"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

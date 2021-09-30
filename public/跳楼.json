@@ -1,0 +1,34 @@
+{
+  "simplified": "跳楼",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " tiào lóu",
+          "wade_giles_pinyin": "tiao4 lou2"
+        }
+      ],
+      "simplified": "跳楼",
+      "simplified_stroke_count": 0,
+      "traditional": "跳樓",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to jump from a building (to kill oneself)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "fig. to sell at a large discount (in advertising)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

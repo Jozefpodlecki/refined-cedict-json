@@ -1,0 +1,43 @@
+{
+  "simplified": "矿泉水",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " kuàng quán shuǐ",
+          "wade_giles_pinyin": "kuang4 quan2 shui3"
+        }
+      ],
+      "simplified": "矿泉水",
+      "simplified_stroke_count": 0,
+      "traditional": "礦泉水",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "mineral spring water"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:瓶[ping2],杯[bei1]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "瓶",
+          "traditional": "",
+          "wade_giles_pinyin": "ping2"
+        },
+        {
+          "simplified": "杯",
+          "traditional": "",
+          "wade_giles_pinyin": "bei1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

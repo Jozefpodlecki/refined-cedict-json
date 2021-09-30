@@ -1,0 +1,30 @@
+{
+  "simplified": "晕染",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yùn rǎn",
+          "wade_giles_pinyin": "yun4 ran3"
+        }
+      ],
+      "simplified": "晕染",
+      "traditional": "暈染",
+      "meanings": [
+        {
+          "value": "to smudge (become smeared)"
+        },
+        {
+          "value": "to smudge (create a blurred effect)"
+        },
+        {
+          "value": "shading (wash painting technique)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

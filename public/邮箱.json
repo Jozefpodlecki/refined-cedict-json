@@ -1,0 +1,31 @@
+{
+  "simplified": "邮箱",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yóu xiāng",
+          "wade_giles_pinyin": "you2 xiang1"
+        }
+      ],
+      "simplified": "邮箱",
+      "traditional": "郵箱",
+      "meanings": [
+        {
+          "value": "mailbox"
+        },
+        {
+          "value": "post office box"
+        },
+        {
+          "value": "email"
+        },
+        {
+          "value": "email inbox"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

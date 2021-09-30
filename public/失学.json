@@ -1,0 +1,32 @@
+{
+  "simplified": "失学",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shī xué",
+          "wade_giles_pinyin": "shi1 xue2"
+        }
+      ],
+      "simplified": "失学",
+      "simplified_stroke_count": 0,
+      "traditional": "失學",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "unable to go to school"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "an interruption to one's education"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

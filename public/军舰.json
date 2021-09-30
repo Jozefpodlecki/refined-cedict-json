@@ -1,0 +1,43 @@
+{
+  "simplified": "军舰",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jūn jiàn",
+          "wade_giles_pinyin": "jun1 jian4"
+        }
+      ],
+      "simplified": "军舰",
+      "simplified_stroke_count": 0,
+      "traditional": "軍艦",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "warship"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "military naval vessel"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:艘[sou1]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "艘",
+          "traditional": "",
+          "wade_giles_pinyin": "sou1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

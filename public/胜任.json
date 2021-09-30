@@ -1,0 +1,30 @@
+{
+  "simplified": "胜任",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shèng rèn",
+          "wade_giles_pinyin": "sheng4 ren4"
+        }
+      ],
+      "simplified": "胜任",
+      "traditional": "勝任",
+      "meanings": [
+        {
+          "value": "qualified"
+        },
+        {
+          "value": "competent (professionally)"
+        },
+        {
+          "value": "to be up to a task"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "翻案",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fān àn",
+          "wade_giles_pinyin": "fan1 an4"
+        }
+      ],
+      "simplified": "翻案",
+      "simplified_stroke_count": 0,
+      "traditional": "翻案",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to reverse a verdict"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to present different views on a historical person or verdict"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

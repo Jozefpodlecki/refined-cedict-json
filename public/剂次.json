@@ -1,0 +1,25 @@
+{
+  "simplified": "剂次",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jì cì",
+          "wade_giles_pinyin": "ji4 ci4"
+        }
+      ],
+      "simplified": "剂次",
+      "traditional": "劑次",
+      "meanings": [
+        {
+          "value": "instance of administering a dose of vaccine"
+        },
+        {
+          "value": "number of vaccinations"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

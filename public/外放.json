@@ -1,0 +1,34 @@
+{
+  "simplified": "外放",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wài fàng",
+          "wade_giles_pinyin": "wai4 fang4"
+        }
+      ],
+      "simplified": "外放",
+      "traditional": "外放",
+      "meanings": [
+        {
+          "value": "extroverted"
+        },
+        {
+          "value": "outgoing"
+        },
+        {
+          "value": "to play audio through speakers (rather than through earphones)"
+        },
+        {
+          "context": "old",
+          "value": "to appoint to a post outside the capital"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

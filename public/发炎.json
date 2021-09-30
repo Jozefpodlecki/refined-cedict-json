@@ -1,0 +1,34 @@
+{
+  "simplified": "发炎",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fā yán",
+          "wade_giles_pinyin": "fa1 yan2"
+        }
+      ],
+      "simplified": "发炎",
+      "simplified_stroke_count": 0,
+      "traditional": "發炎",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to become inflamed"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "inflammation"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

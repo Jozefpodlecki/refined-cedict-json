@@ -1,0 +1,32 @@
+{
+  "simplified": "拍卖商",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pāi mài shāng",
+          "wade_giles_pinyin": "pai1 mai4 shang1"
+        }
+      ],
+      "simplified": "拍卖商",
+      "simplified_stroke_count": null,
+      "traditional": "拍賣商",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "auctioneer"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "auction house"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

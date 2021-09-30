@@ -1,0 +1,30 @@
+{
+  "simplified": "养护",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǎng hù",
+          "wade_giles_pinyin": "yang3 hu4"
+        }
+      ],
+      "simplified": "养护",
+      "traditional": "養護",
+      "meanings": [
+        {
+          "value": "to maintain"
+        },
+        {
+          "value": "to conserve"
+        },
+        {
+          "value": "curing (concrete etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

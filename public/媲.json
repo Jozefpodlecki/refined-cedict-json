@@ -1,0 +1,34 @@
+{
+  "simplified": "媲",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " pì",
+          "wade_giles_pinyin": "pi4"
+        }
+      ],
+      "simplified": "媲",
+      "simplified_stroke_count": 13,
+      "traditional": "媲",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to match"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to pair"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

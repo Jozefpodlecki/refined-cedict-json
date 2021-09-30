@@ -1,0 +1,26 @@
+{
+  "simplified": "台大",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tái dà",
+          "wade_giles_pinyin": "Tai2 Da4"
+        }
+      ],
+      "simplified": "台大",
+      "traditional": "臺大",
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "value": "臺灣大學|台湾大学[Tai2 wan1 Da4 xue2]",
+          "simplified": "臺",
+          "traditional": "灣大學|台湾大学",
+          "wade_giles_pinyin": "Tai2 wan1 Da4 xue2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

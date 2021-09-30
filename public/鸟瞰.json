@@ -1,0 +1,30 @@
+{
+  "simplified": "鸟瞰",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "niǎo kàn",
+          "wade_giles_pinyin": "niao3 kan4"
+        }
+      ],
+      "simplified": "鸟瞰",
+      "traditional": "鳥瞰",
+      "meanings": [
+        {
+          "value": "to get a bird's-eye view"
+        },
+        {
+          "value": "bird's-eye view"
+        },
+        {
+          "value": "broad overview"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

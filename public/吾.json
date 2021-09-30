@@ -1,0 +1,53 @@
+{
+  "simplified": "吾",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " wú",
+          "wade_giles_pinyin": "Wu2"
+        }
+      ],
+      "simplified": "吾",
+      "simplified_stroke_count": 7,
+      "traditional": "吾",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "surname Wu"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " wú",
+          "wade_giles_pinyin": "wu2"
+        }
+      ],
+      "simplified": "吾",
+      "simplified_stroke_count": 7,
+      "traditional": "吾",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "I"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "my (old)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

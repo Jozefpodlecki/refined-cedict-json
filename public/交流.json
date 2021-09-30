@@ -1,0 +1,36 @@
+{
+  "simplified": "交流",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiāo liú",
+          "wade_giles_pinyin": "jiao1 liu2"
+        }
+      ],
+      "simplified": "交流",
+      "traditional": "交流",
+      "meanings": [
+        {
+          "value": "to exchange"
+        },
+        {
+          "value": "exchange"
+        },
+        {
+          "value": "communication"
+        },
+        {
+          "value": "interaction"
+        },
+        {
+          "value": "to have social contact (with sb)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

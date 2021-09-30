@@ -1,0 +1,44 @@
+{
+  "simplified": "白白",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bái bái",
+          "wade_giles_pinyin": "bai2 bai2"
+        }
+      ],
+      "simplified": "白白",
+      "simplified_stroke_count": null,
+      "traditional": "白白",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "in vain"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to no purpose"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "for nothing"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "white"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

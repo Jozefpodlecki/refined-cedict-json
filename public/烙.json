@@ -1,0 +1,33 @@
+{
+  "simplified": "烙",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lào",
+          "wade_giles_pinyin": "lao4"
+        }
+      ],
+      "simplified": "烙",
+      "simplified_stroke_count": 10,
+      "traditional": "烙",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "to brand"
+        },
+        {
+          "value": "to iron"
+        },
+        {
+          "value": "to bake (in a pan)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

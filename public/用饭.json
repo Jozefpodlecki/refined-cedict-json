@@ -1,0 +1,27 @@
+{
+  "simplified": "用饭",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yòng fàn",
+          "wade_giles_pinyin": "yong4 fan4"
+        }
+      ],
+      "simplified": "用饭",
+      "traditional": "用飯",
+      "meanings": [
+        {
+          "value": "to eat"
+        },
+        {
+          "value": "to have a meal"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

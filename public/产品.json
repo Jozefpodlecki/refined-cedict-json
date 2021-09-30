@@ -1,0 +1,48 @@
+{
+  "simplified": "产品",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chǎn pǐn",
+          "wade_giles_pinyin": "chan3 pin3"
+        }
+      ],
+      "simplified": "产品",
+      "simplified_stroke_count": 0,
+      "traditional": "產品",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "goods"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "merchandise"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "product"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:個|个[ge4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

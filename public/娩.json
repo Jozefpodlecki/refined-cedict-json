@@ -1,0 +1,51 @@
+{
+  "simplified": "娩",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "miǎn",
+          "wade_giles_pinyin": "mian3"
+        }
+      ],
+      "simplified": "娩",
+      "simplified_stroke_count": 10,
+      "traditional": "娩",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "to give birth to a child"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wǎn",
+          "wade_giles_pinyin": "wan3"
+        }
+      ],
+      "simplified": "娩",
+      "simplified_stroke_count": 10,
+      "traditional": "娩",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "complaisant"
+        },
+        {
+          "value": "agreeable"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

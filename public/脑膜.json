@@ -1,0 +1,37 @@
+{
+  "simplified": "脑膜",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nǎo mó",
+          "wade_giles_pinyin": "nao3 mo2"
+        }
+      ],
+      "simplified": "脑膜",
+      "simplified_stroke_count": null,
+      "traditional": "腦膜",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "meninx"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "meninges"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "membranes lining the brain"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "simplified": "定音",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dìng yīn",
+          "wade_giles_pinyin": "ding4 yin1"
+        }
+      ],
+      "simplified": "定音",
+      "traditional": "定音",
+      "meanings": [
+        {
+          "value": "to call the tune"
+        },
+        {
+          "value": "to make the final decision"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

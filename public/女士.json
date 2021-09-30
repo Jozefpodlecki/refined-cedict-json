@@ -1,0 +1,58 @@
+{
+  "simplified": "女士",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " nu:3 shì",
+          "wade_giles_pinyin": "nu:3 shi4"
+        }
+      ],
+      "simplified": "女士",
+      "simplified_stroke_count": 0,
+      "traditional": "女士",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "lady"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "madam"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:個|个[ge4],位[wei4]"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Miss"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Ms"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        },
+        {
+          "simplified": "位",
+          "traditional": "",
+          "wade_giles_pinyin": "wei4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

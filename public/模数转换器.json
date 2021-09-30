@@ -1,0 +1,27 @@
+{
+  "simplified": "模数转换器",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " mó shù zhuǎn huàn qì",
+          "wade_giles_pinyin": "mo2 shu4 zhuan3 huan4 qi4"
+        }
+      ],
+      "simplified": "模数转换器",
+      "simplified_stroke_count": 0,
+      "traditional": "模數轉換器",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "analog-to-digital converter (ADC)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

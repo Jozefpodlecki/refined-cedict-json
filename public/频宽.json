@@ -1,0 +1,25 @@
+{
+  "simplified": "频宽",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pín kuān",
+          "wade_giles_pinyin": "pin2 kuan1"
+        }
+      ],
+      "simplified": "频宽",
+      "traditional": "頻寬",
+      "meanings": [
+        {
+          "value": "frequency range"
+        },
+        {
+          "value": "bandwidth"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "simplified": "怕",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pà",
+          "wade_giles_pinyin": "Pa4"
+        }
+      ],
+      "simplified": "怕",
+      "simplified_stroke_count": 8,
+      "traditional": "怕",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "surname Pa"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pà",
+          "wade_giles_pinyin": "pa4"
+        }
+      ],
+      "simplified": "怕",
+      "simplified_stroke_count": 8,
+      "traditional": "怕",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "to be afraid"
+        },
+        {
+          "value": "to fear"
+        },
+        {
+          "value": "to dread"
+        },
+        {
+          "value": "to be unable to endure"
+        },
+        {
+          "value": "perhaps"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

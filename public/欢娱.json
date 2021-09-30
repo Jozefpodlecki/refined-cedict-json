@@ -1,0 +1,39 @@
+{
+  "simplified": "欢娱",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huān yú",
+          "wade_giles_pinyin": "huan1 yu2"
+        }
+      ],
+      "simplified": "欢娱",
+      "traditional": "歡娛",
+      "meanings": [
+        {
+          "value": "to amuse"
+        },
+        {
+          "value": "to divert"
+        },
+        {
+          "value": "happy"
+        },
+        {
+          "value": "joyful"
+        },
+        {
+          "value": "pleasure"
+        },
+        {
+          "value": "amusement"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

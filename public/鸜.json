@@ -1,0 +1,29 @@
+{
+  "simplified": "鸜",
+  "simplified_stroke_count": 29,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qú",
+          "wade_giles_pinyin": "qu2"
+        }
+      ],
+      "simplified": "鸜",
+      "simplified_stroke_count": 29,
+      "traditional": "鸜",
+      "traditional_stroke_count": 29,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 鴝|鸲[qu2]",
+          "simplified": "鴝",
+          "traditional": "鸲",
+          "wade_giles_pinyin": "qu2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

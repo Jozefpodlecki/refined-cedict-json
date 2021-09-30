@@ -1,0 +1,75 @@
+{
+  "simplified": "挨",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "āi",
+          "wade_giles_pinyin": "ai1"
+        }
+      ],
+      "simplified": "挨",
+      "simplified_stroke_count": 10,
+      "traditional": "挨",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "in order"
+        },
+        {
+          "value": "in sequence"
+        },
+        {
+          "value": "close to"
+        },
+        {
+          "value": "adjacent to"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ái",
+          "wade_giles_pinyin": "ai2"
+        }
+      ],
+      "simplified": "挨",
+      "simplified_stroke_count": 10,
+      "traditional": "挨",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "to suffer"
+        },
+        {
+          "value": "to endure"
+        },
+        {
+          "value": "to pull through (hard times)"
+        },
+        {
+          "value": "to delay"
+        },
+        {
+          "value": "to stall"
+        },
+        {
+          "value": "to play for time"
+        },
+        {
+          "value": "to dawdle"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

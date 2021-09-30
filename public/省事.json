@@ -1,0 +1,46 @@
+{
+  "simplified": "省事",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shěng shì",
+          "wade_giles_pinyin": "sheng3 shi4"
+        }
+      ],
+      "simplified": "省事",
+      "traditional": "省事",
+      "meanings": [
+        {
+          "value": "to simplify matters"
+        },
+        {
+          "value": "to save trouble"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xǐng shì",
+          "wade_giles_pinyin": "xing3 shi4"
+        }
+      ],
+      "simplified": "省事",
+      "traditional": "省事",
+      "meanings": [
+        {
+          "value": "to handle administrative work"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

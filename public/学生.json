@@ -1,0 +1,25 @@
+{
+  "simplified": "学生",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xué sheng",
+          "wade_giles_pinyin": "xue2 sheng5"
+        }
+      ],
+      "simplified": "学生",
+      "traditional": "學生",
+      "meanings": [
+        {
+          "value": "student"
+        },
+        {
+          "value": "schoolchild"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "simplified": "放逐",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fàng zhú",
+          "wade_giles_pinyin": "fang4 zhu2"
+        }
+      ],
+      "simplified": "放逐",
+      "traditional": "放逐",
+      "meanings": [
+        {
+          "value": "to banish"
+        },
+        {
+          "value": "to deport"
+        },
+        {
+          "value": "to send into exile"
+        },
+        {
+          "value": "to be marooned"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

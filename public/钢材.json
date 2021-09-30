@@ -1,0 +1,32 @@
+{
+  "simplified": "钢材",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " gāng cái",
+          "wade_giles_pinyin": "gang1 cai2"
+        }
+      ],
+      "simplified": "钢材",
+      "simplified_stroke_count": 0,
+      "traditional": "鋼材",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "steel (as raw material)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "steel sheets, bars, tubes, ingots, wire etc"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

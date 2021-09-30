@@ -1,0 +1,53 @@
+{
+  "simplified": "氏",
+  "simplified_stroke_count": 4,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shì",
+          "wade_giles_pinyin": "shi4"
+        }
+      ],
+      "simplified": "氏",
+      "simplified_stroke_count": 4,
+      "traditional": "氏",
+      "traditional_stroke_count": 4,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "clan name"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "maiden name"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhī",
+          "wade_giles_pinyin": "zhi1"
+        }
+      ],
+      "simplified": "氏",
+      "simplified_stroke_count": 4,
+      "traditional": "氏",
+      "traditional_stroke_count": 4,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "see 月氏[Yue4 zhi1] and 閼氏|阏氏[yan1 zhi1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

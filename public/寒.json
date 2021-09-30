@@ -1,0 +1,33 @@
+{
+  "simplified": "寒",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hán",
+          "wade_giles_pinyin": "han2"
+        }
+      ],
+      "simplified": "寒",
+      "simplified_stroke_count": 12,
+      "traditional": "寒",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "cold"
+        },
+        {
+          "value": "poor"
+        },
+        {
+          "value": "to tremble"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "上场",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shàng chǎng",
+          "wade_giles_pinyin": "shang4 chang3"
+        }
+      ],
+      "simplified": "上场",
+      "simplified_stroke_count": 0,
+      "traditional": "上場",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "on stage"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to go on stage"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to take the field"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

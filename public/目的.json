@@ -1,0 +1,43 @@
+{
+  "simplified": "目的",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mù dì",
+          "wade_giles_pinyin": "mu4 di4"
+        }
+      ],
+      "simplified": "目的",
+      "traditional": "目的",
+      "meanings": [
+        {
+          "value": "purpose"
+        },
+        {
+          "value": "aim"
+        },
+        {
+          "value": "goal"
+        },
+        {
+          "value": "target"
+        },
+        {
+          "value": "objective"
+        },
+        {
+          "value": "CL:個|个[ge4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

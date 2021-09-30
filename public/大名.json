@@ -1,0 +1,45 @@
+{
+  "simplified": "大名",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dà míng",
+          "wade_giles_pinyin": "Da4 ming2"
+        }
+      ],
+      "simplified": "大名",
+      "traditional": "大名",
+      "meanings": [
+        {
+          "value": "Daming county in Handan 邯鄲|邯郸[Han2 dan1], Hebei"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dà míng",
+          "wade_giles_pinyin": "da4 ming2"
+        }
+      ],
+      "simplified": "大名",
+      "traditional": "大名",
+      "meanings": [
+        {
+          "value": "famous name"
+        },
+        {
+          "value": "your distinguished name"
+        },
+        {
+          "value": "one's formal personal name"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

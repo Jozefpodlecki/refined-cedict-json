@@ -1,0 +1,27 @@
+{
+  "simplified": "共模抑制比",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " gòng mó yì zhì bǐ",
+          "wade_giles_pinyin": "gong4 mo2 yi4 zhi4 bi3"
+        }
+      ],
+      "simplified": "共模抑制比",
+      "simplified_stroke_count": 0,
+      "traditional": "共模抑制比",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(electronics) common-mode rejection ratio (CMRR)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

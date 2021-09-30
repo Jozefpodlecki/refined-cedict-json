@@ -1,0 +1,28 @@
+{
+  "simplified": "官司",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guān si",
+          "wade_giles_pinyin": "guan1 si5"
+        }
+      ],
+      "simplified": "官司",
+      "traditional": "官司",
+      "meanings": [
+        {
+          "value": "lawsuit"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "場",
+          "traditional": "场",
+          "wade_giles_pinyin": "chang2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

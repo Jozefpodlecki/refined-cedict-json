@@ -1,0 +1,42 @@
+{
+  "simplified": "重码",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chóng mǎ",
+          "wade_giles_pinyin": "chong2 ma3"
+        }
+      ],
+      "simplified": "重码",
+      "traditional": "重碼",
+      "meanings": [
+        {
+          "value": "repeated code"
+        },
+        {
+          "value": "coincident code (i.e. two characters or words having the same encoding)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhòng mǎ",
+          "wade_giles_pinyin": "zhong4 ma3"
+        }
+      ],
+      "simplified": "重码",
+      "traditional": "重碼",
+      "meanings": [
+        {
+          "value": "weight code"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "simplified": "起名",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qǐ míng",
+          "wade_giles_pinyin": "qi3 ming2"
+        }
+      ],
+      "simplified": "起名",
+      "traditional": "起名",
+      "meanings": [
+        {
+          "value": "to name"
+        },
+        {
+          "value": "to christen"
+        },
+        {
+          "value": "to take a name"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

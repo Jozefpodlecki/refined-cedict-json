@@ -1,0 +1,34 @@
+{
+  "simplified": "处在",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chǔ zài",
+          "wade_giles_pinyin": "chu3 zai4"
+        }
+      ],
+      "simplified": "处在",
+      "simplified_stroke_count": null,
+      "traditional": "處在",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to be situated at"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to find oneself at"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

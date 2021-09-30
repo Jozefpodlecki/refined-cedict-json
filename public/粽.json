@@ -1,0 +1,48 @@
+{
+  "simplified": "粽",
+  "simplified_stroke_count": 14,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zòng",
+          "wade_giles_pinyin": "zong4"
+        }
+      ],
+      "simplified": "粽",
+      "simplified_stroke_count": 14,
+      "traditional": "粽",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "rice dumplings wrapped in leaves"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zòng",
+          "wade_giles_pinyin": "zong4"
+        }
+      ],
+      "simplified": "粽",
+      "simplified_stroke_count": 14,
+      "traditional": "糉",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 粽[zong4]",
+          "simplified": "粽",
+          "traditional": "",
+          "wade_giles_pinyin": "zong4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

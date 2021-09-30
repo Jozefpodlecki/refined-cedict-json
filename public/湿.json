@@ -1,0 +1,51 @@
+{
+  "simplified": "湿",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shī",
+          "wade_giles_pinyin": "shi1"
+        }
+      ],
+      "simplified": "湿",
+      "simplified_stroke_count": 12,
+      "traditional": "溼",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 濕|湿[shi1]",
+          "simplified": "濕",
+          "traditional": "湿",
+          "wade_giles_pinyin": "shi1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shī",
+          "wade_giles_pinyin": "shi1"
+        }
+      ],
+      "simplified": "湿",
+      "simplified_stroke_count": 12,
+      "traditional": "濕",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "moist"
+        },
+        {
+          "value": "wet"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

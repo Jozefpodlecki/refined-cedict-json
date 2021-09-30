@@ -1,0 +1,34 @@
+{
+  "simplified": "增长",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zēng zhǎng",
+          "wade_giles_pinyin": "zeng1 zhang3"
+        }
+      ],
+      "simplified": "增长",
+      "simplified_stroke_count": 0,
+      "traditional": "增長",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to grow"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to increase"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "莼菜",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chún cài",
+          "wade_giles_pinyin": "chun2 cai4"
+        }
+      ],
+      "simplified": "莼菜",
+      "traditional": "蒓菜",
+      "meanings": [
+        {
+          "value": "Brasenia schreberi"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chún cài",
+          "wade_giles_pinyin": "chun2 cai4"
+        }
+      ],
+      "simplified": "莼菜",
+      "traditional": "蓴菜",
+      "meanings": [
+        {
+          "value": "Brasenia schreberi"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "丹砂",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dān shā",
+          "wade_giles_pinyin": "dan1 sha1"
+        }
+      ],
+      "simplified": "丹砂",
+      "simplified_stroke_count": null,
+      "traditional": "丹砂",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "cinnabar"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "mercuric sulfide HgS"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "simplified": "虐待",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nüè dài",
+          "wade_giles_pinyin": "nu:e4 dai4"
+        }
+      ],
+      "simplified": "虐待",
+      "traditional": "虐待",
+      "meanings": [
+        {
+          "value": "to mistreat"
+        },
+        {
+          "value": "to maltreat"
+        },
+        {
+          "value": "to abuse"
+        },
+        {
+          "value": "mistreatment"
+        },
+        {
+          "value": "maltreatment"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

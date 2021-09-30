@@ -1,0 +1,67 @@
+{
+  "simplified": "踩",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cǎi",
+          "wade_giles_pinyin": "cai3"
+        }
+      ],
+      "simplified": "踩",
+      "simplified_stroke_count": 15,
+      "traditional": "跴",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 踩[cai3]",
+          "simplified": "踩",
+          "traditional": "",
+          "wade_giles_pinyin": "cai3"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cǎi",
+          "wade_giles_pinyin": "cai3"
+        }
+      ],
+      "simplified": "踩",
+      "simplified_stroke_count": 15,
+      "traditional": "踩",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "to step on"
+        },
+        {
+          "value": "to tread"
+        },
+        {
+          "value": "to stamp"
+        },
+        {
+          "value": "to press a pedal"
+        },
+        {
+          "value": "to pedal (a bike)"
+        },
+        {
+          "value": "(online) to downvote"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

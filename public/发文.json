@@ -1,0 +1,33 @@
+{
+  "simplified": "发文",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fā wén",
+          "wade_giles_pinyin": "fa1 wen2"
+        }
+      ],
+      "simplified": "发文",
+      "traditional": "發文",
+      "meanings": [
+        {
+          "value": "to issue a document"
+        },
+        {
+          "value": "document issued by an authority"
+        },
+        {
+          "value": "outgoing messages"
+        },
+        {
+          "value": "(Internet) to post an article online"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "simplified": "叒",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ruò",
+          "wade_giles_pinyin": "ruo4"
+        }
+      ],
+      "simplified": "叒",
+      "simplified_stroke_count": 6,
+      "traditional": "叒",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 若[ruo4]",
+          "simplified": "若",
+          "traditional": "",
+          "wade_giles_pinyin": "ruo4"
+        },
+        {
+          "value": "obedient"
+        },
+        {
+          "value": "ancient mythical tree"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

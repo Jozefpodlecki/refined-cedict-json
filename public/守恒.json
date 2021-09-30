@@ -1,0 +1,27 @@
+{
+  "simplified": "守恒",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shǒu héng",
+          "wade_giles_pinyin": "shou3 heng2"
+        }
+      ],
+      "simplified": "守恒",
+      "traditional": "守恆",
+      "meanings": [
+        {
+          "value": "conservation (e.g. of energy, momentum or heat in physics)"
+        },
+        {
+          "value": "to remain constant (of a number)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "simplified": "面罩",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "miàn zhào",
+          "wade_giles_pinyin": "mian4 zhao4"
+        }
+      ],
+      "simplified": "面罩",
+      "traditional": "面罩",
+      "meanings": [
+        {
+          "value": "mask"
+        },
+        {
+          "value": "visor"
+        },
+        {
+          "value": "facepiece (e.g. diving suit, gas mask)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

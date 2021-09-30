@@ -1,0 +1,38 @@
+{
+  "simplified": "大风",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dà fēng",
+          "wade_giles_pinyin": "da4 feng1"
+        }
+      ],
+      "simplified": "大风",
+      "simplified_stroke_count": 0,
+      "traditional": "大風",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "gale"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:場|场[chang2]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "場",
+          "traditional": "场",
+          "wade_giles_pinyin": "chang2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

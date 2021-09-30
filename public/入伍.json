@@ -1,0 +1,27 @@
+{
+  "simplified": "入伍",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rù wǔ",
+          "wade_giles_pinyin": "ru4 wu3"
+        }
+      ],
+      "simplified": "入伍",
+      "traditional": "入伍",
+      "meanings": [
+        {
+          "value": "to enter the army"
+        },
+        {
+          "value": "to enlist"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

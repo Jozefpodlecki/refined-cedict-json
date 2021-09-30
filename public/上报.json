@@ -1,0 +1,30 @@
+{
+  "simplified": "上报",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shàng bào",
+          "wade_giles_pinyin": "shang4 bao4"
+        }
+      ],
+      "simplified": "上报",
+      "traditional": "上報",
+      "meanings": [
+        {
+          "value": "to report to one's superiors"
+        },
+        {
+          "value": "to appear in the news"
+        },
+        {
+          "value": "to reply to a letter"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

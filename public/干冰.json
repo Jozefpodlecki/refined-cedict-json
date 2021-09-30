@@ -1,0 +1,28 @@
+{
+  "simplified": "干冰",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gān bīng",
+          "wade_giles_pinyin": "gan1 bing1"
+        }
+      ],
+      "simplified": "干冰",
+      "traditional": "乾冰",
+      "meanings": [
+        {
+          "value": "dry ice (i.e. frozen CO2)"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "塊",
+          "traditional": "块",
+          "wade_giles_pinyin": "kuai4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

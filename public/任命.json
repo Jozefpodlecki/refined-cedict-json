@@ -1,0 +1,45 @@
+{
+  "simplified": "任命",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " rèn mìng",
+          "wade_giles_pinyin": "ren4 ming4"
+        }
+      ],
+      "simplified": "任命",
+      "simplified_stroke_count": 0,
+      "traditional": "任命",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to appoint"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(job) appointment"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:紙|纸[zhi3]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "紙",
+          "traditional": "纸",
+          "wade_giles_pinyin": "zhi3"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

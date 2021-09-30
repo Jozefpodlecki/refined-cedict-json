@@ -1,0 +1,44 @@
+{
+  "simplified": "饷",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiǎng",
+          "wade_giles_pinyin": "xiang3"
+        }
+      ],
+      "simplified": "饷",
+      "simplified_stroke_count": 9,
+      "traditional": "餉",
+      "traditional_stroke_count": 15,
+      "meanings": [],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiǎng",
+          "wade_giles_pinyin": "xiang3"
+        }
+      ],
+      "simplified": "饷",
+      "simplified_stroke_count": 9,
+      "traditional": "饟",
+      "traditional_stroke_count": 26,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 餉|饷[xiang3]",
+          "simplified": "餉",
+          "traditional": "饷",
+          "wade_giles_pinyin": "xiang3"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

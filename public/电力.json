@@ -1,0 +1,25 @@
+{
+  "simplified": "电力",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diàn lì",
+          "wade_giles_pinyin": "dian4 li4"
+        }
+      ],
+      "simplified": "电力",
+      "traditional": "電力",
+      "meanings": [
+        {
+          "value": "electrical power"
+        },
+        {
+          "value": "electricity"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

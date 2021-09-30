@@ -1,0 +1,37 @@
+{
+  "simplified": "西文",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xī wén",
+          "wade_giles_pinyin": "Xi1 wen2"
+        }
+      ],
+      "simplified": "西文",
+      "simplified_stroke_count": 0,
+      "traditional": "西文",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Spanish"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Western language"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "foreign languages (in Qing times)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

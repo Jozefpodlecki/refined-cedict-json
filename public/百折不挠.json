@@ -1,0 +1,31 @@
+{
+  "simplified": "百折不挠",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǎi zhé bù náo",
+          "wade_giles_pinyin": "bai3 zhe2 bu4 nao2"
+        }
+      ],
+      "simplified": "百折不挠",
+      "traditional": "百折不撓",
+      "meanings": [
+        {
+          "lexical_item": "idiom",
+          "value": "to keep on fighting in spite of all setbacks"
+        },
+        {
+          "value": "to be undaunted by repeated setbacks"
+        },
+        {
+          "value": "to be indomitable"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

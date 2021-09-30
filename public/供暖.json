@@ -1,0 +1,27 @@
+{
+  "simplified": "供暖",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gōng nuǎn",
+          "wade_giles_pinyin": "gong1 nuan3"
+        }
+      ],
+      "simplified": "供暖",
+      "traditional": "供暖",
+      "meanings": [
+        {
+          "value": "to supply heating (in a building)"
+        },
+        {
+          "value": "heating"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

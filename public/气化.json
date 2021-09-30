@@ -1,0 +1,36 @@
+{
+  "simplified": "气化",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qì huà",
+          "wade_giles_pinyin": "qi4 hua4"
+        }
+      ],
+      "simplified": "气化",
+      "traditional": "氣化",
+      "meanings": [
+        {
+          "value": "to vaporize"
+        },
+        {
+          "value": "evaporation"
+        },
+        {
+          "value": "carburetion"
+        },
+        {
+          "value": "氣|气[qi4] transformation in TCM (i.e. transformation of yin yang vital breath)"
+        },
+        {
+          "value": "unvoicing of voiced consonant"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

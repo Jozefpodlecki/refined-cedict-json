@@ -1,0 +1,39 @@
+{
+  "simplified": "点燃",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " diǎn rán",
+          "wade_giles_pinyin": "dian3 ran2"
+        }
+      ],
+      "simplified": "点燃",
+      "simplified_stroke_count": 0,
+      "traditional": "點燃",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to ignite"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to set on fire"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "aflame"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "遗憾",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yí hàn",
+          "wade_giles_pinyin": "yi2 han4"
+        }
+      ],
+      "simplified": "遗憾",
+      "simplified_stroke_count": 0,
+      "traditional": "遺憾",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "regret"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to regret"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to be sorry that"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

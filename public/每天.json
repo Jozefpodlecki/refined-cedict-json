@@ -1,0 +1,27 @@
+{
+  "simplified": "每天",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "měi tiān",
+          "wade_giles_pinyin": "mei3 tian1"
+        }
+      ],
+      "simplified": "每天",
+      "traditional": "每天",
+      "meanings": [
+        {
+          "value": "every day"
+        },
+        {
+          "value": "everyday"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "adverb"
+      ]
+    }
+  ]
+}

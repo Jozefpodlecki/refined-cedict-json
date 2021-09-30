@@ -1,0 +1,37 @@
+{
+  "simplified": "项目",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiàng mù",
+          "wade_giles_pinyin": "xiang4 mu4"
+        }
+      ],
+      "simplified": "项目",
+      "traditional": "項目",
+      "meanings": [
+        {
+          "value": "item"
+        },
+        {
+          "value": "project"
+        },
+        {
+          "value": "(sports) event"
+        },
+        {
+          "value": "CL:個|个[ge4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

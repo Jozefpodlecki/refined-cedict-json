@@ -1,0 +1,31 @@
+{
+  "simplified": "甲醇",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiǎ chún",
+          "wade_giles_pinyin": "jia3 chun2"
+        }
+      ],
+      "simplified": "甲醇",
+      "traditional": "甲醇",
+      "meanings": [
+        {
+          "value": "methyl alcohol"
+        },
+        {
+          "value": "methanol CH3OH"
+        },
+        {
+          "value": "wood alcohol"
+        },
+        {
+          "value": "wood spirit"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "simplified": "登",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dēng",
+          "wade_giles_pinyin": "deng1"
+        }
+      ],
+      "simplified": "登",
+      "simplified_stroke_count": 12,
+      "traditional": "登",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "to scale (a height)"
+        },
+        {
+          "value": "to ascend"
+        },
+        {
+          "value": "to mount"
+        },
+        {
+          "value": "to publish or record"
+        },
+        {
+          "value": "to enter (e.g. in a register)"
+        },
+        {
+          "value": "to press down with the foot"
+        },
+        {
+          "value": "to step or tread on"
+        },
+        {
+          "context": "dialect",
+          "value": "to put on (shoes or trousers)"
+        },
+        {
+          "context": "old",
+          "value": "to be gathered and taken to the threshing ground"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

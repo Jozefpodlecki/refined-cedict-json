@@ -1,0 +1,34 @@
+{
+  "simplified": "加餐",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiā cān",
+          "wade_giles_pinyin": "jia1 can1"
+        }
+      ],
+      "simplified": "加餐",
+      "simplified_stroke_count": null,
+      "traditional": "加餐",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to have an extra meal"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "snack"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "simplified": "咽下",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yàn xià",
+          "wade_giles_pinyin": "yan4 xia4"
+        }
+      ],
+      "simplified": "咽下",
+      "traditional": "嚥下",
+      "meanings": [
+        {
+          "value": "to swallow"
+        },
+        {
+          "value": "to suppress"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

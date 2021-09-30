@@ -1,0 +1,45 @@
+{
+  "simplified": "掸",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dǎn",
+          "wade_giles_pinyin": "dan3"
+        }
+      ],
+      "simplified": "掸",
+      "simplified_stroke_count": 11,
+      "traditional": "撣",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "to brush away"
+        },
+        {
+          "value": "to dust off"
+        },
+        {
+          "value": "brush"
+        },
+        {
+          "value": "duster"
+        },
+        {
+          "value": "CL:把[ba3]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "把",
+          "traditional": "",
+          "wade_giles_pinyin": "ba3"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

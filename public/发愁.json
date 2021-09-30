@@ -1,0 +1,33 @@
+{
+  "simplified": "发愁",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fā chóu",
+          "wade_giles_pinyin": "fa1 chou2"
+        }
+      ],
+      "simplified": "发愁",
+      "traditional": "發愁",
+      "meanings": [
+        {
+          "value": "to worry"
+        },
+        {
+          "value": "to fret"
+        },
+        {
+          "value": "to be anxious"
+        },
+        {
+          "value": "to become sad"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

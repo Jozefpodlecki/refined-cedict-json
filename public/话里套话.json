@@ -1,0 +1,34 @@
+{
+  "simplified": "话里套话",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " huà lǐ tào huà",
+          "wade_giles_pinyin": "hua4 li3 tao4 hua4"
+        }
+      ],
+      "simplified": "话里套话",
+      "simplified_stroke_count": 0,
+      "traditional": "話裡套話",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to use seemingly innocent conversation topics as a pretext to glean information"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to touch upon other matters not central to the topic being discussed"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

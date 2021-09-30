@@ -1,0 +1,48 @@
+{
+  "simplified": "苔",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " tāi",
+          "wade_giles_pinyin": "tai1"
+        }
+      ],
+      "simplified": "苔",
+      "simplified_stroke_count": 9,
+      "traditional": "苔",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "coating (of tongue)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " tái",
+          "wade_giles_pinyin": "tai2"
+        }
+      ],
+      "simplified": "苔",
+      "simplified_stroke_count": 9,
+      "traditional": "苔",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "moss"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

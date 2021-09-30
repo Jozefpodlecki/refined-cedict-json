@@ -1,0 +1,35 @@
+{
+  "simplified": "玩偶",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wán ǒu",
+          "wade_giles_pinyin": "wan2 ou3"
+        }
+      ],
+      "simplified": "玩偶",
+      "traditional": "玩偶",
+      "meanings": [
+        {
+          "value": "toy figurine"
+        },
+        {
+          "value": "action figure"
+        },
+        {
+          "value": "stuffed animal"
+        },
+        {
+          "value": "doll"
+        },
+        {
+          "context": "figuratively",
+          "value": "sb's plaything"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

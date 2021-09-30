@@ -1,0 +1,46 @@
+{
+  "simplified": "转车",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhuǎn chē",
+          "wade_giles_pinyin": "zhuan3 che1"
+        }
+      ],
+      "simplified": "转车",
+      "traditional": "轉車",
+      "meanings": [
+        {
+          "value": "to transfer"
+        },
+        {
+          "value": "to change trains, buses etc"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhuàn chē",
+          "wade_giles_pinyin": "zhuan4 che1"
+        }
+      ],
+      "simplified": "转车",
+      "traditional": "轉車",
+      "meanings": [
+        {
+          "value": "a turntable"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

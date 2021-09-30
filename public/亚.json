@@ -1,0 +1,62 @@
+{
+  "simplified": "亚",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yà",
+          "wade_giles_pinyin": "Ya4"
+        }
+      ],
+      "simplified": "亚",
+      "simplified_stroke_count": 6,
+      "traditional": "亞",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "Asia"
+        },
+        {
+          "value": "Asian"
+        },
+        {
+          "value": "Taiwan pr. [Ya3]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yà",
+          "wade_giles_pinyin": "ya4"
+        }
+      ],
+      "simplified": "亚",
+      "simplified_stroke_count": 6,
+      "traditional": "亞",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "second"
+        },
+        {
+          "value": "next to"
+        },
+        {
+          "value": "inferior"
+        },
+        {
+          "value": "sub-"
+        },
+        {
+          "value": "Taiwan pr. [ya3]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

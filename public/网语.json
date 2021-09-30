@@ -1,0 +1,25 @@
+{
+  "simplified": "网语",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wǎng yǔ",
+          "wade_giles_pinyin": "wang3 yu3"
+        }
+      ],
+      "simplified": "网语",
+      "traditional": "網語",
+      "meanings": [
+        {
+          "value": "netspeak"
+        },
+        {
+          "value": "cyberspeak"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

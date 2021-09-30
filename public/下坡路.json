@@ -1,0 +1,32 @@
+{
+  "simplified": "下坡路",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xià pō lù",
+          "wade_giles_pinyin": "xia4 po1 lu4"
+        }
+      ],
+      "simplified": "下坡路",
+      "simplified_stroke_count": 0,
+      "traditional": "下坡路",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "downhill road"
+        },
+        {
+          "context": "figuratively",
+          "lexical_item": "",
+          "value": "downhill path"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

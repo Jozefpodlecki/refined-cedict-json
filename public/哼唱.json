@@ -1,0 +1,27 @@
+{
+  "simplified": "哼唱",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hēng chàng",
+          "wade_giles_pinyin": "heng1 chang4"
+        }
+      ],
+      "simplified": "哼唱",
+      "traditional": "哼唱",
+      "meanings": [
+        {
+          "value": "to hum"
+        },
+        {
+          "value": "to croon"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

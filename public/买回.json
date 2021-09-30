@@ -1,0 +1,30 @@
+{
+  "simplified": "买回",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mǎi huí",
+          "wade_giles_pinyin": "mai3 hui2"
+        }
+      ],
+      "simplified": "买回",
+      "traditional": "買回",
+      "meanings": [
+        {
+          "value": "to buy back"
+        },
+        {
+          "value": "to redeem"
+        },
+        {
+          "value": "repurchase"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

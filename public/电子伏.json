@@ -1,0 +1,27 @@
+{
+  "simplified": "电子伏",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " diàn zǐ fú",
+          "wade_giles_pinyin": "dian4 zi3 fu2"
+        }
+      ],
+      "simplified": "电子伏",
+      "simplified_stroke_count": 0,
+      "traditional": "電子伏",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "electron volt (unit of energy used in particle physics, approximately 10⁻¹⁹ joules)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

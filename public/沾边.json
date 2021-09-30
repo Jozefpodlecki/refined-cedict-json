@@ -1,0 +1,33 @@
+{
+  "simplified": "沾边",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhān biān",
+          "wade_giles_pinyin": "zhan1 bian1"
+        }
+      ],
+      "simplified": "沾边",
+      "traditional": "沾邊",
+      "meanings": [
+        {
+          "value": "to have a connection with"
+        },
+        {
+          "value": "to be close (to reality)"
+        },
+        {
+          "value": "to be relevant"
+        },
+        {
+          "value": "to have one's hand in"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

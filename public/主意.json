@@ -1,0 +1,37 @@
+{
+  "simplified": "主意",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhǔ yi",
+          "wade_giles_pinyin": "zhu3 yi5"
+        }
+      ],
+      "simplified": "主意",
+      "traditional": "主意",
+      "meanings": [
+        {
+          "value": "plan"
+        },
+        {
+          "value": "idea"
+        },
+        {
+          "value": "decision"
+        },
+        {
+          "value": "Beijing pr. [zhu2 yi5]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

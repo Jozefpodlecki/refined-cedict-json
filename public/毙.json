@@ -1,0 +1,68 @@
+{
+  "simplified": "毙",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bì",
+          "wade_giles_pinyin": "bi4"
+        }
+      ],
+      "simplified": "毙",
+      "simplified_stroke_count": 10,
+      "traditional": "斃",
+      "traditional_stroke_count": 18,
+      "meanings": [
+        {
+          "value": "to die"
+        },
+        {
+          "value": "to shoot dead"
+        },
+        {
+          "value": "to reject"
+        },
+        {
+          "value": "to fall forward"
+        },
+        {
+          "value": "(suffix) to death"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bì",
+          "wade_giles_pinyin": "bi4"
+        }
+      ],
+      "simplified": "毙",
+      "simplified_stroke_count": 10,
+      "traditional": "獘",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "to collapse"
+        },
+        {
+          "context": "variant",
+          "value": "斃|毙[bi4]"
+        },
+        {
+          "context": "variant",
+          "value": "獙[bi4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

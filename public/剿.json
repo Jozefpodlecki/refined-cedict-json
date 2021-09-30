@@ -1,0 +1,90 @@
+{
+  "simplified": "剿",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chāo",
+          "wade_giles_pinyin": "chao1"
+        }
+      ],
+      "simplified": "剿",
+      "simplified_stroke_count": 13,
+      "traditional": "剿",
+      "traditional_stroke_count": 13,
+      "meanings": [],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiǎo",
+          "wade_giles_pinyin": "jiao3"
+        }
+      ],
+      "simplified": "剿",
+      "simplified_stroke_count": 13,
+      "traditional": "剿",
+      "traditional_stroke_count": 13,
+      "meanings": [],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chāo",
+          "wade_giles_pinyin": "chao1"
+        }
+      ],
+      "simplified": "剿",
+      "simplified_stroke_count": 13,
+      "traditional": "勦",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 剿[chao1]",
+          "simplified": "剿",
+          "traditional": "",
+          "wade_giles_pinyin": "chao1"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiǎo",
+          "wade_giles_pinyin": "jiao3"
+        }
+      ],
+      "simplified": "剿",
+      "simplified_stroke_count": 13,
+      "traditional": "勦",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 剿[jiao3]",
+          "simplified": "剿",
+          "traditional": "",
+          "wade_giles_pinyin": "jiao3"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

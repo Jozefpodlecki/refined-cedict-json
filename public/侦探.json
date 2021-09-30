@@ -1,0 +1,27 @@
+{
+  "simplified": "侦探",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhēn tàn",
+          "wade_giles_pinyin": "zhen1 tan4"
+        }
+      ],
+      "simplified": "侦探",
+      "traditional": "偵探",
+      "meanings": [
+        {
+          "value": "detective"
+        },
+        {
+          "value": "to do detective work"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

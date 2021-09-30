@@ -1,0 +1,28 @@
+{
+  "simplified": "货色",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huò sè",
+          "wade_giles_pinyin": "huo4 se4"
+        }
+      ],
+      "simplified": "货色",
+      "traditional": "貨色",
+      "meanings": [
+        {
+          "value": "goods"
+        },
+        {
+          "value": "(derog.) stuff"
+        },
+        {
+          "value": "trash"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

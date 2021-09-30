@@ -1,0 +1,30 @@
+{
+  "simplified": "常态化",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cháng tài huà",
+          "wade_giles_pinyin": "chang2 tai4 hua4"
+        }
+      ],
+      "simplified": "常态化",
+      "traditional": "常態化",
+      "meanings": [
+        {
+          "value": "normalized (statistics)"
+        },
+        {
+          "value": "to normalize (relations etc)"
+        },
+        {
+          "value": "to become the norm"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

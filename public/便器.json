@@ -1,0 +1,32 @@
+{
+  "simplified": "便器",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "biàn qì",
+          "wade_giles_pinyin": "bian4 qi4"
+        }
+      ],
+      "simplified": "便器",
+      "simplified_stroke_count": null,
+      "traditional": "便器",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "toilet"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "urinal"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

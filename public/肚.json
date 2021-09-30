@@ -1,0 +1,44 @@
+{
+  "simplified": "肚",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dǔ",
+          "wade_giles_pinyin": "du3"
+        }
+      ],
+      "simplified": "肚",
+      "simplified_stroke_count": 7,
+      "traditional": "肚",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "value": "tripe"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dù",
+          "wade_giles_pinyin": "du4"
+        }
+      ],
+      "simplified": "肚",
+      "simplified_stroke_count": 7,
+      "traditional": "肚",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "value": "belly"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "国奥会",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " guó aò huì",
+          "wade_giles_pinyin": "guo2 ao4 hui4"
+        }
+      ],
+      "simplified": "国奥会",
+      "simplified_stroke_count": 0,
+      "traditional": "國奧會",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "national Olympic committee"
+        },
+        {
+          "context": "abbreviation",
+          "lexical_item": "",
+          "value": "國際奧委會|国际奥委会 International Olympic committee"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

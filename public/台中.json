@@ -1,0 +1,39 @@
+{
+  "simplified": "台中",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tái zhōng",
+          "wade_giles_pinyin": "Tai2 zhong1"
+        }
+      ],
+      "simplified": "台中",
+      "traditional": "台中",
+      "meanings": [
+        {
+          "value": "Taizhong or Taichung city and county in central Taiwan"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tái zhōng",
+          "wade_giles_pinyin": "Tai2 zhong1"
+        }
+      ],
+      "simplified": "台中",
+      "traditional": "臺中",
+      "meanings": [
+        {
+          "value": "Taizhong or Taichung city in central Taiwan"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

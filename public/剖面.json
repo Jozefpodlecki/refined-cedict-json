@@ -1,0 +1,32 @@
+{
+  "simplified": "剖面",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pōu miàn",
+          "wade_giles_pinyin": "pou1 mian4"
+        }
+      ],
+      "simplified": "剖面",
+      "simplified_stroke_count": null,
+      "traditional": "剖面",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "profile"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "section"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

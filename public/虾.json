@@ -1,0 +1,53 @@
+{
+  "simplified": "虾",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " há",
+          "wade_giles_pinyin": "ha2"
+        }
+      ],
+      "simplified": "虾",
+      "simplified_stroke_count": 9,
+      "traditional": "蝦",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "see 蝦蟆|虾蟆[ha2 ma5]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xiā",
+          "wade_giles_pinyin": "xia1"
+        }
+      ],
+      "simplified": "虾",
+      "simplified_stroke_count": 9,
+      "traditional": "蝦",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "shrimp"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "prawn"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

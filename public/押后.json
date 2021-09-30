@@ -1,0 +1,34 @@
+{
+  "simplified": "押后",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yā hòu",
+          "wade_giles_pinyin": "ya1 hou4"
+        }
+      ],
+      "simplified": "押后",
+      "simplified_stroke_count": 0,
+      "traditional": "押後",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to adjourn"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to defer"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

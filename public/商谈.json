@@ -1,0 +1,30 @@
+{
+  "simplified": "商谈",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shāng tán",
+          "wade_giles_pinyin": "shang1 tan2"
+        }
+      ],
+      "simplified": "商谈",
+      "traditional": "商談",
+      "meanings": [
+        {
+          "value": "to confer"
+        },
+        {
+          "value": "to discuss"
+        },
+        {
+          "value": "to engage in talks"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

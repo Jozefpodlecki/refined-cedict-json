@@ -1,0 +1,27 @@
+{
+  "simplified": "集餐",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jí cān",
+          "wade_giles_pinyin": "ji2 can1"
+        }
+      ],
+      "simplified": "集餐",
+      "traditional": "集餐",
+      "meanings": [
+        {
+          "value": "to eat from a common pot"
+        },
+        {
+          "value": "communal cafeteria"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

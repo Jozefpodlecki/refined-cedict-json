@@ -1,0 +1,74 @@
+{
+  "simplified": "糯",
+  "simplified_stroke_count": 20,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nuò",
+          "wade_giles_pinyin": "nuo4"
+        }
+      ],
+      "simplified": "糯",
+      "simplified_stroke_count": 20,
+      "traditional": "稬",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 糯[nuo4]",
+          "simplified": "糯",
+          "traditional": "",
+          "wade_giles_pinyin": "nuo4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nuò",
+          "wade_giles_pinyin": "nuo4"
+        }
+      ],
+      "simplified": "糯",
+      "simplified_stroke_count": 20,
+      "traditional": "穤",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 糯[nuo4]",
+          "simplified": "糯",
+          "traditional": "",
+          "wade_giles_pinyin": "nuo4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nuò",
+          "wade_giles_pinyin": "nuo4"
+        }
+      ],
+      "simplified": "糯",
+      "simplified_stroke_count": 20,
+      "traditional": "糯",
+      "traditional_stroke_count": 20,
+      "meanings": [
+        {
+          "value": "glutinous rice"
+        },
+        {
+          "value": "sticky rice"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

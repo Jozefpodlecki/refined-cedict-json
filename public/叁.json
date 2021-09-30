@@ -1,0 +1,48 @@
+{
+  "simplified": "叁",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " sān",
+          "wade_giles_pinyin": "san1"
+        }
+      ],
+      "simplified": "叁",
+      "simplified_stroke_count": 8,
+      "traditional": "叁",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "參|叁[san1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " sān",
+          "wade_giles_pinyin": "san1"
+        }
+      ],
+      "simplified": "叁",
+      "simplified_stroke_count": 8,
+      "traditional": "參",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "three (banker's anti-fraud numeral)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

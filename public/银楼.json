@@ -1,0 +1,32 @@
+{
+  "simplified": "银楼",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yín lóu",
+          "wade_giles_pinyin": "yin2 lou2"
+        }
+      ],
+      "simplified": "银楼",
+      "simplified_stroke_count": null,
+      "traditional": "銀樓",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "silverware store"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "jewelry center"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

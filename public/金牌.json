@@ -1,0 +1,28 @@
+{
+  "simplified": "金牌",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jīn pái",
+          "wade_giles_pinyin": "jin1 pai2"
+        }
+      ],
+      "simplified": "金牌",
+      "traditional": "金牌",
+      "meanings": [
+        {
+          "value": "gold medal"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "枚",
+          "traditional": "",
+          "wade_giles_pinyin": "mei2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

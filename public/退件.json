@@ -1,0 +1,39 @@
+{
+  "simplified": "退件",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tuì jiàn",
+          "wade_giles_pinyin": "tui4 jian4"
+        }
+      ],
+      "simplified": "退件",
+      "simplified_stroke_count": null,
+      "traditional": "退件",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to reject (visa application etc)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "(commerce) to return to sender"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "item returned to sender"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

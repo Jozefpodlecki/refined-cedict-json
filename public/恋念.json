@@ -1,0 +1,39 @@
+{
+  "simplified": "恋念",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " liàn niàn",
+          "wade_giles_pinyin": "lian4 nian4"
+        }
+      ],
+      "simplified": "恋念",
+      "simplified_stroke_count": 0,
+      "traditional": "戀念",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to have a sentimental attachment to (a place)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to miss (one's ancestral home etc)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to be nostalgic about"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

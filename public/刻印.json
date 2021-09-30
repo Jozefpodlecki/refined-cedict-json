@@ -1,0 +1,33 @@
+{
+  "simplified": "刻印",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kè yìn",
+          "wade_giles_pinyin": "ke4 yin4"
+        }
+      ],
+      "simplified": "刻印",
+      "traditional": "刻印",
+      "meanings": [
+        {
+          "value": "to engrave a seal"
+        },
+        {
+          "value": "stamp mark"
+        },
+        {
+          "value": "to print with carved type"
+        },
+        {
+          "value": "to leave a deep impression"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "烙印",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lào yìn",
+          "wade_giles_pinyin": "lao4 yin4"
+        }
+      ],
+      "simplified": "烙印",
+      "traditional": "烙印",
+      "meanings": [
+        {
+          "value": "to brand (cattle etc)"
+        },
+        {
+          "value": "brand"
+        },
+        {
+          "context": "figuratively",
+          "value": "to leave a lasting mark"
+        },
+        {
+          "value": "to stigmatize"
+        },
+        {
+          "value": "mark"
+        },
+        {
+          "value": "stamp"
+        },
+        {
+          "value": "stigma"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

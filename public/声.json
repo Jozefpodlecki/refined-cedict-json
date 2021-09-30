@@ -1,0 +1,40 @@
+{
+  "simplified": "声",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shēng",
+          "wade_giles_pinyin": "sheng1"
+        }
+      ],
+      "simplified": "声",
+      "simplified_stroke_count": 7,
+      "traditional": "聲",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "sound"
+        },
+        {
+          "value": "voice"
+        },
+        {
+          "value": "tone"
+        },
+        {
+          "value": "noise"
+        },
+        {
+          "value": "reputation"
+        },
+        {
+          "value": "classifier for sounds"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

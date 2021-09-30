@@ -1,0 +1,48 @@
+{
+  "simplified": "鱄",
+  "simplified_stroke_count": 22,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhuān",
+          "wade_giles_pinyin": "Zhuan1"
+        }
+      ],
+      "simplified": "鱄",
+      "simplified_stroke_count": 22,
+      "traditional": "鱄",
+      "traditional_stroke_count": 22,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "surname Zhuan"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhuān",
+          "wade_giles_pinyin": "zhuan1"
+        }
+      ],
+      "simplified": "鱄",
+      "simplified_stroke_count": 22,
+      "traditional": "鱄",
+      "traditional_stroke_count": 22,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "fish (meaning variable: mackerel, anchovy, fresh-water fish)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

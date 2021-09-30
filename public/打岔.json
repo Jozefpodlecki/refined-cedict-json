@@ -1,0 +1,30 @@
+{
+  "simplified": "打岔",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dǎ chà",
+          "wade_giles_pinyin": "da3 cha4"
+        }
+      ],
+      "simplified": "打岔",
+      "traditional": "打岔",
+      "meanings": [
+        {
+          "value": "interruption"
+        },
+        {
+          "value": "to interrupt (esp. talk)"
+        },
+        {
+          "value": "to change the subject"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

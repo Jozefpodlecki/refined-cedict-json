@@ -1,0 +1,32 @@
+{
+  "simplified": "正体",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhèng tǐ",
+          "wade_giles_pinyin": "zheng4 ti3"
+        }
+      ],
+      "simplified": "正体",
+      "traditional": "正體",
+      "meanings": [
+        {
+          "value": "standard form (of a Chinese character)"
+        },
+        {
+          "value": "plain font style (as opposed to bold or italic)"
+        },
+        {
+          "value": "printed style (as opposed to cursive)"
+        },
+        {
+          "context": "taiwan",
+          "value": "traditional (i.e. unsimplified) characters"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

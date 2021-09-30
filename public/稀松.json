@@ -1,0 +1,67 @@
+{
+  "simplified": "稀松",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xī sōng",
+          "wade_giles_pinyin": "xi1 song1"
+        }
+      ],
+      "simplified": "稀松",
+      "simplified_stroke_count": null,
+      "traditional": "稀鬆",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "poor"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "sloppy"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "unconcerned"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "heedless"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "lax"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "unimportant"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "trivial"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "loose"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "porous"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

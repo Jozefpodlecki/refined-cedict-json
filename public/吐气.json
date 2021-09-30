@@ -1,0 +1,39 @@
+{
+  "simplified": "吐气",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " tǔ qì",
+          "wade_giles_pinyin": "tu3 qi4"
+        }
+      ],
+      "simplified": "吐气",
+      "simplified_stroke_count": 0,
+      "traditional": "吐氣",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to exhale"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to blow off steam"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(phonetics) aspirated"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "simplified": "勾选",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gōu xuǎn",
+          "wade_giles_pinyin": "gou1 xuan3"
+        }
+      ],
+      "simplified": "勾选",
+      "traditional": "勾選",
+      "meanings": [
+        {
+          "value": "to select (one or more options from a list)"
+        },
+        {
+          "value": "to check (a box)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

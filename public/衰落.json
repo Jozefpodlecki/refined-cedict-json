@@ -1,0 +1,36 @@
+{
+  "simplified": "衰落",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shuāi luò",
+          "wade_giles_pinyin": "shuai1 luo4"
+        }
+      ],
+      "simplified": "衰落",
+      "traditional": "衰落",
+      "meanings": [
+        {
+          "value": "to fall"
+        },
+        {
+          "value": "to drop"
+        },
+        {
+          "value": "to decline"
+        },
+        {
+          "value": "to deteriorate"
+        },
+        {
+          "value": "to go downhill"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

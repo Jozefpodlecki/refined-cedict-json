@@ -1,0 +1,44 @@
+{
+  "simplified": "吕",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lǚ",
+          "wade_giles_pinyin": "Lu:3"
+        }
+      ],
+      "simplified": "吕",
+      "simplified_stroke_count": 6,
+      "traditional": "呂",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "value": "surname Lü"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lǚ",
+          "wade_giles_pinyin": "lu:3"
+        }
+      ],
+      "simplified": "吕",
+      "simplified_stroke_count": 6,
+      "traditional": "呂",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "value": "pitchpipe, pitch standard, one of the twelve semitones in the traditional tone system"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

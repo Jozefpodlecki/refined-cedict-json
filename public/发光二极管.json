@@ -1,0 +1,25 @@
+{
+  "simplified": "发光二极管",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fā guāng èr jí guǎn",
+          "wade_giles_pinyin": "fa1 guang1 er4 ji2 guan3"
+        }
+      ],
+      "simplified": "发光二极管",
+      "traditional": "發光二極管",
+      "meanings": [
+        {
+          "value": "light-emitting diode"
+        },
+        {
+          "value": "LED"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

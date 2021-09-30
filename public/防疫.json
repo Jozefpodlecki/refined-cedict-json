@@ -1,0 +1,32 @@
+{
+  "simplified": "防疫",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fáng yì",
+          "wade_giles_pinyin": "fang2 yi4"
+        }
+      ],
+      "simplified": "防疫",
+      "simplified_stroke_count": 0,
+      "traditional": "防疫",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "disease prevention"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "protection against epidemic"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

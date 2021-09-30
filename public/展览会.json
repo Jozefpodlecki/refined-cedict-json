@@ -1,0 +1,31 @@
+{
+  "simplified": "展览会",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhǎn lǎn huì",
+          "wade_giles_pinyin": "zhan3 lan3 hui4"
+        }
+      ],
+      "simplified": "展览会",
+      "traditional": "展覽會",
+      "meanings": [
+        {
+          "value": "exhibition"
+        },
+        {
+          "value": "show"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "扶持",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fú chí",
+          "wade_giles_pinyin": "fu2 chi2"
+        }
+      ],
+      "simplified": "扶持",
+      "simplified_stroke_count": 0,
+      "traditional": "扶持",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to help"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to assist"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

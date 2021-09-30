@@ -1,0 +1,49 @@
+{
+  "simplified": "哼",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " hēng",
+          "wade_giles_pinyin": "heng1"
+        }
+      ],
+      "simplified": "哼",
+      "simplified_stroke_count": 10,
+      "traditional": "哼",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to groan"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to snort"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to hum"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to croon"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "humph!"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

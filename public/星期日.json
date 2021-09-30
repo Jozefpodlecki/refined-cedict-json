@@ -1,0 +1,30 @@
+{
+  "simplified": "星期日",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xīng qī rì",
+          "wade_giles_pinyin": "Xing1 qi1 ri4"
+        }
+      ],
+      "simplified": "星期日",
+      "traditional": "星期日",
+      "meanings": [
+        {
+          "value": "Sunday"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": [
+        "Dates and days of week"
+      ]
+    }
+  ]
+}

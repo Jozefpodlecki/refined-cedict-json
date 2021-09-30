@@ -1,0 +1,29 @@
+{
+  "simplified": "文牍",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wén dú",
+          "wade_giles_pinyin": "wen2 du2"
+        }
+      ],
+      "simplified": "文牍",
+      "traditional": "文牘",
+      "meanings": [
+        {
+          "value": "paperwork"
+        },
+        {
+          "value": "official documents and letters"
+        },
+        {
+          "context": "old",
+          "value": "secretary"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

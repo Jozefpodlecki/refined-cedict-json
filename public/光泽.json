@@ -1,0 +1,42 @@
+{
+  "simplified": "光泽",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guāng zé",
+          "wade_giles_pinyin": "Guang1 ze2"
+        }
+      ],
+      "simplified": "光泽",
+      "traditional": "光澤",
+      "meanings": [
+        {
+          "value": "Guangze county in Nanping 南平[Nan2 ping2] Fujian"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guāng zé",
+          "wade_giles_pinyin": "guang1 ze2"
+        }
+      ],
+      "simplified": "光泽",
+      "traditional": "光澤",
+      "meanings": [
+        {
+          "value": "luster"
+        },
+        {
+          "value": "gloss"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

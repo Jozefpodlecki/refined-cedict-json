@@ -1,0 +1,25 @@
+{
+  "simplified": "四声",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sì shēng",
+          "wade_giles_pinyin": "si4 sheng1"
+        }
+      ],
+      "simplified": "四声",
+      "traditional": "四聲",
+      "meanings": [
+        {
+          "value": "the four tones of Middle Chinese: level tone 平聲|平声, rising tone 上聲|上声, departing tone 去聲|去声 and entering tone 入聲|入声"
+        },
+        {
+          "value": "the four tones of Modern Standard Mandarin"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

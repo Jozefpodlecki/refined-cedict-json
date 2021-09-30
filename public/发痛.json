@@ -1,0 +1,39 @@
+{
+  "simplified": "发痛",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fā tòng",
+          "wade_giles_pinyin": "fa1 tong4"
+        }
+      ],
+      "simplified": "发痛",
+      "simplified_stroke_count": null,
+      "traditional": "發痛",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to ache"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to be sore"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to feel painful"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "违令",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " wéi lìng",
+          "wade_giles_pinyin": "wei2 ling4"
+        }
+      ],
+      "simplified": "违令",
+      "simplified_stroke_count": 0,
+      "traditional": "違令",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to disobey"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to go against orders"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

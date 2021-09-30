@@ -1,0 +1,30 @@
+{
+  "simplified": "酗酒",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xù jiǔ",
+          "wade_giles_pinyin": "xu4 jiu3"
+        }
+      ],
+      "simplified": "酗酒",
+      "traditional": "酗酒",
+      "meanings": [
+        {
+          "value": "heavy drinking"
+        },
+        {
+          "value": "to get drunk"
+        },
+        {
+          "value": "to drink to excess"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

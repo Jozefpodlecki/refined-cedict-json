@@ -1,0 +1,52 @@
+{
+  "simplified": "覐",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiào",
+          "wade_giles_pinyin": "jiao4"
+        }
+      ],
+      "simplified": "覐",
+      "simplified_stroke_count": 11,
+      "traditional": "覐",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 覺|觉[jiao4]",
+          "simplified": "覺",
+          "traditional": "觉",
+          "wade_giles_pinyin": "jiao4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jué",
+          "wade_giles_pinyin": "jue2"
+        }
+      ],
+      "simplified": "覐",
+      "simplified_stroke_count": 11,
+      "traditional": "覐",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 覺|觉[jue2]",
+          "simplified": "覺",
+          "traditional": "觉",
+          "wade_giles_pinyin": "jue2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "simplified": "警惕",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jǐng tì",
+          "wade_giles_pinyin": "jing3 ti4"
+        }
+      ],
+      "simplified": "警惕",
+      "traditional": "警惕",
+      "meanings": [
+        {
+          "value": "to be on the alert"
+        },
+        {
+          "value": "vigilant"
+        },
+        {
+          "value": "alert"
+        },
+        {
+          "value": "on guard"
+        },
+        {
+          "value": "to warn"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

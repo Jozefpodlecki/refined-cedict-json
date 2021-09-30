@@ -1,0 +1,43 @@
+{
+  "simplified": "体系",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " tǐ xì",
+          "wade_giles_pinyin": "ti3 xi4"
+        }
+      ],
+      "simplified": "体系",
+      "simplified_stroke_count": 0,
+      "traditional": "體系",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "system"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "setup"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:個|个[ge4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

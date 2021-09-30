@@ -1,0 +1,34 @@
+{
+  "simplified": "洋",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yáng",
+          "wade_giles_pinyin": "yang2"
+        }
+      ],
+      "simplified": "洋",
+      "simplified_stroke_count": 9,
+      "traditional": "洋",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "ocean"
+        },
+        {
+          "value": "vast"
+        },
+        {
+          "value": "foreign"
+        },
+        {
+          "value": "silver dollar or coin"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

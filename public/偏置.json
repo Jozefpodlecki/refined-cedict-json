@@ -1,0 +1,28 @@
+{
+  "simplified": "偏置",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "piān zhì",
+          "wade_giles_pinyin": "pian1 zhi4"
+        }
+      ],
+      "simplified": "偏置",
+      "traditional": "偏置",
+      "meanings": [
+        {
+          "value": "offset"
+        },
+        {
+          "value": "biasing (electronics)"
+        },
+        {
+          "value": "bias voltage"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

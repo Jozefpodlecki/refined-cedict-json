@@ -1,0 +1,31 @@
+{
+  "simplified": "否则",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fǒu zé",
+          "wade_giles_pinyin": "fou3 ze2"
+        }
+      ],
+      "simplified": "否则",
+      "traditional": "否則",
+      "meanings": [
+        {
+          "value": "if not"
+        },
+        {
+          "value": "otherwise"
+        },
+        {
+          "value": "else"
+        },
+        {
+          "value": "or else"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

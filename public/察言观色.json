@@ -1,0 +1,34 @@
+{
+  "simplified": "察言观色",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chá yán guān sè",
+          "wade_giles_pinyin": "cha2 yan2 guan1 se4"
+        }
+      ],
+      "simplified": "察言观色",
+      "simplified_stroke_count": null,
+      "traditional": "察言觀色",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": "idiom",
+          "value": "to weigh up sb's words and observe their facial expression"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to discern what sb thinks from his body language"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

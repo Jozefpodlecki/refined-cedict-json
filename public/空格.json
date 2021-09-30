@@ -1,0 +1,31 @@
+{
+  "simplified": "空格",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kòng gé",
+          "wade_giles_pinyin": "kong4 ge2"
+        }
+      ],
+      "simplified": "空格",
+      "traditional": "空格",
+      "meanings": [
+        {
+          "value": "blank"
+        },
+        {
+          "value": "blank space on a form"
+        },
+        {
+          "value": "space"
+        },
+        {
+          "value": "囗 (indicating missing or illegible character)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

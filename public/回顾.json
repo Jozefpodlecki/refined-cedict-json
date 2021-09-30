@@ -1,0 +1,34 @@
+{
+  "simplified": "回顾",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " huí gù",
+          "wade_giles_pinyin": "hui2 gu4"
+        }
+      ],
+      "simplified": "回顾",
+      "simplified_stroke_count": 0,
+      "traditional": "回顧",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to look back"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to review"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

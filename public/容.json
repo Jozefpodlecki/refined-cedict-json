@@ -1,0 +1,82 @@
+{
+  "simplified": "容",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " róng",
+          "wade_giles_pinyin": "Rong2"
+        }
+      ],
+      "simplified": "容",
+      "simplified_stroke_count": 10,
+      "traditional": "容",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "surname Rong"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " róng",
+          "wade_giles_pinyin": "rong2"
+        }
+      ],
+      "simplified": "容",
+      "simplified_stroke_count": 10,
+      "traditional": "容",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to hold"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to contain"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to allow"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to tolerate"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "appearance"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "look"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "countenance"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

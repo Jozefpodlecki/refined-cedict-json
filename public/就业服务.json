@@ -1,0 +1,28 @@
+{
+  "simplified": "就业服务",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiù yè fú wù",
+          "wade_giles_pinyin": "jiu4 ye4 fu2 wu4"
+        }
+      ],
+      "simplified": "就业服务",
+      "traditional": "就業服務",
+      "meanings": [
+        {
+          "value": "employment service"
+        },
+        {
+          "value": "job placement service"
+        },
+        {
+          "value": "jobseeker assistance"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

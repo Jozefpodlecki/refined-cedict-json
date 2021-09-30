@@ -1,0 +1,34 @@
+{
+  "simplified": "手性",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shǒu xìng",
+          "wade_giles_pinyin": "shou3 xing4"
+        }
+      ],
+      "simplified": "手性",
+      "simplified_stroke_count": 0,
+      "traditional": "手性",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "chiral"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "chirality (chemistry)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "chemical elements"
+      ]
+    }
+  ]
+}

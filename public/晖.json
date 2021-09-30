@@ -1,0 +1,37 @@
+{
+  "simplified": "晖",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huī",
+          "wade_giles_pinyin": "hui1"
+        }
+      ],
+      "simplified": "晖",
+      "simplified_stroke_count": 10,
+      "traditional": "暉",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "sunshine"
+        },
+        {
+          "value": "to shine upon"
+        },
+        {
+          "context": "variant",
+          "value": "variant of 輝|辉[hui1]",
+          "simplified": "輝",
+          "traditional": "辉",
+          "wade_giles_pinyin": "hui1"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

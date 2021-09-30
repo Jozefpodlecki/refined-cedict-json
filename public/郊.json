@@ -1,0 +1,47 @@
+{
+  "simplified": "郊",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiāo",
+          "wade_giles_pinyin": "Jiao1"
+        }
+      ],
+      "simplified": "郊",
+      "simplified_stroke_count": 9,
+      "traditional": "郊",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "surname Jiao"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiāo",
+          "wade_giles_pinyin": "jiao1"
+        }
+      ],
+      "simplified": "郊",
+      "simplified_stroke_count": 9,
+      "traditional": "郊",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "suburbs"
+        },
+        {
+          "value": "outskirts"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

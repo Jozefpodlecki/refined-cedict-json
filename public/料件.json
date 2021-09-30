@@ -1,0 +1,32 @@
+{
+  "simplified": "料件",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "liào jiàn",
+          "wade_giles_pinyin": "liao4 jian4"
+        }
+      ],
+      "simplified": "料件",
+      "simplified_stroke_count": null,
+      "traditional": "料件",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "materials and parts"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "components"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "simplified": "世",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shì",
+          "wade_giles_pinyin": "Shi4"
+        }
+      ],
+      "simplified": "世",
+      "simplified_stroke_count": 5,
+      "traditional": "世",
+      "traditional_stroke_count": 5,
+      "meanings": [
+        {
+          "value": "surname Shi"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shì",
+          "wade_giles_pinyin": "shi4"
+        }
+      ],
+      "simplified": "世",
+      "simplified_stroke_count": 5,
+      "traditional": "世",
+      "traditional_stroke_count": 5,
+      "meanings": [
+        {
+          "value": "life"
+        },
+        {
+          "value": "age"
+        },
+        {
+          "value": "generation"
+        },
+        {
+          "value": "era"
+        },
+        {
+          "value": "world"
+        },
+        {
+          "value": "lifetime"
+        },
+        {
+          "value": "epoch"
+        },
+        {
+          "value": "descendant"
+        },
+        {
+          "value": "noble"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

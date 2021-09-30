@@ -1,0 +1,43 @@
+{
+  "simplified": "硙硙",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ái ái",
+          "wade_giles_pinyin": "ai2 ai2"
+        }
+      ],
+      "simplified": "硙硙",
+      "traditional": "磑磑",
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 皚皚|皑皑[ai2 ai2]",
+          "simplified": "皚",
+          "traditional": "皚|皑皑",
+          "wade_giles_pinyin": "ai2 ai2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wéi wéi",
+          "wade_giles_pinyin": "wei2 wei2"
+        }
+      ],
+      "simplified": "硙硙",
+      "traditional": "磑磑",
+      "meanings": [
+        {
+          "value": "of high and stable appearance"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "受热",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shòu rè",
+          "wade_giles_pinyin": "shou4 re4"
+        }
+      ],
+      "simplified": "受热",
+      "simplified_stroke_count": null,
+      "traditional": "受熱",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "heated"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "sunstroke"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

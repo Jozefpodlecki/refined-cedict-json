@@ -1,0 +1,44 @@
+{
+  "simplified": "讽",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fěng",
+          "wade_giles_pinyin": "feng3"
+        }
+      ],
+      "simplified": "讽",
+      "simplified_stroke_count": 6,
+      "traditional": "諷",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to satirize"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to mock"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to recite"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Taiwan pr. [feng4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

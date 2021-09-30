@@ -1,0 +1,34 @@
+{
+  "simplified": "招收",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhāo shōu",
+          "wade_giles_pinyin": "zhao1 shou1"
+        }
+      ],
+      "simplified": "招收",
+      "simplified_stroke_count": 0,
+      "traditional": "招收",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to hire"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to recruit"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

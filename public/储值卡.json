@@ -1,0 +1,25 @@
+{
+  "simplified": "储值卡",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chǔ zhí kǎ",
+          "wade_giles_pinyin": "chu3 zhi2 ka3"
+        }
+      ],
+      "simplified": "储值卡",
+      "traditional": "儲值卡",
+      "meanings": [
+        {
+          "value": "stored-value card"
+        },
+        {
+          "value": "prepaid card (telephone, transport etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

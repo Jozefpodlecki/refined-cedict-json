@@ -1,0 +1,39 @@
+{
+  "simplified": "从事",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cóng shì",
+          "wade_giles_pinyin": "cong2 shi4"
+        }
+      ],
+      "simplified": "从事",
+      "traditional": "從事",
+      "meanings": [
+        {
+          "value": "to go for"
+        },
+        {
+          "value": "to engage in"
+        },
+        {
+          "value": "to undertake"
+        },
+        {
+          "value": "to deal with"
+        },
+        {
+          "value": "to handle"
+        },
+        {
+          "value": "to do"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

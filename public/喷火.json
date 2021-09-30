@@ -1,0 +1,39 @@
+{
+  "simplified": "喷火",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " pēn huǒ",
+          "wade_giles_pinyin": "pen1 huo3"
+        }
+      ],
+      "simplified": "喷火",
+      "simplified_stroke_count": 0,
+      "traditional": "噴火",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to shoot flames"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to erupt (of volcanoes)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "flaming (of flowers)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "simplified": "生辰八字",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shēng chén bā zì",
+          "wade_giles_pinyin": "sheng1 chen2 ba1 zi4"
+        }
+      ],
+      "simplified": "生辰八字",
+      "simplified_stroke_count": 0,
+      "traditional": "生辰八字",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "one's birth data for astrological purposes, combined from year, month, day, hour, heavenly trunk and earthly branch"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

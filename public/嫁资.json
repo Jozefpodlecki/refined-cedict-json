@@ -1,0 +1,33 @@
+{
+  "simplified": "嫁资",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jià zī",
+          "wade_giles_pinyin": "jia4 zi1"
+        }
+      ],
+      "simplified": "嫁资",
+      "traditional": "嫁資",
+      "meanings": [
+        {
+          "value": "dowry"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "份",
+          "traditional": "",
+          "wade_giles_pinyin": "fen4"
+        },
+        {
+          "simplified": "筆",
+          "traditional": "笔",
+          "wade_giles_pinyin": "bi3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

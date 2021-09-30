@@ -1,0 +1,44 @@
+{
+  "simplified": "敬",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jìng",
+          "wade_giles_pinyin": "jing4"
+        }
+      ],
+      "simplified": "敬",
+      "simplified_stroke_count": 13,
+      "traditional": "敬",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to respect"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to venerate"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to salute"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to offer"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

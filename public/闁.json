@@ -1,0 +1,34 @@
+{
+  "simplified": "闁",
+  "simplified_stroke_count": 16,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bāo",
+          "wade_giles_pinyin": "bao1"
+        }
+      ],
+      "simplified": "闁",
+      "simplified_stroke_count": 16,
+      "traditional": "闁",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 褒[bao1]",
+          "simplified": "褒",
+          "traditional": "",
+          "wade_giles_pinyin": "bao1"
+        },
+        {
+          "value": "to praise"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "官府",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guān fǔ",
+          "wade_giles_pinyin": "guan1 fu3"
+        }
+      ],
+      "simplified": "官府",
+      "simplified_stroke_count": null,
+      "traditional": "官府",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "authorities"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "feudal official"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

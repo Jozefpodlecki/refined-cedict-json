@@ -1,0 +1,34 @@
+{
+  "simplified": "宰杀",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zǎi shā",
+          "wade_giles_pinyin": "zai3 sha1"
+        }
+      ],
+      "simplified": "宰杀",
+      "simplified_stroke_count": 0,
+      "traditional": "宰殺",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to slaughter (an animal for meat)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to butcher"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

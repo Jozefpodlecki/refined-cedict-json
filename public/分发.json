@@ -1,0 +1,30 @@
+{
+  "simplified": "分发",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fēn fā",
+          "wade_giles_pinyin": "fen1 fa1"
+        }
+      ],
+      "simplified": "分发",
+      "traditional": "分發",
+      "meanings": [
+        {
+          "value": "to distribute"
+        },
+        {
+          "value": "distribution"
+        },
+        {
+          "value": "to assign (sb) to a job"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

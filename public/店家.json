@@ -1,0 +1,28 @@
+{
+  "simplified": "店家",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diàn jiā",
+          "wade_giles_pinyin": "dian4 jia1"
+        }
+      ],
+      "simplified": "店家",
+      "traditional": "店家",
+      "meanings": [
+        {
+          "value": "proprietor of a shop or restaurant"
+        },
+        {
+          "value": "landlord"
+        },
+        {
+          "value": "shop"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

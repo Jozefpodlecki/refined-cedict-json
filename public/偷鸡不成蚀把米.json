@@ -1,0 +1,32 @@
+{
+  "simplified": "偷鸡不成蚀把米",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tōu jī bù chéng shí bǎ mǐ",
+          "wade_giles_pinyin": "tou1 ji1 bu4 cheng2 shi2 ba3 mi3"
+        }
+      ],
+      "simplified": "偷鸡不成蚀把米",
+      "traditional": "偷雞不成蝕把米",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "to try to steal a chicken only to end up losing the rice used to lure it"
+        },
+        {
+          "value": "fig. to try to gain an advantage only to end up worse off"
+        },
+        {
+          "value": "to go for wool and come back shorn"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

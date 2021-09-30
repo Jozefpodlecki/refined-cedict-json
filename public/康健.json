@@ -1,0 +1,32 @@
+{
+  "simplified": "康健",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kāng jiàn",
+          "wade_giles_pinyin": "kang1 jian4"
+        }
+      ],
+      "simplified": "康健",
+      "simplified_stroke_count": null,
+      "traditional": "康健",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "healthy"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "fit"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

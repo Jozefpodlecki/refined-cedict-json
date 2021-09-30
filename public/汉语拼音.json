@@ -1,0 +1,22 @@
+{
+  "simplified": "汉语拼音",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hàn yǔ pīn yīn",
+          "wade_giles_pinyin": "Han4 yu3 Pin1 yin1"
+        }
+      ],
+      "simplified": "汉语拼音",
+      "traditional": "漢語拼音",
+      "meanings": [
+        {
+          "value": "Hanyu Pinyin, the romanization system used in the PRC since the 1960s"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

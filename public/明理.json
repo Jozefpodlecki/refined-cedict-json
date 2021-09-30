@@ -1,0 +1,33 @@
+{
+  "simplified": "明理",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "míng lǐ",
+          "wade_giles_pinyin": "ming2 li3"
+        }
+      ],
+      "simplified": "明理",
+      "traditional": "明理",
+      "meanings": [
+        {
+          "value": "sensible"
+        },
+        {
+          "value": "reasonable"
+        },
+        {
+          "value": "an obvious reason, truth or fact"
+        },
+        {
+          "value": "to understand the reason or reasoning"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

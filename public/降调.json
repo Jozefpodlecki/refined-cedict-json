@@ -1,0 +1,39 @@
+{
+  "simplified": "降调",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jiàng diào",
+          "wade_giles_pinyin": "jiang4 diao4"
+        }
+      ],
+      "simplified": "降调",
+      "simplified_stroke_count": 0,
+      "traditional": "降調",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "falling intonation (linguistics)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to lower the key of a tune"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to demote"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

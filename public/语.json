@@ -1,0 +1,54 @@
+{
+  "simplified": "语",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǔ",
+          "wade_giles_pinyin": "yu3"
+        }
+      ],
+      "simplified": "语",
+      "simplified_stroke_count": 0,
+      "traditional": "語",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "dialect"
+        },
+        {
+          "value": "language"
+        },
+        {
+          "value": "speech"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yù",
+          "wade_giles_pinyin": "yu4"
+        }
+      ],
+      "simplified": "语",
+      "simplified_stroke_count": 0,
+      "traditional": "語",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "to tell to"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

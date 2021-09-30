@@ -1,0 +1,51 @@
+{
+  "simplified": "活路",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huó lù",
+          "wade_giles_pinyin": "huo2 lu4"
+        }
+      ],
+      "simplified": "活路",
+      "traditional": "活路",
+      "meanings": [
+        {
+          "value": "through road"
+        },
+        {
+          "value": "way out"
+        },
+        {
+          "value": "way to survive"
+        },
+        {
+          "value": "means of subsistence"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huó lu",
+          "wade_giles_pinyin": "huo2 lu5"
+        }
+      ],
+      "simplified": "活路",
+      "traditional": "活路",
+      "meanings": [
+        {
+          "value": "labor"
+        },
+        {
+          "value": "physical work"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

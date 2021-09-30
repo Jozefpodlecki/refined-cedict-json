@@ -1,0 +1,29 @@
+{
+  "simplified": "五笔字形",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wǔ bǐ zì xíng",
+          "wade_giles_pinyin": "wu3 bi3 zi4 xing2"
+        }
+      ],
+      "simplified": "五笔字形",
+      "traditional": "五筆字形",
+      "meanings": [
+        {
+          "value": "Chinese character input method for entering characters by numbered strokes"
+        },
+        {
+          "context": "variant",
+          "value": "variant of 五筆字型|五笔字型[wu3 bi3 zi4 xing2]",
+          "simplified": "五",
+          "traditional": "筆字型|五笔字型",
+          "wade_giles_pinyin": "wu3 bi3 zi4 xing2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "simplified": "安慰",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " ān weì",
+          "wade_giles_pinyin": "an1 wei4"
+        }
+      ],
+      "simplified": "安慰",
+      "simplified_stroke_count": 0,
+      "traditional": "安慰",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to comfort"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to console"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:個|个[ge4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

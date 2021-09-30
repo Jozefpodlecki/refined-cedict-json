@@ -1,0 +1,74 @@
+{
+  "simplified": "谷",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gǔ",
+          "wade_giles_pinyin": "gu3"
+        }
+      ],
+      "simplified": "谷",
+      "simplified_stroke_count": 7,
+      "traditional": "穀",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "grain"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "corn"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gǔ",
+          "wade_giles_pinyin": "Gu3"
+        }
+      ],
+      "simplified": "谷",
+      "simplified_stroke_count": 7,
+      "traditional": "谷",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "surname Gu"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gǔ",
+          "wade_giles_pinyin": "gu3"
+        }
+      ],
+      "simplified": "谷",
+      "simplified_stroke_count": 7,
+      "traditional": "谷",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "valley"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

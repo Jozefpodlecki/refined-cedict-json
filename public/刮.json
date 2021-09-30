@@ -1,0 +1,60 @@
+{
+  "simplified": "刮",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guā",
+          "wade_giles_pinyin": "gua1"
+        }
+      ],
+      "simplified": "刮",
+      "simplified_stroke_count": 8,
+      "traditional": "刮",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "to scrape"
+        },
+        {
+          "value": "to blow"
+        },
+        {
+          "value": "to shave"
+        },
+        {
+          "value": "to plunder"
+        },
+        {
+          "value": "to extort"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guā",
+          "wade_giles_pinyin": "gua1"
+        }
+      ],
+      "simplified": "刮",
+      "simplified_stroke_count": 8,
+      "traditional": "颳",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "to blow (of the wind)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

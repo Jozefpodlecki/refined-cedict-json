@@ -1,0 +1,66 @@
+{
+  "simplified": "火",
+  "simplified_stroke_count": 4,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huǒ",
+          "wade_giles_pinyin": "Huo3"
+        }
+      ],
+      "simplified": "火",
+      "simplified_stroke_count": 4,
+      "traditional": "火",
+      "traditional_stroke_count": 4,
+      "meanings": [
+        {
+          "value": "surname Huo"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huǒ",
+          "wade_giles_pinyin": "huo3"
+        }
+      ],
+      "simplified": "火",
+      "simplified_stroke_count": 4,
+      "traditional": "火",
+      "traditional_stroke_count": 4,
+      "meanings": [
+        {
+          "value": "fire"
+        },
+        {
+          "value": "urgent"
+        },
+        {
+          "value": "ammunition"
+        },
+        {
+          "value": "fiery or flaming"
+        },
+        {
+          "value": "internal heat (Chinese medicine)"
+        },
+        {
+          "value": "hot (popular)"
+        },
+        {
+          "context": "old",
+          "value": "classifier for military units"
+        },
+        {
+          "value": "Kangxi radical 86"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

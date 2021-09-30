@@ -1,0 +1,45 @@
+{
+  "simplified": "告",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gào",
+          "wade_giles_pinyin": "gao4"
+        }
+      ],
+      "simplified": "告",
+      "simplified_stroke_count": 7,
+      "traditional": "告",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "value": "to say"
+        },
+        {
+          "value": "to tell"
+        },
+        {
+          "value": "to announce"
+        },
+        {
+          "value": "to report"
+        },
+        {
+          "value": "to denounce"
+        },
+        {
+          "value": "to file a lawsuit"
+        },
+        {
+          "value": "to sue"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

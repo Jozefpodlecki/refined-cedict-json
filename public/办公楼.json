@@ -1,0 +1,33 @@
+{
+  "simplified": "办公楼",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bàn gōng lóu",
+          "wade_giles_pinyin": "ban4 gong1 lou2"
+        }
+      ],
+      "simplified": "办公楼",
+      "traditional": "辦公樓",
+      "meanings": [
+        {
+          "value": "office building"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "座",
+          "traditional": "",
+          "wade_giles_pinyin": "zuo4"
+        },
+        {
+          "simplified": "棟",
+          "traditional": "栋",
+          "wade_giles_pinyin": "dong4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

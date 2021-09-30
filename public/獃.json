@@ -1,0 +1,41 @@
+{
+  "simplified": "獃",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dāi",
+          "wade_giles_pinyin": "dai1"
+        },
+        {
+          "pinyin": " ái",
+          "wade_giles_pinyin": "ai2"
+        }
+      ],
+      "simplified": "獃",
+      "simplified_stroke_count": 13,
+      "traditional": "獃",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "呆[dai1]"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "foolish"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "also pr. [ai2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

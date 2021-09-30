@@ -1,0 +1,30 @@
+{
+  "simplified": "平地",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "píng dì",
+          "wade_giles_pinyin": "ping2 di4"
+        }
+      ],
+      "simplified": "平地",
+      "traditional": "平地",
+      "meanings": [
+        {
+          "value": "to level the land"
+        },
+        {
+          "value": "level ground"
+        },
+        {
+          "value": "plain"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

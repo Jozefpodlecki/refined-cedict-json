@@ -1,0 +1,58 @@
+{
+  "simplified": "啮",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "niè",
+          "wade_giles_pinyin": "nie4"
+        }
+      ],
+      "simplified": "啮",
+      "simplified_stroke_count": 11,
+      "traditional": "嚙",
+      "traditional_stroke_count": 18,
+      "meanings": [
+        {
+          "value": "to gnaw"
+        },
+        {
+          "value": "to erode"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "niè",
+          "wade_giles_pinyin": "nie4"
+        }
+      ],
+      "simplified": "啮",
+      "simplified_stroke_count": 11,
+      "traditional": "囓",
+      "traditional_stroke_count": 24,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 嚙|啮[nie4]",
+          "simplified": "嚙",
+          "traditional": "啮",
+          "wade_giles_pinyin": "nie4"
+        },
+        {
+          "value": "to gnaw"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "吃喝拉撒睡",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chī hē lā sā shuì",
+          "wade_giles_pinyin": "chi1 he1 la1 sa1 shui4"
+        }
+      ],
+      "simplified": "吃喝拉撒睡",
+      "simplified_stroke_count": 0,
+      "traditional": "吃喝拉撒睡",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to eat, drink, shit, piss, and sleep"
+        },
+        {
+          "context": "figuratively",
+          "lexical_item": "",
+          "value": "the ordinary daily routine"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "simplified": "普通话",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pǔ tōng huà",
+          "wade_giles_pinyin": "pu3 tong1 hua4"
+        }
+      ],
+      "simplified": "普通话",
+      "traditional": "普通話",
+      "meanings": [
+        {
+          "value": "Mandarin (common language)"
+        },
+        {
+          "value": "Putonghua (common speech of the Chinese language)"
+        },
+        {
+          "value": "ordinary speech"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

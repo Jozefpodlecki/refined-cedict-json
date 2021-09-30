@@ -1,0 +1,32 @@
+{
+  "simplified": "国史",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " guó shǐ",
+          "wade_giles_pinyin": "guo2 shi3"
+        }
+      ],
+      "simplified": "国史",
+      "simplified_stroke_count": 0,
+      "traditional": "國史",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "national history"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "dynastic history"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

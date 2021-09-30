@@ -1,0 +1,26 @@
+{
+  "simplified": "电子盘",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diàn zǐ pán",
+          "wade_giles_pinyin": "dian4 zi3 pan2"
+        }
+      ],
+      "simplified": "电子盘",
+      "traditional": "電子盤",
+      "meanings": [
+        {
+          "value": "USB flash drive"
+        },
+        {
+          "context": "see also",
+          "value": "閃存盤|闪存盘[shan3 cun2 pan2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

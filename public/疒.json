@@ -1,0 +1,46 @@
+{
+  "simplified": "疒",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nè",
+          "wade_giles_pinyin": "ne4"
+        },
+        {
+          "pinyin": "chuáng",
+          "wade_giles_pinyin": "chuang2"
+        }
+      ],
+      "simplified": "疒",
+      "simplified_stroke_count": 5,
+      "traditional": "疒",
+      "traditional_stroke_count": 5,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "sick"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "sickness"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "Kang Xi radical 104"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "also pr. [chuang2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

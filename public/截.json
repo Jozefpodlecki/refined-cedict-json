@@ -1,0 +1,42 @@
+{
+  "simplified": "截",
+  "simplified_stroke_count": 14,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jié",
+          "wade_giles_pinyin": "jie2"
+        }
+      ],
+      "simplified": "截",
+      "simplified_stroke_count": 14,
+      "traditional": "截",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "to cut off (a length)"
+        },
+        {
+          "value": "to stop"
+        },
+        {
+          "value": "to intercept"
+        },
+        {
+          "value": "section"
+        },
+        {
+          "value": "chunk"
+        },
+        {
+          "value": "length"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

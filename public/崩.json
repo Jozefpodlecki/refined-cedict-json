@@ -1,0 +1,36 @@
+{
+  "simplified": "崩",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bēng",
+          "wade_giles_pinyin": "beng1"
+        }
+      ],
+      "simplified": "崩",
+      "simplified_stroke_count": 11,
+      "traditional": "崩",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "to collapse"
+        },
+        {
+          "value": "to fall into ruins"
+        },
+        {
+          "value": "death of king or emperor"
+        },
+        {
+          "value": "demise"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

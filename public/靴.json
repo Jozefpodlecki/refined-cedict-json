@@ -1,0 +1,48 @@
+{
+  "simplified": "靴",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xuē",
+          "wade_giles_pinyin": "xue1"
+        }
+      ],
+      "simplified": "靴",
+      "simplified_stroke_count": 13,
+      "traditional": "靴",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "boots"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xuē",
+          "wade_giles_pinyin": "xue1"
+        }
+      ],
+      "simplified": "靴",
+      "simplified_stroke_count": 13,
+      "traditional": "鞾",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 靴[xue1]",
+          "simplified": "靴",
+          "traditional": "",
+          "wade_giles_pinyin": "xue1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

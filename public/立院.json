@@ -1,0 +1,30 @@
+{
+  "simplified": "立院",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lì yuàn",
+          "wade_giles_pinyin": "Li4 yuan4"
+        }
+      ],
+      "simplified": "立院",
+      "traditional": "立院",
+      "meanings": [
+        {
+          "context": "taiwan",
+          "value": "Legislative Yuan"
+        },
+        {
+          "context": "abbreviation",
+          "value": "立法院[Li4 fa3 yuan4]",
+          "simplified": "立",
+          "traditional": "法院",
+          "wade_giles_pinyin": "Li4 fa3 yuan4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

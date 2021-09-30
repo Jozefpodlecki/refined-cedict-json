@@ -1,0 +1,98 @@
+{
+  "simplified": "念",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " niàn",
+          "wade_giles_pinyin": "nian4"
+        }
+      ],
+      "simplified": "念",
+      "simplified_stroke_count": 8,
+      "traditional": "唸",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "念[nian4], to read aloud"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " niàn",
+          "wade_giles_pinyin": "nian4"
+        }
+      ],
+      "simplified": "念",
+      "simplified_stroke_count": 8,
+      "traditional": "念",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to read"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to study (a subject)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to attend (a school)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to read aloud"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to give (sb) a tongue-lashing (CL:頓|顿[dun4])"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to miss (sb)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "idea"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "remembrance"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "twenty (banker's anti-fraud numeral corresponding to 廿[nian4])"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "t",
+          "traditional": "o give (sb) a tongue-lashing (頓|顿",
+          "wade_giles_pinyin": "dun4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

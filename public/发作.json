@@ -1,0 +1,34 @@
+{
+  "simplified": "发作",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fā zuò",
+          "wade_giles_pinyin": "fa1 zuo4"
+        }
+      ],
+      "simplified": "发作",
+      "simplified_stroke_count": 0,
+      "traditional": "發作",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to flare up"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to break out"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

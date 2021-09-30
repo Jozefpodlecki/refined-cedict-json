@@ -1,0 +1,44 @@
+{
+  "simplified": "左右逢源",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zuǒ yòu féng yuán",
+          "wade_giles_pinyin": "zuo3 you4 feng2 yuan2"
+        }
+      ],
+      "simplified": "左右逢源",
+      "simplified_stroke_count": 0,
+      "traditional": "左右逢源",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "lit. to strike water right and left"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "fig. to turn everything into gold"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to have everything going one's way"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to benefit from both sides"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

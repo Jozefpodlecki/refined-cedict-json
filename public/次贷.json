@@ -1,0 +1,32 @@
+{
+  "simplified": "次贷",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " cì dài",
+          "wade_giles_pinyin": "ci4 dai4"
+        }
+      ],
+      "simplified": "次贷",
+      "simplified_stroke_count": 0,
+      "traditional": "次貸",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "subprime lending"
+        },
+        {
+          "context": "abbreviation",
+          "lexical_item": "",
+          "value": "次級貸款|次级贷款[ci4 ji2 dai4 kuan3]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "simplified": "倾斜",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " qīng xié",
+          "wade_giles_pinyin": "qing1 xie2"
+        }
+      ],
+      "simplified": "倾斜",
+      "simplified_stroke_count": 0,
+      "traditional": "傾斜",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to incline"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to lean"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to slant"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to slope"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to tilt"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

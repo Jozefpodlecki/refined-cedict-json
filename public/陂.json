@@ -1,0 +1,59 @@
+{
+  "simplified": "陂",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bēi",
+          "wade_giles_pinyin": "bei1"
+        }
+      ],
+      "simplified": "陂",
+      "simplified_stroke_count": 8,
+      "traditional": "陂",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "pool"
+        },
+        {
+          "value": "pond"
+        },
+        {
+          "value": "bank of a pond"
+        },
+        {
+          "value": "mountain slope"
+        },
+        {
+          "value": "Taiwan pr. [pi2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pō",
+          "wade_giles_pinyin": "po1"
+        }
+      ],
+      "simplified": "陂",
+      "simplified_stroke_count": 8,
+      "traditional": "陂",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "rugged"
+        },
+        {
+          "value": "uneven"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

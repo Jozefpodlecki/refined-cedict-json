@@ -1,0 +1,32 @@
+{
+  "simplified": "共时",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " gòng shí",
+          "wade_giles_pinyin": "gong4 shi2"
+        }
+      ],
+      "simplified": "共时",
+      "simplified_stroke_count": 0,
+      "traditional": "共時",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "synchronic"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "concurrent"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

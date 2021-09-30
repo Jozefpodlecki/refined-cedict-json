@@ -1,0 +1,31 @@
+{
+  "simplified": "粒",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lì",
+          "wade_giles_pinyin": "li4"
+        }
+      ],
+      "simplified": "粒",
+      "simplified_stroke_count": 11,
+      "traditional": "粒",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "grain"
+        },
+        {
+          "value": "granule"
+        },
+        {
+          "value": "classifier for small round things (peas, bullets, peanuts, pills, grains etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

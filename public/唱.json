@@ -1,0 +1,39 @@
+{
+  "simplified": "唱",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chàng",
+          "wade_giles_pinyin": "chang4"
+        }
+      ],
+      "simplified": "唱",
+      "simplified_stroke_count": 11,
+      "traditional": "唱",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to sing"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to call loudly"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to chant"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

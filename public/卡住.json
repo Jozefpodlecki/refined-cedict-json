@@ -1,0 +1,34 @@
+{
+  "simplified": "卡住",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kǎ zhù",
+          "wade_giles_pinyin": "ka3 zhu4"
+        },
+        {
+          "pinyin": "qiǎ zhù",
+          "wade_giles_pinyin": "qia3 zhu4"
+        }
+      ],
+      "simplified": "卡住",
+      "traditional": "卡住",
+      "meanings": [
+        {
+          "value": "to jam"
+        },
+        {
+          "value": "to choke"
+        },
+        {
+          "value": "to clutch"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

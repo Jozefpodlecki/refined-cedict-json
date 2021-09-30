@@ -1,0 +1,32 @@
+{
+  "simplified": "帻",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zé",
+          "wade_giles_pinyin": "ze2"
+        }
+      ],
+      "simplified": "帻",
+      "simplified_stroke_count": 11,
+      "traditional": "幘",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "turban"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "head-covering"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

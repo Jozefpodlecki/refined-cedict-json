@@ -1,0 +1,29 @@
+{
+  "simplified": "识字",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shí zì",
+          "wade_giles_pinyin": "shi2 zi4"
+        }
+      ],
+      "simplified": "识字",
+      "simplified_stroke_count": null,
+      "traditional": "識字",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to learn to read"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "学科",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xué kē",
+          "wade_giles_pinyin": "xue2 ke1"
+        }
+      ],
+      "simplified": "学科",
+      "traditional": "學科",
+      "meanings": [
+        {
+          "value": "subject"
+        },
+        {
+          "value": "branch of learning"
+        },
+        {
+          "value": "course"
+        },
+        {
+          "value": "academic discipline"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

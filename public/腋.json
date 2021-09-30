@@ -1,0 +1,34 @@
+{
+  "simplified": "腋",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yè",
+          "wade_giles_pinyin": "ye4"
+        }
+      ],
+      "simplified": "腋",
+      "simplified_stroke_count": 12,
+      "traditional": "腋",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "armpit"
+        },
+        {
+          "value": "(biology) axilla"
+        },
+        {
+          "value": "(botany) axil"
+        },
+        {
+          "value": "Taiwan pr. [yi4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

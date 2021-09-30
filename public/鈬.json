@@ -1,0 +1,45 @@
+{
+  "simplified": "鈬",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "duó",
+          "wade_giles_pinyin": "Duo2"
+        }
+      ],
+      "simplified": "鈬",
+      "simplified_stroke_count": 12,
+      "traditional": "鈬",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "surname Duo"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "duó",
+          "wade_giles_pinyin": "duo2"
+        }
+      ],
+      "simplified": "鈬",
+      "simplified_stroke_count": 12,
+      "traditional": "鈬",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "Japanese  鐸|铎, large ancient bell"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

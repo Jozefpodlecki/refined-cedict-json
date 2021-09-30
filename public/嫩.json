@@ -1,0 +1,44 @@
+{
+  "simplified": "嫩",
+  "simplified_stroke_count": 14,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nèn",
+          "wade_giles_pinyin": "nen4"
+        }
+      ],
+      "simplified": "嫩",
+      "simplified_stroke_count": 14,
+      "traditional": "嫩",
+      "traditional_stroke_count": 14,
+      "meanings": [],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nèn",
+          "wade_giles_pinyin": "nen4"
+        }
+      ],
+      "simplified": "嫩",
+      "simplified_stroke_count": 14,
+      "traditional": "嫰",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 嫩[nen4]",
+          "simplified": "嫩",
+          "traditional": "",
+          "wade_giles_pinyin": "nen4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

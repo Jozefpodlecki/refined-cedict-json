@@ -1,0 +1,36 @@
+{
+  "simplified": "刀枪不入",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dāo qiāng bù rù",
+          "wade_giles_pinyin": "dao1 qiang1 bu4 ru4"
+        }
+      ],
+      "simplified": "刀枪不入",
+      "traditional": "刀槍不入",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "impervious to sword or spear"
+        },
+        {
+          "value": "fig. invulnerable"
+        },
+        {
+          "value": "untouchable"
+        },
+        {
+          "value": "thick-skinned"
+        },
+        {
+          "value": "impervious to criticism"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

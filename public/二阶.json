@@ -1,0 +1,25 @@
+{
+  "simplified": "二阶",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "èr jiē",
+          "wade_giles_pinyin": "er4 jie1"
+        }
+      ],
+      "simplified": "二阶",
+      "traditional": "二階",
+      "meanings": [
+        {
+          "value": "second order"
+        },
+        {
+          "value": "quadratic (math.)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

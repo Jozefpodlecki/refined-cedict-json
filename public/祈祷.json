@@ -1,0 +1,39 @@
+{
+  "simplified": "祈祷",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " qí dǎo",
+          "wade_giles_pinyin": "qi2 dao3"
+        }
+      ],
+      "simplified": "祈祷",
+      "simplified_stroke_count": 0,
+      "traditional": "祈禱",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to pray"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to say one's prayers"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "prayer"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

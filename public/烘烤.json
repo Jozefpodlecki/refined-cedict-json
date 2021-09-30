@@ -1,0 +1,27 @@
+{
+  "simplified": "烘烤",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hōng kǎo",
+          "wade_giles_pinyin": "hong1 kao3"
+        }
+      ],
+      "simplified": "烘烤",
+      "traditional": "烘烤",
+      "meanings": [
+        {
+          "value": "to roast"
+        },
+        {
+          "value": "to bake"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

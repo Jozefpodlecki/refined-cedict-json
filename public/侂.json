@@ -1,0 +1,39 @@
+{
+  "simplified": "侂",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tuō",
+          "wade_giles_pinyin": "tuo1"
+        }
+      ],
+      "simplified": "侂",
+      "simplified_stroke_count": 8,
+      "traditional": "侂",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "to commission"
+        },
+        {
+          "value": "to entrust to"
+        },
+        {
+          "value": "to depute"
+        },
+        {
+          "value": "to request"
+        },
+        {
+          "value": "to ask (sb to do sth)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

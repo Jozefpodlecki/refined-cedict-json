@@ -1,0 +1,32 @@
+{
+  "simplified": "用户到网络接口",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yòng hù dào wǎng luò jiē kǒu",
+          "wade_giles_pinyin": "yong4 hu4 dao4 wang3 luo4 jie1 kou3"
+        }
+      ],
+      "simplified": "用户到网络接口",
+      "simplified_stroke_count": 0,
+      "traditional": "用戶到網絡接口",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "user-network interface"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "UNI"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

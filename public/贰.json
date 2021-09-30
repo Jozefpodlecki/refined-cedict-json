@@ -1,0 +1,30 @@
+{
+  "simplified": "贰",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "èr",
+          "wade_giles_pinyin": "er4"
+        }
+      ],
+      "simplified": "贰",
+      "simplified_stroke_count": 9,
+      "traditional": "貳",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "two (banker's anti-fraud numeral)"
+        },
+        {
+          "value": "to betray"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

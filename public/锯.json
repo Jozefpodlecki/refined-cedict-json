@@ -1,0 +1,57 @@
+{
+  "simplified": "锯",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jū",
+          "wade_giles_pinyin": "ju1"
+        }
+      ],
+      "simplified": "锯",
+      "simplified_stroke_count": 13,
+      "traditional": "鋸",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": null,
+          "value": "鋦|锔[ju1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jù",
+          "wade_giles_pinyin": "ju4"
+        }
+      ],
+      "simplified": "锯",
+      "simplified_stroke_count": 13,
+      "traditional": "鋸",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "a saw"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to cut with a saw"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

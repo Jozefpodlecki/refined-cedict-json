@@ -1,0 +1,30 @@
+{
+  "simplified": "朝拜",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cháo bài",
+          "wade_giles_pinyin": "chao2 bai4"
+        }
+      ],
+      "simplified": "朝拜",
+      "traditional": "朝拜",
+      "meanings": [
+        {
+          "value": "to worship"
+        },
+        {
+          "value": "to make customary deferences to"
+        },
+        {
+          "value": "a pilgrimage"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

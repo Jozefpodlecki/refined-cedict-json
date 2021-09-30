@@ -1,0 +1,25 @@
+{
+  "simplified": "单音节",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dān yīn jié",
+          "wade_giles_pinyin": "dan1 yin1 jie2"
+        }
+      ],
+      "simplified": "单音节",
+      "traditional": "單音節",
+      "meanings": [
+        {
+          "value": "monosyllabic"
+        },
+        {
+          "value": "a monosyllable"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

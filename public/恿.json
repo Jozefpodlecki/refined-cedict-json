@@ -1,0 +1,80 @@
+{
+  "simplified": "恿",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǒng",
+          "wade_giles_pinyin": "yong3"
+        }
+      ],
+      "simplified": "恿",
+      "simplified_stroke_count": 11,
+      "traditional": "恿",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "to urge"
+        },
+        {
+          "value": "to incite"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǒng",
+          "wade_giles_pinyin": "yong3"
+        }
+      ],
+      "simplified": "恿",
+      "simplified_stroke_count": 11,
+      "traditional": "惥",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 恿[yong3]",
+          "simplified": "恿",
+          "traditional": "",
+          "wade_giles_pinyin": "yong3"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǒng",
+          "wade_giles_pinyin": "yong3"
+        }
+      ],
+      "simplified": "恿",
+      "simplified_stroke_count": 11,
+      "traditional": "慂",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 恿[yong3]",
+          "simplified": "恿",
+          "traditional": "",
+          "wade_giles_pinyin": "yong3"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

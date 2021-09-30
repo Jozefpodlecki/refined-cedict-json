@@ -1,0 +1,42 @@
+{
+  "simplified": "爆声",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bào shēng",
+          "wade_giles_pinyin": "bao4 sheng1"
+        }
+      ],
+      "simplified": "爆声",
+      "simplified_stroke_count": 0,
+      "traditional": "爆聲",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "explosion"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "bang"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "sonic boom"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "engine knock"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

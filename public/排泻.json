@@ -1,0 +1,31 @@
+{
+  "simplified": "排泻",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pái xiè",
+          "wade_giles_pinyin": "pai2 xie4"
+        }
+      ],
+      "simplified": "排泻",
+      "traditional": "排瀉",
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 排泄[pai2 xie4]",
+          "simplified": "排",
+          "traditional": "泄",
+          "wade_giles_pinyin": "pai2 xie4"
+        },
+        {
+          "value": "to excrete (urine, sweat etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

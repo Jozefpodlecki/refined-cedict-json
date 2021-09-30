@@ -1,0 +1,25 @@
+{
+  "simplified": "保长对应",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǎo cháng duì yìng",
+          "wade_giles_pinyin": "bao3 chang2 dui4 ying4"
+        }
+      ],
+      "simplified": "保长对应",
+      "traditional": "保長對應",
+      "meanings": [
+        {
+          "value": "(math.) distance-preserving correspondence"
+        },
+        {
+          "value": "isometry"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

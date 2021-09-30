@@ -1,0 +1,38 @@
+{
+  "simplified": "嚼",
+  "simplified_stroke_count": 21,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jiáo",
+          "wade_giles_pinyin": "jiao2"
+        },
+        {
+          "pinyin": " jué",
+          "wade_giles_pinyin": "jue2"
+        }
+      ],
+      "simplified": "嚼",
+      "simplified_stroke_count": 21,
+      "traditional": "嚼",
+      "traditional_stroke_count": 21,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to chew"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "also pr. [jue2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

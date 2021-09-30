@@ -1,0 +1,30 @@
+{
+  "simplified": "引水",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǐn shuǐ",
+          "wade_giles_pinyin": "yin3 shui3"
+        }
+      ],
+      "simplified": "引水",
+      "traditional": "引水",
+      "meanings": [
+        {
+          "value": "to pilot a ship"
+        },
+        {
+          "value": "to channel water"
+        },
+        {
+          "value": "to draw water (for irrigation)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

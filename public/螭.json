@@ -1,0 +1,32 @@
+{
+  "simplified": "螭",
+  "simplified_stroke_count": 17,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chī",
+          "wade_giles_pinyin": "chi1"
+        }
+      ],
+      "simplified": "螭",
+      "simplified_stroke_count": 17,
+      "traditional": "螭",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "dragon with horns not yet grown (in myth or heraldry)"
+        },
+        {
+          "context": "variant",
+          "value": "variant of 魑[chi1]",
+          "simplified": "魑",
+          "traditional": "",
+          "wade_giles_pinyin": "chi1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

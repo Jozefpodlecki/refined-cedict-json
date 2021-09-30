@@ -1,0 +1,27 @@
+{
+  "simplified": "杀鸡取卵",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shā jī qǔ luǎn",
+          "wade_giles_pinyin": "sha1 ji1 qu3 luan3"
+        }
+      ],
+      "simplified": "杀鸡取卵",
+      "traditional": "殺雞取卵",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "to kill the chicken to get the eggs"
+        },
+        {
+          "value": "fig. to kill the goose that lays the golden eggs"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

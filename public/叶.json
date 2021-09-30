@@ -1,0 +1,81 @@
+{
+  "simplified": "叶",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xié",
+          "wade_giles_pinyin": "xie2"
+        }
+      ],
+      "simplified": "叶",
+      "simplified_stroke_count": 5,
+      "traditional": "叶",
+      "traditional_stroke_count": 5,
+      "meanings": [
+        {
+          "value": "to be in harmony"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yè",
+          "wade_giles_pinyin": "Ye4"
+        }
+      ],
+      "simplified": "叶",
+      "simplified_stroke_count": 5,
+      "traditional": "葉",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "surname Ye"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yè",
+          "wade_giles_pinyin": "ye4"
+        }
+      ],
+      "simplified": "叶",
+      "simplified_stroke_count": 5,
+      "traditional": "葉",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "leaf"
+        },
+        {
+          "value": "page"
+        },
+        {
+          "value": "lobe"
+        },
+        {
+          "value": "(historical) period"
+        },
+        {
+          "value": "classifier for small boats"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

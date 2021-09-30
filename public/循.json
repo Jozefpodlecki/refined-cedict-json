@@ -1,0 +1,33 @@
+{
+  "simplified": "循",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xún",
+          "wade_giles_pinyin": "xun2"
+        }
+      ],
+      "simplified": "循",
+      "simplified_stroke_count": 12,
+      "traditional": "循",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "to follow"
+        },
+        {
+          "value": "to adhere to"
+        },
+        {
+          "value": "to abide by"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

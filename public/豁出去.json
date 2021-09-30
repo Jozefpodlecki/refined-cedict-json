@@ -1,0 +1,39 @@
+{
+  "simplified": "豁出去",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huō chu qu",
+          "wade_giles_pinyin": "huo1 chu5 qu5"
+        }
+      ],
+      "simplified": "豁出去",
+      "simplified_stroke_count": null,
+      "traditional": "豁出去",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to throw caution to the wind"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to press one's luck"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to go for broke"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

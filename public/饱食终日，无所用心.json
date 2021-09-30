@@ -1,0 +1,28 @@
+{
+  "simplified": "饱食终日，无所用心",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǎo shí zhōng rì , wú suǒ yòng xīn",
+          "wade_giles_pinyin": "bao3 shi2 zhong1 ri4 , wu2 suo3 yong4 xin1"
+        }
+      ],
+      "simplified": "饱食终日，无所用心",
+      "traditional": "飽食終日，無所用心",
+      "meanings": [
+        {
+          "lexical_item": "idiom",
+          "value": "to eat three square meals a day and do no work"
+        },
+        {
+          "value": "to be sated with food and remain idle"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

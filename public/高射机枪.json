@@ -1,0 +1,28 @@
+{
+  "simplified": "高射机枪",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gāo shè jī qiāng",
+          "wade_giles_pinyin": "gao1 she4 ji1 qiang1"
+        }
+      ],
+      "simplified": "高射机枪",
+      "traditional": "高射機槍",
+      "meanings": [
+        {
+          "value": "anti-aircraft machine gun"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "架",
+          "traditional": "",
+          "wade_giles_pinyin": "jia4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

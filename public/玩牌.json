@@ -1,0 +1,34 @@
+{
+  "simplified": "玩牌",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wán pái",
+          "wade_giles_pinyin": "wan2 pai2"
+        }
+      ],
+      "simplified": "玩牌",
+      "simplified_stroke_count": null,
+      "traditional": "玩牌",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to play cards"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to play mahjong"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

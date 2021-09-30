@@ -1,0 +1,28 @@
+{
+  "simplified": "饲养员",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sì yǎng yuán",
+          "wade_giles_pinyin": "si4 yang3 yuan2"
+        }
+      ],
+      "simplified": "饲养员",
+      "traditional": "飼養員",
+      "meanings": [
+        {
+          "value": "zookeeper"
+        },
+        {
+          "value": "stockman"
+        },
+        {
+          "value": "breeder (of livestock, dogs or poultry etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

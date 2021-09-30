@@ -1,0 +1,39 @@
+{
+  "simplified": "经过",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jīng guò",
+          "wade_giles_pinyin": "jing1 guo4"
+        }
+      ],
+      "simplified": "经过",
+      "traditional": "經過",
+      "meanings": [
+        {
+          "value": "to pass"
+        },
+        {
+          "value": "to go through"
+        },
+        {
+          "value": "process"
+        },
+        {
+          "value": "course"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

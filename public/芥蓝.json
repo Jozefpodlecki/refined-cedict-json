@@ -1,0 +1,35 @@
+{
+  "simplified": "芥蓝",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gài lán",
+          "wade_giles_pinyin": "gai4 lan2"
+        },
+        {
+          "pinyin": "jiè lán",
+          "wade_giles_pinyin": "jie4 lan2"
+        }
+      ],
+      "simplified": "芥蓝",
+      "traditional": "芥藍",
+      "meanings": [
+        {
+          "value": "Chinese broccoli"
+        },
+        {
+          "value": "Chinese kale"
+        },
+        {
+          "value": "cabbage mustard"
+        },
+        {
+          "value": "Brassica oleracea var. alboglabra"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

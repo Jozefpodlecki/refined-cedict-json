@@ -1,0 +1,30 @@
+{
+  "simplified": "带病",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dài bìng",
+          "wade_giles_pinyin": "dai4 bing4"
+        }
+      ],
+      "simplified": "带病",
+      "traditional": "帶病",
+      "meanings": [
+        {
+          "value": "to carry a disease"
+        },
+        {
+          "value": "carrier"
+        },
+        {
+          "value": "vector"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

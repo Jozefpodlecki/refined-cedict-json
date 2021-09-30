@@ -1,0 +1,27 @@
+{
+  "simplified": "认错",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rèn cuò",
+          "wade_giles_pinyin": "ren4 cuo4"
+        }
+      ],
+      "simplified": "认错",
+      "traditional": "認錯",
+      "meanings": [
+        {
+          "value": "to admit an error"
+        },
+        {
+          "value": "to acknowledge one's mistake"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

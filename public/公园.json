@@ -1,0 +1,43 @@
+{
+  "simplified": "公园",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " gōng yuán",
+          "wade_giles_pinyin": "gong1 yuan2"
+        }
+      ],
+      "simplified": "公园",
+      "simplified_stroke_count": 0,
+      "traditional": "公園",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "park (for public recreation)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:個|个[ge4],座[zuo4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        },
+        {
+          "simplified": "座",
+          "traditional": "",
+          "wade_giles_pinyin": "zuo4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

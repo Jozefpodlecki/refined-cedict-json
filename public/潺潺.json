@@ -1,0 +1,32 @@
+{
+  "simplified": "潺潺",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chán chán",
+          "wade_giles_pinyin": "chan2 chan2"
+        }
+      ],
+      "simplified": "潺潺",
+      "simplified_stroke_count": null,
+      "traditional": "潺潺",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "murmur"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "babble (sound of water)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "simplified": "押车",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yā chē",
+          "wade_giles_pinyin": "ya1 che1"
+        }
+      ],
+      "simplified": "押车",
+      "traditional": "押車",
+      "meanings": [
+        {
+          "value": "to escort (goods) during transportation"
+        },
+        {
+          "value": "to delay unloading (a truck, train etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "simplified": "隔靴搔痒",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gé xuē sāo yǎng",
+          "wade_giles_pinyin": "ge2 xue1 sao1 yang3"
+        }
+      ],
+      "simplified": "隔靴搔痒",
+      "traditional": "隔靴搔癢",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "to scratch the outside of the boot"
+        },
+        {
+          "value": "fig. beside the point"
+        },
+        {
+          "value": "ineffectual"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

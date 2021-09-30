@@ -1,0 +1,33 @@
+{
+  "simplified": "除名",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chú míng",
+          "wade_giles_pinyin": "chu2 ming2"
+        }
+      ],
+      "simplified": "除名",
+      "traditional": "除名",
+      "meanings": [
+        {
+          "value": "to strike off (the rolls)"
+        },
+        {
+          "value": "to remove from a list"
+        },
+        {
+          "value": "to expunge"
+        },
+        {
+          "value": "to expel"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

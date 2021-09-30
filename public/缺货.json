@@ -1,0 +1,32 @@
+{
+  "simplified": "缺货",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " quē huò",
+          "wade_giles_pinyin": "que1 huo4"
+        }
+      ],
+      "simplified": "缺货",
+      "simplified_stroke_count": 0,
+      "traditional": "缺貨",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "lack of supplies"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "unavailable goods"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

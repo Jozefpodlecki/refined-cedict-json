@@ -1,0 +1,31 @@
+{
+  "simplified": "田野",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tián yě",
+          "wade_giles_pinyin": "tian2 ye3"
+        }
+      ],
+      "simplified": "田野",
+      "traditional": "田野",
+      "meanings": [
+        {
+          "value": "field"
+        },
+        {
+          "value": "open land"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "片",
+          "traditional": "",
+          "wade_giles_pinyin": "pian4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

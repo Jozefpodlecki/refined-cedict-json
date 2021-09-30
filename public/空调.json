@@ -1,0 +1,31 @@
+{
+  "simplified": "空调",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kōng tiáo",
+          "wade_giles_pinyin": "kong1 tiao2"
+        }
+      ],
+      "simplified": "空调",
+      "traditional": "空調",
+      "meanings": [
+        {
+          "value": "air conditioning"
+        },
+        {
+          "value": "air conditioner (including units that have a heating mode)"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "臺",
+          "traditional": "台",
+          "wade_giles_pinyin": "tai2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

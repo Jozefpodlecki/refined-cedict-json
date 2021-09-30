@@ -1,0 +1,44 @@
+{
+  "simplified": "挚",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhì",
+          "wade_giles_pinyin": "Zhi4"
+        }
+      ],
+      "simplified": "挚",
+      "simplified_stroke_count": 10,
+      "traditional": "摯",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "surname Zhi"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhì",
+          "wade_giles_pinyin": "zhi4"
+        }
+      ],
+      "simplified": "挚",
+      "simplified_stroke_count": 10,
+      "traditional": "摯",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "sincere"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

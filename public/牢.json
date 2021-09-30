@@ -1,0 +1,37 @@
+{
+  "simplified": "牢",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "láo",
+          "wade_giles_pinyin": "lao2"
+        }
+      ],
+      "simplified": "牢",
+      "simplified_stroke_count": 7,
+      "traditional": "牢",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "value": "firm"
+        },
+        {
+          "value": "sturdy"
+        },
+        {
+          "value": "fold (for animals)"
+        },
+        {
+          "value": "sacrifice"
+        },
+        {
+          "value": "prison"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "simplified": "纪检",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jì jiǎn",
+          "wade_giles_pinyin": "ji4 jian3"
+        }
+      ],
+      "simplified": "纪检",
+      "traditional": "紀檢",
+      "meanings": [
+        {
+          "value": "disciplinary inspection"
+        },
+        {
+          "value": "to inspect another's discipline"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

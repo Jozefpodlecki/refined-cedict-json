@@ -1,0 +1,28 @@
+{
+  "simplified": "牛仔裤",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "niú zǎi kù",
+          "wade_giles_pinyin": "niu2 zai3 ku4"
+        }
+      ],
+      "simplified": "牛仔裤",
+      "traditional": "牛仔褲",
+      "meanings": [
+        {
+          "value": "jeans"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "條",
+          "traditional": "条",
+          "wade_giles_pinyin": "tiao2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

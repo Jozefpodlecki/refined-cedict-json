@@ -1,0 +1,53 @@
+{
+  "simplified": "学院",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xué yuàn",
+          "wade_giles_pinyin": "xue2 yuan4"
+        }
+      ],
+      "simplified": "学院",
+      "simplified_stroke_count": 0,
+      "traditional": "學院",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "college"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "educational institute"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "school"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "faculty"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:所[suo3]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "所",
+          "traditional": "",
+          "wade_giles_pinyin": "suo3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

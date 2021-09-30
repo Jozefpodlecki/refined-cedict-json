@@ -1,0 +1,34 @@
+{
+  "simplified": "搔",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sāo",
+          "wade_giles_pinyin": "sao1"
+        }
+      ],
+      "simplified": "搔",
+      "simplified_stroke_count": 13,
+      "traditional": "搔",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "to scratch"
+        },
+        {
+          "context": "old variant",
+          "value": "old variant of 騷|骚[sao1]",
+          "simplified": "騷",
+          "traditional": "骚",
+          "wade_giles_pinyin": "sao1"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

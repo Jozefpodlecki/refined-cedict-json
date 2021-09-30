@@ -1,0 +1,67 @@
+{
+  "simplified": "隐",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yǐn",
+          "wade_giles_pinyin": "yin3"
+        }
+      ],
+      "simplified": "隐",
+      "simplified_stroke_count": 12,
+      "traditional": "隱",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "secret"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "hidden"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "concealed"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(prefix) crypto-"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yìn",
+          "wade_giles_pinyin": "yin4"
+        }
+      ],
+      "simplified": "隐",
+      "simplified_stroke_count": 12,
+      "traditional": "隱",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to lean upon"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

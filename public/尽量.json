@@ -1,0 +1,49 @@
+{
+  "simplified": "尽量",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jǐn liàng",
+          "wade_giles_pinyin": "jin3 liang4"
+        }
+      ],
+      "simplified": "尽量",
+      "traditional": "儘量",
+      "meanings": [
+        {
+          "value": "as much as possible"
+        },
+        {
+          "value": "to the greatest extent"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jìn liàng",
+          "wade_giles_pinyin": "jin4 liang4"
+        }
+      ],
+      "simplified": "尽量",
+      "traditional": "盡量",
+      "meanings": [
+        {
+          "value": "as much as possible"
+        },
+        {
+          "value": "to the greatest extent"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

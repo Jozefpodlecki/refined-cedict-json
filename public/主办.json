@@ -1,0 +1,34 @@
+{
+  "simplified": "主办",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhǔ bàn",
+          "wade_giles_pinyin": "zhu3 ban4"
+        }
+      ],
+      "simplified": "主办",
+      "simplified_stroke_count": 0,
+      "traditional": "主辦",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to organize"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to host (a conference or sports event)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

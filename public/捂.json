@@ -1,0 +1,39 @@
+{
+  "simplified": "捂",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wǔ",
+          "wade_giles_pinyin": "wu3"
+        }
+      ],
+      "simplified": "捂",
+      "simplified_stroke_count": 10,
+      "traditional": "捂",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "to enclose"
+        },
+        {
+          "value": "to cover with the hand (one's eyes, nose or ears)"
+        },
+        {
+          "value": "to cover up (an affair)"
+        },
+        {
+          "value": "contrary"
+        },
+        {
+          "value": "to contradict"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

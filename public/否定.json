@@ -1,0 +1,36 @@
+{
+  "simplified": "否定",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fǒu dìng",
+          "wade_giles_pinyin": "fou3 ding4"
+        }
+      ],
+      "simplified": "否定",
+      "traditional": "否定",
+      "meanings": [
+        {
+          "value": "to negate"
+        },
+        {
+          "value": "to deny"
+        },
+        {
+          "value": "to reject"
+        },
+        {
+          "value": "negative (answer)"
+        },
+        {
+          "value": "negation"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

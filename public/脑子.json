@@ -1,0 +1,31 @@
+{
+  "simplified": "脑子",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nǎo zi",
+          "wade_giles_pinyin": "nao3 zi5"
+        }
+      ],
+      "simplified": "脑子",
+      "traditional": "腦子",
+      "meanings": [
+        {
+          "value": "brains"
+        },
+        {
+          "value": "mind"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

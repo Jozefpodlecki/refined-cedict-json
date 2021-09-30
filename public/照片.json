@@ -1,0 +1,53 @@
+{
+  "simplified": "照片",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhào piàn",
+          "wade_giles_pinyin": "zhao4 pian4"
+        }
+      ],
+      "simplified": "照片",
+      "simplified_stroke_count": 0,
+      "traditional": "照片",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "photograph"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "picture"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:張|张[zhang1],套[tao4],幅[fu2]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "張",
+          "traditional": "张",
+          "wade_giles_pinyin": "zhang1"
+        },
+        {
+          "simplified": "套",
+          "traditional": "",
+          "wade_giles_pinyin": "tao4"
+        },
+        {
+          "simplified": "幅",
+          "traditional": "",
+          "wade_giles_pinyin": "fu2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

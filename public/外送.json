@@ -1,0 +1,27 @@
+{
+  "simplified": "外送",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wài sòng",
+          "wade_giles_pinyin": "wai4 song4"
+        }
+      ],
+      "simplified": "外送",
+      "traditional": "外送",
+      "meanings": [
+        {
+          "value": "to send out"
+        },
+        {
+          "value": "fast food delivered"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

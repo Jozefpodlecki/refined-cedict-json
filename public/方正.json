@@ -1,0 +1,58 @@
+{
+  "simplified": "方正",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fāng zhèng",
+          "wade_giles_pinyin": "Fang1 zheng4"
+        }
+      ],
+      "simplified": "方正",
+      "simplified_stroke_count": null,
+      "traditional": "方正",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "Fangzheng county in Harbin 哈爾濱|哈尔滨[Ha1 er3 bin1], Heilongjiang"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fāng zhèng",
+          "wade_giles_pinyin": "fang1 zheng4"
+        }
+      ],
+      "simplified": "方正",
+      "simplified_stroke_count": null,
+      "traditional": "方正",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "clear and square"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "neat"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "square (person)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

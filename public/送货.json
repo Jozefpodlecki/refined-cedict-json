@@ -1,0 +1,24 @@
+{
+  "simplified": "送货",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sòng huò",
+          "wade_giles_pinyin": "song4 huo4"
+        }
+      ],
+      "simplified": "送货",
+      "traditional": "送貨",
+      "meanings": [
+        {
+          "value": "to deliver goods"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

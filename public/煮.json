@@ -1,0 +1,55 @@
+{
+  "simplified": "煮",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhǔ",
+          "wade_giles_pinyin": "zhu3"
+        }
+      ],
+      "simplified": "煮",
+      "simplified_stroke_count": 12,
+      "traditional": "煑",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 煮[zhu3]",
+          "simplified": "煮",
+          "traditional": "",
+          "wade_giles_pinyin": "zhu3"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhǔ",
+          "wade_giles_pinyin": "zhu3"
+        }
+      ],
+      "simplified": "煮",
+      "simplified_stroke_count": 12,
+      "traditional": "煮",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "to cook"
+        },
+        {
+          "value": "to boil"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "simplified": "齿",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chǐ",
+          "wade_giles_pinyin": "chi3"
+        }
+      ],
+      "simplified": "齿",
+      "simplified_stroke_count": 8,
+      "traditional": "齒",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "tooth"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "CL:顆|颗[ke1]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "顆",
+          "traditional": "颗",
+          "wade_giles_pinyin": "ke1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

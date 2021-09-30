@@ -1,0 +1,44 @@
+{
+  "simplified": "咂",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zā",
+          "wade_giles_pinyin": "za1"
+        }
+      ],
+      "simplified": "咂",
+      "simplified_stroke_count": 8,
+      "traditional": "咂",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to sip"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to smack one's lips"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to taste"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to savor"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

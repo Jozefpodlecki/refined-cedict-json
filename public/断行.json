@@ -1,0 +1,43 @@
+{
+  "simplified": "断行",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "duàn háng",
+          "wade_giles_pinyin": "duan4 hang2"
+        }
+      ],
+      "simplified": "断行",
+      "traditional": "斷行",
+      "meanings": [
+        {
+          "value": "line break (computing)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "duàn xíng",
+          "wade_giles_pinyin": "duan4 xing2"
+        }
+      ],
+      "simplified": "断行",
+      "traditional": "斷行",
+      "meanings": [
+        {
+          "value": "to carry out resolutely"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

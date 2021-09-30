@@ -1,0 +1,32 @@
+{
+  "simplified": "陶瓷器",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "táo cí qì",
+          "wade_giles_pinyin": "tao2 ci2 qi4"
+        }
+      ],
+      "simplified": "陶瓷器",
+      "simplified_stroke_count": null,
+      "traditional": "陶瓷器",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "pottery"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "chinaware"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

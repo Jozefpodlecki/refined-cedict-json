@@ -1,0 +1,55 @@
+{
+  "simplified": "毗",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pí",
+          "wade_giles_pinyin": "pi2"
+        }
+      ],
+      "simplified": "毗",
+      "simplified_stroke_count": 9,
+      "traditional": "毗",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "to adjoin"
+        },
+        {
+          "value": "to border on"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pí",
+          "wade_giles_pinyin": "pi2"
+        }
+      ],
+      "simplified": "毗",
+      "simplified_stroke_count": 9,
+      "traditional": "毘",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 毗[pi2]",
+          "simplified": "毗",
+          "traditional": "",
+          "wade_giles_pinyin": "pi2"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

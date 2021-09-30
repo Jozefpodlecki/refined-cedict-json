@@ -1,0 +1,37 @@
+{
+  "simplified": "住户",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhù hù",
+          "wade_giles_pinyin": "zhu4 hu4"
+        }
+      ],
+      "simplified": "住户",
+      "simplified_stroke_count": 0,
+      "traditional": "住戶",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "household"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "inhabitant"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "householder"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

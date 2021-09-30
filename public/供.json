@@ -1,0 +1,54 @@
+{
+  "simplified": "供",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gōng",
+          "wade_giles_pinyin": "gong1"
+        }
+      ],
+      "simplified": "供",
+      "simplified_stroke_count": 8,
+      "traditional": "供",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "to provide"
+        },
+        {
+          "value": "to supply"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gòng",
+          "wade_giles_pinyin": "gong4"
+        }
+      ],
+      "simplified": "供",
+      "simplified_stroke_count": 8,
+      "traditional": "供",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "sacrificial offering"
+        },
+        {
+          "value": "to confess"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

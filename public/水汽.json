@@ -1,0 +1,28 @@
+{
+  "simplified": "水汽",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shuǐ qì",
+          "wade_giles_pinyin": "shui3 qi4"
+        }
+      ],
+      "simplified": "水汽",
+      "traditional": "水汽",
+      "meanings": [
+        {
+          "value": "water vapor"
+        },
+        {
+          "value": "steam"
+        },
+        {
+          "value": "moisture"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

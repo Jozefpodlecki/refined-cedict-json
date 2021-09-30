@@ -1,0 +1,34 @@
+{
+  "simplified": "败绩",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bài jì",
+          "wade_giles_pinyin": "bai4 ji4"
+        }
+      ],
+      "simplified": "败绩",
+      "simplified_stroke_count": 0,
+      "traditional": "敗績",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to be utterly defeated"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to be routed"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

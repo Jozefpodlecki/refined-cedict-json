@@ -1,0 +1,41 @@
+{
+  "simplified": "集会",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jí huì",
+          "wade_giles_pinyin": "ji2 hui4"
+        }
+      ],
+      "simplified": "集会",
+      "traditional": "集會",
+      "meanings": [
+        {
+          "value": "to gather"
+        },
+        {
+          "value": "assembly"
+        },
+        {
+          "value": "meeting"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        },
+        {
+          "simplified": "次",
+          "traditional": "",
+          "wade_giles_pinyin": "ci4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

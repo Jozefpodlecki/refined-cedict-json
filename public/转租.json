@@ -1,0 +1,34 @@
+{
+  "simplified": "转租",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhuǎn zū",
+          "wade_giles_pinyin": "zhuan3 zu1"
+        }
+      ],
+      "simplified": "转租",
+      "simplified_stroke_count": 0,
+      "traditional": "轉租",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to sublet"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to sublease"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

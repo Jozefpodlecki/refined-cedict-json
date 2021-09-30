@@ -1,0 +1,36 @@
+{
+  "simplified": "棉被",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mián bèi",
+          "wade_giles_pinyin": "mian2 bei4"
+        }
+      ],
+      "simplified": "棉被",
+      "traditional": "棉被",
+      "meanings": [
+        {
+          "value": "comforter"
+        },
+        {
+          "value": "quilt"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "條",
+          "traditional": "条",
+          "wade_giles_pinyin": "tiao2"
+        },
+        {
+          "simplified": "面",
+          "traditional": "",
+          "wade_giles_pinyin": "mian4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

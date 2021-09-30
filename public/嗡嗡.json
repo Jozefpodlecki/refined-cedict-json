@@ -1,0 +1,37 @@
+{
+  "simplified": "嗡嗡",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wēng wēng",
+          "wade_giles_pinyin": "weng1 weng1"
+        }
+      ],
+      "simplified": "嗡嗡",
+      "simplified_stroke_count": null,
+      "traditional": "嗡嗡",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "buzz"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "drone"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "hum"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

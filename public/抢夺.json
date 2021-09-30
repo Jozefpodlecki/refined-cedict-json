@@ -1,0 +1,30 @@
+{
+  "simplified": "抢夺",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiǎng duó",
+          "wade_giles_pinyin": "qiang3 duo2"
+        }
+      ],
+      "simplified": "抢夺",
+      "traditional": "搶奪",
+      "meanings": [
+        {
+          "value": "to plunder"
+        },
+        {
+          "value": "to pillage"
+        },
+        {
+          "value": "to forcibly take"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

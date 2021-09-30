@@ -1,0 +1,48 @@
+{
+  "simplified": "翎毛",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " líng máo",
+          "wade_giles_pinyin": "ling2 mao2"
+        }
+      ],
+      "simplified": "翎毛",
+      "simplified_stroke_count": 0,
+      "traditional": "翎毛",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "feather"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "plume"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "plumage"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:根[gen1]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "根",
+          "traditional": "",
+          "wade_giles_pinyin": "gen1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

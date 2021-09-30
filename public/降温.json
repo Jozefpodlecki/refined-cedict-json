@@ -1,0 +1,33 @@
+{
+  "simplified": "降温",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiàng wēn",
+          "wade_giles_pinyin": "jiang4 wen1"
+        }
+      ],
+      "simplified": "降温",
+      "traditional": "降溫",
+      "meanings": [
+        {
+          "value": "to become cooler"
+        },
+        {
+          "value": "to lower the temperature"
+        },
+        {
+          "value": "cooling"
+        },
+        {
+          "value": "(of interest, activity etc) to decline"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

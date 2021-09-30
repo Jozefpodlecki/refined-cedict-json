@@ -1,0 +1,47 @@
+{
+  "simplified": "岭",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "líng",
+          "wade_giles_pinyin": "ling2"
+        }
+      ],
+      "simplified": "岭",
+      "simplified_stroke_count": 8,
+      "traditional": "岭",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "used only in 岭巆|岭𫶕[ling2 ying2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lǐng",
+          "wade_giles_pinyin": "ling3"
+        }
+      ],
+      "simplified": "岭",
+      "simplified_stroke_count": 8,
+      "traditional": "嶺",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "mountain range"
+        },
+        {
+          "value": "mountain ridge"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "simplified": "说法",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shuō fǎ",
+          "wade_giles_pinyin": "shuo1 fa3"
+        }
+      ],
+      "simplified": "说法",
+      "simplified_stroke_count": null,
+      "traditional": "說法",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to expound Buddhist teachings"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shuō fa",
+          "wade_giles_pinyin": "shuo1 fa5"
+        }
+      ],
+      "simplified": "说法",
+      "simplified_stroke_count": null,
+      "traditional": "說法",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "way of speaking"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "wording"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "formulation"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "one's version (of events)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "statement"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "theory"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "hypothesis"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "interpretation"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

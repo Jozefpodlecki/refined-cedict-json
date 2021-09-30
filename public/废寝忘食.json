@@ -1,0 +1,31 @@
+{
+  "simplified": "废寝忘食",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "feì qǐn wàng shí",
+          "wade_giles_pinyin": "fei4 qin3 wang4 shi2"
+        }
+      ],
+      "simplified": "废寝忘食",
+      "traditional": "廢寢忘食",
+      "meanings": [
+        {
+          "lexical_item": "idiom",
+          "value": "to neglect sleep and forget about food"
+        },
+        {
+          "value": "to skip one's sleep and meals"
+        },
+        {
+          "value": "to be completely wrapped up in one's work"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

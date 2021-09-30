@@ -1,0 +1,25 @@
+{
+  "simplified": "税金",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shuì jīn",
+          "wade_giles_pinyin": "shui4 jin1"
+        }
+      ],
+      "simplified": "税金",
+      "traditional": "稅金",
+      "meanings": [
+        {
+          "value": "tax money"
+        },
+        {
+          "value": "tax due"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

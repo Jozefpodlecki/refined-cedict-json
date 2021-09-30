@@ -1,0 +1,47 @@
+{
+  "simplified": "营生",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yíng shēng",
+          "wade_giles_pinyin": "ying2 sheng1"
+        }
+      ],
+      "simplified": "营生",
+      "traditional": "營生",
+      "meanings": [
+        {
+          "value": "to earn a living"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yíng sheng",
+          "wade_giles_pinyin": "ying2 sheng5"
+        }
+      ],
+      "simplified": "营生",
+      "traditional": "營生",
+      "meanings": [
+        {
+          "context": "colloquial",
+          "value": "job"
+        },
+        {
+          "value": "work"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

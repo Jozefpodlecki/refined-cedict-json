@@ -1,0 +1,36 @@
+{
+  "simplified": "抖",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dǒu",
+          "wade_giles_pinyin": "dou3"
+        }
+      ],
+      "simplified": "抖",
+      "simplified_stroke_count": 7,
+      "traditional": "抖",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "value": "to tremble"
+        },
+        {
+          "value": "to shake out"
+        },
+        {
+          "value": "to reveal"
+        },
+        {
+          "value": "to make it in the world"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

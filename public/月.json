@@ -1,0 +1,45 @@
+{
+  "simplified": "月",
+  "simplified_stroke_count": 4,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yuè",
+          "wade_giles_pinyin": "yue4"
+        }
+      ],
+      "simplified": "月",
+      "simplified_stroke_count": 4,
+      "traditional": "月",
+      "traditional_stroke_count": 4,
+      "meanings": [
+        {
+          "value": "moon"
+        },
+        {
+          "value": "month"
+        },
+        {
+          "value": "monthly"
+        },
+        {
+          "value": "CL:個|个[ge4],輪|轮[lun2]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        },
+        {
+          "simplified": "輪",
+          "traditional": "轮",
+          "wade_giles_pinyin": "lun2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

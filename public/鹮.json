@@ -1,0 +1,31 @@
+{
+  "simplified": "鹮",
+  "simplified_stroke_count": 18,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huán",
+          "wade_giles_pinyin": "huan2"
+        }
+      ],
+      "simplified": "鹮",
+      "simplified_stroke_count": 18,
+      "traditional": "䴉",
+      "traditional_stroke_count": 24,
+      "meanings": [
+        {
+          "value": "spoonbill"
+        },
+        {
+          "value": "ibis"
+        },
+        {
+          "value": "family Threskiornithidae"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

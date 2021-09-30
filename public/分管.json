@@ -1,0 +1,30 @@
+{
+  "simplified": "分管",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fēn guǎn",
+          "wade_giles_pinyin": "fen1 guan3"
+        }
+      ],
+      "simplified": "分管",
+      "traditional": "分管",
+      "meanings": [
+        {
+          "value": "to be put in charge of"
+        },
+        {
+          "value": "to be responsible for"
+        },
+        {
+          "value": "branched passage"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

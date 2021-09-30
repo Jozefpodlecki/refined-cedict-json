@@ -1,0 +1,45 @@
+{
+  "simplified": "尹",
+  "simplified_stroke_count": 4,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǐn",
+          "wade_giles_pinyin": "Yin3"
+        }
+      ],
+      "simplified": "尹",
+      "simplified_stroke_count": 4,
+      "traditional": "尹",
+      "traditional_stroke_count": 4,
+      "meanings": [],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǐn",
+          "wade_giles_pinyin": "yin3"
+        }
+      ],
+      "simplified": "尹",
+      "simplified_stroke_count": 4,
+      "traditional": "尹",
+      "traditional_stroke_count": 4,
+      "meanings": [
+        {
+          "context": "old",
+          "value": "magistrate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

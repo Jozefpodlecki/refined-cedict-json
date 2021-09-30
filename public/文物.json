@@ -1,0 +1,36 @@
+{
+  "simplified": "文物",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wén wù",
+          "wade_giles_pinyin": "wen2 wu4"
+        }
+      ],
+      "simplified": "文物",
+      "traditional": "文物",
+      "meanings": [
+        {
+          "value": "cultural relic"
+        },
+        {
+          "value": "historical relic"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "件",
+          "traditional": "",
+          "wade_giles_pinyin": "jian4"
+        },
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

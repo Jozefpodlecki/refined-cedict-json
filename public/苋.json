@@ -1,0 +1,31 @@
+{
+  "simplified": "苋",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiàn",
+          "wade_giles_pinyin": "xian4"
+        }
+      ],
+      "simplified": "苋",
+      "simplified_stroke_count": 7,
+      "traditional": "莧",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "amaranth (genus Amaranthus)"
+        },
+        {
+          "value": "Joseph's coat (Amaranthus tricolor)"
+        },
+        {
+          "value": "Chinese spinach (Amaranth mangostanus)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

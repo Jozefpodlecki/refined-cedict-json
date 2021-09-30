@@ -1,0 +1,82 @@
+{
+  "simplified": "雕",
+  "simplified_stroke_count": 16,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diāo",
+          "wade_giles_pinyin": "diao1"
+        }
+      ],
+      "simplified": "雕",
+      "simplified_stroke_count": 16,
+      "traditional": "彫",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 雕[diao1], to engrave",
+          "simplified": "雕",
+          "traditional": "",
+          "wade_giles_pinyin": "diao1"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diāo",
+          "wade_giles_pinyin": "diao1"
+        }
+      ],
+      "simplified": "雕",
+      "simplified_stroke_count": 16,
+      "traditional": "雕",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "to carve"
+        },
+        {
+          "value": "to engrave"
+        },
+        {
+          "value": "shrewd"
+        },
+        {
+          "value": "bird of prey"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diāo",
+          "wade_giles_pinyin": "diao1"
+        }
+      ],
+      "simplified": "雕",
+      "simplified_stroke_count": 16,
+      "traditional": "鵰",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "value": "bird of prey"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

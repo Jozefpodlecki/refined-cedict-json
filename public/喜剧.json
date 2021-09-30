@@ -1,0 +1,43 @@
+{
+  "simplified": "喜剧",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xǐ jù",
+          "wade_giles_pinyin": "xi3 ju4"
+        }
+      ],
+      "simplified": "喜剧",
+      "simplified_stroke_count": 0,
+      "traditional": "喜劇",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "comedy"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:部[bu4],齣|出[chu1]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "部",
+          "traditional": "",
+          "wade_giles_pinyin": "bu4"
+        },
+        {
+          "simplified": "齣",
+          "traditional": "出",
+          "wade_giles_pinyin": "chu1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

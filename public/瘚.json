@@ -1,0 +1,34 @@
+{
+  "simplified": "瘚",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jué",
+          "wade_giles_pinyin": "jue2"
+        }
+      ],
+      "simplified": "瘚",
+      "simplified_stroke_count": 15,
+      "traditional": "瘚",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to hiccup"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "the humours of the body"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

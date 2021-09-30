@@ -1,0 +1,33 @@
+{
+  "simplified": "降格",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiàng gé",
+          "wade_giles_pinyin": "jiang4 ge2"
+        }
+      ],
+      "simplified": "降格",
+      "traditional": "降格",
+      "meanings": [
+        {
+          "value": "to downgrade"
+        },
+        {
+          "value": "to lower the standard"
+        },
+        {
+          "value": "degrading"
+        },
+        {
+          "value": "humiliating"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

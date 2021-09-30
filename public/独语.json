@@ -1,0 +1,32 @@
+{
+  "simplified": "独语",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dú yǔ",
+          "wade_giles_pinyin": "du2 yu3"
+        }
+      ],
+      "simplified": "独语",
+      "simplified_stroke_count": 0,
+      "traditional": "獨語",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "solo part (in opera)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "soliloquy"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

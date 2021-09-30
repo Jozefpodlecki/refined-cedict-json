@@ -1,0 +1,63 @@
+{
+  "simplified": "柬",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jiǎn",
+          "wade_giles_pinyin": "Jian3"
+        }
+      ],
+      "simplified": "柬",
+      "simplified_stroke_count": 9,
+      "traditional": "柬",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "lexical_item": "",
+          "value": "柬埔寨[Jian3 pu3 zhai4], Cambodia"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jiǎn",
+          "wade_giles_pinyin": "jian3"
+        }
+      ],
+      "simplified": "柬",
+      "simplified_stroke_count": 9,
+      "traditional": "柬",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "card"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "note"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "letter"
+        },
+        {
+          "context": "old variant",
+          "lexical_item": "",
+          "value": "揀|拣[jian3]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

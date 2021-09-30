@@ -1,0 +1,53 @@
+{
+  "simplified": "故宫",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " gù gōng",
+          "wade_giles_pinyin": "Gu4 gong1"
+        }
+      ],
+      "simplified": "故宫",
+      "simplified_stroke_count": 0,
+      "traditional": "故宮",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "the Forbidden City"
+        },
+        {
+          "context": "abbreviation",
+          "lexical_item": "",
+          "value": "故宮博物院|故宫博物院[Gu4 gong1 Bo2 wu4 yuan4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " gù gōng",
+          "wade_giles_pinyin": "gu4 gong1"
+        }
+      ],
+      "simplified": "故宫",
+      "simplified_stroke_count": 0,
+      "traditional": "故宮",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "former imperial palace"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

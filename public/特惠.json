@@ -1,0 +1,29 @@
+{
+  "simplified": "特惠",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tè huì",
+          "wade_giles_pinyin": "te4 hui4"
+        }
+      ],
+      "simplified": "特惠",
+      "traditional": "特惠",
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "value": "特別優惠|特别优惠[te4 bie2 you1 hui4]",
+          "simplified": "特",
+          "traditional": "別優惠|特别优惠",
+          "wade_giles_pinyin": "te4 bie2 you1 hui4"
+        },
+        {
+          "value": "ex gratia"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

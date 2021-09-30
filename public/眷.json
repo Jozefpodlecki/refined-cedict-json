@@ -1,0 +1,61 @@
+{
+  "simplified": "眷",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "juàn",
+          "wade_giles_pinyin": "juan4"
+        }
+      ],
+      "simplified": "眷",
+      "simplified_stroke_count": 11,
+      "traditional": "眷",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "concern"
+        },
+        {
+          "value": "wife and children"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "juàn",
+          "wade_giles_pinyin": "juan4"
+        }
+      ],
+      "simplified": "眷",
+      "simplified_stroke_count": 11,
+      "traditional": "睠",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 眷[juan4]",
+          "simplified": "眷",
+          "traditional": "",
+          "wade_giles_pinyin": "juan4"
+        },
+        {
+          "value": "to care about"
+        },
+        {
+          "value": "to look fondly on"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "simplified": "开支",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kāi zhī",
+          "wade_giles_pinyin": "kai1 zhi1"
+        }
+      ],
+      "simplified": "开支",
+      "traditional": "開支",
+      "meanings": [
+        {
+          "value": "expenditures"
+        },
+        {
+          "value": "expenses"
+        },
+        {
+          "value": "to spend money"
+        },
+        {
+          "context": "colloquial",
+          "value": "to pay wages"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "筆",
+          "traditional": "笔",
+          "wade_giles_pinyin": "bi3"
+        },
+        {
+          "simplified": " ",
+          "traditional": "項|项",
+          "wade_giles_pinyin": "xiang4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "分家",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fēn jiā",
+          "wade_giles_pinyin": "fen1 jia1"
+        }
+      ],
+      "simplified": "分家",
+      "simplified_stroke_count": 0,
+      "traditional": "分家",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to separate and live apart"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "division of a large family into smaller groups"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

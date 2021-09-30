@@ -1,0 +1,28 @@
+{
+  "simplified": "茶楼",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chá lóu",
+          "wade_giles_pinyin": "cha2 lou2"
+        }
+      ],
+      "simplified": "茶楼",
+      "traditional": "茶樓",
+      "meanings": [
+        {
+          "value": "tearoom"
+        },
+        {
+          "value": "teahouse"
+        },
+        {
+          "value": "dim sum restaurant (Hong Kong)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "回覆",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huí fù",
+          "wade_giles_pinyin": "hui2 fu4"
+        }
+      ],
+      "simplified": "回覆",
+      "traditional": "回覆",
+      "meanings": [
+        {
+          "value": "to reply"
+        },
+        {
+          "value": "to recover"
+        },
+        {
+          "context": "variant",
+          "value": "variant of 回復|回复[hui2 fu4]",
+          "simplified": "回",
+          "traditional": "復|回复",
+          "wade_giles_pinyin": "hui2 fu4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

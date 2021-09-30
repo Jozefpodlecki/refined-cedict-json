@@ -1,0 +1,23 @@
+{
+  "simplified": "奈秒",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nài miǎo",
+          "wade_giles_pinyin": "nai4 miao3"
+        }
+      ],
+      "simplified": "奈秒",
+      "traditional": "奈秒",
+      "meanings": [
+        {
+          "context": "taiwan",
+          "value": "nanosecond, ns, 10^-9 s"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

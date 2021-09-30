@@ -1,0 +1,42 @@
+{
+  "simplified": "漫山遍野",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " màn shān biàn yě",
+          "wade_giles_pinyin": "man4 shan1 bian4 ye3"
+        }
+      ],
+      "simplified": "漫山遍野",
+      "simplified_stroke_count": 0,
+      "traditional": "漫山遍野",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "lit. covering the mountains and the plains"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "fig. as far as the eye can see"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "covering everything"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "omnipresent"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

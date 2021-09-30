@@ -1,0 +1,42 @@
+{
+  "simplified": "对不起",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "duì bu qǐ",
+          "wade_giles_pinyin": "dui4 bu5 qi3"
+        }
+      ],
+      "simplified": "对不起",
+      "traditional": "對不起",
+      "meanings": [
+        {
+          "value": "unworthy"
+        },
+        {
+          "value": "to let down"
+        },
+        {
+          "value": "I'm sorry"
+        },
+        {
+          "value": "excuse me"
+        },
+        {
+          "value": "pardon me"
+        },
+        {
+          "value": "if you please"
+        },
+        {
+          "value": "sorry? (please repeat)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

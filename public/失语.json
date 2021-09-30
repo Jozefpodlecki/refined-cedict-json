@@ -1,0 +1,30 @@
+{
+  "simplified": "失语",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shī yǔ",
+          "wade_giles_pinyin": "shi1 yu3"
+        }
+      ],
+      "simplified": "失语",
+      "traditional": "失語",
+      "meanings": [
+        {
+          "value": "to let slip"
+        },
+        {
+          "value": "loss of speech (e.g. as a result of brain damage)"
+        },
+        {
+          "value": "aphasia"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

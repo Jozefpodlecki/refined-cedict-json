@@ -1,0 +1,30 @@
+{
+  "simplified": "自检",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zì jiǎn",
+          "wade_giles_pinyin": "zi4 jian3"
+        }
+      ],
+      "simplified": "自检",
+      "traditional": "自檢",
+      "meanings": [
+        {
+          "value": "to act with self-restraint"
+        },
+        {
+          "value": "to examine oneself"
+        },
+        {
+          "value": "to perform a self-test"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

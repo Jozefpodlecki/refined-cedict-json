@@ -1,0 +1,33 @@
+{
+  "simplified": "锻",
+  "simplified_stroke_count": 14,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "duàn",
+          "wade_giles_pinyin": "duan4"
+        }
+      ],
+      "simplified": "锻",
+      "simplified_stroke_count": 14,
+      "traditional": "鍛",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "to forge"
+        },
+        {
+          "value": "to discipline"
+        },
+        {
+          "value": "wrought"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

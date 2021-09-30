@@ -1,0 +1,32 @@
+{
+  "simplified": "道教",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dào jiào",
+          "wade_giles_pinyin": "Dao4 jiao4"
+        }
+      ],
+      "simplified": "道教",
+      "simplified_stroke_count": 0,
+      "traditional": "道教",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Taoism"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Daoism (Chinese system of beliefs)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

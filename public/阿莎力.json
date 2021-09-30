@@ -1,0 +1,30 @@
+{
+  "simplified": "阿莎力",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ā shā lì",
+          "wade_giles_pinyin": "a1 sha1 li4"
+        }
+      ],
+      "simplified": "阿莎力",
+      "traditional": "阿莎力",
+      "meanings": [
+        {
+          "context": "colloquial",
+          "value": "straightforward"
+        },
+        {
+          "value": "unreserved"
+        },
+        {
+          "context": "Japanese",
+          "value": "openhearted (Tw) (loanword from Japanese \"assari\")"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "做声",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zuò shēng",
+          "wade_giles_pinyin": "zuo4 sheng1"
+        }
+      ],
+      "simplified": "做声",
+      "simplified_stroke_count": 0,
+      "traditional": "做聲",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to speak"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to emit sound"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

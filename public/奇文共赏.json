@@ -1,0 +1,30 @@
+{
+  "simplified": "奇文共赏",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qí wén gòng shǎng",
+          "wade_giles_pinyin": "qi2 wen2 gong4 shang3"
+        }
+      ],
+      "simplified": "奇文共赏",
+      "traditional": "奇文共賞",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "remarkable work appreciated by all ; universally praised (original meaning)"
+        },
+        {
+          "value": "incomprehensible nonsense"
+        },
+        {
+          "value": "preposterous bullshit"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "翻过来",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fān guò lái",
+          "wade_giles_pinyin": "fan1 guo4 lai2"
+        }
+      ],
+      "simplified": "翻过来",
+      "simplified_stroke_count": null,
+      "traditional": "翻過來",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to overturn"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to turn upside down"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

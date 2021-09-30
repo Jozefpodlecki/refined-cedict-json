@@ -1,0 +1,28 @@
+{
+  "simplified": "腹部",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fù bù",
+          "wade_giles_pinyin": "fu4 bu4"
+        }
+      ],
+      "simplified": "腹部",
+      "traditional": "腹部",
+      "meanings": [
+        {
+          "value": "abdomen"
+        },
+        {
+          "value": "belly"
+        },
+        {
+          "value": "flank"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

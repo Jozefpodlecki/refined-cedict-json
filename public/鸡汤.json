@@ -1,0 +1,37 @@
+{
+  "simplified": "鸡汤",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jī tāng",
+          "wade_giles_pinyin": "ji1 tang1"
+        }
+      ],
+      "simplified": "鸡汤",
+      "simplified_stroke_count": null,
+      "traditional": "雞湯",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "chicken stock"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "chicken soup"
+        },
+        {
+          "context": "figuratively",
+          "lexical_item": null,
+          "value": "chicken soup for the soul – i.e. feel-good motivational stories (often used disparagingly because the stories don't really effect change in people's lives)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

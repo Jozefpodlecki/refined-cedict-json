@@ -1,0 +1,40 @@
+{
+  "simplified": "话说回来",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huà shuō huí lai",
+          "wade_giles_pinyin": "hua4 shuo1 hui2 lai5"
+        }
+      ],
+      "simplified": "话说回来",
+      "traditional": "話說回來",
+      "meanings": [
+        {
+          "value": "returning to our main topic,..."
+        },
+        {
+          "value": "that said,..."
+        },
+        {
+          "value": "again,..."
+        },
+        {
+          "value": "in this connection"
+        },
+        {
+          "value": "in passing"
+        },
+        {
+          "value": "nevertheless,..."
+        },
+        {
+          "value": "anyhow"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

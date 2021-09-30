@@ -1,0 +1,75 @@
+{
+  "simplified": "驮",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tuó",
+          "wade_giles_pinyin": "tuo2"
+        }
+      ],
+      "simplified": "驮",
+      "simplified_stroke_count": 6,
+      "traditional": "䭾",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": null,
+          "value": "馱|驮[tuo2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "duò",
+          "wade_giles_pinyin": "duo4"
+        }
+      ],
+      "simplified": "驮",
+      "simplified_stroke_count": 6,
+      "traditional": "馱",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "load carried by a pack animal"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tuó",
+          "wade_giles_pinyin": "tuo2"
+        }
+      ],
+      "simplified": "驮",
+      "simplified_stroke_count": 6,
+      "traditional": "馱",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to carry on one's back"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

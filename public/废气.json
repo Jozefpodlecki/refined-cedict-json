@@ -1,0 +1,37 @@
+{
+  "simplified": "废气",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " feì qì",
+          "wade_giles_pinyin": "fei4 qi4"
+        }
+      ],
+      "simplified": "废气",
+      "simplified_stroke_count": 0,
+      "traditional": "廢氣",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "exhaust gas"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "industrial waste gas"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "steam"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

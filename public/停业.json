@@ -1,0 +1,27 @@
+{
+  "simplified": "停业",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tíng yè",
+          "wade_giles_pinyin": "ting2 ye4"
+        }
+      ],
+      "simplified": "停业",
+      "traditional": "停業",
+      "meanings": [
+        {
+          "value": "to cease trading (temporarily or permanently)"
+        },
+        {
+          "value": "to close down"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

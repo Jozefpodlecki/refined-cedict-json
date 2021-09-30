@@ -1,0 +1,30 @@
+{
+  "simplified": "会友",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huì yǒu",
+          "wade_giles_pinyin": "hui4 you3"
+        }
+      ],
+      "simplified": "会友",
+      "traditional": "會友",
+      "meanings": [
+        {
+          "value": "to make friends"
+        },
+        {
+          "value": "to meet friends"
+        },
+        {
+          "value": "member of the same organization"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

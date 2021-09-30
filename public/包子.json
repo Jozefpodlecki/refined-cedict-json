@@ -1,0 +1,28 @@
+{
+  "simplified": "包子",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bāo zi",
+          "wade_giles_pinyin": "bao1 zi5"
+        }
+      ],
+      "simplified": "包子",
+      "traditional": "包子",
+      "meanings": [
+        {
+          "value": "steamed stuffed bun"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

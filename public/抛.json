@@ -1,0 +1,49 @@
+{
+  "simplified": "抛",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " pāo",
+          "wade_giles_pinyin": "pao1"
+        }
+      ],
+      "simplified": "抛",
+      "simplified_stroke_count": 7,
+      "traditional": "拋",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to throw"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to toss"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to fling"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to cast"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to abandon"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

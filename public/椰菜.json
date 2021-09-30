@@ -1,0 +1,37 @@
+{
+  "simplified": "椰菜",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yē cài",
+          "wade_giles_pinyin": "ye1 cai4"
+        }
+      ],
+      "simplified": "椰菜",
+      "simplified_stroke_count": null,
+      "traditional": "椰菜",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "cabbage"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "broccoli"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "cauliflower"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

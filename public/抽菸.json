@@ -1,0 +1,31 @@
+{
+  "simplified": "抽菸",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chōu yān",
+          "wade_giles_pinyin": "chou1 yan1"
+        }
+      ],
+      "simplified": "抽菸",
+      "traditional": "抽菸",
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 抽煙|抽烟[chou1 yan1]",
+          "simplified": "抽",
+          "traditional": "煙|抽烟",
+          "wade_giles_pinyin": "chou1 yan1"
+        },
+        {
+          "value": "to smoke (a cigarette, tobacco)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

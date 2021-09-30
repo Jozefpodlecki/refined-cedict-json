@@ -1,0 +1,32 @@
+{
+  "simplified": "日元",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " rì yuán",
+          "wade_giles_pinyin": "Ri4 yuan2"
+        }
+      ],
+      "simplified": "日元",
+      "simplified_stroke_count": 0,
+      "traditional": "日元",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "polite",
+          "lexical_item": "",
+          "value": "Japanese yen (unit of currency)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "also written 日圓|日圆"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

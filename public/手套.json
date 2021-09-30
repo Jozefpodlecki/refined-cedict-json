@@ -1,0 +1,36 @@
+{
+  "simplified": "手套",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shǒu tào",
+          "wade_giles_pinyin": "shou3 tao4"
+        }
+      ],
+      "simplified": "手套",
+      "traditional": "手套",
+      "meanings": [
+        {
+          "value": "glove"
+        },
+        {
+          "value": "mitten"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "雙",
+          "traditional": "双",
+          "wade_giles_pinyin": "shuang1"
+        },
+        {
+          "simplified": "隻",
+          "traditional": "只",
+          "wade_giles_pinyin": "zhi1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "simplified": "革职",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gé zhí",
+          "wade_giles_pinyin": "ge2 zhi2"
+        }
+      ],
+      "simplified": "革职",
+      "traditional": "革職",
+      "meanings": [
+        {
+          "value": "to sack"
+        },
+        {
+          "value": "to remove from a position"
+        },
+        {
+          "value": "to depose"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

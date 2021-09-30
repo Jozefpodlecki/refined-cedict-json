@@ -1,0 +1,36 @@
+{
+  "simplified": "起作用",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qǐ zuò yòng",
+          "wade_giles_pinyin": "qi3 zuo4 yong4"
+        }
+      ],
+      "simplified": "起作用",
+      "traditional": "起作用",
+      "meanings": [
+        {
+          "value": "to have an effect"
+        },
+        {
+          "value": "to play a role"
+        },
+        {
+          "value": "to be operative"
+        },
+        {
+          "value": "to work"
+        },
+        {
+          "value": "to function"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

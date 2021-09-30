@@ -1,0 +1,32 @@
+{
+  "simplified": "中资",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhōng zī",
+          "wade_giles_pinyin": "zhong1 zi1"
+        }
+      ],
+      "simplified": "中资",
+      "simplified_stroke_count": 0,
+      "traditional": "中資",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Chinese capital"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Chinese enterprise"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

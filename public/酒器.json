@@ -1,0 +1,32 @@
+{
+  "simplified": "酒器",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiǔ qì",
+          "wade_giles_pinyin": "jiu3 qi4"
+        }
+      ],
+      "simplified": "酒器",
+      "simplified_stroke_count": null,
+      "traditional": "酒器",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "drinking vessel"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "wine cup"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

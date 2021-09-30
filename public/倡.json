@@ -1,0 +1,44 @@
+{
+  "simplified": "倡",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chàng",
+          "wade_giles_pinyin": "chang4"
+        }
+      ],
+      "simplified": "倡",
+      "simplified_stroke_count": 10,
+      "traditional": "倡",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to initiate"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to instigate"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to introduce"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to lead"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

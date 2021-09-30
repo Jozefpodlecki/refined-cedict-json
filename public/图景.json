@@ -1,0 +1,42 @@
+{
+  "simplified": "图景",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " tú jǐng",
+          "wade_giles_pinyin": "tu2 jing3"
+        }
+      ],
+      "simplified": "图景",
+      "simplified_stroke_count": 0,
+      "traditional": "圖景",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "landscape (in a picture)"
+        },
+        {
+          "context": "figuratively",
+          "lexical_item": "",
+          "value": "landscape (i.e. general situation)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "view of the situation"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "mental picture"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

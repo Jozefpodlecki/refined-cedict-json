@@ -1,0 +1,34 @@
+{
+  "simplified": "悼",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dào",
+          "wade_giles_pinyin": "dao4"
+        }
+      ],
+      "simplified": "悼",
+      "simplified_stroke_count": 11,
+      "traditional": "悼",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to mourn"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to lament"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

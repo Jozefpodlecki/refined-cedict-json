@@ -1,0 +1,32 @@
+{
+  "simplified": "燃烧弹",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rán shāo dàn",
+          "wade_giles_pinyin": "ran2 shao1 dan4"
+        }
+      ],
+      "simplified": "燃烧弹",
+      "simplified_stroke_count": null,
+      "traditional": "燃燒彈",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "fire bomb"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "incendiary device"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

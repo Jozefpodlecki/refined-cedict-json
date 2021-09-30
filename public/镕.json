@@ -1,0 +1,31 @@
+{
+  "simplified": "镕",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "róng",
+          "wade_giles_pinyin": "rong2"
+        }
+      ],
+      "simplified": "镕",
+      "simplified_stroke_count": 15,
+      "traditional": "鎔",
+      "traditional_stroke_count": 18,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 熔[rong2]",
+          "simplified": "熔",
+          "traditional": "",
+          "wade_giles_pinyin": "rong2"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

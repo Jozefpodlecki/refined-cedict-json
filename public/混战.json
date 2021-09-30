@@ -1,0 +1,33 @@
+{
+  "simplified": "混战",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hùn zhàn",
+          "wade_giles_pinyin": "hun4 zhan4"
+        }
+      ],
+      "simplified": "混战",
+      "traditional": "混戰",
+      "meanings": [
+        {
+          "value": "chaotic warfare"
+        },
+        {
+          "value": "confused fighting"
+        },
+        {
+          "value": "melee"
+        },
+        {
+          "value": "to join in such fighting"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

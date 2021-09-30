@@ -1,0 +1,34 @@
+{
+  "simplified": "做人",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zuò rén",
+          "wade_giles_pinyin": "zuo4 ren2"
+        }
+      ],
+      "simplified": "做人",
+      "simplified_stroke_count": null,
+      "traditional": "做人",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to conduct oneself"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to behave with integrity"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

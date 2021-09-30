@@ -1,0 +1,33 @@
+{
+  "simplified": "枕",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhěn",
+          "wade_giles_pinyin": "zhen3"
+        }
+      ],
+      "simplified": "枕",
+      "simplified_stroke_count": 8,
+      "traditional": "枕",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "pillow"
+        },
+        {
+          "value": "to pillow"
+        },
+        {
+          "value": "to rest one's head on (Taiwan pr. [zhen4] for this sense)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

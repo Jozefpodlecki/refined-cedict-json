@@ -1,0 +1,27 @@
+{
+  "simplified": "开区间",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kāi qū jiān",
+          "wade_giles_pinyin": "kai1 qu1 jian1"
+        }
+      ],
+      "simplified": "开区间",
+      "simplified_stroke_count": null,
+      "traditional": "開區間",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "open interval (in calculus)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

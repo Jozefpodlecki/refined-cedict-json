@@ -1,0 +1,39 @@
+{
+  "simplified": "补报",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bǔ bào",
+          "wade_giles_pinyin": "bu3 bao4"
+        }
+      ],
+      "simplified": "补报",
+      "simplified_stroke_count": 0,
+      "traditional": "補報",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to make a report after the event"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to make a supplementary report"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to repay a kindness"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "simplified": "荣誉军人",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "róng yù jūn rén",
+          "wade_giles_pinyin": "rong2 yu4 jun1 ren2"
+        }
+      ],
+      "simplified": "荣誉军人",
+      "traditional": "榮譽軍人",
+      "meanings": [
+        {
+          "value": "disabled soldier"
+        },
+        {
+          "value": "serviceman wounded in action"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

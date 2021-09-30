@@ -1,0 +1,37 @@
+{
+  "simplified": "脸相",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "liǎn xiàng",
+          "wade_giles_pinyin": "lian3 xiang4"
+        }
+      ],
+      "simplified": "脸相",
+      "simplified_stroke_count": null,
+      "traditional": "臉相",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "complexion"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "looks"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "appearance of one's face"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

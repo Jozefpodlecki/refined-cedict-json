@@ -1,0 +1,39 @@
+{
+  "simplified": "堪",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " kān",
+          "wade_giles_pinyin": "kan1"
+        }
+      ],
+      "simplified": "堪",
+      "simplified_stroke_count": 12,
+      "traditional": "堪",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to endure"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "may"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "can"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

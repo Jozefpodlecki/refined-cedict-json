@@ -1,0 +1,48 @@
+{
+  "simplified": "栈单",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhàn dān",
+          "wade_giles_pinyin": "zhan4 dan1"
+        }
+      ],
+      "simplified": "栈单",
+      "simplified_stroke_count": 0,
+      "traditional": "棧單",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "cargo receipt"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "landing account"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "warehouse or storage receipt"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:張|张[zhang1]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "張",
+          "traditional": "张",
+          "wade_giles_pinyin": "zhang1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

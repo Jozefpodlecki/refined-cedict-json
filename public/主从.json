@@ -1,0 +1,28 @@
+{
+  "simplified": "主从",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhǔ cóng",
+          "wade_giles_pinyin": "zhu3 cong2"
+        }
+      ],
+      "simplified": "主从",
+      "traditional": "主從",
+      "meanings": [
+        {
+          "value": "master-slave (computing)"
+        },
+        {
+          "value": "client-server (computing)"
+        },
+        {
+          "value": "primary and secondary"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

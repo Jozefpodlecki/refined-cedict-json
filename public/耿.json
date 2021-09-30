@@ -1,0 +1,50 @@
+{
+  "simplified": "耿",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gěng",
+          "wade_giles_pinyin": "Geng3"
+        }
+      ],
+      "simplified": "耿",
+      "simplified_stroke_count": 10,
+      "traditional": "耿",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "surname Geng"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gěng",
+          "wade_giles_pinyin": "geng3"
+        }
+      ],
+      "simplified": "耿",
+      "simplified_stroke_count": 10,
+      "traditional": "耿",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "bright"
+        },
+        {
+          "value": "honest"
+        },
+        {
+          "value": "upright"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

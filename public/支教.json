@@ -1,0 +1,34 @@
+{
+  "simplified": "支教",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhī jiào",
+          "wade_giles_pinyin": "zhi1 jiao4"
+        }
+      ],
+      "simplified": "支教",
+      "simplified_stroke_count": 0,
+      "traditional": "支教",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "program bringing education to underdeveloped areas"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to work in such a program"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

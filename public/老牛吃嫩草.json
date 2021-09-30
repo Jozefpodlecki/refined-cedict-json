@@ -1,0 +1,30 @@
+{
+  "simplified": "老牛吃嫩草",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lǎo niú chī nèn cǎo",
+          "wade_giles_pinyin": "lao3 niu2 chi1 nen4 cao3"
+        }
+      ],
+      "simplified": "老牛吃嫩草",
+      "traditional": "老牛吃嫩草",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "an old cow eats young grass"
+        },
+        {
+          "value": "fig. a May-December relationship"
+        },
+        {
+          "value": "a romance where the man is significantly older than the woman"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

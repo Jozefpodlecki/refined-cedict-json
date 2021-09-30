@@ -1,0 +1,47 @@
+{
+  "simplified": "缕",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lǚ",
+          "wade_giles_pinyin": "lu:3"
+        }
+      ],
+      "simplified": "缕",
+      "simplified_stroke_count": 12,
+      "traditional": "縷",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "strand"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "thread"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "detailed"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "in detail"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "classifier for wisps (of smoke, mist or vapor), strands, locks (of hair)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

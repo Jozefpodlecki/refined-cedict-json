@@ -1,0 +1,37 @@
+{
+  "simplified": "准时",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhǔn shí",
+          "wade_giles_pinyin": "zhun3 shi2"
+        }
+      ],
+      "simplified": "准时",
+      "simplified_stroke_count": 0,
+      "traditional": "準時",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "on time"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "punctual"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "on schedule"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

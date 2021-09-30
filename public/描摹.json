@@ -1,0 +1,34 @@
+{
+  "simplified": "描摹",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "miáo mó",
+          "wade_giles_pinyin": "miao2 mo2"
+        }
+      ],
+      "simplified": "描摹",
+      "traditional": "描摹",
+      "meanings": [
+        {
+          "value": "to trace over"
+        },
+        {
+          "value": "to take a copy (of a calligraphy, a painting etc)"
+        },
+        {
+          "context": "figuratively",
+          "value": "to describe"
+        },
+        {
+          "value": "to portray"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

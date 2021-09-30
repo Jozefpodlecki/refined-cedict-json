@@ -1,0 +1,37 @@
+{
+  "simplified": "穿刺",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chuān cì",
+          "wade_giles_pinyin": "chuan1 ci4"
+        }
+      ],
+      "simplified": "穿刺",
+      "simplified_stroke_count": null,
+      "traditional": "穿刺",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "medical puncture to extract bodily fluid (a tap)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "body piercing"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "puncture"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

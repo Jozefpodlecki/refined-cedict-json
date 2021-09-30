@@ -1,0 +1,37 @@
+{
+  "simplified": "吴头楚尾",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wú tóu chǔ wěi",
+          "wade_giles_pinyin": "Wu2 tou2 Chu3 wei3"
+        }
+      ],
+      "simplified": "吴头楚尾",
+      "simplified_stroke_count": null,
+      "traditional": "吳頭楚尾",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "lit. head in Wu and tail in Chu ; fig. close together"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "head-to-tail"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "one thing starts where the other leaves off"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

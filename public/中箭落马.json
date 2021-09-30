@@ -1,0 +1,29 @@
+{
+  "simplified": "中箭落马",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhòng jiàn luò mǎ",
+          "wade_giles_pinyin": "zhong4 jian4 luo4 ma3"
+        }
+      ],
+      "simplified": "中箭落马",
+      "traditional": "中箭落馬",
+      "meanings": [
+        {
+          "context": "literature",
+          "value": "to be struck by an arrow and fall from one's horse"
+        },
+        {
+          "lexical_item": "idiom",
+          "value": "to suffer a serious setback"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

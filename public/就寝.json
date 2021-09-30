@@ -1,0 +1,34 @@
+{
+  "simplified": "就寝",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jiù qǐn",
+          "wade_giles_pinyin": "jiu4 qin3"
+        }
+      ],
+      "simplified": "就寝",
+      "simplified_stroke_count": 0,
+      "traditional": "就寢",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to go to sleep"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to go to bed (literary)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

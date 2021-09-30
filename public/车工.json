@@ -1,0 +1,32 @@
+{
+  "simplified": "车工",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chē gōng",
+          "wade_giles_pinyin": "che1 gong1"
+        }
+      ],
+      "simplified": "车工",
+      "simplified_stroke_count": null,
+      "traditional": "車工",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "lathe work"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "lathe operator"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

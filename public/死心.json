@@ -1,0 +1,36 @@
+{
+  "simplified": "死心",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sǐ xīn",
+          "wade_giles_pinyin": "si3 xin1"
+        }
+      ],
+      "simplified": "死心",
+      "traditional": "死心",
+      "meanings": [
+        {
+          "value": "to give up"
+        },
+        {
+          "value": "to admit failure"
+        },
+        {
+          "value": "to drop the matter"
+        },
+        {
+          "value": "to reconcile oneself to loss"
+        },
+        {
+          "value": "to have no more illusions about"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

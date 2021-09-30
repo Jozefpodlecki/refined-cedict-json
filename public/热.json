@@ -1,0 +1,39 @@
+{
+  "simplified": "热",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rè",
+          "wade_giles_pinyin": "re4"
+        }
+      ],
+      "simplified": "热",
+      "simplified_stroke_count": 10,
+      "traditional": "熱",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "to warm up"
+        },
+        {
+          "value": "to heat up"
+        },
+        {
+          "value": "hot (of weather)"
+        },
+        {
+          "value": "heat"
+        },
+        {
+          "value": "fervent"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

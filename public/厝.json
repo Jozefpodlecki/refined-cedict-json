@@ -1,0 +1,33 @@
+{
+  "simplified": "厝",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cuò",
+          "wade_giles_pinyin": "cuo4"
+        }
+      ],
+      "simplified": "厝",
+      "simplified_stroke_count": 10,
+      "traditional": "厝",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "to lay in place"
+        },
+        {
+          "value": "to put"
+        },
+        {
+          "value": "to place a coffin in a temporary location pending burial"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

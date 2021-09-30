@@ -1,0 +1,27 @@
+{
+  "simplified": "打马赛克",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dǎ mǎ sài kè",
+          "wade_giles_pinyin": "da3 ma3 sai4 ke4"
+        }
+      ],
+      "simplified": "打马赛克",
+      "traditional": "打馬賽克",
+      "meanings": [
+        {
+          "value": "to censor an image"
+        },
+        {
+          "value": "to pixelate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

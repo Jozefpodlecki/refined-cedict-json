@@ -1,0 +1,32 @@
+{
+  "simplified": "一粒老鼠屎坏了一锅粥",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yī lì lǎo shǔ shǐ huài le yī guō zhōu",
+          "wade_giles_pinyin": "yi1 li4 lao3 shu3 shi3 huai4 le5 yi1 guo1 zhou1"
+        }
+      ],
+      "simplified": "一粒老鼠屎坏了一锅粥",
+      "simplified_stroke_count": null,
+      "traditional": "一粒老鼠屎壞了一鍋粥",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "lit. a piece of rat feces spoiled the whole pot of congee"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "fig. one bad apple can spoil the whole bunch"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

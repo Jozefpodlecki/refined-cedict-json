@@ -1,0 +1,37 @@
+{
+  "simplified": "晚宴",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " wǎn yàn",
+          "wade_giles_pinyin": "wan3 yan4"
+        }
+      ],
+      "simplified": "晚宴",
+      "simplified_stroke_count": 0,
+      "traditional": "晚宴",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "banquet"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "dinner party"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "soiree"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

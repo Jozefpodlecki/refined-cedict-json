@@ -1,0 +1,34 @@
+{
+  "simplified": "人保",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " rén bǎo",
+          "wade_giles_pinyin": "ren2 bao3"
+        }
+      ],
+      "simplified": "人保",
+      "simplified_stroke_count": 0,
+      "traditional": "人保",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "personal guarantee"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to sign as guarantor"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

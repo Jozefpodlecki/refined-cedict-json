@@ -1,0 +1,66 @@
+{
+  "simplified": "枸",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gōu",
+          "wade_giles_pinyin": "gou1"
+        }
+      ],
+      "simplified": "枸",
+      "simplified_stroke_count": 9,
+      "traditional": "枸",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "bent"
+        },
+        {
+          "value": "crooked"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gǒu",
+          "wade_giles_pinyin": "gou3"
+        }
+      ],
+      "simplified": "枸",
+      "simplified_stroke_count": 9,
+      "traditional": "枸",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "Chinese wolfberry (Lycium chinense)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jǔ",
+          "wade_giles_pinyin": "ju3"
+        }
+      ],
+      "simplified": "枸",
+      "simplified_stroke_count": 9,
+      "traditional": "枸",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "Citrus medica"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "simplified": "战绩",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhàn jì",
+          "wade_giles_pinyin": "zhan4 ji4"
+        }
+      ],
+      "simplified": "战绩",
+      "traditional": "戰績",
+      "meanings": [
+        {
+          "value": "military successes"
+        },
+        {
+          "context": "figuratively",
+          "value": "success"
+        },
+        {
+          "value": "accomplishment"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

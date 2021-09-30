@@ -1,0 +1,25 @@
+{
+  "simplified": "比赛场",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǐ sài chǎng",
+          "wade_giles_pinyin": "bi3 sai4 chang3"
+        }
+      ],
+      "simplified": "比赛场",
+      "traditional": "比賽場",
+      "meanings": [
+        {
+          "value": "stadium"
+        },
+        {
+          "value": "playing field for a competition"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

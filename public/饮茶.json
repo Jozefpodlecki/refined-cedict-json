@@ -1,0 +1,34 @@
+{
+  "simplified": "饮茶",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǐn chá",
+          "wade_giles_pinyin": "yin3 cha2"
+        }
+      ],
+      "simplified": "饮茶",
+      "simplified_stroke_count": null,
+      "traditional": "飲茶",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to have tea and refreshments"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to have dim sum lunch (Cantonese)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

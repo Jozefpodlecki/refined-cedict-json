@@ -1,0 +1,34 @@
+{
+  "simplified": "汇拢",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huì lǒng",
+          "wade_giles_pinyin": "hui4 long3"
+        }
+      ],
+      "simplified": "汇拢",
+      "simplified_stroke_count": null,
+      "traditional": "匯攏",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to collect"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to gather"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

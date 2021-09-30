@@ -1,0 +1,36 @@
+{
+  "simplified": "宣传",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xuān chuán",
+          "wade_giles_pinyin": "xuan1 chuan2"
+        }
+      ],
+      "simplified": "宣传",
+      "traditional": "宣傳",
+      "meanings": [
+        {
+          "value": "to disseminate"
+        },
+        {
+          "value": "to give publicity to"
+        },
+        {
+          "value": "propaganda"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

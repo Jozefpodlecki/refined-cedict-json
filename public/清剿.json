@@ -1,0 +1,34 @@
+{
+  "simplified": "清剿",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qīng jiǎo",
+          "wade_giles_pinyin": "qing1 jiao3"
+        }
+      ],
+      "simplified": "清剿",
+      "simplified_stroke_count": null,
+      "traditional": "清剿",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to suppress (insurgents)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "clean-up operation"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

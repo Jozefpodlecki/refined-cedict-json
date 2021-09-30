@@ -1,0 +1,119 @@
+{
+  "simplified": "创",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chuàng",
+          "wade_giles_pinyin": "chuang4"
+        }
+      ],
+      "simplified": "创",
+      "simplified_stroke_count": 6,
+      "traditional": "剏",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 創|创[chuang4]",
+          "simplified": "創",
+          "traditional": "创",
+          "wade_giles_pinyin": "chuang4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chuàng",
+          "wade_giles_pinyin": "chuang4"
+        }
+      ],
+      "simplified": "创",
+      "simplified_stroke_count": 6,
+      "traditional": "剙",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 創|创[chuang4]",
+          "simplified": "創",
+          "traditional": "创",
+          "wade_giles_pinyin": "chuang4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chuāng",
+          "wade_giles_pinyin": "chuang1"
+        }
+      ],
+      "simplified": "创",
+      "simplified_stroke_count": 6,
+      "traditional": "創",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "a wound"
+        },
+        {
+          "value": "cut"
+        },
+        {
+          "value": "injury"
+        },
+        {
+          "value": "trauma"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chuàng",
+          "wade_giles_pinyin": "chuang4"
+        }
+      ],
+      "simplified": "创",
+      "simplified_stroke_count": 6,
+      "traditional": "創",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "to begin"
+        },
+        {
+          "value": "to initiate"
+        },
+        {
+          "value": "to inaugurate"
+        },
+        {
+          "value": "to start"
+        },
+        {
+          "value": "to create"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

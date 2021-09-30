@@ -1,0 +1,32 @@
+{
+  "simplified": "排水口",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pái shuǐ kǒu",
+          "wade_giles_pinyin": "pai2 shui3 kou3"
+        }
+      ],
+      "simplified": "排水口",
+      "simplified_stroke_count": null,
+      "traditional": "排水口",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "plughole"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "drainage hole"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

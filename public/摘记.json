@@ -1,0 +1,34 @@
+{
+  "simplified": "摘记",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhāi jì",
+          "wade_giles_pinyin": "zhai1 ji4"
+        }
+      ],
+      "simplified": "摘记",
+      "simplified_stroke_count": 0,
+      "traditional": "摘記",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to take notes"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to excerpt"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

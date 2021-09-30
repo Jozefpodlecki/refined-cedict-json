@@ -1,0 +1,57 @@
+{
+  "simplified": "捣腾",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dǎo téng",
+          "wade_giles_pinyin": "dao3 teng2"
+        }
+      ],
+      "simplified": "捣腾",
+      "simplified_stroke_count": 0,
+      "traditional": "搗騰",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to buy and sell"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "peddling"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dǎo teng",
+          "wade_giles_pinyin": "dao3 teng5"
+        }
+      ],
+      "simplified": "捣腾",
+      "simplified_stroke_count": 0,
+      "traditional": "搗騰",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to turn over sth repeatedly"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

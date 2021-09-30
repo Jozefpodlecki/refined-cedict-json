@@ -1,0 +1,37 @@
+{
+  "simplified": "不变",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bù biàn",
+          "wade_giles_pinyin": "bu4 bian4"
+        }
+      ],
+      "simplified": "不变",
+      "simplified_stroke_count": 0,
+      "traditional": "不變",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "constant"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "unvarying"
+        },
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "(math.) invariant"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "simplified": "分",
+  "simplified_stroke_count": 4,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fēn",
+          "wade_giles_pinyin": "fen1"
+        }
+      ],
+      "simplified": "分",
+      "simplified_stroke_count": 4,
+      "traditional": "分",
+      "traditional_stroke_count": 4,
+      "meanings": [
+        {
+          "value": "to divide"
+        },
+        {
+          "value": "to separate"
+        },
+        {
+          "value": "to distribute"
+        },
+        {
+          "value": "to allocate"
+        },
+        {
+          "value": "to distinguish (good and bad)"
+        },
+        {
+          "value": "part or subdivision"
+        },
+        {
+          "value": "fraction"
+        },
+        {
+          "value": "one tenth (of certain units)"
+        },
+        {
+          "value": "unit of length equivalent to 0.33 cm"
+        },
+        {
+          "value": "minute (unit of time)"
+        },
+        {
+          "value": "minute (angular measurement unit)"
+        },
+        {
+          "value": "a point (in sports or games)"
+        },
+        {
+          "value": "0.01 yuan (unit of money)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fèn",
+          "wade_giles_pinyin": "fen4"
+        }
+      ],
+      "simplified": "分",
+      "simplified_stroke_count": 4,
+      "traditional": "分",
+      "traditional_stroke_count": 4,
+      "meanings": [
+        {
+          "value": "part"
+        },
+        {
+          "value": "share"
+        },
+        {
+          "value": "ingredient"
+        },
+        {
+          "value": "component"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

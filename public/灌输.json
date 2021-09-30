@@ -1,0 +1,54 @@
+{
+  "simplified": "灌输",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guàn shū",
+          "wade_giles_pinyin": "guan4 shu1"
+        }
+      ],
+      "simplified": "灌输",
+      "simplified_stroke_count": null,
+      "traditional": "灌輸",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to imbue with"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to inculcate"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to instill into"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to teach"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to impart"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to channel water to another place"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "simplified": "平印",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "píng yìn",
+          "wade_giles_pinyin": "ping2 yin4"
+        }
+      ],
+      "simplified": "平印",
+      "traditional": "平印",
+      "meanings": [
+        {
+          "value": "lithography"
+        },
+        {
+          "context": "abbreviation",
+          "value": "平版印刷[ping2 ban3 yin4 shua1]",
+          "simplified": "平",
+          "traditional": "版印刷",
+          "wade_giles_pinyin": "ping2 ban3 yin4 shua1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

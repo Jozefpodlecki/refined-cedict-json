@@ -1,0 +1,32 @@
+{
+  "simplified": "木料",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mù liào",
+          "wade_giles_pinyin": "mu4 liao4"
+        }
+      ],
+      "simplified": "木料",
+      "simplified_stroke_count": null,
+      "traditional": "木料",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "lumber"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "timber"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

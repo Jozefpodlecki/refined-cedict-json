@@ -1,0 +1,32 @@
+{
+  "simplified": "慜",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mǐn",
+          "wade_giles_pinyin": "min3"
+        }
+      ],
+      "simplified": "慜",
+      "simplified_stroke_count": 15,
+      "traditional": "慜",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "clever"
+        },
+        {
+          "context": "old variant",
+          "value": "old variant of 愍[min3]",
+          "simplified": "愍",
+          "traditional": "",
+          "wade_giles_pinyin": "min3"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

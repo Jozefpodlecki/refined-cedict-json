@@ -1,0 +1,31 @@
+{
+  "simplified": "簿",
+  "simplified_stroke_count": 19,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bù",
+          "wade_giles_pinyin": "bu4"
+        }
+      ],
+      "simplified": "簿",
+      "simplified_stroke_count": 19,
+      "traditional": "簿",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "value": "a book"
+        },
+        {
+          "value": "a register"
+        },
+        {
+          "value": "account-book"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

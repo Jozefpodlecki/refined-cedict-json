@@ -1,0 +1,28 @@
+{
+  "simplified": "手势",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shǒu shì",
+          "wade_giles_pinyin": "shou3 shi4"
+        }
+      ],
+      "simplified": "手势",
+      "traditional": "手勢",
+      "meanings": [
+        {
+          "value": "gesture"
+        },
+        {
+          "value": "sign"
+        },
+        {
+          "value": "signal"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

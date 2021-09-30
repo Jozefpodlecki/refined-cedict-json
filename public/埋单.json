@@ -1,0 +1,28 @@
+{
+  "simplified": "埋单",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mái dān",
+          "wade_giles_pinyin": "mai2 dan1"
+        }
+      ],
+      "simplified": "埋单",
+      "traditional": "埋單",
+      "meanings": [
+        {
+          "value": "to pay the bill (in a restaurant etc) (loanword from Cantonese)"
+        },
+        {
+          "context": "figuratively",
+          "value": "to bear responsibility"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "simplified": "案",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "àn",
+          "wade_giles_pinyin": "an4"
+        }
+      ],
+      "simplified": "案",
+      "simplified_stroke_count": 10,
+      "traditional": "案",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "(legal) case"
+        },
+        {
+          "value": "incident"
+        },
+        {
+          "value": "record"
+        },
+        {
+          "value": "file"
+        },
+        {
+          "value": "table"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

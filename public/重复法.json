@@ -1,0 +1,42 @@
+{
+  "simplified": "重复法",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chóng fù fǎ",
+          "wade_giles_pinyin": "chong2 fu4 fa3"
+        }
+      ],
+      "simplified": "重复法",
+      "simplified_stroke_count": null,
+      "traditional": "重複法",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "repetition"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "duplication"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "reduplication"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "anadiplosis"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

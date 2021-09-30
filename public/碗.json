@@ -1,0 +1,108 @@
+{
+  "simplified": "碗",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wǎn",
+          "wade_giles_pinyin": "wan3"
+        }
+      ],
+      "simplified": "碗",
+      "simplified_stroke_count": 13,
+      "traditional": "㼝",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 碗[wan3]",
+          "simplified": "碗",
+          "traditional": "",
+          "wade_giles_pinyin": "wan3"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wǎn",
+          "wade_giles_pinyin": "wan3"
+        }
+      ],
+      "simplified": "碗",
+      "simplified_stroke_count": 13,
+      "traditional": "椀",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 碗[wan3]",
+          "simplified": "碗",
+          "traditional": "",
+          "wade_giles_pinyin": "wan3"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wǎn",
+          "wade_giles_pinyin": "wan3"
+        }
+      ],
+      "simplified": "碗",
+      "simplified_stroke_count": 13,
+      "traditional": "盌",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 碗[wan3]",
+          "simplified": "碗",
+          "traditional": "",
+          "wade_giles_pinyin": "wan3"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wǎn",
+          "wade_giles_pinyin": "wan3"
+        }
+      ],
+      "simplified": "碗",
+      "simplified_stroke_count": 13,
+      "traditional": "碗",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "bowl"
+        },
+        {
+          "value": "cup"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "隻",
+          "traditional": "只",
+          "wade_giles_pinyin": "zhi1"
+        },
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

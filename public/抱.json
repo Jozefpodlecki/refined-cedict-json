@@ -1,0 +1,46 @@
+{
+  "simplified": "抱",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bào",
+          "wade_giles_pinyin": "bao4"
+        }
+      ],
+      "simplified": "抱",
+      "simplified_stroke_count": 8,
+      "traditional": "抱",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "to hold"
+        },
+        {
+          "value": "to carry (in one's arms)"
+        },
+        {
+          "value": "to hug"
+        },
+        {
+          "value": "to embrace"
+        },
+        {
+          "value": "to surround"
+        },
+        {
+          "value": "to cherish"
+        },
+        {
+          "context": "colloquial",
+          "value": "(of clothes) to fit nicely"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

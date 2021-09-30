@@ -1,0 +1,34 @@
+{
+  "simplified": "预付",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yù fù",
+          "wade_giles_pinyin": "yu4 fu4"
+        }
+      ],
+      "simplified": "预付",
+      "simplified_stroke_count": null,
+      "traditional": "預付",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to pay in advance"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "prepaid"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

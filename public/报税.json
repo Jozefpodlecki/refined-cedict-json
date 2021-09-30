@@ -1,0 +1,27 @@
+{
+  "simplified": "报税",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bào shuì",
+          "wade_giles_pinyin": "bao4 shui4"
+        }
+      ],
+      "simplified": "报税",
+      "traditional": "報稅",
+      "meanings": [
+        {
+          "value": "to file an income tax return"
+        },
+        {
+          "value": "to declare dutiable goods (at customs)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

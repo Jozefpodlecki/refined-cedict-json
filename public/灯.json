@@ -1,0 +1,37 @@
+{
+  "simplified": "灯",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dēng",
+          "wade_giles_pinyin": "deng1"
+        }
+      ],
+      "simplified": "灯",
+      "simplified_stroke_count": 6,
+      "traditional": "燈",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "lamp"
+        },
+        {
+          "value": "light"
+        },
+        {
+          "value": "lantern"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "盞",
+          "traditional": "盏",
+          "wade_giles_pinyin": "zhan3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

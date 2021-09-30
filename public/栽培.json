@@ -1,0 +1,36 @@
+{
+  "simplified": "栽培",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zāi péi",
+          "wade_giles_pinyin": "zai1 pei2"
+        }
+      ],
+      "simplified": "栽培",
+      "traditional": "栽培",
+      "meanings": [
+        {
+          "value": "to grow"
+        },
+        {
+          "value": "to cultivate"
+        },
+        {
+          "value": "to train"
+        },
+        {
+          "value": "to educate"
+        },
+        {
+          "value": "to patronize"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

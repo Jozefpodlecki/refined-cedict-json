@@ -1,0 +1,78 @@
+{
+  "simplified": "伊",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yī",
+          "wade_giles_pinyin": "Yi1"
+        }
+      ],
+      "simplified": "伊",
+      "simplified_stroke_count": 6,
+      "traditional": "伊",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "surname Yi"
+        },
+        {
+          "context": "abbreviation",
+          "lexical_item": null,
+          "value": "伊拉克[Yi1 la1 ke4], Iraq"
+        },
+        {
+          "context": "abbreviation",
+          "lexical_item": null,
+          "value": "伊朗[Yi1 lang3], Iran"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yī",
+          "wade_giles_pinyin": "yi1"
+        }
+      ],
+      "simplified": "伊",
+      "simplified_stroke_count": 6,
+      "traditional": "伊",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "(old) third person singular pronoun (\"he\" or \"she\")"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "second person singular pronoun (\"you\")"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "(May 4th period) third person singular feminine pronoun (\"she\")"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "(Classical Chinese) introductory particle with no specific meaning"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "that (preceding a noun)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "simplified": "啸",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiào",
+          "wade_giles_pinyin": "xiao4"
+        }
+      ],
+      "simplified": "啸",
+      "simplified_stroke_count": 11,
+      "traditional": "嘯",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "to hiss"
+        },
+        {
+          "value": "to whistle"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

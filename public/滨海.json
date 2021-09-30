@@ -1,0 +1,73 @@
+{
+  "simplified": "滨海",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bīn hǎi",
+          "wade_giles_pinyin": "Bin1 hai3"
+        }
+      ],
+      "simplified": "滨海",
+      "simplified_stroke_count": 0,
+      "traditional": "濱海",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Binhai (place name)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Binhai New District, subprovincial district of Tianjin"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Binhai county in Yancheng 鹽城|盐城[Yan2 cheng2], Jiangsu"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "fictitious city Binhai in political satire"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Primorsky, a territory in the far east of Russia"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bīn hǎi",
+          "wade_giles_pinyin": "bin1 hai3"
+        }
+      ],
+      "simplified": "滨海",
+      "simplified_stroke_count": 0,
+      "traditional": "濱海",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "coastal"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "bordering the sea"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

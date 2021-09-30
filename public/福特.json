@@ -1,0 +1,32 @@
+{
+  "simplified": "福特",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fú tè",
+          "wade_giles_pinyin": "Fu2 te4"
+        }
+      ],
+      "simplified": "福特",
+      "simplified_stroke_count": null,
+      "traditional": "福特",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "Ford (name)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "Ford, US car make"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "simplified": "建议",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiàn yì",
+          "wade_giles_pinyin": "jian4 yi4"
+        }
+      ],
+      "simplified": "建议",
+      "traditional": "建議",
+      "meanings": [
+        {
+          "value": "to propose"
+        },
+        {
+          "value": "to suggest"
+        },
+        {
+          "value": "to recommend"
+        },
+        {
+          "value": "proposal"
+        },
+        {
+          "value": "suggestion"
+        },
+        {
+          "value": "recommendation"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        },
+        {
+          "simplified": "點",
+          "traditional": "点",
+          "wade_giles_pinyin": "dian3"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

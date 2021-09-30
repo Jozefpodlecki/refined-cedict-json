@@ -1,0 +1,34 @@
+{
+  "simplified": "选购",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xuǎn gòu",
+          "wade_giles_pinyin": "xuan3 gou4"
+        }
+      ],
+      "simplified": "选购",
+      "simplified_stroke_count": 0,
+      "traditional": "選購",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to select and purchase"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to buy"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

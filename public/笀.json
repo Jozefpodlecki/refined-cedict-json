@@ -1,0 +1,32 @@
+{
+  "simplified": "笀",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "máng",
+          "wade_giles_pinyin": "mang2"
+        }
+      ],
+      "simplified": "笀",
+      "simplified_stroke_count": 9,
+      "traditional": "笀",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "old variant",
+          "lexical_item": null,
+          "value": "芒[mang2]"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "arista (of grain)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

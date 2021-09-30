@@ -1,0 +1,57 @@
+{
+  "simplified": "冢",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhǒng",
+          "wade_giles_pinyin": "zhong3"
+        }
+      ],
+      "simplified": "冢",
+      "simplified_stroke_count": 10,
+      "traditional": "冢",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "mound"
+        },
+        {
+          "value": "burial mound"
+        },
+        {
+          "value": "senior (i.e. eldest child or senior in rank)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhǒng",
+          "wade_giles_pinyin": "zhong3"
+        }
+      ],
+      "simplified": "冢",
+      "simplified_stroke_count": 10,
+      "traditional": "塚",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 冢[zhong3]",
+          "simplified": "冢",
+          "traditional": "",
+          "wade_giles_pinyin": "zhong3"
+        },
+        {
+          "value": "burial mound"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "simplified": "白文",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bái wén",
+          "wade_giles_pinyin": "bai2 wen2"
+        }
+      ],
+      "simplified": "白文",
+      "simplified_stroke_count": 0,
+      "traditional": "白文",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "the text of an annotated book"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "an unannotated edition of a book"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "intagliated characters (on a seal)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "花钱受气",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huā qián shòu qì",
+          "wade_giles_pinyin": "hua1 qian2 shou4 qi4"
+        }
+      ],
+      "simplified": "花钱受气",
+      "simplified_stroke_count": null,
+      "traditional": "花錢受氣",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": "idiom",
+          "value": "to have a bad experience as a customer"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to encounter poor service"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "simplified": "怼",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dui3",
+          "wade_giles_pinyin": "dui3"
+        }
+      ],
+      "simplified": "怼",
+      "simplified_stroke_count": 8,
+      "traditional": "懟",
+      "traditional_stroke_count": 18,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(Internet slang) to attack verbally"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to publicly criticize"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to call out"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " duì",
+          "wade_giles_pinyin": "dui4"
+        }
+      ],
+      "simplified": "怼",
+      "simplified_stroke_count": 8,
+      "traditional": "懟",
+      "traditional_stroke_count": 18,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "dislike"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "hate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

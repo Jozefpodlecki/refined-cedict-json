@@ -1,0 +1,44 @@
+{
+  "simplified": "嘎",
+  "simplified_stroke_count": 14,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gá",
+          "wade_giles_pinyin": "ga2"
+        }
+      ],
+      "simplified": "嘎",
+      "simplified_stroke_count": 14,
+      "traditional": "嘎",
+      "traditional_stroke_count": 14,
+      "meanings": [],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gá",
+          "wade_giles_pinyin": "ga2"
+        }
+      ],
+      "simplified": "嘎",
+      "simplified_stroke_count": 14,
+      "traditional": "嘠",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 嘎[ga2]",
+          "simplified": "嘎",
+          "traditional": "",
+          "wade_giles_pinyin": "ga2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

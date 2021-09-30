@@ -1,0 +1,97 @@
+{
+  "simplified": "蕊",
+  "simplified_stroke_count": 16,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ruǐ",
+          "wade_giles_pinyin": "rui3"
+        }
+      ],
+      "simplified": "蕊",
+      "simplified_stroke_count": 16,
+      "traditional": "橤",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 蕊[rui3]",
+          "simplified": "蕊",
+          "traditional": "",
+          "wade_giles_pinyin": "rui3"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ruǐ",
+          "wade_giles_pinyin": "rui3"
+        }
+      ],
+      "simplified": "蕊",
+      "simplified_stroke_count": 16,
+      "traditional": "蕊",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "stamen"
+        },
+        {
+          "value": "pistil"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ruǐ",
+          "wade_giles_pinyin": "rui3"
+        }
+      ],
+      "simplified": "蕊",
+      "simplified_stroke_count": 16,
+      "traditional": "蕋",
+      "traditional_stroke_count": 18,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 蕊[rui3]",
+          "simplified": "蕊",
+          "traditional": "",
+          "wade_giles_pinyin": "rui3"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ruǐ",
+          "wade_giles_pinyin": "rui3"
+        }
+      ],
+      "simplified": "蕊",
+      "simplified_stroke_count": 16,
+      "traditional": "蘂",
+      "traditional_stroke_count": 22,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 蕊[rui3]",
+          "simplified": "蕊",
+          "traditional": "",
+          "wade_giles_pinyin": "rui3"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

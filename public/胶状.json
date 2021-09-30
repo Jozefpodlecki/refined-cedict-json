@@ -1,0 +1,30 @@
+{
+  "simplified": "胶状",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiāo zhuàng",
+          "wade_giles_pinyin": "jiao1 zhuang4"
+        }
+      ],
+      "simplified": "胶状",
+      "traditional": "膠狀",
+      "meanings": [
+        {
+          "value": "gluey"
+        },
+        {
+          "value": "gelatinous"
+        },
+        {
+          "value": "colloid (chemistry)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "chemical elements"
+      ]
+    }
+  ]
+}

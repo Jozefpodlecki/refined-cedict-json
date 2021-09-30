@@ -1,0 +1,32 @@
+{
+  "simplified": "鼪",
+  "simplified_stroke_count": 18,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shēng",
+          "wade_giles_pinyin": "sheng1"
+        }
+      ],
+      "simplified": "鼪",
+      "simplified_stroke_count": 18,
+      "traditional": "鼪",
+      "traditional_stroke_count": 18,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "stoat"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "weasel"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

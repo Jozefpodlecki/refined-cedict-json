@@ -1,0 +1,37 @@
+{
+  "simplified": "州长",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhōu zhǎng",
+          "wade_giles_pinyin": "zhou1 zhang3"
+        }
+      ],
+      "simplified": "州长",
+      "simplified_stroke_count": 0,
+      "traditional": "州長",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "governor (of a province or colony)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "US state governor"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "premier (Australian states)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

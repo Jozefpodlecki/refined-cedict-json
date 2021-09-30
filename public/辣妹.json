@@ -1,0 +1,46 @@
+{
+  "simplified": "辣妹",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "là mèi",
+          "wade_giles_pinyin": "La4 mei4"
+        }
+      ],
+      "simplified": "辣妹",
+      "traditional": "辣妹",
+      "meanings": [
+        {
+          "value": "Spice Girls (1990s UK pop group)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "là mèi",
+          "wade_giles_pinyin": "la4 mei4"
+        }
+      ],
+      "simplified": "辣妹",
+      "traditional": "辣妹",
+      "meanings": [
+        {
+          "value": "hot chick"
+        },
+        {
+          "value": "sexy girl"
+        },
+        {
+          "context": "abbreviation",
+          "value": "abbr. LM"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

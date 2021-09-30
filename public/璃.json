@@ -1,0 +1,80 @@
+{
+  "simplified": "璃",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lí",
+          "wade_giles_pinyin": "li2"
+        }
+      ],
+      "simplified": "璃",
+      "simplified_stroke_count": 15,
+      "traditional": "琍",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "(phonetic character used in transliteration of foreign names)"
+        },
+        {
+          "value": "Taiwan pr. [li4]"
+        },
+        {
+          "context": "variant",
+          "value": "variant of 璃[li2]",
+          "simplified": "璃",
+          "traditional": "",
+          "wade_giles_pinyin": "li2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lí",
+          "wade_giles_pinyin": "li2"
+        }
+      ],
+      "simplified": "璃",
+      "simplified_stroke_count": 15,
+      "traditional": "璃",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "colored glaze"
+        },
+        {
+          "value": "glass"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lí",
+          "wade_giles_pinyin": "li2"
+        }
+      ],
+      "simplified": "璃",
+      "simplified_stroke_count": 15,
+      "traditional": "瓈",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 璃[li2]",
+          "simplified": "璃",
+          "traditional": "",
+          "wade_giles_pinyin": "li2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

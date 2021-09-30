@@ -1,0 +1,32 @@
+{
+  "simplified": "男方",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nán fāng",
+          "wade_giles_pinyin": "nan2 fang1"
+        }
+      ],
+      "simplified": "男方",
+      "simplified_stroke_count": null,
+      "traditional": "男方",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "the bridegroom's side"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "of the bridegroom's family"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

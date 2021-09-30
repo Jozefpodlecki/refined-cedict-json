@@ -1,0 +1,30 @@
+{
+  "simplified": "叽叽咕咕",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jī ji gū gū",
+          "wade_giles_pinyin": "ji1 ji5 gu1 gu1"
+        }
+      ],
+      "simplified": "叽叽咕咕",
+      "traditional": "嘰嘰咕咕",
+      "meanings": [
+        {
+          "value": "(onom.) to mutter"
+        },
+        {
+          "value": "to mumble"
+        },
+        {
+          "value": "to whisper"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

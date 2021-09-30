@@ -1,0 +1,83 @@
+{
+  "simplified": "碰",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pèng",
+          "wade_giles_pinyin": "peng4"
+        }
+      ],
+      "simplified": "碰",
+      "simplified_stroke_count": 13,
+      "traditional": "掽",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 碰[peng4]",
+          "simplified": "碰",
+          "traditional": "",
+          "wade_giles_pinyin": "peng4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pèng",
+          "wade_giles_pinyin": "peng4"
+        }
+      ],
+      "simplified": "碰",
+      "simplified_stroke_count": 13,
+      "traditional": "碰",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "to touch"
+        },
+        {
+          "value": "to meet with"
+        },
+        {
+          "value": "to bump"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pèng",
+          "wade_giles_pinyin": "peng4"
+        }
+      ],
+      "simplified": "碰",
+      "simplified_stroke_count": 13,
+      "traditional": "踫",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 碰[peng4]",
+          "simplified": "碰",
+          "traditional": "",
+          "wade_giles_pinyin": "peng4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

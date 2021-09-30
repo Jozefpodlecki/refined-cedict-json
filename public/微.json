@@ -1,0 +1,78 @@
+{
+  "simplified": "微",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wēi",
+          "wade_giles_pinyin": "Wei1"
+        }
+      ],
+      "simplified": "微",
+      "simplified_stroke_count": 13,
+      "traditional": "微",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "surname Wei"
+        },
+        {
+          "value": "ancient Chinese state near present day Chongqing"
+        },
+        {
+          "value": "Taiwan pr. [Wei2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wēi",
+          "wade_giles_pinyin": "wei1"
+        }
+      ],
+      "simplified": "微",
+      "simplified_stroke_count": 13,
+      "traditional": "微",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "tiny"
+        },
+        {
+          "value": "miniature"
+        },
+        {
+          "value": "slightly"
+        },
+        {
+          "value": "profound"
+        },
+        {
+          "value": "abtruse"
+        },
+        {
+          "value": "to decline"
+        },
+        {
+          "value": "one millionth part of"
+        },
+        {
+          "value": "micro-"
+        },
+        {
+          "value": "Taiwan pr. [wei2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

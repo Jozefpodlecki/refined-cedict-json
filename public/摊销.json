@@ -1,0 +1,34 @@
+{
+  "simplified": "摊销",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " tān xiāo",
+          "wade_giles_pinyin": "tan1 xiao1"
+        }
+      ],
+      "simplified": "摊销",
+      "simplified_stroke_count": 0,
+      "traditional": "攤銷",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to amortize"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "amortization"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

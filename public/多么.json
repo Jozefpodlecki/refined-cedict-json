@@ -1,0 +1,36 @@
+{
+  "simplified": "多么",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "duō me",
+          "wade_giles_pinyin": "duo1 me5"
+        }
+      ],
+      "simplified": "多么",
+      "traditional": "多麼",
+      "meanings": [
+        {
+          "value": "how (wonderful etc)"
+        },
+        {
+          "value": "what (a great idea etc)"
+        },
+        {
+          "value": "however (difficult it may be etc)"
+        },
+        {
+          "value": "(in interrogative sentences) how (much etc)"
+        },
+        {
+          "value": "to what extent"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

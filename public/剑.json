@@ -1,0 +1,62 @@
+{
+  "simplified": "剑",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiàn",
+          "wade_giles_pinyin": "jian4"
+        }
+      ],
+      "simplified": "剑",
+      "simplified_stroke_count": 9,
+      "traditional": "劍",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "double-edged sword"
+        },
+        {
+          "value": "classifier for blows of a sword"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "口",
+          "traditional": "",
+          "wade_giles_pinyin": "kou3"
+        },
+        {
+          "simplified": "把",
+          "traditional": "",
+          "wade_giles_pinyin": "ba3"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiàn",
+          "wade_giles_pinyin": "jian4"
+        }
+      ],
+      "simplified": "剑",
+      "simplified_stroke_count": 9,
+      "traditional": "劒",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 劍|剑[jian4]",
+          "simplified": "劍",
+          "traditional": "剑",
+          "wade_giles_pinyin": "jian4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

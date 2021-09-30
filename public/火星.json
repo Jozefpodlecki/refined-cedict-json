@@ -1,0 +1,39 @@
+{
+  "simplified": "火星",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huǒ xīng",
+          "wade_giles_pinyin": "Huo3 xing1"
+        }
+      ],
+      "simplified": "火星",
+      "traditional": "火星",
+      "meanings": [
+        {
+          "value": "Mars (planet)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huǒ xīng",
+          "wade_giles_pinyin": "huo3 xing1"
+        }
+      ],
+      "simplified": "火星",
+      "traditional": "火星",
+      "meanings": [
+        {
+          "value": "spark"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

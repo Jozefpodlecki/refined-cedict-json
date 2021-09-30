@@ -1,0 +1,39 @@
+{
+  "simplified": "买帐",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " mǎi zhàng",
+          "wade_giles_pinyin": "mai3 zhang4"
+        }
+      ],
+      "simplified": "买帐",
+      "simplified_stroke_count": 0,
+      "traditional": "買帳",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to acknowledge sb as senior or superior (often in negative)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to accept (a version of events)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to buy it"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

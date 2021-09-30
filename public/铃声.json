@@ -1,0 +1,42 @@
+{
+  "simplified": "铃声",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "líng shēng",
+          "wade_giles_pinyin": "ling2 sheng1"
+        }
+      ],
+      "simplified": "铃声",
+      "simplified_stroke_count": null,
+      "traditional": "鈴聲",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "ring"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "ringtone"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "bell stroke"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "tintinnabulation"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "simplified": "认罪",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rèn zuì",
+          "wade_giles_pinyin": "ren4 zui4"
+        }
+      ],
+      "simplified": "认罪",
+      "traditional": "認罪",
+      "meanings": [
+        {
+          "value": "to admit guilt"
+        },
+        {
+          "value": "to plead guilty"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

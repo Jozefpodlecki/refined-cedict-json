@@ -1,0 +1,64 @@
+{
+  "simplified": "伫",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhù",
+          "wade_giles_pinyin": "zhu4"
+        }
+      ],
+      "simplified": "伫",
+      "simplified_stroke_count": 6,
+      "traditional": "佇",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "value": "to stand for a long time"
+        },
+        {
+          "value": "to wait"
+        },
+        {
+          "value": "to look forward to"
+        },
+        {
+          "value": "to accumulate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhù",
+          "wade_giles_pinyin": "zhu4"
+        }
+      ],
+      "simplified": "伫",
+      "simplified_stroke_count": 6,
+      "traditional": "竚",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 佇|伫[zhu4]",
+          "simplified": "佇",
+          "traditional": "伫",
+          "wade_giles_pinyin": "zhu4"
+        },
+        {
+          "value": "to stand for a long time"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

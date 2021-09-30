@@ -1,0 +1,27 @@
+{
+  "simplified": "货币贬值",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huò bì biǎn zhí",
+          "wade_giles_pinyin": "huo4 bi4 bian3 zhi2"
+        }
+      ],
+      "simplified": "货币贬值",
+      "traditional": "貨幣貶值",
+      "meanings": [
+        {
+          "value": "currency devaluation"
+        },
+        {
+          "value": "to devaluate a currency"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

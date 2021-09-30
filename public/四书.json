@@ -1,0 +1,27 @@
+{
+  "simplified": "四书",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sì shū",
+          "wade_giles_pinyin": "Si4 shu1"
+        }
+      ],
+      "simplified": "四书",
+      "simplified_stroke_count": null,
+      "traditional": "四書",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "Four Books, namely: the Great Learning 大學|大学, the Doctrine of the Mean 中庸, the Analects of Confucius 論語|论语, and Mencius 孟子"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

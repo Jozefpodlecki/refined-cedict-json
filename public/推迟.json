@@ -1,0 +1,39 @@
+{
+  "simplified": "推迟",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " tuī chí",
+          "wade_giles_pinyin": "tui1 chi2"
+        }
+      ],
+      "simplified": "推迟",
+      "simplified_stroke_count": 0,
+      "traditional": "推遲",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to postpone"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to put off"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to defer"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

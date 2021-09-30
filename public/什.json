@@ -1,0 +1,50 @@
+{
+  "simplified": "什",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shén",
+          "wade_giles_pinyin": "shen2"
+        }
+      ],
+      "simplified": "什",
+      "simplified_stroke_count": 0,
+      "traditional": "什",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "value": "what"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shí",
+          "wade_giles_pinyin": "shi2"
+        }
+      ],
+      "simplified": "什",
+      "simplified_stroke_count": 0,
+      "traditional": "什",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "value": "ten (used in fractions, writing checks etc)"
+        },
+        {
+          "value": "assorted"
+        },
+        {
+          "value": "miscellaneous"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

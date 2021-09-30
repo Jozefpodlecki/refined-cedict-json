@@ -1,0 +1,34 @@
+{
+  "simplified": "剪子",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiǎn zi",
+          "wade_giles_pinyin": "jian3 zi5"
+        }
+      ],
+      "simplified": "剪子",
+      "traditional": "剪子",
+      "meanings": [
+        {
+          "value": "clippers"
+        },
+        {
+          "value": "scissors"
+        },
+        {
+          "value": "shears"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "把",
+          "traditional": "",
+          "wade_giles_pinyin": "ba3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

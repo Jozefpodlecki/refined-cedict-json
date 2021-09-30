@@ -1,0 +1,32 @@
+{
+  "simplified": "班禅",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bān chán",
+          "wade_giles_pinyin": "Ban1 chan2"
+        }
+      ],
+      "simplified": "班禅",
+      "simplified_stroke_count": null,
+      "traditional": "班禪",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "Panchen (Lama)"
+        },
+        {
+          "context": "abbreviation",
+          "lexical_item": null,
+          "value": "班禪額爾德尼|班禅额尔德尼[Ban1 chan2 E2 er3 de2 ni2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

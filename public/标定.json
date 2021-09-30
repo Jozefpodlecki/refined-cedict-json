@@ -1,0 +1,30 @@
+{
+  "simplified": "标定",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "biāo dìng",
+          "wade_giles_pinyin": "biao1 ding4"
+        }
+      ],
+      "simplified": "标定",
+      "traditional": "標定",
+      "meanings": [
+        {
+          "value": "to stake out (the boundaries of a property etc)"
+        },
+        {
+          "value": "to demarcate"
+        },
+        {
+          "value": "(engineering etc) to calibrate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

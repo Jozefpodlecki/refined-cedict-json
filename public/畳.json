@@ -1,0 +1,32 @@
+{
+  "simplified": "畳",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dié",
+          "wade_giles_pinyin": "die2"
+        }
+      ],
+      "simplified": "畳",
+      "simplified_stroke_count": 12,
+      "traditional": "畳",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "Japanese  疊|叠[die2]"
+        },
+        {
+          "context": "polite",
+          "lexical_item": "",
+          "value": "Japanese tatami matting"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

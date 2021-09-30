@@ -1,0 +1,38 @@
+{
+  "simplified": "背景",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bèi jǐng",
+          "wade_giles_pinyin": "bei4 jing3"
+        }
+      ],
+      "simplified": "背景",
+      "traditional": "背景",
+      "meanings": [
+        {
+          "value": "background"
+        },
+        {
+          "value": "backdrop"
+        },
+        {
+          "value": "context"
+        },
+        {
+          "context": "figuratively",
+          "value": "powerful backer"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "種",
+          "traditional": "种",
+          "wade_giles_pinyin": "zhong3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

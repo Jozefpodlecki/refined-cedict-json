@@ -1,0 +1,47 @@
+{
+  "simplified": "淋漓尽致",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lín lí jìn zhì",
+          "wade_giles_pinyin": "lin2 li2 jin4 zhi4"
+        }
+      ],
+      "simplified": "淋漓尽致",
+      "simplified_stroke_count": null,
+      "traditional": "淋漓盡致",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "lit. extreme saturation"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "fig. vividly and thoroughly"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "in great detail"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "without restraint"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "(of a performance) brilliant"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

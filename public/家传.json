@@ -1,0 +1,42 @@
+{
+  "simplified": "家传",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiā chuán",
+          "wade_giles_pinyin": "jia1 chuan2"
+        }
+      ],
+      "simplified": "家传",
+      "traditional": "家傳",
+      "meanings": [
+        {
+          "value": "handed down in a family"
+        },
+        {
+          "value": "family traditions"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiā zhuàn",
+          "wade_giles_pinyin": "jia1 zhuan4"
+        }
+      ],
+      "simplified": "家传",
+      "traditional": "家傳",
+      "meanings": [
+        {
+          "value": "family history (as a literary genre)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

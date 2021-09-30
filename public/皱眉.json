@@ -1,0 +1,34 @@
+{
+  "simplified": "皱眉",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhòu méi",
+          "wade_giles_pinyin": "zhou4 mei2"
+        }
+      ],
+      "simplified": "皱眉",
+      "simplified_stroke_count": 0,
+      "traditional": "皺眉",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to frown"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to knit one's brow"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

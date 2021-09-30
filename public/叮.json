@@ -1,0 +1,42 @@
+{
+  "simplified": "叮",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dīng",
+          "wade_giles_pinyin": "ding1"
+        }
+      ],
+      "simplified": "叮",
+      "simplified_stroke_count": 5,
+      "traditional": "叮",
+      "traditional_stroke_count": 5,
+      "meanings": [
+        {
+          "value": "to sting or bite (of mosquito, bee etc)"
+        },
+        {
+          "value": "to say repeatedly"
+        },
+        {
+          "value": "to urge insistently"
+        },
+        {
+          "value": "to ask repeatedly"
+        },
+        {
+          "value": "to stick to a point"
+        },
+        {
+          "value": "(onom.) tinkling or jingling sound"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

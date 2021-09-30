@@ -1,0 +1,36 @@
+{
+  "simplified": "失格",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shī gé",
+          "wade_giles_pinyin": "shi1 ge2"
+        }
+      ],
+      "simplified": "失格",
+      "traditional": "失格",
+      "meanings": [
+        {
+          "value": "to overstep the rules"
+        },
+        {
+          "value": "to go out of bounds"
+        },
+        {
+          "value": "disqualification"
+        },
+        {
+          "value": "to lose face"
+        },
+        {
+          "value": "disqualified"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "simplified": "打仗",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dǎ zhàng",
+          "wade_giles_pinyin": "da3 zhang4"
+        }
+      ],
+      "simplified": "打仗",
+      "traditional": "打仗",
+      "meanings": [
+        {
+          "value": "to fight a battle"
+        },
+        {
+          "value": "to go to war"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

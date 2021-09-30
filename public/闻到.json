@@ -1,0 +1,30 @@
+{
+  "simplified": "闻到",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wén dào",
+          "wade_giles_pinyin": "wen2 dao4"
+        }
+      ],
+      "simplified": "闻到",
+      "traditional": "聞到",
+      "meanings": [
+        {
+          "value": "to smell"
+        },
+        {
+          "value": "to sniff sth out"
+        },
+        {
+          "value": "to perceive by smelling"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

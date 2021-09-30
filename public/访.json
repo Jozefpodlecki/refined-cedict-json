@@ -1,0 +1,39 @@
+{
+  "simplified": "访",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fǎng",
+          "wade_giles_pinyin": "fang3"
+        }
+      ],
+      "simplified": "访",
+      "simplified_stroke_count": 6,
+      "traditional": "訪",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "(bound form) to visit"
+        },
+        {
+          "value": "to call on"
+        },
+        {
+          "value": "to seek"
+        },
+        {
+          "value": "to inquire"
+        },
+        {
+          "value": "to investigate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

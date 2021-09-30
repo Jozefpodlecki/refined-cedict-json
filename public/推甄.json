@@ -1,0 +1,31 @@
+{
+  "simplified": "推甄",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tuī zhēn",
+          "wade_giles_pinyin": "tui1 zhen1"
+        }
+      ],
+      "simplified": "推甄",
+      "traditional": "推甄",
+      "meanings": [
+        {
+          "value": "to recommend a student for admission to a higher-level school"
+        },
+        {
+          "value": "to put a student on the recommendation track (one of several ways of gaining admission to a higher-level school in Taiwan)"
+        },
+        {
+          "context": "abbreviation",
+          "value": "推薦甄選|推荐甄选"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

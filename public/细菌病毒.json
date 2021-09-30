@@ -1,0 +1,32 @@
+{
+  "simplified": "细菌病毒",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xì jūn bìng dú",
+          "wade_giles_pinyin": "xi4 jun1 bing4 du2"
+        }
+      ],
+      "simplified": "细菌病毒",
+      "simplified_stroke_count": 0,
+      "traditional": "細菌病毒",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "bacteriophage"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "virus that infects bacteria"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

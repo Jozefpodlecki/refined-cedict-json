@@ -1,0 +1,29 @@
+{
+  "simplified": "鎏",
+  "simplified_stroke_count": 18,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "liú",
+          "wade_giles_pinyin": "liu2"
+        }
+      ],
+      "simplified": "鎏",
+      "simplified_stroke_count": 18,
+      "traditional": "鎏",
+      "traditional_stroke_count": 18,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 鎦|镏[liu2]",
+          "simplified": "鎦",
+          "traditional": "镏",
+          "wade_giles_pinyin": "liu2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

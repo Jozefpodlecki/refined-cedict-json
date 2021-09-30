@@ -1,0 +1,44 @@
+{
+  "simplified": "谜",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mèi",
+          "wade_giles_pinyin": "mei4"
+        }
+      ],
+      "simplified": "谜",
+      "simplified_stroke_count": 11,
+      "traditional": "謎",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "see 謎兒|谜儿[mei4 r5], riddle"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mí",
+          "wade_giles_pinyin": "mi2"
+        }
+      ],
+      "simplified": "谜",
+      "simplified_stroke_count": 11,
+      "traditional": "謎",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "riddle"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

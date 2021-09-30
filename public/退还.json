@@ -1,0 +1,33 @@
+{
+  "simplified": "退还",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tuì huán",
+          "wade_giles_pinyin": "tui4 huan2"
+        }
+      ],
+      "simplified": "退还",
+      "traditional": "退還",
+      "meanings": [
+        {
+          "value": "to return (sth borrowed etc)"
+        },
+        {
+          "value": "to send back"
+        },
+        {
+          "value": "to refund"
+        },
+        {
+          "value": "to rebate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

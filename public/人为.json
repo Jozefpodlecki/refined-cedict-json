@@ -1,0 +1,31 @@
+{
+  "simplified": "人为",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rén wéi",
+          "wade_giles_pinyin": "ren2 wei2"
+        }
+      ],
+      "simplified": "人为",
+      "traditional": "人為",
+      "meanings": [
+        {
+          "value": "artificial"
+        },
+        {
+          "value": "man-made"
+        },
+        {
+          "value": "having human cause or origin"
+        },
+        {
+          "value": "human attempt or effort"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

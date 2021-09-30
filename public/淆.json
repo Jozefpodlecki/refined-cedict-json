@@ -1,0 +1,58 @@
+{
+  "simplified": "淆",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xiáo",
+          "wade_giles_pinyin": "xiao2"
+        }
+      ],
+      "simplified": "淆",
+      "simplified_stroke_count": 11,
+      "traditional": "殽",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "淆[xiao2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xiáo",
+          "wade_giles_pinyin": "xiao2"
+        }
+      ],
+      "simplified": "淆",
+      "simplified_stroke_count": 11,
+      "traditional": "淆",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "confused and disorderly"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "mixed"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Taiwan pr. [yao2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

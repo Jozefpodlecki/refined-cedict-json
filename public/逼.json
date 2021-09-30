@@ -1,0 +1,83 @@
+{
+  "simplified": "逼",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bī",
+          "wade_giles_pinyin": "bi1"
+        }
+      ],
+      "simplified": "逼",
+      "simplified_stroke_count": 13,
+      "traditional": "偪",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 逼[bi1]",
+          "simplified": "逼",
+          "traditional": "",
+          "wade_giles_pinyin": "bi1"
+        },
+        {
+          "value": "to compel"
+        },
+        {
+          "value": "to pressure"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bī",
+          "wade_giles_pinyin": "bi1"
+        }
+      ],
+      "simplified": "逼",
+      "simplified_stroke_count": 13,
+      "traditional": "逼",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "to force (sb to do sth)"
+        },
+        {
+          "value": "to compel"
+        },
+        {
+          "value": "to press for"
+        },
+        {
+          "value": "to extort"
+        },
+        {
+          "value": "to press on towards"
+        },
+        {
+          "value": "to press up to"
+        },
+        {
+          "value": "to close in on"
+        },
+        {
+          "context": "variant",
+          "value": "euphemistic variant of 屄[bi1]",
+          "simplified": "e",
+          "traditional": "uphemistic  屄",
+          "wade_giles_pinyin": "bi1"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

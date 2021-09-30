@@ -1,0 +1,48 @@
+{
+  "simplified": "资料",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zī liào",
+          "wade_giles_pinyin": "zi1 liao4"
+        }
+      ],
+      "simplified": "资料",
+      "traditional": "資料",
+      "meanings": [
+        {
+          "value": "material"
+        },
+        {
+          "value": "resources"
+        },
+        {
+          "value": "data"
+        },
+        {
+          "value": "information"
+        },
+        {
+          "value": "profile (Internet)"
+        },
+        {
+          "value": "CL:份[fen4],個|个[ge4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "份",
+          "traditional": "",
+          "wade_giles_pinyin": "fen4"
+        },
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

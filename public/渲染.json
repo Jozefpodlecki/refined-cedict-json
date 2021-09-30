@@ -1,0 +1,33 @@
+{
+  "simplified": "渲染",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xuàn rǎn",
+          "wade_giles_pinyin": "xuan4 ran3"
+        }
+      ],
+      "simplified": "渲染",
+      "traditional": "渲染",
+      "meanings": [
+        {
+          "value": "rendering (computing)"
+        },
+        {
+          "value": "to add washes of ink or color to a drawing (Chinese painting)"
+        },
+        {
+          "value": "to exaggerate"
+        },
+        {
+          "value": "to embellish"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

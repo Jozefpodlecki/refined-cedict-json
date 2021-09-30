@@ -1,0 +1,61 @@
+{
+  "simplified": "新",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xīn",
+          "wade_giles_pinyin": "Xin1"
+        }
+      ],
+      "simplified": "新",
+      "simplified_stroke_count": 13,
+      "traditional": "新",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "value": "Xinjiang 新疆[Xin1 jiang1] or Singapore 新加坡[Xin1 jia1 po1]",
+          "simplified": "X",
+          "traditional": "injiang 新疆",
+          "wade_giles_pinyin": "Xin1 jiang1"
+        },
+        {
+          "value": "surname Xin"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "chemical elements"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xīn",
+          "wade_giles_pinyin": "xin1"
+        }
+      ],
+      "simplified": "新",
+      "simplified_stroke_count": 13,
+      "traditional": "新",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "new"
+        },
+        {
+          "value": "newly"
+        },
+        {
+          "value": "meso- (chemistry)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "chemical elements"
+      ]
+    }
+  ]
+}

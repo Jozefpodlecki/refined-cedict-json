@@ -1,0 +1,30 @@
+{
+  "simplified": "落下",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "luò xià",
+          "wade_giles_pinyin": "luo4 xia4"
+        }
+      ],
+      "simplified": "落下",
+      "traditional": "落下",
+      "meanings": [
+        {
+          "value": "to fall"
+        },
+        {
+          "value": "to drop"
+        },
+        {
+          "value": "to land (of projectile)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "simplified": "减小",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiǎn xiǎo",
+          "wade_giles_pinyin": "jian3 xiao3"
+        }
+      ],
+      "simplified": "减小",
+      "traditional": "減小",
+      "meanings": [
+        {
+          "value": "to reduce"
+        },
+        {
+          "value": "to decrease"
+        },
+        {
+          "value": "to diminish"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

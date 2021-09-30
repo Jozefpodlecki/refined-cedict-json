@@ -1,0 +1,51 @@
+{
+  "simplified": "眄",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "miǎn",
+          "wade_giles_pinyin": "mian3"
+        }
+      ],
+      "simplified": "眄",
+      "simplified_stroke_count": 9,
+      "traditional": "眄",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "to ogle at"
+        },
+        {
+          "value": "to squint at"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "miàn",
+          "wade_giles_pinyin": "mian4"
+        }
+      ],
+      "simplified": "眄",
+      "simplified_stroke_count": 9,
+      "traditional": "眄",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "to look askance at"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

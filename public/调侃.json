@@ -1,0 +1,36 @@
+{
+  "simplified": "调侃",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tiáo kǎn",
+          "wade_giles_pinyin": "tiao2 kan3"
+        }
+      ],
+      "simplified": "调侃",
+      "traditional": "調侃",
+      "meanings": [
+        {
+          "value": "to ridicule"
+        },
+        {
+          "value": "to tease"
+        },
+        {
+          "value": "to mock"
+        },
+        {
+          "value": "idle talk"
+        },
+        {
+          "value": "chitchat"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

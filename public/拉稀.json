@@ -1,0 +1,31 @@
+{
+  "simplified": "拉稀",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lā xī",
+          "wade_giles_pinyin": "la1 xi1"
+        }
+      ],
+      "simplified": "拉稀",
+      "traditional": "拉稀",
+      "meanings": [
+        {
+          "context": "colloquial",
+          "value": "to have diarrhea"
+        },
+        {
+          "value": "to shrink back"
+        },
+        {
+          "value": "to cower"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

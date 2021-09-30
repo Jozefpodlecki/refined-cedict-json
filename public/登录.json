@@ -1,0 +1,27 @@
+{
+  "simplified": "登录",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dēng lù",
+          "wade_giles_pinyin": "deng1 lu4"
+        }
+      ],
+      "simplified": "登录",
+      "traditional": "登錄",
+      "meanings": [
+        {
+          "value": "to register"
+        },
+        {
+          "value": "to log in"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

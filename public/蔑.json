@@ -1,0 +1,51 @@
+{
+  "simplified": "蔑",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "miè",
+          "wade_giles_pinyin": "mie4"
+        }
+      ],
+      "simplified": "蔑",
+      "simplified_stroke_count": 15,
+      "traditional": "蔑",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "to belittle"
+        },
+        {
+          "value": "nothing"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "miè",
+          "wade_giles_pinyin": "mie4"
+        }
+      ],
+      "simplified": "蔑",
+      "simplified_stroke_count": 15,
+      "traditional": "衊",
+      "traditional_stroke_count": 21,
+      "meanings": [
+        {
+          "value": "defiled with blood"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

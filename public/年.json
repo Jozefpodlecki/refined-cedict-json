@@ -1,0 +1,79 @@
+{
+  "simplified": "年",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nián",
+          "wade_giles_pinyin": "Nian2"
+        }
+      ],
+      "simplified": "年",
+      "simplified_stroke_count": 6,
+      "traditional": "年",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "value": "surname Nian"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nián",
+          "wade_giles_pinyin": "nian2"
+        }
+      ],
+      "simplified": "年",
+      "simplified_stroke_count": 6,
+      "traditional": "年",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "value": "year"
+        },
+        {
+          "value": "CL:個|个[ge4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nián",
+          "wade_giles_pinyin": "nian2"
+        }
+      ],
+      "simplified": "年",
+      "simplified_stroke_count": 6,
+      "traditional": "秊",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "grain"
+        },
+        {
+          "value": "harvest (old)"
+        },
+        {
+          "context": "variant",
+          "value": "年[nian2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

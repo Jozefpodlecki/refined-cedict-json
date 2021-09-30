@@ -1,0 +1,29 @@
+{
+  "simplified": "试卷",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shì juàn",
+          "wade_giles_pinyin": "shi4 juan4"
+        }
+      ],
+      "simplified": "试卷",
+      "traditional": "試卷",
+      "meanings": [],
+      "classifiers": [
+        {
+          "simplified": "份",
+          "traditional": "",
+          "wade_giles_pinyin": "fen4"
+        },
+        {
+          "simplified": "張",
+          "traditional": "张",
+          "wade_giles_pinyin": "zhang1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

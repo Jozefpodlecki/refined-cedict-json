@@ -1,0 +1,74 @@
+{
+  "simplified": "兜",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dōu",
+          "wade_giles_pinyin": "dou1"
+        }
+      ],
+      "simplified": "兜",
+      "simplified_stroke_count": 11,
+      "traditional": "兜",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "pocket"
+        },
+        {
+          "value": "bag"
+        },
+        {
+          "value": "to wrap up or hold in a bag"
+        },
+        {
+          "value": "to move in a circle"
+        },
+        {
+          "value": "to canvas or solicit"
+        },
+        {
+          "value": "to take responsibility for"
+        },
+        {
+          "value": "to disclose in detail"
+        },
+        {
+          "context": "old",
+          "value": "combat armor"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dōu",
+          "wade_giles_pinyin": "dou1"
+        }
+      ],
+      "simplified": "兜",
+      "simplified_stroke_count": 11,
+      "traditional": "兠",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 兜[dou1]",
+          "simplified": "兜",
+          "traditional": "",
+          "wade_giles_pinyin": "dou1"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

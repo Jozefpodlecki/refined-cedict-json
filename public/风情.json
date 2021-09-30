@@ -1,0 +1,40 @@
+{
+  "simplified": "风情",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fēng qíng",
+          "wade_giles_pinyin": "feng1 qing2"
+        }
+      ],
+      "simplified": "风情",
+      "traditional": "風情",
+      "meanings": [
+        {
+          "value": "mien"
+        },
+        {
+          "value": "bearing"
+        },
+        {
+          "value": "grace"
+        },
+        {
+          "value": "amorous feelings"
+        },
+        {
+          "value": "flirtatious expressions"
+        },
+        {
+          "value": "local conditions and customs"
+        },
+        {
+          "value": "wind force, direction etc"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "simplified": "这种",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhè zhǒng",
+          "wade_giles_pinyin": "zhe4 zhong3"
+        }
+      ],
+      "simplified": "这种",
+      "simplified_stroke_count": 0,
+      "traditional": "這種",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "this"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "this kind of"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "this sort of"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "this type of"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

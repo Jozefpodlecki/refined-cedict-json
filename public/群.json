@@ -1,0 +1,54 @@
+{
+  "simplified": "群",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qún",
+          "wade_giles_pinyin": "qun2"
+        }
+      ],
+      "simplified": "群",
+      "simplified_stroke_count": 13,
+      "traditional": "羣",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 群[qun2]",
+          "simplified": "群",
+          "traditional": "",
+          "wade_giles_pinyin": "qun2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qún",
+          "wade_giles_pinyin": "qun2"
+        }
+      ],
+      "simplified": "群",
+      "simplified_stroke_count": 13,
+      "traditional": "群",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "group"
+        },
+        {
+          "value": "crowd"
+        },
+        {
+          "value": "flock, herd, pack etc"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

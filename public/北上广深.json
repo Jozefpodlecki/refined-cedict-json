@@ -1,0 +1,26 @@
+{
+  "simplified": "北上广深",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "běi shàng guǎng shēn",
+          "wade_giles_pinyin": "Bei3 Shang4 Guang3 Shen1"
+        }
+      ],
+      "simplified": "北上广深",
+      "traditional": "北上廣深",
+      "meanings": [
+        {
+          "value": "Beijing, Shanghai, Guangzhou and Shenzhen"
+        },
+        {
+          "context": "abbreviation",
+          "value": "北京、上海、廣州、深圳|北京、上海、广州、深圳"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "simplified": "积分",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jī fēn",
+          "wade_giles_pinyin": "ji1 fen1"
+        }
+      ],
+      "simplified": "积分",
+      "simplified_stroke_count": 0,
+      "traditional": "積分",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "integral (calculus)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "accumulated points (in sports, at school etc)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "total credits earned by student"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "bonus points in a benefit scheme"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

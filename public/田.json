@@ -1,0 +1,53 @@
+{
+  "simplified": "田",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tián",
+          "wade_giles_pinyin": "Tian2"
+        }
+      ],
+      "simplified": "田",
+      "simplified_stroke_count": 5,
+      "traditional": "田",
+      "traditional_stroke_count": 5,
+      "meanings": [
+        {
+          "value": "surname Tian"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tián",
+          "wade_giles_pinyin": "tian2"
+        }
+      ],
+      "simplified": "田",
+      "simplified_stroke_count": 5,
+      "traditional": "田",
+      "traditional_stroke_count": 5,
+      "meanings": [
+        {
+          "value": "field"
+        },
+        {
+          "value": "farm"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "片",
+          "traditional": "",
+          "wade_giles_pinyin": "pian4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "simplified": "伏",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fú",
+          "wade_giles_pinyin": "Fu2"
+        }
+      ],
+      "simplified": "伏",
+      "simplified_stroke_count": 6,
+      "traditional": "伏",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "surname Fu"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fú",
+          "wade_giles_pinyin": "fu2"
+        }
+      ],
+      "simplified": "伏",
+      "simplified_stroke_count": 6,
+      "traditional": "伏",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to lean over"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to fall (go down)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to hide (in ambush)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to conceal oneself"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to lie low"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "hottest days of summer"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to submit"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to concede defeat"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to overcome"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to subdue"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "volt"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "simplified": "下确界",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xià què jiè",
+          "wade_giles_pinyin": "xia4 que4 jie4"
+        }
+      ],
+      "simplified": "下确界",
+      "traditional": "下確界",
+      "meanings": [
+        {
+          "value": "infimum (math.)"
+        },
+        {
+          "value": "greatest lower bound"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

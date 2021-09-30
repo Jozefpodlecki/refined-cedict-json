@@ -1,0 +1,42 @@
+{
+  "simplified": "务",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wù",
+          "wade_giles_pinyin": "wu4"
+        }
+      ],
+      "simplified": "务",
+      "simplified_stroke_count": 5,
+      "traditional": "務",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "affair"
+        },
+        {
+          "value": "business"
+        },
+        {
+          "value": "matter"
+        },
+        {
+          "value": "to be engaged in"
+        },
+        {
+          "value": "to attend to"
+        },
+        {
+          "value": "by all means"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

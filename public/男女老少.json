@@ -1,0 +1,37 @@
+{
+  "simplified": "男女老少",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " nán nu:3 lǎo shào",
+          "wade_giles_pinyin": "nan2 nu:3 lao3 shao4"
+        }
+      ],
+      "simplified": "男女老少",
+      "simplified_stroke_count": 0,
+      "traditional": "男女老少",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "men, women, young and old"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "all kinds of people"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "people of all ages"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

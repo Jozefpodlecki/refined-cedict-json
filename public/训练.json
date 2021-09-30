@@ -1,0 +1,36 @@
+{
+  "simplified": "训练",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xùn liàn",
+          "wade_giles_pinyin": "xun4 lian4"
+        }
+      ],
+      "simplified": "训练",
+      "traditional": "訓練",
+      "meanings": [
+        {
+          "value": "to train"
+        },
+        {
+          "value": "to drill"
+        },
+        {
+          "value": "training"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

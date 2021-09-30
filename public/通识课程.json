@@ -1,0 +1,37 @@
+{
+  "simplified": "通识课程",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tōng shí kè chéng",
+          "wade_giles_pinyin": "tong1 shi2 ke4 cheng2"
+        }
+      ],
+      "simplified": "通识课程",
+      "traditional": "通識課程",
+      "meanings": [
+        {
+          "value": "general course"
+        },
+        {
+          "value": "general education course"
+        },
+        {
+          "value": "core course"
+        },
+        {
+          "value": "general curriculum"
+        },
+        {
+          "value": "general education curriculum"
+        },
+        {
+          "value": "core curriculum"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

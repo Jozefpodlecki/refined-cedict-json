@@ -1,0 +1,49 @@
+{
+  "simplified": "走板",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zǒu bǎn",
+          "wade_giles_pinyin": "zou3 ban3"
+        }
+      ],
+      "simplified": "走板",
+      "simplified_stroke_count": 0,
+      "traditional": "走板",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to be off the beat"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to sound awful (of singing)"
+        },
+        {
+          "context": "figuratively",
+          "lexical_item": "",
+          "value": "to wander off the topic"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(diving) to step toward the end of the board"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "approach"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

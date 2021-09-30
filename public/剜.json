@@ -1,0 +1,34 @@
+{
+  "simplified": "剜",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " wān",
+          "wade_giles_pinyin": "wan1"
+        }
+      ],
+      "simplified": "剜",
+      "simplified_stroke_count": 10,
+      "traditional": "剜",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to scoop out"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to gouge out"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

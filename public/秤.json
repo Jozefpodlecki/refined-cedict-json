@@ -1,0 +1,64 @@
+{
+  "simplified": "秤",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chēng",
+          "wade_giles_pinyin": "cheng1"
+        }
+      ],
+      "simplified": "秤",
+      "simplified_stroke_count": 10,
+      "traditional": "秤",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "稱|称[cheng1], to weigh"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chèng",
+          "wade_giles_pinyin": "cheng4"
+        }
+      ],
+      "simplified": "秤",
+      "simplified_stroke_count": 10,
+      "traditional": "秤",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "steelyard"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Roman balance"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:臺|台[tai2]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "臺",
+          "traditional": "台",
+          "wade_giles_pinyin": "tai2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

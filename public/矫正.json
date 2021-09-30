@@ -1,0 +1,39 @@
+{
+  "simplified": "矫正",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiǎo zhèng",
+          "wade_giles_pinyin": "jiao3 zheng4"
+        }
+      ],
+      "simplified": "矫正",
+      "traditional": "矯正",
+      "meanings": [
+        {
+          "value": "to correct"
+        },
+        {
+          "value": "to rectify (e.g. a physical defect such as hearing or vision)"
+        },
+        {
+          "value": "to cure"
+        },
+        {
+          "value": "rectification"
+        },
+        {
+          "value": "correction"
+        },
+        {
+          "value": "to straighten"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

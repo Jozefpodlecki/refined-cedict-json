@@ -1,0 +1,30 @@
+{
+  "simplified": "成年",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chéng nián",
+          "wade_giles_pinyin": "cheng2 nian2"
+        }
+      ],
+      "simplified": "成年",
+      "traditional": "成年",
+      "meanings": [
+        {
+          "value": "to grow to adulthood"
+        },
+        {
+          "value": "fully grown"
+        },
+        {
+          "value": "the whole year"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

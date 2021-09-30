@@ -1,0 +1,32 @@
+{
+  "simplified": "简谐运动",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiǎn xié yùn dòng",
+          "wade_giles_pinyin": "jian3 xie2 yun4 dong4"
+        }
+      ],
+      "simplified": "简谐运动",
+      "simplified_stroke_count": null,
+      "traditional": "簡諧運動",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "simple harmonic motion (in mechanics)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "motion of a simple pendulum"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

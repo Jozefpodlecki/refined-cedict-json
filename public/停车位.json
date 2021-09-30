@@ -1,0 +1,25 @@
+{
+  "simplified": "停车位",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tíng chē weì",
+          "wade_giles_pinyin": "ting2 che1 wei4"
+        }
+      ],
+      "simplified": "停车位",
+      "traditional": "停車位",
+      "meanings": [
+        {
+          "value": "parking space"
+        },
+        {
+          "value": "parking spot"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

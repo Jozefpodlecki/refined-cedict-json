@@ -1,0 +1,34 @@
+{
+  "simplified": "蒇",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chǎn",
+          "wade_giles_pinyin": "chan3"
+        }
+      ],
+      "simplified": "蒇",
+      "simplified_stroke_count": 15,
+      "traditional": "蕆",
+      "traditional_stroke_count": 18,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to complete"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to prepare"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

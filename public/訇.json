@@ -1,0 +1,44 @@
+{
+  "simplified": "訇",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hōng",
+          "wade_giles_pinyin": "Hong1"
+        }
+      ],
+      "simplified": "訇",
+      "simplified_stroke_count": 9,
+      "traditional": "訇",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "surname Hong"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hōng",
+          "wade_giles_pinyin": "hong1"
+        }
+      ],
+      "simplified": "訇",
+      "simplified_stroke_count": 9,
+      "traditional": "訇",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "sound of a crash"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

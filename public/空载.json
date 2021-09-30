@@ -1,0 +1,25 @@
+{
+  "simplified": "空载",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kōng zài",
+          "wade_giles_pinyin": "kong1 zai4"
+        }
+      ],
+      "simplified": "空载",
+      "traditional": "空載",
+      "meanings": [
+        {
+          "value": "(of a ship, train etc) not carrying any load (i.e. no passengers or freight etc)"
+        },
+        {
+          "value": "(electricity) no-load (used to describe the condition of a transformer when there is no load connected to its secondary coil)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

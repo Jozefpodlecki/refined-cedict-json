@@ -1,0 +1,39 @@
+{
+  "simplified": "比喻",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǐ yù",
+          "wade_giles_pinyin": "bi3 yu4"
+        }
+      ],
+      "simplified": "比喻",
+      "traditional": "比喻",
+      "meanings": [
+        {
+          "value": "to compare"
+        },
+        {
+          "value": "to liken to"
+        },
+        {
+          "value": "metaphor"
+        },
+        {
+          "value": "analogy"
+        },
+        {
+          "value": "figure of speech"
+        },
+        {
+          "value": "figuratively"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

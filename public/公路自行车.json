@@ -1,0 +1,32 @@
+{
+  "simplified": "公路自行车",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " gōng lù zì xíng chē",
+          "wade_giles_pinyin": "gong1 lu4 zi4 xing2 che1"
+        }
+      ],
+      "simplified": "公路自行车",
+      "simplified_stroke_count": 0,
+      "traditional": "公路自行車",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "racing bicycle"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "road bike"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

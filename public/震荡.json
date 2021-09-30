@@ -1,0 +1,82 @@
+{
+  "simplified": "震荡",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhèn dàng",
+          "wade_giles_pinyin": "zhen4 dang4"
+        }
+      ],
+      "simplified": "震荡",
+      "simplified_stroke_count": 0,
+      "traditional": "震盪",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to shake up"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to jolt"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to vibrate"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to oscillate"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to fluctuate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhèn dàng",
+          "wade_giles_pinyin": "zhen4 dang4"
+        }
+      ],
+      "simplified": "震荡",
+      "simplified_stroke_count": 0,
+      "traditional": "震蕩",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to vibrate"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to shake"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to shudder"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

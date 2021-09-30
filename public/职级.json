@@ -1,0 +1,31 @@
+{
+  "simplified": "职级",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhí jí",
+          "wade_giles_pinyin": "zhi2 ji2"
+        }
+      ],
+      "simplified": "职级",
+      "traditional": "職級",
+      "meanings": [
+        {
+          "value": "(job) position"
+        },
+        {
+          "value": "level"
+        },
+        {
+          "value": "grade"
+        },
+        {
+          "value": "rank"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

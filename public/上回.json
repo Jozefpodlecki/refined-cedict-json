@@ -1,0 +1,32 @@
+{
+  "simplified": "上回",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shàng huí",
+          "wade_giles_pinyin": "shang4 hui2"
+        }
+      ],
+      "simplified": "上回",
+      "simplified_stroke_count": null,
+      "traditional": "上回",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "last time"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "the previous time"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "净手",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jìng shǒu",
+          "wade_giles_pinyin": "jing4 shou3"
+        }
+      ],
+      "simplified": "净手",
+      "simplified_stroke_count": null,
+      "traditional": "淨手",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to wash one's hands"
+        },
+        {
+          "context": "figuratively",
+          "lexical_item": null,
+          "value": "to go to the toilet"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

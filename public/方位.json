@@ -1,0 +1,34 @@
+{
+  "simplified": "方位",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fāng weì",
+          "wade_giles_pinyin": "fang1 wei4"
+        }
+      ],
+      "simplified": "方位",
+      "traditional": "方位",
+      "meanings": [
+        {
+          "value": "direction"
+        },
+        {
+          "value": "points of the compass"
+        },
+        {
+          "value": "bearing"
+        },
+        {
+          "value": "position"
+        },
+        {
+          "value": "azimuth"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "simplified": "交警",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiāo jǐng",
+          "wade_giles_pinyin": "jiao1 jing3"
+        }
+      ],
+      "simplified": "交警",
+      "traditional": "交警",
+      "meanings": [
+        {
+          "value": "traffic police"
+        },
+        {
+          "context": "abbreviation",
+          "value": "交通警察"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "simplified": "炮",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bāo",
+          "wade_giles_pinyin": "bao1"
+        }
+      ],
+      "simplified": "炮",
+      "simplified_stroke_count": 9,
+      "traditional": "炮",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "to sauté"
+        },
+        {
+          "value": "to fry"
+        },
+        {
+          "value": "to dry by heating"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "páo",
+          "wade_giles_pinyin": "pao2"
+        }
+      ],
+      "simplified": "炮",
+      "simplified_stroke_count": 9,
+      "traditional": "炮",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "to prepare herbal medicine by roasting or parching (in a pan)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pào",
+          "wade_giles_pinyin": "pao4"
+        }
+      ],
+      "simplified": "炮",
+      "simplified_stroke_count": 9,
+      "traditional": "炮",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "cannon"
+        },
+        {
+          "value": "firecracker"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "座",
+          "traditional": "",
+          "wade_giles_pinyin": "zuo4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pào",
+          "wade_giles_pinyin": "pao4"
+        }
+      ],
+      "simplified": "炮",
+      "simplified_stroke_count": 9,
+      "traditional": "砲",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 炮[pao4]",
+          "simplified": "炮",
+          "traditional": "",
+          "wade_giles_pinyin": "pao4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

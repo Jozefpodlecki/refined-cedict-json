@@ -1,0 +1,34 @@
+{
+  "simplified": "定案",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dìng àn",
+          "wade_giles_pinyin": "ding4 an4"
+        }
+      ],
+      "simplified": "定案",
+      "simplified_stroke_count": 0,
+      "traditional": "定案",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to reach a verdict"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to conclude a judgment"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

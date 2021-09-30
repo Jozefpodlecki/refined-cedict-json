@@ -1,0 +1,33 @@
+{
+  "simplified": "封爵",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fēng jué",
+          "wade_giles_pinyin": "feng1 jue2"
+        }
+      ],
+      "simplified": "封爵",
+      "traditional": "封爵",
+      "meanings": [
+        {
+          "value": "to confer a title"
+        },
+        {
+          "value": "to ennoble"
+        },
+        {
+          "value": "to knight"
+        },
+        {
+          "value": "title of nobility"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

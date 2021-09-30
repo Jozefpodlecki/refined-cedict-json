@@ -1,0 +1,25 @@
+{
+  "simplified": "单稳",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dān wěn",
+          "wade_giles_pinyin": "dan1 wen3"
+        }
+      ],
+      "simplified": "单稳",
+      "traditional": "單穩",
+      "meanings": [
+        {
+          "value": "monostable"
+        },
+        {
+          "value": "single-side stable (relays)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "simplified": "部队",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bù duì",
+          "wade_giles_pinyin": "bu4 dui4"
+        }
+      ],
+      "simplified": "部队",
+      "simplified_stroke_count": 0,
+      "traditional": "部隊",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "army"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "armed forces"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "troops"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "force"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "unit"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:個|个[ge4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

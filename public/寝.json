@@ -1,0 +1,52 @@
+{
+  "simplified": "寝",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qǐn",
+          "wade_giles_pinyin": "qin3"
+        }
+      ],
+      "simplified": "寝",
+      "simplified_stroke_count": 13,
+      "traditional": "寑",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 寢|寝[qin3]",
+          "simplified": "寢",
+          "traditional": "寝",
+          "wade_giles_pinyin": "qin3"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qǐn",
+          "wade_giles_pinyin": "qin3"
+        }
+      ],
+      "simplified": "寝",
+      "simplified_stroke_count": 13,
+      "traditional": "寢",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "to lie down"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

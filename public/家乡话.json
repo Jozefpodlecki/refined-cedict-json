@@ -1,0 +1,32 @@
+{
+  "simplified": "家乡话",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jiā xiāng huà",
+          "wade_giles_pinyin": "jia1 xiang1 hua4"
+        }
+      ],
+      "simplified": "家乡话",
+      "simplified_stroke_count": 0,
+      "traditional": "家鄉話",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "native language"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "native dialect"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

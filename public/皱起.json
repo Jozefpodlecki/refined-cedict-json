@@ -1,0 +1,34 @@
+{
+  "simplified": "皱起",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhòu qǐ",
+          "wade_giles_pinyin": "zhou4 qi3"
+        }
+      ],
+      "simplified": "皱起",
+      "simplified_stroke_count": 0,
+      "traditional": "皺起",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to purse"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to pucker (up)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

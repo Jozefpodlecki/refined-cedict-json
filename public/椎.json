@@ -1,0 +1,44 @@
+{
+  "simplified": "椎",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chuí",
+          "wade_giles_pinyin": "chui2"
+        }
+      ],
+      "simplified": "椎",
+      "simplified_stroke_count": 12,
+      "traditional": "椎",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "a hammer"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhuī",
+          "wade_giles_pinyin": "zhui1"
+        }
+      ],
+      "simplified": "椎",
+      "simplified_stroke_count": 12,
+      "traditional": "椎",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "spine"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

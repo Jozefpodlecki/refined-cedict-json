@@ -1,0 +1,30 @@
+{
+  "simplified": "驾乘",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jià chéng",
+          "wade_giles_pinyin": "jia4 cheng2"
+        }
+      ],
+      "simplified": "驾乘",
+      "traditional": "駕乘",
+      "meanings": [
+        {
+          "value": "to drive (a car)"
+        },
+        {
+          "value": "to fly (an aircraft)"
+        },
+        {
+          "value": "to pilot (a boat)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

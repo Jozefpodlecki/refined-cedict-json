@@ -1,0 +1,27 @@
+{
+  "simplified": "音频文件",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yīn pín wén jiàn",
+          "wade_giles_pinyin": "yin1 pin2 wen2 jian4"
+        }
+      ],
+      "simplified": "音频文件",
+      "simplified_stroke_count": 0,
+      "traditional": "音頻文件",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "audio file (computer)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

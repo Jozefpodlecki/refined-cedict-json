@@ -1,0 +1,27 @@
+{
+  "simplified": "发面",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fā miàn",
+          "wade_giles_pinyin": "fa1 mian4"
+        }
+      ],
+      "simplified": "发面",
+      "traditional": "發麵",
+      "meanings": [
+        {
+          "value": "to leaven dough"
+        },
+        {
+          "value": "to make bread"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

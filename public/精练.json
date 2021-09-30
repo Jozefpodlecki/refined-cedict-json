@@ -1,0 +1,39 @@
+{
+  "simplified": "精练",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jīng liàn",
+          "wade_giles_pinyin": "jing1 lian4"
+        }
+      ],
+      "simplified": "精练",
+      "simplified_stroke_count": 0,
+      "traditional": "精練",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(textiles) to scour"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to degum (silk)"
+        },
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "精煉|精炼[jing1 lian4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

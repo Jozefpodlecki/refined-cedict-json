@@ -1,0 +1,29 @@
+{
+  "simplified": "日圆",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rì yuán",
+          "wade_giles_pinyin": "Ri4 yuan2"
+        }
+      ],
+      "simplified": "日圆",
+      "traditional": "日圓",
+      "meanings": [
+        {
+          "context": "Japanese",
+          "value": "Japanese yen (unit of currency)"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

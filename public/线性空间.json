@@ -1,0 +1,32 @@
+{
+  "simplified": "线性空间",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xiàn xìng kōng jiān",
+          "wade_giles_pinyin": "xian4 xing4 kong1 jian1"
+        }
+      ],
+      "simplified": "线性空间",
+      "simplified_stroke_count": 0,
+      "traditional": "線性空間",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "vector space"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "linear space"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

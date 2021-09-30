@@ -1,0 +1,48 @@
+{
+  "simplified": "懒",
+  "simplified_stroke_count": 16,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lǎn",
+          "wade_giles_pinyin": "lan3"
+        }
+      ],
+      "simplified": "懒",
+      "simplified_stroke_count": 16,
+      "traditional": "嬾",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 懶|懒[lan3]",
+          "simplified": "懶",
+          "traditional": "懒",
+          "wade_giles_pinyin": "lan3"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lǎn",
+          "wade_giles_pinyin": "lan3"
+        }
+      ],
+      "simplified": "懒",
+      "simplified_stroke_count": 16,
+      "traditional": "懶",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "value": "lazy"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

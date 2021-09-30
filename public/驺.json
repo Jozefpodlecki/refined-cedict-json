@@ -1,0 +1,45 @@
+{
+  "simplified": "驺",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zōu",
+          "wade_giles_pinyin": "Zou1"
+        }
+      ],
+      "simplified": "驺",
+      "simplified_stroke_count": 8,
+      "traditional": "騶",
+      "traditional_stroke_count": 20,
+      "meanings": [
+        {
+          "value": "surname Zou"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zōu",
+          "wade_giles_pinyin": "zou1"
+        }
+      ],
+      "simplified": "驺",
+      "simplified_stroke_count": 8,
+      "traditional": "騶",
+      "traditional_stroke_count": 20,
+      "meanings": [
+        {
+          "context": "old",
+          "value": "groom or chariot driver employed by a noble"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

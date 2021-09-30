@@ -1,0 +1,57 @@
+{
+  "simplified": "馏",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "liú",
+          "wade_giles_pinyin": "liu2"
+        }
+      ],
+      "simplified": "馏",
+      "simplified_stroke_count": 13,
+      "traditional": "餾",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "value": "to distill"
+        },
+        {
+          "value": "to break a liquid substance up into components by boiling"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "liù",
+          "wade_giles_pinyin": "liu4"
+        }
+      ],
+      "simplified": "馏",
+      "simplified_stroke_count": 13,
+      "traditional": "餾",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "value": "to steam"
+        },
+        {
+          "value": "to cook in a steamer"
+        },
+        {
+          "value": "to reheat cold food by steaming it"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

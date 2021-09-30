@@ -1,0 +1,25 @@
+{
+  "simplified": "地貌",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dì mào",
+          "wade_giles_pinyin": "di4 mao4"
+        }
+      ],
+      "simplified": "地貌",
+      "traditional": "地貌",
+      "meanings": [
+        {
+          "value": "relief"
+        },
+        {
+          "value": "landform (geology)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

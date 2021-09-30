@@ -1,0 +1,48 @@
+{
+  "simplified": "筏",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fá",
+          "wade_giles_pinyin": "fa2"
+        }
+      ],
+      "simplified": "筏",
+      "simplified_stroke_count": 12,
+      "traditional": "栰",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 筏[fa2]",
+          "simplified": "筏",
+          "traditional": "",
+          "wade_giles_pinyin": "fa2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fá",
+          "wade_giles_pinyin": "fa2"
+        }
+      ],
+      "simplified": "筏",
+      "simplified_stroke_count": 12,
+      "traditional": "筏",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "raft (of logs)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

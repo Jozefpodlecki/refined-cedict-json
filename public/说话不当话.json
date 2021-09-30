@@ -1,0 +1,27 @@
+{
+  "simplified": "说话不当话",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shuō huà bù dàng huà",
+          "wade_giles_pinyin": "shuo1 hua4 bu4 dang4 hua4"
+        }
+      ],
+      "simplified": "说话不当话",
+      "traditional": "說話不當話",
+      "meanings": [
+        {
+          "value": "to fail to keep to one's word"
+        },
+        {
+          "value": "to break a promise"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

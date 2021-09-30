@@ -1,0 +1,33 @@
+{
+  "simplified": "棒球",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bàng qiú",
+          "wade_giles_pinyin": "bang4 qiu2"
+        }
+      ],
+      "simplified": "棒球",
+      "traditional": "棒球",
+      "meanings": [
+        {
+          "value": "baseball"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        },
+        {
+          "simplified": "隻",
+          "traditional": "只",
+          "wade_giles_pinyin": "zhi1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

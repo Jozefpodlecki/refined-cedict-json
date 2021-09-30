@@ -1,0 +1,54 @@
+{
+  "simplified": "穗",
+  "simplified_stroke_count": 17,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "suì",
+          "wade_giles_pinyin": "Sui4"
+        }
+      ],
+      "simplified": "穗",
+      "simplified_stroke_count": 17,
+      "traditional": "穗",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "value": "Guangzhou 廣州|广州[Guang3 zhou1]",
+          "simplified": "G",
+          "traditional": "uangzhou 廣州|广州",
+          "wade_giles_pinyin": "Guang3 zhou1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "suì",
+          "wade_giles_pinyin": "sui4"
+        }
+      ],
+      "simplified": "穗",
+      "simplified_stroke_count": 17,
+      "traditional": "穗",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "ear of grain"
+        },
+        {
+          "value": "fringe"
+        },
+        {
+          "value": "tassel"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "拍发",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " pāi fā",
+          "wade_giles_pinyin": "pai1 fa1"
+        }
+      ],
+      "simplified": "拍发",
+      "simplified_stroke_count": 0,
+      "traditional": "拍發",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to send"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to cable (a telegram)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

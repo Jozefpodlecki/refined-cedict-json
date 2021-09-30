@@ -1,0 +1,33 @@
+{
+  "simplified": "累计",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lěi jì",
+          "wade_giles_pinyin": "lei3 ji4"
+        }
+      ],
+      "simplified": "累计",
+      "traditional": "累計",
+      "meanings": [
+        {
+          "value": "to calculate the running total"
+        },
+        {
+          "value": "cumulative"
+        },
+        {
+          "value": "total"
+        },
+        {
+          "value": "in total"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

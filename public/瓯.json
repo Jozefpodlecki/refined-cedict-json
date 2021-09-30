@@ -1,0 +1,44 @@
+{
+  "simplified": "瓯",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ōu",
+          "wade_giles_pinyin": "Ou1"
+        }
+      ],
+      "simplified": "瓯",
+      "simplified_stroke_count": 9,
+      "traditional": "甌",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "old name for Wenzhou City 溫州市|温州市[Wen1 zhou1 shi4] in Zhejiang 浙江[Zhe4 jiang1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ōu",
+          "wade_giles_pinyin": "ou1"
+        }
+      ],
+      "simplified": "瓯",
+      "simplified_stroke_count": 9,
+      "traditional": "甌",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "(pottery) bowl or drinking vessel"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

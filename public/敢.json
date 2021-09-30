@@ -1,0 +1,34 @@
+{
+  "simplified": "敢",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gǎn",
+          "wade_giles_pinyin": "gan3"
+        }
+      ],
+      "simplified": "敢",
+      "simplified_stroke_count": 12,
+      "traditional": "敢",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "to dare"
+        },
+        {
+          "value": "daring"
+        },
+        {
+          "context": "polite",
+          "value": "may I venture"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

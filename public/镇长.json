@@ -1,0 +1,28 @@
+{
+  "simplified": "镇长",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhèn zhǎng",
+          "wade_giles_pinyin": "zhen4 zhang3"
+        }
+      ],
+      "simplified": "镇长",
+      "traditional": "鎮長",
+      "meanings": [
+        {
+          "value": "town headman"
+        },
+        {
+          "value": "mayor (of small town or village)"
+        },
+        {
+          "value": "bailiff"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

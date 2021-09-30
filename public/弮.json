@@ -1,0 +1,44 @@
+{
+  "simplified": "弮",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "juàn",
+          "wade_giles_pinyin": "juan4"
+        }
+      ],
+      "simplified": "弮",
+      "simplified_stroke_count": 9,
+      "traditional": "弮",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 卷[juan4], curled up scroll",
+          "simplified": "卷",
+          "traditional": "",
+          "wade_giles_pinyin": "juan4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "quān",
+          "wade_giles_pinyin": "quan1"
+        }
+      ],
+      "simplified": "弮",
+      "simplified_stroke_count": 9,
+      "traditional": "弮",
+      "traditional_stroke_count": 9,
+      "meanings": [],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

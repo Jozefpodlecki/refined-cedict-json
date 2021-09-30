@@ -1,0 +1,44 @@
+{
+  "simplified": "跨",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " kuà",
+          "wade_giles_pinyin": "kua4"
+        }
+      ],
+      "simplified": "跨",
+      "simplified_stroke_count": 13,
+      "traditional": "跨",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to step across"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to stride over"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to straddle"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to span"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

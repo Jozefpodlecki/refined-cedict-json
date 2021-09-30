@@ -1,0 +1,32 @@
+{
+  "simplified": "超文件传输协定",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chāo wén jiàn chuán shū xié dìng",
+          "wade_giles_pinyin": "chao1 wen2 jian4 chuan2 shu1 xie2 ding4"
+        }
+      ],
+      "simplified": "超文件传输协定",
+      "simplified_stroke_count": 0,
+      "traditional": "超文件傳輸協定",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "hypertext transfer protocol"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "HTTP"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

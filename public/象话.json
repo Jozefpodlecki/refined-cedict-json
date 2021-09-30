@@ -1,0 +1,32 @@
+{
+  "simplified": "象话",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiàng huà",
+          "wade_giles_pinyin": "xiang4 hua4"
+        }
+      ],
+      "simplified": "象话",
+      "simplified_stroke_count": null,
+      "traditional": "象話",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "proper"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "also written 像話|像话"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

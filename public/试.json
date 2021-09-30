@@ -1,0 +1,39 @@
+{
+  "simplified": "试",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shì",
+          "wade_giles_pinyin": "shi4"
+        }
+      ],
+      "simplified": "试",
+      "simplified_stroke_count": 8,
+      "traditional": "試",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "to test"
+        },
+        {
+          "value": "to try"
+        },
+        {
+          "value": "experiment"
+        },
+        {
+          "value": "examination"
+        },
+        {
+          "value": "test"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

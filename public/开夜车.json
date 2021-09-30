@@ -1,0 +1,34 @@
+{
+  "simplified": "开夜车",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " kāi yè chē",
+          "wade_giles_pinyin": "kai1 ye4 che1"
+        }
+      ],
+      "simplified": "开夜车",
+      "simplified_stroke_count": 0,
+      "traditional": "開夜車",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to burn the midnight oil"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to work late into the night"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

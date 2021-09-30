@@ -1,0 +1,54 @@
+{
+  "simplified": "樽",
+  "simplified_stroke_count": 16,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zūn",
+          "wade_giles_pinyin": "zun1"
+        }
+      ],
+      "simplified": "樽",
+      "simplified_stroke_count": 16,
+      "traditional": "樽",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "goblet"
+        },
+        {
+          "value": "bottle"
+        },
+        {
+          "value": "wine-jar"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zūn",
+          "wade_giles_pinyin": "zun1"
+        }
+      ],
+      "simplified": "樽",
+      "simplified_stroke_count": 16,
+      "traditional": "罇",
+      "traditional_stroke_count": 18,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 樽[zun1]",
+          "simplified": "樽",
+          "traditional": "",
+          "wade_giles_pinyin": "zun1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

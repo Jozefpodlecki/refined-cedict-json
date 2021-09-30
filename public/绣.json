@@ -1,0 +1,48 @@
+{
+  "simplified": "绣",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiù",
+          "wade_giles_pinyin": "xiu4"
+        }
+      ],
+      "simplified": "绣",
+      "simplified_stroke_count": 10,
+      "traditional": "綉",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 繡|绣[xiu4]",
+          "simplified": "繡",
+          "traditional": "绣",
+          "wade_giles_pinyin": "xiu4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiù",
+          "wade_giles_pinyin": "xiu4"
+        }
+      ],
+      "simplified": "绣",
+      "simplified_stroke_count": 10,
+      "traditional": "繡",
+      "traditional_stroke_count": 18,
+      "meanings": [],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

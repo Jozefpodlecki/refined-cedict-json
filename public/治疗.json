@@ -1,0 +1,30 @@
+{
+  "simplified": "治疗",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhì liáo",
+          "wade_giles_pinyin": "zhi4 liao2"
+        }
+      ],
+      "simplified": "治疗",
+      "traditional": "治療",
+      "meanings": [
+        {
+          "value": "to treat (an illness)"
+        },
+        {
+          "value": "medical treatment"
+        },
+        {
+          "value": "therapy"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

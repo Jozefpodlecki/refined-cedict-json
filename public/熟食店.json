@@ -1,0 +1,25 @@
+{
+  "simplified": "熟食店",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shú shí diàn",
+          "wade_giles_pinyin": "shu2 shi2 dian4"
+        }
+      ],
+      "simplified": "熟食店",
+      "traditional": "熟食店",
+      "meanings": [
+        {
+          "value": "deli"
+        },
+        {
+          "value": "delicatessen"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

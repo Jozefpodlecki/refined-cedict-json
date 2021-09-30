@@ -1,0 +1,39 @@
+{
+  "simplified": "恢复",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huī fù",
+          "wade_giles_pinyin": "hui1 fu4"
+        }
+      ],
+      "simplified": "恢复",
+      "traditional": "恢復",
+      "meanings": [
+        {
+          "value": "to reinstate"
+        },
+        {
+          "value": "to resume"
+        },
+        {
+          "value": "to restore"
+        },
+        {
+          "value": "to recover"
+        },
+        {
+          "value": "to regain"
+        },
+        {
+          "value": "to rehabilitate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

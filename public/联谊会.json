@@ -1,0 +1,34 @@
+{
+  "simplified": "联谊会",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lián yì huì",
+          "wade_giles_pinyin": "lian2 yi4 hui4"
+        }
+      ],
+      "simplified": "联谊会",
+      "traditional": "聯誼會",
+      "meanings": [
+        {
+          "value": "association"
+        },
+        {
+          "value": "club"
+        },
+        {
+          "value": "society"
+        },
+        {
+          "value": "party"
+        },
+        {
+          "value": "get-together"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

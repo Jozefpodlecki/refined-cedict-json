@@ -1,0 +1,39 @@
+{
+  "simplified": "贴边",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " tiē biān",
+          "wade_giles_pinyin": "tie1 bian1"
+        }
+      ],
+      "simplified": "贴边",
+      "simplified_stroke_count": 0,
+      "traditional": "貼邊",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "welt"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "facing (of a garment)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to be relevant"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

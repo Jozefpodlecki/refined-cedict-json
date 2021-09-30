@@ -1,0 +1,39 @@
+{
+  "simplified": "生命",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shēng mìng",
+          "wade_giles_pinyin": "sheng1 ming4"
+        }
+      ],
+      "simplified": "生命",
+      "traditional": "生命",
+      "meanings": [
+        {
+          "value": "life (as the characteristic of living beings)"
+        },
+        {
+          "value": "living being"
+        },
+        {
+          "value": "creature"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        },
+        {
+          "simplified": "條",
+          "traditional": "条",
+          "wade_giles_pinyin": "tiao2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

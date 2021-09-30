@@ -1,0 +1,56 @@
+{
+  "simplified": "宴飨",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yàn xiǎng",
+          "wade_giles_pinyin": "yan4 xiang3"
+        }
+      ],
+      "simplified": "宴飨",
+      "traditional": "宴饗",
+      "meanings": [
+        {
+          "value": "to host a banquet"
+        },
+        {
+          "value": "feast"
+        },
+        {
+          "value": "banquet"
+        },
+        {
+          "value": "ceremony of sacrifice"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yàn xiǎng",
+          "wade_giles_pinyin": "yan4 xiang3"
+        }
+      ],
+      "simplified": "宴飨",
+      "traditional": "讌饗",
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 宴饗|宴飨[yan4 xiang3]",
+          "simplified": "宴",
+          "traditional": "饗|宴飨",
+          "wade_giles_pinyin": "yan4 xiang3"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

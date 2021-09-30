@@ -1,0 +1,40 @@
+{
+  "simplified": "境",
+  "simplified_stroke_count": 14,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jìng",
+          "wade_giles_pinyin": "jing4"
+        }
+      ],
+      "simplified": "境",
+      "simplified_stroke_count": 14,
+      "traditional": "境",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "border"
+        },
+        {
+          "value": "place"
+        },
+        {
+          "value": "condition"
+        },
+        {
+          "value": "boundary"
+        },
+        {
+          "value": "circumstances"
+        },
+        {
+          "value": "territory"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

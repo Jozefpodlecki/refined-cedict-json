@@ -1,0 +1,63 @@
+{
+  "simplified": "卧龙",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wò lóng",
+          "wade_giles_pinyin": "Wo4 long2"
+        }
+      ],
+      "simplified": "卧龙",
+      "simplified_stroke_count": null,
+      "traditional": "臥龍",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "nickname of Zhuge Liang 諸葛亮|诸葛亮"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "Wolong giant panda nature reserve 臥龍大熊貓保護區|卧龙大熊猫保护区 in Wenchuan county, northwest Sichuan"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "Wolong district of Nanyang city 南陽|南阳[Nan2 yang2], Henan"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wò lóng",
+          "wade_giles_pinyin": "wo4 long2"
+        }
+      ],
+      "simplified": "卧龙",
+      "simplified_stroke_count": null,
+      "traditional": "臥龍",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": null,
+          "value": "hidden dragon"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "fig. emperor in hiding"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

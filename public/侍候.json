@@ -1,0 +1,34 @@
+{
+  "simplified": "侍候",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shì hòu",
+          "wade_giles_pinyin": "shi4 hou4"
+        }
+      ],
+      "simplified": "侍候",
+      "simplified_stroke_count": 0,
+      "traditional": "侍候",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to serve"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to wait upon"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

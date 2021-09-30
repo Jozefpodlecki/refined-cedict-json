@@ -1,0 +1,30 @@
+{
+  "simplified": "稳定物价",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wěn dìng wù jià",
+          "wade_giles_pinyin": "wen3 ding4 wu4 jia4"
+        }
+      ],
+      "simplified": "稳定物价",
+      "traditional": "穩定物價",
+      "meanings": [
+        {
+          "value": "stable prices"
+        },
+        {
+          "value": "commodity prices fixed by government (in a command economy)"
+        },
+        {
+          "value": "to valorize (a commodity)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

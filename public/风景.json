@@ -1,0 +1,31 @@
+{
+  "simplified": "风景",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fēng jǐng",
+          "wade_giles_pinyin": "feng1 jing3"
+        }
+      ],
+      "simplified": "风景",
+      "traditional": "風景",
+      "meanings": [
+        {
+          "value": "scenery"
+        },
+        {
+          "value": "landscape"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

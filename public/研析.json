@@ -1,0 +1,34 @@
+{
+  "simplified": "研析",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yán xī",
+          "wade_giles_pinyin": "yan2 xi1"
+        }
+      ],
+      "simplified": "研析",
+      "simplified_stroke_count": null,
+      "traditional": "研析",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to analyze"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "research"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

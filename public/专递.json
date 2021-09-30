@@ -1,0 +1,32 @@
+{
+  "simplified": "专递",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhuān dì",
+          "wade_giles_pinyin": "zhuan1 di4"
+        }
+      ],
+      "simplified": "专递",
+      "simplified_stroke_count": 0,
+      "traditional": "專遞",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "special delivery"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "courier"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

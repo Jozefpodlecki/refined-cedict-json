@@ -1,0 +1,35 @@
+{
+  "simplified": "固化",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gù huà",
+          "wade_giles_pinyin": "gu4 hua4"
+        }
+      ],
+      "simplified": "固化",
+      "simplified_stroke_count": null,
+      "traditional": "固化",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to solidify"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "solidification (chemistry)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "chemical elements",
+        "verb"
+      ]
+    }
+  ]
+}

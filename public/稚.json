@@ -1,0 +1,74 @@
+{
+  "simplified": "稚",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhì",
+          "wade_giles_pinyin": "zhi4"
+        }
+      ],
+      "simplified": "稚",
+      "simplified_stroke_count": 13,
+      "traditional": "稚",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "infantile"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "young"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhì",
+          "wade_giles_pinyin": "zhi4"
+        }
+      ],
+      "simplified": "稚",
+      "simplified_stroke_count": 13,
+      "traditional": "稺",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "old variant",
+          "lexical_item": "",
+          "value": "稚[zhi4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhì",
+          "wade_giles_pinyin": "zhi4"
+        }
+      ],
+      "simplified": "稚",
+      "simplified_stroke_count": 13,
+      "traditional": "穉",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "稚[zhi4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

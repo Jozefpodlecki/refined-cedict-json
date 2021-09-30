@@ -1,0 +1,29 @@
+{
+  "simplified": "昏睡病",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hūn shuì bìng",
+          "wade_giles_pinyin": "hun1 shui4 bing4"
+        }
+      ],
+      "simplified": "昏睡病",
+      "traditional": "昏睡病",
+      "meanings": [
+        {
+          "value": "sleeping sickness"
+        },
+        {
+          "value": "African trypanosomiasis"
+        },
+        {
+          "context": "see also",
+          "value": "非洲錐蟲病|非洲锥虫病[Fei1 zhou1 zhui1 chong2 bing4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

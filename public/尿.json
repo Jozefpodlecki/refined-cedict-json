@@ -1,0 +1,68 @@
+{
+  "simplified": "尿",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " niào",
+          "wade_giles_pinyin": "niao4"
+        }
+      ],
+      "simplified": "尿",
+      "simplified_stroke_count": 7,
+      "traditional": "尿",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to urinate"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "urine"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:泡[pao1]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "泡",
+          "traditional": "",
+          "wade_giles_pinyin": "pao1"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " suī",
+          "wade_giles_pinyin": "sui1"
+        }
+      ],
+      "simplified": "尿",
+      "simplified_stroke_count": 7,
+      "traditional": "尿",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "see 尿[niao4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

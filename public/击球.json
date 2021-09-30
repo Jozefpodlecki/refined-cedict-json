@@ -1,0 +1,27 @@
+{
+  "simplified": "击球",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jī qiú",
+          "wade_giles_pinyin": "ji1 qiu2"
+        }
+      ],
+      "simplified": "击球",
+      "traditional": "擊球",
+      "meanings": [
+        {
+          "value": "to bat"
+        },
+        {
+          "value": "to hit a ball (sport)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

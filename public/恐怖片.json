@@ -1,0 +1,38 @@
+{
+  "simplified": "恐怖片",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " kǒng bù piàn",
+          "wade_giles_pinyin": "kong3 bu4 pian4"
+        }
+      ],
+      "simplified": "恐怖片",
+      "simplified_stroke_count": 0,
+      "traditional": "恐怖片",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "horror movie"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:部[bu4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "部",
+          "traditional": "",
+          "wade_giles_pinyin": "bu4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

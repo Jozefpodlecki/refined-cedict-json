@@ -1,0 +1,42 @@
+{
+  "simplified": "戒",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiè",
+          "wade_giles_pinyin": "jie4"
+        }
+      ],
+      "simplified": "戒",
+      "simplified_stroke_count": 7,
+      "traditional": "戒",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "value": "to guard against"
+        },
+        {
+          "value": "to exhort"
+        },
+        {
+          "value": "to admonish or warn"
+        },
+        {
+          "value": "to give up or stop doing sth"
+        },
+        {
+          "value": "Buddhist monastic discipline"
+        },
+        {
+          "value": "ring (for a finger)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

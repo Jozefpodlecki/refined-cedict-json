@@ -1,0 +1,34 @@
+{
+  "simplified": "扱",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xī",
+          "wade_giles_pinyin": "xi1"
+        }
+      ],
+      "simplified": "扱",
+      "simplified_stroke_count": 7,
+      "traditional": "扱",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to collect"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to receive"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

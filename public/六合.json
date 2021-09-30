@@ -1,0 +1,63 @@
+{
+  "simplified": "六合",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lù hé",
+          "wade_giles_pinyin": "Lu4 he2"
+        }
+      ],
+      "simplified": "六合",
+      "simplified_stroke_count": null,
+      "traditional": "六合",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "Luhe district of Nanjing City 南京市 in Jiangsu 江蘇|江苏"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "liù hé",
+          "wade_giles_pinyin": "liu4 he2"
+        }
+      ],
+      "simplified": "六合",
+      "simplified_stroke_count": null,
+      "traditional": "六合",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "the six directions (north, south, east, west, up, down)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "the whole country"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "the universe"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "everything under the sun"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

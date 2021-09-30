@@ -1,0 +1,49 @@
+{
+  "simplified": "淘",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " táo",
+          "wade_giles_pinyin": "tao2"
+        }
+      ],
+      "simplified": "淘",
+      "simplified_stroke_count": 11,
+      "traditional": "淘",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to wash"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to clean out"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to cleanse"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to eliminate"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to dredge"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

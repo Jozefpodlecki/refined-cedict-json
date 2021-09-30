@@ -1,0 +1,58 @@
+{
+  "simplified": "因",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yīn",
+          "wade_giles_pinyin": "yin1"
+        }
+      ],
+      "simplified": "因",
+      "simplified_stroke_count": 6,
+      "traditional": "囙",
+      "traditional_stroke_count": 5,
+      "meanings": [
+        {
+          "context": "old variant",
+          "lexical_item": "",
+          "value": "因[yin1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yīn",
+          "wade_giles_pinyin": "yin1"
+        }
+      ],
+      "simplified": "因",
+      "simplified_stroke_count": 6,
+      "traditional": "因",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "cause"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "reason"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "because"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

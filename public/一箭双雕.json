@@ -1,0 +1,29 @@
+{
+  "simplified": "一箭双雕",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yī jiàn shuāng diāo",
+          "wade_giles_pinyin": "yi1 jian4 shuang1 diao1"
+        }
+      ],
+      "simplified": "一箭双雕",
+      "traditional": "一箭雙鵰",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "one arrow, two golden eagles"
+        },
+        {
+          "value": "to kill two birds with one stone"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

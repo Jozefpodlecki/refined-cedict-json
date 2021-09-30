@@ -1,0 +1,39 @@
+{
+  "simplified": "中超",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhōng chāo",
+          "wade_giles_pinyin": "Zhong1 chao1"
+        }
+      ],
+      "simplified": "中超",
+      "traditional": "中超",
+      "meanings": [
+        {
+          "value": "Chinese Super League (soccer)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhōng chāo",
+          "wade_giles_pinyin": "zhong1 chao1"
+        }
+      ],
+      "simplified": "中超",
+      "traditional": "中超",
+      "meanings": [
+        {
+          "value": "Chinese supermarket"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

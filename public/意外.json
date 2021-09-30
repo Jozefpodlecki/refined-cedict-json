@@ -1,0 +1,34 @@
+{
+  "simplified": "意外",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yì wài",
+          "wade_giles_pinyin": "yi4 wai4"
+        }
+      ],
+      "simplified": "意外",
+      "traditional": "意外",
+      "meanings": [
+        {
+          "value": "unexpected"
+        },
+        {
+          "value": "accident"
+        },
+        {
+          "value": "mishap"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

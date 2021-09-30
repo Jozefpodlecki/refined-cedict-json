@@ -1,0 +1,27 @@
+{
+  "simplified": "签入",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiān rù",
+          "wade_giles_pinyin": "qian1 ru4"
+        }
+      ],
+      "simplified": "签入",
+      "traditional": "簽入",
+      "meanings": [
+        {
+          "value": "to log on"
+        },
+        {
+          "value": "to log in"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

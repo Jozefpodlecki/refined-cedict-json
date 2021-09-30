@@ -1,0 +1,32 @@
+{
+  "simplified": "卡纸",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " kǎ zhǐ",
+          "wade_giles_pinyin": "ka3 zhi3"
+        }
+      ],
+      "simplified": "卡纸",
+      "simplified_stroke_count": 0,
+      "traditional": "卡紙",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "cardboard"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "card stock"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

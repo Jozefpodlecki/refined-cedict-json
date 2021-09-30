@@ -1,0 +1,29 @@
+{
+  "simplified": "简册",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiǎn cè",
+          "wade_giles_pinyin": "jian3 ce4"
+        }
+      ],
+      "simplified": "简册",
+      "traditional": "簡冊",
+      "meanings": [
+        {
+          "value": "booklet"
+        },
+        {
+          "value": "brochure"
+        },
+        {
+          "context": "old",
+          "value": "book (made of bamboo strips tied together)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

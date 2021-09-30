@@ -1,0 +1,33 @@
+{
+  "simplified": "旁边",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "páng biān",
+          "wade_giles_pinyin": "pang2 bian1"
+        }
+      ],
+      "simplified": "旁边",
+      "traditional": "旁邊",
+      "meanings": [
+        {
+          "value": "lateral"
+        },
+        {
+          "value": "side"
+        },
+        {
+          "value": "to the side"
+        },
+        {
+          "value": "beside"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

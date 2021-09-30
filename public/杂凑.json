@@ -1,0 +1,34 @@
+{
+  "simplified": "杂凑",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zá còu",
+          "wade_giles_pinyin": "za2 cou4"
+        }
+      ],
+      "simplified": "杂凑",
+      "traditional": "雜湊",
+      "meanings": [
+        {
+          "value": "to put together various bits"
+        },
+        {
+          "value": "to knock sth together"
+        },
+        {
+          "value": "hash (computing)"
+        },
+        {
+          "context": "see also",
+          "value": "散列[san3 lie4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "药局",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yào jú",
+          "wade_giles_pinyin": "yao4 ju2"
+        }
+      ],
+      "simplified": "药局",
+      "simplified_stroke_count": 0,
+      "traditional": "藥局",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "pharmacy"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "dispensary"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

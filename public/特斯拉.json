@@ -1,0 +1,39 @@
+{
+  "simplified": "特斯拉",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tè sī lā",
+          "wade_giles_pinyin": "Te4 si1 la1"
+        }
+      ],
+      "simplified": "特斯拉",
+      "traditional": "特斯拉",
+      "meanings": [
+        {
+          "value": "Nikola Tesla (1856-1943), Serbian inventor and engineer"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tè sī lā",
+          "wade_giles_pinyin": "te4 si1 la1"
+        }
+      ],
+      "simplified": "特斯拉",
+      "traditional": "特斯拉",
+      "meanings": [
+        {
+          "value": "tesla (unit)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

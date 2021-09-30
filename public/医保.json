@@ -1,0 +1,32 @@
+{
+  "simplified": "医保",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yī bǎo",
+          "wade_giles_pinyin": "yi1 bao3"
+        }
+      ],
+      "simplified": "医保",
+      "simplified_stroke_count": 0,
+      "traditional": "醫保",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "medical insurance"
+        },
+        {
+          "context": "abbreviation",
+          "lexical_item": "",
+          "value": "醫療保險|医疗保险[yi1 liao2 bao3 xian3]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

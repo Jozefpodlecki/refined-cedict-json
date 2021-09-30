@@ -1,0 +1,48 @@
+{
+  "simplified": "鄦",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xǔ",
+          "wade_giles_pinyin": "Xu3"
+        }
+      ],
+      "simplified": "鄦",
+      "simplified_stroke_count": 15,
+      "traditional": "鄦",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "surname Xu"
+        },
+        {
+          "value": "vassal state during the Zhou Dynasty (1046-221 BC)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xǔ",
+          "wade_giles_pinyin": "xu3"
+        }
+      ],
+      "simplified": "鄦",
+      "simplified_stroke_count": 15,
+      "traditional": "鄦",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "許|许"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

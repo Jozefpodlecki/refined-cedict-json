@@ -1,0 +1,31 @@
+{
+  "simplified": "艺术品",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yì shù pǐn",
+          "wade_giles_pinyin": "yi4 shu4 pin3"
+        }
+      ],
+      "simplified": "艺术品",
+      "traditional": "藝術品",
+      "meanings": [
+        {
+          "value": "art piece"
+        },
+        {
+          "value": "work of art"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "件",
+          "traditional": "",
+          "wade_giles_pinyin": "jian4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

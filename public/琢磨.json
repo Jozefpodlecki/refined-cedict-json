@@ -1,0 +1,55 @@
+{
+  "simplified": "琢磨",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhuó mó",
+          "wade_giles_pinyin": "zhuo2 mo2"
+        }
+      ],
+      "simplified": "琢磨",
+      "traditional": "琢磨",
+      "meanings": [
+        {
+          "value": "to carve and polish (jade)"
+        },
+        {
+          "value": "to polish and refine a literary work"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zuó mo",
+          "wade_giles_pinyin": "zuo2 mo5"
+        }
+      ],
+      "simplified": "琢磨",
+      "traditional": "琢磨",
+      "meanings": [
+        {
+          "value": "to ponder"
+        },
+        {
+          "value": "to mull over"
+        },
+        {
+          "value": "to think through"
+        },
+        {
+          "value": "Taiwan pr. [zhuo2 mo2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

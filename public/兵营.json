@@ -1,0 +1,32 @@
+{
+  "simplified": "兵营",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bīng yíng",
+          "wade_giles_pinyin": "bing1 ying2"
+        }
+      ],
+      "simplified": "兵营",
+      "simplified_stroke_count": 0,
+      "traditional": "兵營",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "military camp"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "barracks"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

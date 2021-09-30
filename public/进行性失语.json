@@ -1,0 +1,32 @@
+{
+  "simplified": "进行性失语",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jìn xíng xìng shī yǔ",
+          "wade_giles_pinyin": "jin4 xing2 xing4 shi1 yu3"
+        }
+      ],
+      "simplified": "进行性失语",
+      "simplified_stroke_count": 0,
+      "traditional": "進行性失語",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "progressive aphasia"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "gradual loss of speech"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

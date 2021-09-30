@@ -1,0 +1,37 @@
+{
+  "simplified": "出纳员",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chū nà yuán",
+          "wade_giles_pinyin": "chu1 na4 yuan2"
+        }
+      ],
+      "simplified": "出纳员",
+      "simplified_stroke_count": 0,
+      "traditional": "出納員",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "cashier"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "teller"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "treasurer"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "simplified": "墟",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xū",
+          "wade_giles_pinyin": "xu1"
+        }
+      ],
+      "simplified": "墟",
+      "simplified_stroke_count": 15,
+      "traditional": "墟",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "ruins"
+        },
+        {
+          "value": "(literary) village"
+        },
+        {
+          "context": "variant",
+          "value": "variant of 圩[xu1]",
+          "simplified": "圩",
+          "traditional": "",
+          "wade_giles_pinyin": "xu1"
+        },
+        {
+          "value": "country fair"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

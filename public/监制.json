@@ -1,0 +1,30 @@
+{
+  "simplified": "监制",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiān zhì",
+          "wade_giles_pinyin": "jian1 zhi4"
+        }
+      ],
+      "simplified": "监制",
+      "traditional": "監製",
+      "meanings": [
+        {
+          "value": "to supervise the manufacture of"
+        },
+        {
+          "value": "to supervise the shooting of films"
+        },
+        {
+          "value": "executive producer (film)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

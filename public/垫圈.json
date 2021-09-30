@@ -1,0 +1,46 @@
+{
+  "simplified": "垫圈",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diàn juàn",
+          "wade_giles_pinyin": "dian4 juan4"
+        }
+      ],
+      "simplified": "垫圈",
+      "traditional": "墊圈",
+      "meanings": [
+        {
+          "value": "to spread litter in a cowshed, pigsty etc"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diàn quān",
+          "wade_giles_pinyin": "dian4 quan1"
+        }
+      ],
+      "simplified": "垫圈",
+      "traditional": "墊圈",
+      "meanings": [
+        {
+          "value": "washer (on bolt)"
+        },
+        {
+          "value": "toilet seat"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

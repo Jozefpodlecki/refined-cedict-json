@@ -1,0 +1,30 @@
+{
+  "simplified": "销帐",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiāo zhàng",
+          "wade_giles_pinyin": "xiao1 zhang4"
+        }
+      ],
+      "simplified": "销帐",
+      "traditional": "銷帳",
+      "meanings": [
+        {
+          "value": "to write off"
+        },
+        {
+          "value": "to cancel an account"
+        },
+        {
+          "value": "to draw a line under"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

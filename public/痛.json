@@ -1,0 +1,37 @@
+{
+  "simplified": "痛",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tòng",
+          "wade_giles_pinyin": "tong4"
+        }
+      ],
+      "simplified": "痛",
+      "simplified_stroke_count": 12,
+      "traditional": "痛",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "ache"
+        },
+        {
+          "value": "pain"
+        },
+        {
+          "value": "sorrow"
+        },
+        {
+          "value": "deeply"
+        },
+        {
+          "value": "thoroughly"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

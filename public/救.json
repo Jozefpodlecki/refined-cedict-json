@@ -1,0 +1,48 @@
+{
+  "simplified": "救",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiù",
+          "wade_giles_pinyin": "jiu4"
+        }
+      ],
+      "simplified": "救",
+      "simplified_stroke_count": 11,
+      "traditional": "捄",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 救[jiu4]",
+          "simplified": "救",
+          "traditional": "",
+          "wade_giles_pinyin": "jiu4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiù",
+          "wade_giles_pinyin": "jiu4"
+        }
+      ],
+      "simplified": "救",
+      "simplified_stroke_count": 11,
+      "traditional": "救",
+      "traditional_stroke_count": 11,
+      "meanings": [],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

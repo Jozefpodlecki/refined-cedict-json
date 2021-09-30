@@ -1,0 +1,39 @@
+{
+  "simplified": "走回头路",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zǒu huí tóu lù",
+          "wade_giles_pinyin": "zou3 hui2 tou2 lu4"
+        }
+      ],
+      "simplified": "走回头路",
+      "simplified_stroke_count": 0,
+      "traditional": "走回頭路",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to turn back"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to backtrack"
+        },
+        {
+          "context": "figuratively",
+          "lexical_item": "",
+          "value": "to revert to the former way of doing things"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

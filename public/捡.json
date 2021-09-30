@@ -1,0 +1,33 @@
+{
+  "simplified": "捡",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiǎn",
+          "wade_giles_pinyin": "jian3"
+        }
+      ],
+      "simplified": "捡",
+      "simplified_stroke_count": 10,
+      "traditional": "撿",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "to pick up"
+        },
+        {
+          "value": "to collect"
+        },
+        {
+          "value": "to gather"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

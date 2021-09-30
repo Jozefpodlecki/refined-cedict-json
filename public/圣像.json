@@ -1,0 +1,37 @@
+{
+  "simplified": "圣像",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shèng xiàng",
+          "wade_giles_pinyin": "sheng4 xiang4"
+        }
+      ],
+      "simplified": "圣像",
+      "traditional": "聖像",
+      "meanings": [
+        {
+          "value": "icon"
+        },
+        {
+          "value": "iconic"
+        },
+        {
+          "value": "religious image"
+        },
+        {
+          "value": "figure (of Confucius, Buddha, Jesus Christ, the Virgin Mary etc)"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "張",
+          "traditional": "张",
+          "wade_giles_pinyin": "zhang1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

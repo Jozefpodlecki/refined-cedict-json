@@ -1,0 +1,30 @@
+{
+  "simplified": "迷津",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mí jīn",
+          "wade_giles_pinyin": "mi2 jin1"
+        }
+      ],
+      "simplified": "迷津",
+      "traditional": "迷津",
+      "meanings": [
+        {
+          "value": "a maze"
+        },
+        {
+          "value": "to lose the way"
+        },
+        {
+          "value": "bewildering"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

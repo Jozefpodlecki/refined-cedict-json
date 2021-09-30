@@ -1,0 +1,34 @@
+{
+  "simplified": "住所",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhù suǒ",
+          "wade_giles_pinyin": "zhu4 suo3"
+        }
+      ],
+      "simplified": "住所",
+      "traditional": "住所",
+      "meanings": [
+        {
+          "value": "habitation"
+        },
+        {
+          "value": "dwelling place"
+        },
+        {
+          "value": "residence"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "處",
+          "traditional": "处",
+          "wade_giles_pinyin": "chu4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

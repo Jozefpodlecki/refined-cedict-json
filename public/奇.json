@@ -1,0 +1,59 @@
+{
+  "simplified": "奇",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jī",
+          "wade_giles_pinyin": "ji1"
+        }
+      ],
+      "simplified": "奇",
+      "simplified_stroke_count": 8,
+      "traditional": "奇",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "odd (number)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qí",
+          "wade_giles_pinyin": "qi2"
+        }
+      ],
+      "simplified": "奇",
+      "simplified_stroke_count": 8,
+      "traditional": "奇",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "strange"
+        },
+        {
+          "value": "odd"
+        },
+        {
+          "value": "weird"
+        },
+        {
+          "value": "wonderful"
+        },
+        {
+          "value": "surprisingly"
+        },
+        {
+          "value": "unusually"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

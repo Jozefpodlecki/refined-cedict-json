@@ -1,0 +1,39 @@
+{
+  "simplified": "喘",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chuǎn",
+          "wade_giles_pinyin": "chuan3"
+        }
+      ],
+      "simplified": "喘",
+      "simplified_stroke_count": 12,
+      "traditional": "喘",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to gasp"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to pant"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "asthma"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

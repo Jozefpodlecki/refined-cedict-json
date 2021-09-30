@@ -1,0 +1,64 @@
+{
+  "simplified": "则",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zé",
+          "wade_giles_pinyin": "ze2"
+        }
+      ],
+      "simplified": "则",
+      "simplified_stroke_count": 6,
+      "traditional": "則",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(conjunction used to express contrast with a previous clause) but"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "then"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "standard"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "norm"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "principle"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to imitate"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to follow"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "classifier for written items"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

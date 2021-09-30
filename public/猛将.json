@@ -1,0 +1,37 @@
+{
+  "simplified": "猛将",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "měng jiàng",
+          "wade_giles_pinyin": "meng3 jiang4"
+        }
+      ],
+      "simplified": "猛将",
+      "simplified_stroke_count": null,
+      "traditional": "猛將",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "fierce general"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "valiant military leader"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "fig. brave individual"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

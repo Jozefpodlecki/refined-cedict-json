@@ -1,0 +1,31 @@
+{
+  "simplified": "诒",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yí",
+          "wade_giles_pinyin": "yi2"
+        }
+      ],
+      "simplified": "诒",
+      "simplified_stroke_count": 7,
+      "traditional": "詒",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 貽|贻[yi2]",
+          "simplified": "貽",
+          "traditional": "贻",
+          "wade_giles_pinyin": "yi2"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

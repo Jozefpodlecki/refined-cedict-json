@@ -1,0 +1,44 @@
+{
+  "simplified": "至",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhì",
+          "wade_giles_pinyin": "zhi4"
+        }
+      ],
+      "simplified": "至",
+      "simplified_stroke_count": 6,
+      "traditional": "至",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to arrive"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "most"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "until"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "刷子",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shuā zi",
+          "wade_giles_pinyin": "shua1 zi5"
+        }
+      ],
+      "simplified": "刷子",
+      "traditional": "刷子",
+      "meanings": [
+        {
+          "value": "brush"
+        },
+        {
+          "value": "scrub"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "把",
+          "traditional": "",
+          "wade_giles_pinyin": "ba3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

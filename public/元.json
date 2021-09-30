@@ -1,0 +1,108 @@
+{
+  "simplified": "元",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yuán",
+          "wade_giles_pinyin": "Yuan2"
+        }
+      ],
+      "simplified": "元",
+      "simplified_stroke_count": 0,
+      "traditional": "元",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "surname Yuan"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "the Yuan or Mongol dynasty (1279-1368)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yuán",
+          "wade_giles_pinyin": "yuan2"
+        }
+      ],
+      "simplified": "元",
+      "simplified_stroke_count": 0,
+      "traditional": "元",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "currency unit (esp. Chinese yuan)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "first"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "original"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "primary"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "fundamental"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "constituent"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "part"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "era (of a reign)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "meta- (prefix)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(math.) argument"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "variable"
+        },
+        {
+          "context": "taiwan",
+          "lexical_item": "",
+          "value": "(geology) eon"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

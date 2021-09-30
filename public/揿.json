@@ -1,0 +1,52 @@
+{
+  "simplified": "揿",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qìn",
+          "wade_giles_pinyin": "qin4"
+        }
+      ],
+      "simplified": "揿",
+      "simplified_stroke_count": 12,
+      "traditional": "搇",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 撳|揿[qin4]",
+          "simplified": "撳",
+          "traditional": "揿",
+          "wade_giles_pinyin": "qin4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qìn",
+          "wade_giles_pinyin": "qin4"
+        }
+      ],
+      "simplified": "揿",
+      "simplified_stroke_count": 12,
+      "traditional": "撳",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "to press (bell)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

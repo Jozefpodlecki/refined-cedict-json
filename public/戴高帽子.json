@@ -1,0 +1,28 @@
+{
+  "simplified": "戴高帽子",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dài gāo mào zi",
+          "wade_giles_pinyin": "dai4 gao1 mao4 zi5"
+        }
+      ],
+      "simplified": "戴高帽子",
+      "traditional": "戴高帽子",
+      "meanings": [
+        {
+          "context": "colloquial",
+          "value": "to be the object of flattery"
+        },
+        {
+          "value": "to be placed on a pedestal"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "simplified": "连线",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lián xiàn",
+          "wade_giles_pinyin": "lian2 xian4"
+        }
+      ],
+      "simplified": "连线",
+      "traditional": "連線",
+      "meanings": [
+        {
+          "value": "electrical lead"
+        },
+        {
+          "value": "connecting line"
+        },
+        {
+          "context": "taiwan",
+          "value": "to connect (to a network, device etc)"
+        },
+        {
+          "value": "to go online"
+        },
+        {
+          "value": "connection"
+        },
+        {
+          "value": "(congressional) caucus"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

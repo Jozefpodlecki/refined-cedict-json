@@ -1,0 +1,31 @@
+{
+  "simplified": "急嘴急舌",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jí zuǐ jí shé",
+          "wade_giles_pinyin": "ji2 zui3 ji2 she2"
+        }
+      ],
+      "simplified": "急嘴急舌",
+      "traditional": "急嘴急舌",
+      "meanings": [
+        {
+          "context": "literature",
+          "value": "quick mouth and quick tongue"
+        },
+        {
+          "value": "fig. to interrupt sb urgently and say one's piece"
+        },
+        {
+          "value": "to chime in rapidly"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

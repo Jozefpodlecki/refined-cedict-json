@@ -1,0 +1,39 @@
+{
+  "simplified": "抵制",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dǐ zhì",
+          "wade_giles_pinyin": "di3 zhi4"
+        }
+      ],
+      "simplified": "抵制",
+      "traditional": "抵制",
+      "meanings": [
+        {
+          "value": "to resist"
+        },
+        {
+          "value": "to boycott"
+        },
+        {
+          "value": "to refuse (to cooperate)"
+        },
+        {
+          "value": "to reject"
+        },
+        {
+          "value": "resistance"
+        },
+        {
+          "value": "refusal"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

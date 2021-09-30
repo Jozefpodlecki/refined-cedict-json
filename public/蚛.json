@@ -1,0 +1,33 @@
+{
+  "simplified": "蚛",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhòng",
+          "wade_giles_pinyin": "zhong4"
+        }
+      ],
+      "simplified": "蚛",
+      "simplified_stroke_count": 10,
+      "traditional": "蚛",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "(literary) (of a worm or insect) to nibble"
+        },
+        {
+          "value": "to bite"
+        },
+        {
+          "value": "worm-eaten"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

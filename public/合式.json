@@ -1,0 +1,32 @@
+{
+  "simplified": "合式",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " hé shì",
+          "wade_giles_pinyin": "he2 shi4"
+        }
+      ],
+      "simplified": "合式",
+      "simplified_stroke_count": 0,
+      "traditional": "合式",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "conforming to a pattern"
+        },
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "合適|合适[he2 shi4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "simplified": "安宁",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ān níng",
+          "wade_giles_pinyin": "An1 ning2"
+        }
+      ],
+      "simplified": "安宁",
+      "traditional": "安寧",
+      "meanings": [
+        {
+          "value": "Anning District of Lanzhou City 蘭州市|兰州市[Lan2 zhou1 Shi4], Gansu"
+        },
+        {
+          "value": "Anning City, to the west of Kunming 昆明[Kun1 ming2], Yunnan"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ān níng",
+          "wade_giles_pinyin": "an1 ning2"
+        }
+      ],
+      "simplified": "安宁",
+      "traditional": "安寧",
+      "meanings": [
+        {
+          "value": "peaceful"
+        },
+        {
+          "value": "tranquil"
+        },
+        {
+          "value": "calm"
+        },
+        {
+          "value": "composed"
+        },
+        {
+          "value": "free from worry"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

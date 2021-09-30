@@ -1,0 +1,57 @@
+{
+  "simplified": "耕",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " gēng",
+          "wade_giles_pinyin": "geng1"
+        }
+      ],
+      "simplified": "耕",
+      "simplified_stroke_count": 10,
+      "traditional": "畊",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "耕[geng1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " gēng",
+          "wade_giles_pinyin": "geng1"
+        }
+      ],
+      "simplified": "耕",
+      "simplified_stroke_count": 10,
+      "traditional": "耕",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to plow"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to till"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

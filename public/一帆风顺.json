@@ -1,0 +1,34 @@
+{
+  "simplified": "一帆风顺",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yī fān fēng shùn",
+          "wade_giles_pinyin": "yi1 fan1 feng1 shun4"
+        }
+      ],
+      "simplified": "一帆风顺",
+      "traditional": "一帆風順",
+      "meanings": [
+        {
+          "lexical_item": "idiom",
+          "value": "propitious wind throughout the journey"
+        },
+        {
+          "value": "plain sailing"
+        },
+        {
+          "value": "to go smoothly"
+        },
+        {
+          "value": "have a nice trip!"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

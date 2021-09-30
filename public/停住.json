@@ -1,0 +1,30 @@
+{
+  "simplified": "停住",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tíng zhù",
+          "wade_giles_pinyin": "ting2 zhu4"
+        }
+      ],
+      "simplified": "停住",
+      "traditional": "停住",
+      "meanings": [
+        {
+          "value": "to stop"
+        },
+        {
+          "value": "to halt"
+        },
+        {
+          "value": "to cease"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

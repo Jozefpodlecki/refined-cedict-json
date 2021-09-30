@@ -1,0 +1,86 @@
+{
+  "simplified": "么",
+  "simplified_stroke_count": 3,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "má",
+          "wade_giles_pinyin": "ma2"
+        }
+      ],
+      "simplified": "么",
+      "simplified_stroke_count": 3,
+      "traditional": "麼",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "exclamatory final particle"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ma",
+          "wade_giles_pinyin": "ma5"
+        }
+      ],
+      "simplified": "么",
+      "simplified_stroke_count": 3,
+      "traditional": "麼",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "interrogative final particle"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "me",
+          "wade_giles_pinyin": "me5"
+        }
+      ],
+      "simplified": "么",
+      "simplified_stroke_count": 3,
+      "traditional": "麼",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "suffix, used to form interrogative 什麼|什么[shen2 me5], what?, indefinite 這麼|这么[zhe4 me5] thus, etc"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "me",
+          "wade_giles_pinyin": "me5"
+        }
+      ],
+      "simplified": "么",
+      "simplified_stroke_count": 3,
+      "traditional": "麽",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 麼|么[me5]",
+          "simplified": "麼",
+          "traditional": "么",
+          "wade_giles_pinyin": "me5"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "预备",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yù bèi",
+          "wade_giles_pinyin": "yu4 bei4"
+        }
+      ],
+      "simplified": "预备",
+      "simplified_stroke_count": 0,
+      "traditional": "預備",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to prepare"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to make ready"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "preparation"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "preparatory"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

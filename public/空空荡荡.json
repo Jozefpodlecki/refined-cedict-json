@@ -1,0 +1,42 @@
+{
+  "simplified": "空空荡荡",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kōng kōng dàng dàng",
+          "wade_giles_pinyin": "kong1 kong1 dang4 dang4"
+        }
+      ],
+      "simplified": "空空荡荡",
+      "traditional": "空空盪盪",
+      "meanings": [
+        {
+          "value": "deserted"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kōng kōng dàng dàng",
+          "wade_giles_pinyin": "kong1 kong1 dang4 dang4"
+        }
+      ],
+      "simplified": "空空荡荡",
+      "traditional": "空空蕩蕩",
+      "meanings": [
+        {
+          "value": "absolutely empty (space)"
+        },
+        {
+          "value": "complete vacuum"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

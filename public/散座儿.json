@@ -1,0 +1,32 @@
+{
+  "simplified": "散座儿",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sǎn zuò r",
+          "wade_giles_pinyin": "san3 zuo4 r5"
+        }
+      ],
+      "simplified": "散座儿",
+      "traditional": "散座兒",
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "erhua variant of 散座[san3 zuo4]",
+          "simplified": "e",
+          "traditional": "rhua  散座",
+          "wade_giles_pinyin": "san3 zuo4"
+        },
+        {
+          "value": "single seat (in theater)"
+        },
+        {
+          "value": "irregular passenger (in rickshaw)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

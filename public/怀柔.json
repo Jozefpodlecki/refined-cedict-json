@@ -1,0 +1,57 @@
+{
+  "simplified": "怀柔",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " huái róu",
+          "wade_giles_pinyin": "Huai2 rou2"
+        }
+      ],
+      "simplified": "怀柔",
+      "simplified_stroke_count": 0,
+      "traditional": "懷柔",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Huairou rural district of Beijing, formerly Huairou county"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " huái róu",
+          "wade_giles_pinyin": "huai2 rou2"
+        }
+      ],
+      "simplified": "怀柔",
+      "simplified_stroke_count": 0,
+      "traditional": "懷柔",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to conciliate"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to appease"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

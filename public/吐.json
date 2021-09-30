@@ -1,0 +1,60 @@
+{
+  "simplified": "吐",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tǔ",
+          "wade_giles_pinyin": "tu3"
+        }
+      ],
+      "simplified": "吐",
+      "simplified_stroke_count": 6,
+      "traditional": "吐",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "value": "to spit"
+        },
+        {
+          "value": "to send out (silk from a silkworm, bolls from cotton flowers etc)"
+        },
+        {
+          "value": "to say"
+        },
+        {
+          "value": "to pour out (one's grievances)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tù",
+          "wade_giles_pinyin": "tu4"
+        }
+      ],
+      "simplified": "吐",
+      "simplified_stroke_count": 6,
+      "traditional": "吐",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "value": "to vomit"
+        },
+        {
+          "value": "to throw up"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

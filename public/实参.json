@@ -1,0 +1,32 @@
+{
+  "simplified": "实参",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shí cān",
+          "wade_giles_pinyin": "shi2 can1"
+        }
+      ],
+      "simplified": "实参",
+      "traditional": "實參",
+      "meanings": [
+        {
+          "value": "(computing) actual parameter"
+        },
+        {
+          "value": "argument"
+        },
+        {
+          "context": "abbreviation",
+          "value": "實際參數|实际参数[shi2 ji4 can1 shu4]",
+          "simplified": "實",
+          "traditional": "際參數|实际参数",
+          "wade_giles_pinyin": "shi2 ji4 can1 shu4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

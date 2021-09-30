@@ -1,0 +1,39 @@
+{
+  "simplified": "港警",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gǎng jǐng",
+          "wade_giles_pinyin": "Gang3 jing3"
+        }
+      ],
+      "simplified": "港警",
+      "traditional": "港警",
+      "meanings": [
+        {
+          "value": "Hong Kong police"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gǎng jǐng",
+          "wade_giles_pinyin": "gang3 jing3"
+        }
+      ],
+      "simplified": "港警",
+      "traditional": "港警",
+      "meanings": [
+        {
+          "value": "port police"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

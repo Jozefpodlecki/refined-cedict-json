@@ -1,0 +1,33 @@
+{
+  "simplified": "恐",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kǒng",
+          "wade_giles_pinyin": "kong3"
+        }
+      ],
+      "simplified": "恐",
+      "simplified_stroke_count": 10,
+      "traditional": "恐",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "afraid"
+        },
+        {
+          "value": "frightened"
+        },
+        {
+          "value": "to fear"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

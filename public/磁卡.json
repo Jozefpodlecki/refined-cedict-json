@@ -1,0 +1,25 @@
+{
+  "simplified": "磁卡",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cí kǎ",
+          "wade_giles_pinyin": "ci2 ka3"
+        }
+      ],
+      "simplified": "磁卡",
+      "traditional": "磁卡",
+      "meanings": [
+        {
+          "value": "magnetic card"
+        },
+        {
+          "value": "IC Card (telephone)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

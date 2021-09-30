@@ -1,0 +1,39 @@
+{
+  "simplified": "台南县",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tái nán xiàn",
+          "wade_giles_pinyin": "Tai2 nan2 xian4"
+        }
+      ],
+      "simplified": "台南县",
+      "traditional": "台南縣",
+      "meanings": [
+        {
+          "value": "Tainan county in south Taiwan"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tái nán xiàn",
+          "wade_giles_pinyin": "Tai2 nan2 xian4"
+        }
+      ],
+      "simplified": "台南县",
+      "traditional": "臺南縣",
+      "meanings": [
+        {
+          "value": "Tainan county in south Taiwan"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

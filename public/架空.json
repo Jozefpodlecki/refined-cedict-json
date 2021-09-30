@@ -1,0 +1,38 @@
+{
+  "simplified": "架空",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jià kōng",
+          "wade_giles_pinyin": "jia4 kong1"
+        }
+      ],
+      "simplified": "架空",
+      "traditional": "架空",
+      "meanings": [
+        {
+          "value": "to build (a hut etc) on stilts"
+        },
+        {
+          "value": "to install (power lines etc) overhead"
+        },
+        {
+          "context": "figuratively",
+          "value": "unfounded"
+        },
+        {
+          "value": "impractical"
+        },
+        {
+          "context": "figuratively",
+          "value": "to make sb a mere figurehead"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

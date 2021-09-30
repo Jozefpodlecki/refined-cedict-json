@@ -1,0 +1,32 @@
+{
+  "simplified": "镳",
+  "simplified_stroke_count": 20,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "biāo",
+          "wade_giles_pinyin": "biao1"
+        }
+      ],
+      "simplified": "镳",
+      "simplified_stroke_count": 20,
+      "traditional": "鑣",
+      "traditional_stroke_count": 23,
+      "meanings": [
+        {
+          "value": "horsebit"
+        },
+        {
+          "context": "variant",
+          "value": "variant of 鏢|镖[biao1]",
+          "simplified": "鏢",
+          "traditional": "镖",
+          "wade_giles_pinyin": "biao1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

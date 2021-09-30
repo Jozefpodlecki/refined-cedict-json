@@ -1,0 +1,31 @@
+{
+  "simplified": "问候",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wèn hòu",
+          "wade_giles_pinyin": "wen4 hou4"
+        }
+      ],
+      "simplified": "问候",
+      "traditional": "問候",
+      "meanings": [
+        {
+          "value": "to give one's respects"
+        },
+        {
+          "value": "to send a greeting"
+        },
+        {
+          "context": "figuratively",
+          "value": "(coll.) to make offensive reference to (somebody dear to the person to whom one is speaking)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

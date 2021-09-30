@@ -1,0 +1,41 @@
+{
+  "simplified": "媒",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "méi",
+          "wade_giles_pinyin": "mei2"
+        }
+      ],
+      "simplified": "媒",
+      "simplified_stroke_count": 12,
+      "traditional": "媒",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "medium"
+        },
+        {
+          "value": "intermediary"
+        },
+        {
+          "value": "matchmaker"
+        },
+        {
+          "value": "go-between"
+        },
+        {
+          "context": "abbreviation",
+          "value": "媒體|媒体[mei2 ti3], media, esp. news media",
+          "simplified": "媒",
+          "traditional": "體|媒体",
+          "wade_giles_pinyin": "mei2 ti3"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "simplified": "瞪",
+  "simplified_stroke_count": 17,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dèng",
+          "wade_giles_pinyin": "deng4"
+        }
+      ],
+      "simplified": "瞪",
+      "simplified_stroke_count": 17,
+      "traditional": "瞪",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "to open (one's eyes) wide"
+        },
+        {
+          "value": "to stare at"
+        },
+        {
+          "value": "to glare at"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

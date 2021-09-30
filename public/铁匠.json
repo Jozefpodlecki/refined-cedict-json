@@ -1,0 +1,25 @@
+{
+  "simplified": "铁匠",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tiě jiang",
+          "wade_giles_pinyin": "tie3 jiang5"
+        }
+      ],
+      "simplified": "铁匠",
+      "traditional": "鐵匠",
+      "meanings": [
+        {
+          "value": "blacksmith"
+        },
+        {
+          "value": "ironworker"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

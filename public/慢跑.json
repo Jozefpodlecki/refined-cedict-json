@@ -1,0 +1,33 @@
+{
+  "simplified": "慢跑",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "màn pǎo",
+          "wade_giles_pinyin": "man4 pao3"
+        }
+      ],
+      "simplified": "慢跑",
+      "traditional": "慢跑",
+      "meanings": [
+        {
+          "value": "jogging"
+        },
+        {
+          "value": "to jog"
+        },
+        {
+          "value": "to canter"
+        },
+        {
+          "value": "a slow trot"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

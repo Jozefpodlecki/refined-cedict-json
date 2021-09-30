@@ -1,0 +1,34 @@
+{
+  "simplified": "付印",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fù yìn",
+          "wade_giles_pinyin": "fu4 yin4"
+        }
+      ],
+      "simplified": "付印",
+      "simplified_stroke_count": 0,
+      "traditional": "付印",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to go to press"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to submit for printing"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

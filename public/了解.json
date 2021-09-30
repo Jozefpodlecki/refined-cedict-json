@@ -1,0 +1,55 @@
+{
+  "simplified": "了解",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "liǎo jiě",
+          "wade_giles_pinyin": "liao3 jie3"
+        }
+      ],
+      "simplified": "了解",
+      "traditional": "了解",
+      "meanings": [
+        {
+          "value": "to understand"
+        },
+        {
+          "value": "to realize"
+        },
+        {
+          "value": "to find out"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "liǎo jiě",
+          "wade_giles_pinyin": "liao3 jie3"
+        }
+      ],
+      "simplified": "了解",
+      "traditional": "瞭解",
+      "meanings": [
+        {
+          "value": "to understand"
+        },
+        {
+          "value": "to realize"
+        },
+        {
+          "value": "to find out"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

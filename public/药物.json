@@ -1,0 +1,34 @@
+{
+  "simplified": "药物",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yào wù",
+          "wade_giles_pinyin": "yao4 wu4"
+        }
+      ],
+      "simplified": "药物",
+      "traditional": "藥物",
+      "meanings": [
+        {
+          "value": "medicaments"
+        },
+        {
+          "value": "pharmaceuticals"
+        },
+        {
+          "value": "medication"
+        },
+        {
+          "value": "medicine"
+        },
+        {
+          "value": "drug"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

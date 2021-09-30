@@ -1,0 +1,39 @@
+{
+  "simplified": "保修",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bǎo xiū",
+          "wade_giles_pinyin": "bao3 xiu1"
+        }
+      ],
+      "simplified": "保修",
+      "simplified_stroke_count": 0,
+      "traditional": "保修",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to promise to keep sth in good repair"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "guarantee"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "warranty"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "注解",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhù jiě",
+          "wade_giles_pinyin": "zhu4 jie3"
+        }
+      ],
+      "simplified": "注解",
+      "traditional": "註解",
+      "meanings": [
+        {
+          "value": "to annotate"
+        },
+        {
+          "value": "annotation"
+        },
+        {
+          "value": "comment"
+        },
+        {
+          "value": "interpretation"
+        },
+        {
+          "value": "to explain with notes"
+        },
+        {
+          "value": "explanatory note"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

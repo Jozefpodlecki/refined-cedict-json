@@ -1,0 +1,51 @@
+{
+  "simplified": "狭",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiá",
+          "wade_giles_pinyin": "xia2"
+        }
+      ],
+      "simplified": "狭",
+      "simplified_stroke_count": 9,
+      "traditional": "狹",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "narrow"
+        },
+        {
+          "value": "narrow-minded"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiá",
+          "wade_giles_pinyin": "xia2"
+        }
+      ],
+      "simplified": "狭",
+      "simplified_stroke_count": 9,
+      "traditional": "陿",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 狹|狭[xia2]",
+          "simplified": "狹",
+          "traditional": "狭",
+          "wade_giles_pinyin": "xia2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

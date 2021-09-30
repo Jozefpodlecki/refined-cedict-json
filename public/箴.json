@@ -1,0 +1,37 @@
+{
+  "simplified": "箴",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhēn",
+          "wade_giles_pinyin": "zhen1"
+        }
+      ],
+      "simplified": "箴",
+      "simplified_stroke_count": 15,
+      "traditional": "箴",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "to warn"
+        },
+        {
+          "value": "to admonish"
+        },
+        {
+          "context": "variant",
+          "value": "variant of 針|针[zhen1]",
+          "simplified": "針",
+          "traditional": "针",
+          "wade_giles_pinyin": "zhen1"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

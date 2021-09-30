@@ -1,0 +1,38 @@
+{
+  "simplified": "车厢",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chē xiāng",
+          "wade_giles_pinyin": "che1 xiang1"
+        }
+      ],
+      "simplified": "车厢",
+      "simplified_stroke_count": 0,
+      "traditional": "車廂",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "carriage"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:節|节[jie2]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "節",
+          "traditional": "节",
+          "wade_giles_pinyin": "jie2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

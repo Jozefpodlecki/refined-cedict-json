@@ -1,0 +1,32 @@
+{
+  "simplified": "卫生丸",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " weì shēng wán",
+          "wade_giles_pinyin": "wei4 sheng1 wan2"
+        }
+      ],
+      "simplified": "卫生丸",
+      "simplified_stroke_count": 0,
+      "traditional": "衛生丸",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "mothball"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(jocular term) bullet"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

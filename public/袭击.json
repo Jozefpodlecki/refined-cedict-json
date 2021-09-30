@@ -1,0 +1,30 @@
+{
+  "simplified": "袭击",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xí jī",
+          "wade_giles_pinyin": "xi2 ji1"
+        }
+      ],
+      "simplified": "袭击",
+      "traditional": "襲擊",
+      "meanings": [
+        {
+          "value": "attack (esp. surprise attack)"
+        },
+        {
+          "value": "raid"
+        },
+        {
+          "value": "to attack"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "冰棍",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bīng gùn",
+          "wade_giles_pinyin": "bing1 gun4"
+        }
+      ],
+      "simplified": "冰棍",
+      "traditional": "冰棍",
+      "meanings": [
+        {
+          "value": "popsicle"
+        },
+        {
+          "value": "ice lolly"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "根",
+          "traditional": "",
+          "wade_giles_pinyin": "gen1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

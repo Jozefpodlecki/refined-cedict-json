@@ -1,0 +1,22 @@
+{
+  "simplified": "图像分割",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tú xiàng fēn gē",
+          "wade_giles_pinyin": "tu2 xiang4 fen1 ge1"
+        }
+      ],
+      "simplified": "图像分割",
+      "traditional": "圖像分割",
+      "meanings": [
+        {
+          "value": "image segmentation (computer vision)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

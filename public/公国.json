@@ -1,0 +1,28 @@
+{
+  "simplified": "公国",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gōng guó",
+          "wade_giles_pinyin": "gong1 guo2"
+        }
+      ],
+      "simplified": "公国",
+      "traditional": "公國",
+      "meanings": [
+        {
+          "value": "duchy"
+        },
+        {
+          "value": "dukedom"
+        },
+        {
+          "value": "principality"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

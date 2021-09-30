@@ -1,0 +1,32 @@
+{
+  "simplified": "糖尿病",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "táng niào bìng",
+          "wade_giles_pinyin": "tang2 niao4 bing4"
+        }
+      ],
+      "simplified": "糖尿病",
+      "simplified_stroke_count": null,
+      "traditional": "糖尿病",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "diabetes"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "diabetes mellitus"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

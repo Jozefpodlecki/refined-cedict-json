@@ -1,0 +1,39 @@
+{
+  "simplified": "探访",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tàn fǎng",
+          "wade_giles_pinyin": "tan4 fang3"
+        }
+      ],
+      "simplified": "探访",
+      "simplified_stroke_count": null,
+      "traditional": "探訪",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to seek by inquiry or search"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to call on"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to visit"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

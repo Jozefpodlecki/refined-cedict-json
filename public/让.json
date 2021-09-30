@@ -1,0 +1,54 @@
+{
+  "simplified": "让",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ràng",
+          "wade_giles_pinyin": "rang4"
+        }
+      ],
+      "simplified": "让",
+      "simplified_stroke_count": 5,
+      "traditional": "讓",
+      "traditional_stroke_count": 24,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to yield"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to permit"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to let sb do sth"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to have sb do sth"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to make sb (feel sad etc)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "by (indicates the agent in a passive clause, like 被[bei4])"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

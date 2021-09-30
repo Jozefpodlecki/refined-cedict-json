@@ -1,0 +1,30 @@
+{
+  "simplified": "观测",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guān cè",
+          "wade_giles_pinyin": "guan1 ce4"
+        }
+      ],
+      "simplified": "观测",
+      "traditional": "觀測",
+      "meanings": [
+        {
+          "value": "to observe"
+        },
+        {
+          "value": "to survey"
+        },
+        {
+          "value": "observation (scientific etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

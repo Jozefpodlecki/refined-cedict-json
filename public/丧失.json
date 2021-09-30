@@ -1,0 +1,34 @@
+{
+  "simplified": "丧失",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " sàng shī",
+          "wade_giles_pinyin": "sang4 shi1"
+        }
+      ],
+      "simplified": "丧失",
+      "simplified_stroke_count": 0,
+      "traditional": "喪失",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to lose"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to forfeit"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

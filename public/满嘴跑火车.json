@@ -1,0 +1,34 @@
+{
+  "simplified": "满嘴跑火车",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mǎn zuǐ pǎo huǒ chē",
+          "wade_giles_pinyin": "man3 zui3 pao3 huo3 che1"
+        }
+      ],
+      "simplified": "满嘴跑火车",
+      "simplified_stroke_count": null,
+      "traditional": "滿嘴跑火車",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": "idiom",
+          "value": "to have a glib tongue"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to talk big"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "发问",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fā wèn",
+          "wade_giles_pinyin": "fa1 wen4"
+        }
+      ],
+      "simplified": "发问",
+      "simplified_stroke_count": 0,
+      "traditional": "發問",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to question"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to ask"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to raise a question"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

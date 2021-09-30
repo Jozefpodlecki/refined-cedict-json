@@ -1,0 +1,39 @@
+{
+  "simplified": "诞",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dàn",
+          "wade_giles_pinyin": "dan4"
+        }
+      ],
+      "simplified": "诞",
+      "simplified_stroke_count": 8,
+      "traditional": "誕",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "birth"
+        },
+        {
+          "value": "birthday"
+        },
+        {
+          "value": "brag"
+        },
+        {
+          "value": "boast"
+        },
+        {
+          "value": "to increase"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

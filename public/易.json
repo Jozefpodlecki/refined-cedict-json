@@ -1,0 +1,67 @@
+{
+  "simplified": "易",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yì",
+          "wade_giles_pinyin": "Yi4"
+        }
+      ],
+      "simplified": "易",
+      "simplified_stroke_count": 8,
+      "traditional": "易",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "surname Yi"
+        },
+        {
+          "context": "abbreviation",
+          "value": "易經|易经[Yi4 jing1], the Book of Changes",
+          "simplified": "易",
+          "traditional": "經|易经",
+          "wade_giles_pinyin": "Yi4 jing1"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yì",
+          "wade_giles_pinyin": "yi4"
+        }
+      ],
+      "simplified": "易",
+      "simplified_stroke_count": 8,
+      "traditional": "易",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "easy"
+        },
+        {
+          "value": "amiable"
+        },
+        {
+          "value": "to change"
+        },
+        {
+          "value": "to exchange"
+        },
+        {
+          "value": "prefix corresponding to the English adjective suffix \"-able\" or \"-ible\""
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

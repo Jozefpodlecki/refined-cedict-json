@@ -1,0 +1,28 @@
+{
+  "simplified": "日子",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rì zi",
+          "wade_giles_pinyin": "ri4 zi5"
+        }
+      ],
+      "simplified": "日子",
+      "traditional": "日子",
+      "meanings": [
+        {
+          "value": "day"
+        },
+        {
+          "value": "a (calendar) date"
+        },
+        {
+          "value": "days of one's life"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

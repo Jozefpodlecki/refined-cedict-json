@@ -1,0 +1,30 @@
+{
+  "simplified": "格挡",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gé dǎng",
+          "wade_giles_pinyin": "ge2 dang3"
+        }
+      ],
+      "simplified": "格挡",
+      "traditional": "格擋",
+      "meanings": [
+        {
+          "value": "to parry"
+        },
+        {
+          "value": "to fend off"
+        },
+        {
+          "value": "to block (a blow)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

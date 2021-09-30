@@ -1,0 +1,34 @@
+{
+  "simplified": "蹭",
+  "simplified_stroke_count": 19,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cèng",
+          "wade_giles_pinyin": "ceng4"
+        }
+      ],
+      "simplified": "蹭",
+      "simplified_stroke_count": 19,
+      "traditional": "蹭",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "value": "to rub against"
+        },
+        {
+          "value": "to walk slowly"
+        },
+        {
+          "context": "colloquial",
+          "value": "to freeload"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

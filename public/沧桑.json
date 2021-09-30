@@ -1,0 +1,35 @@
+{
+  "simplified": "沧桑",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cāng sāng",
+          "wade_giles_pinyin": "cang1 sang1"
+        }
+      ],
+      "simplified": "沧桑",
+      "traditional": "滄桑",
+      "meanings": [
+        {
+          "value": "great changes"
+        },
+        {
+          "value": "ups and downs"
+        },
+        {
+          "value": "vicissitudes"
+        },
+        {
+          "context": "abbreviation",
+          "value": "abbr. of 滄海桑田|沧海桑田[cang1 hai3 sang1 tian2]",
+          "simplified": "a",
+          "traditional": "bbr. of 滄海桑田|沧海桑田",
+          "wade_giles_pinyin": "cang1 hai3 sang1 tian2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

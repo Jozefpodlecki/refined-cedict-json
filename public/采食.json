@@ -1,0 +1,30 @@
+{
+  "simplified": "采食",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cǎi shí",
+          "wade_giles_pinyin": "cai3 shi2"
+        }
+      ],
+      "simplified": "采食",
+      "traditional": "採食",
+      "meanings": [
+        {
+          "value": "to forage"
+        },
+        {
+          "value": "to gather for eating"
+        },
+        {
+          "value": "to pick and eat"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

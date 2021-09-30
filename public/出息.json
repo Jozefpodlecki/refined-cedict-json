@@ -1,0 +1,55 @@
+{
+  "simplified": "出息",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chū xī",
+          "wade_giles_pinyin": "chu1 xi1"
+        }
+      ],
+      "simplified": "出息",
+      "traditional": "出息",
+      "meanings": [
+        {
+          "value": "to yield interest, profit etc"
+        },
+        {
+          "value": "to exhale (Buddhism)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chū xi",
+          "wade_giles_pinyin": "chu1 xi5"
+        }
+      ],
+      "simplified": "出息",
+      "traditional": "出息",
+      "meanings": [
+        {
+          "value": "future prospects"
+        },
+        {
+          "value": "profit"
+        },
+        {
+          "value": "to mature"
+        },
+        {
+          "value": "to grow up"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

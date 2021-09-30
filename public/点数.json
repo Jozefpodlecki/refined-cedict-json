@@ -1,0 +1,30 @@
+{
+  "simplified": "点数",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diǎn shù",
+          "wade_giles_pinyin": "dian3 shu4"
+        }
+      ],
+      "simplified": "点数",
+      "traditional": "點數",
+      "meanings": [
+        {
+          "value": "to count and check"
+        },
+        {
+          "value": "to tally"
+        },
+        {
+          "value": "points (collected in some bonus scheme etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

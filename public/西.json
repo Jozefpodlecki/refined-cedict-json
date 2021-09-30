@@ -1,0 +1,54 @@
+{
+  "simplified": "西",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xī",
+          "wade_giles_pinyin": "Xi1"
+        }
+      ],
+      "simplified": "西",
+      "simplified_stroke_count": 6,
+      "traditional": "西",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "value": "the West"
+        },
+        {
+          "context": "abbreviation",
+          "value": "Spain 西班牙[Xi1 ban1 ya2]",
+          "simplified": "S",
+          "traditional": "pain 西班牙",
+          "wade_giles_pinyin": "Xi1 ban1 ya2"
+        },
+        {
+          "value": "Spanish"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xī",
+          "wade_giles_pinyin": "xi1"
+        }
+      ],
+      "simplified": "西",
+      "simplified_stroke_count": 6,
+      "traditional": "西",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "value": "west"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

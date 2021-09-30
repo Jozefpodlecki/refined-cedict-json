@@ -1,0 +1,32 @@
+{
+  "simplified": "营养品",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yíng yǎng pǐn",
+          "wade_giles_pinyin": "ying2 yang3 pin3"
+        }
+      ],
+      "simplified": "营养品",
+      "simplified_stroke_count": 0,
+      "traditional": "營養品",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "nourishment"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "nutrient"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

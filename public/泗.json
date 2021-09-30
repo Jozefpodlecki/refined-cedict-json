@@ -1,0 +1,44 @@
+{
+  "simplified": "泗",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sì",
+          "wade_giles_pinyin": "Si4"
+        }
+      ],
+      "simplified": "泗",
+      "simplified_stroke_count": 8,
+      "traditional": "泗",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "river in Shandong"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sì",
+          "wade_giles_pinyin": "si4"
+        }
+      ],
+      "simplified": "泗",
+      "simplified_stroke_count": 8,
+      "traditional": "泗",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "nasal mucus"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "牙龈",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yá yín",
+          "wade_giles_pinyin": "ya2 yin2"
+        }
+      ],
+      "simplified": "牙龈",
+      "simplified_stroke_count": null,
+      "traditional": "牙齦",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "gums"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "gingiva"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

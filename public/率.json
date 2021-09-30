@@ -1,0 +1,72 @@
+{
+  "simplified": "率",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lǜ",
+          "wade_giles_pinyin": "lu:4"
+        }
+      ],
+      "simplified": "率",
+      "simplified_stroke_count": 11,
+      "traditional": "率",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "rate"
+        },
+        {
+          "value": "frequency"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shuài",
+          "wade_giles_pinyin": "shuai4"
+        }
+      ],
+      "simplified": "率",
+      "simplified_stroke_count": 11,
+      "traditional": "率",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "to lead"
+        },
+        {
+          "value": "to command"
+        },
+        {
+          "value": "rash"
+        },
+        {
+          "value": "hasty"
+        },
+        {
+          "value": "frank"
+        },
+        {
+          "value": "straightforward"
+        },
+        {
+          "value": "generally"
+        },
+        {
+          "value": "usually"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

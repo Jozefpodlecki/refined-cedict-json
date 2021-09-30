@@ -1,0 +1,32 @@
+{
+  "simplified": "苦果",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " kǔ guǒ",
+          "wade_giles_pinyin": "ku3 guo3"
+        }
+      ],
+      "simplified": "苦果",
+      "simplified_stroke_count": 0,
+      "traditional": "苦果",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "",
+          "value": "bitter fruit"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "fig. painful consequence"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

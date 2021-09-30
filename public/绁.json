@@ -1,0 +1,72 @@
+{
+  "simplified": "绁",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xiè",
+          "wade_giles_pinyin": "xie4"
+        }
+      ],
+      "simplified": "绁",
+      "simplified_stroke_count": 8,
+      "traditional": "紲",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to tie"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to bind"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to hold on a leash"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "rope"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "cord"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xiè",
+          "wade_giles_pinyin": "xie4"
+        }
+      ],
+      "simplified": "绁",
+      "simplified_stroke_count": 8,
+      "traditional": "絏",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "紲|绁[xie4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

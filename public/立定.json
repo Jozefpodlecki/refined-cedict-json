@@ -1,0 +1,33 @@
+{
+  "simplified": "立定",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lì dìng",
+          "wade_giles_pinyin": "li4 ding4"
+        }
+      ],
+      "simplified": "立定",
+      "traditional": "立定",
+      "meanings": [
+        {
+          "value": "to stop"
+        },
+        {
+          "value": "to halt"
+        },
+        {
+          "value": "halt!"
+        },
+        {
+          "value": "to hold resolutely (of a view, an aspiration etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "simplified": "引水入墙",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǐn shuǐ rù qiáng",
+          "wade_giles_pinyin": "yin3 shui3 ru4 qiang2"
+        }
+      ],
+      "simplified": "引水入墙",
+      "traditional": "引水入牆",
+      "meanings": [
+        {
+          "context": "literature",
+          "value": "to lead the water through the wall"
+        },
+        {
+          "lexical_item": "idiom",
+          "value": "to ask for trouble"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

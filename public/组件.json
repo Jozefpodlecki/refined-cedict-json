@@ -1,0 +1,31 @@
+{
+  "simplified": "组件",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zǔ jiàn",
+          "wade_giles_pinyin": "zu3 jian4"
+        }
+      ],
+      "simplified": "组件",
+      "traditional": "組件",
+      "meanings": [
+        {
+          "value": "module"
+        },
+        {
+          "value": "unit"
+        },
+        {
+          "value": "component"
+        },
+        {
+          "value": "assembly"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

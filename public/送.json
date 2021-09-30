@@ -1,0 +1,42 @@
+{
+  "simplified": "送",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sòng",
+          "wade_giles_pinyin": "song4"
+        }
+      ],
+      "simplified": "送",
+      "simplified_stroke_count": 10,
+      "traditional": "送",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "to deliver"
+        },
+        {
+          "value": "to carry"
+        },
+        {
+          "value": "to give (as a present)"
+        },
+        {
+          "value": "to present (with)"
+        },
+        {
+          "value": "to see off"
+        },
+        {
+          "value": "to send"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

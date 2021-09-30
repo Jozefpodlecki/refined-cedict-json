@@ -1,0 +1,34 @@
+{
+  "simplified": "探班",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " tàn bān",
+          "wade_giles_pinyin": "tan4 ban1"
+        }
+      ],
+      "simplified": "探班",
+      "simplified_stroke_count": 0,
+      "traditional": "探班",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to check on sb at his workplace"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to come to a movie set to visit one of the actors"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "simplified": "倘",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cháng",
+          "wade_giles_pinyin": "chang2"
+        }
+      ],
+      "simplified": "倘",
+      "simplified_stroke_count": 10,
+      "traditional": "倘",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "see 倘佯[chang2 yang2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tǎng",
+          "wade_giles_pinyin": "tang3"
+        }
+      ],
+      "simplified": "倘",
+      "simplified_stroke_count": 10,
+      "traditional": "倘",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "if"
+        },
+        {
+          "value": "supposing"
+        },
+        {
+          "value": "in case"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

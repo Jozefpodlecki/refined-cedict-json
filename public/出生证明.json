@@ -1,0 +1,28 @@
+{
+  "simplified": "出生证明",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chū shēng zhèng míng",
+          "wade_giles_pinyin": "chu1 sheng1 zheng4 ming2"
+        }
+      ],
+      "simplified": "出生证明",
+      "traditional": "出生證明",
+      "meanings": [
+        {
+          "value": "birth certificate"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "張",
+          "traditional": "张",
+          "wade_giles_pinyin": "zhang1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "产妇",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chǎn fù",
+          "wade_giles_pinyin": "chan3 fu4"
+        }
+      ],
+      "simplified": "产妇",
+      "simplified_stroke_count": 0,
+      "traditional": "產婦",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "woman recuperating after childbirth"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "woman in childbirth"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

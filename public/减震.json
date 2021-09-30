@@ -1,0 +1,32 @@
+{
+  "simplified": "减震",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jiǎn zhèn",
+          "wade_giles_pinyin": "jian3 zhen4"
+        }
+      ],
+      "simplified": "减震",
+      "simplified_stroke_count": 0,
+      "traditional": "減震",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "shock absorption"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "damping"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

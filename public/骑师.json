@@ -1,0 +1,31 @@
+{
+  "simplified": "骑师",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qí shī",
+          "wade_giles_pinyin": "qi2 shi1"
+        }
+      ],
+      "simplified": "骑师",
+      "traditional": "騎師",
+      "meanings": [
+        {
+          "value": "jockey"
+        },
+        {
+          "value": "horse rider"
+        },
+        {
+          "value": "horseman"
+        },
+        {
+          "value": "equestrian"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "simplified": "打法",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dǎ fǎ",
+          "wade_giles_pinyin": "da3 fa3"
+        }
+      ],
+      "simplified": "打法",
+      "traditional": "打法",
+      "meanings": [
+        {
+          "value": "to play (a card)"
+        },
+        {
+          "value": "to make a move in a game"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

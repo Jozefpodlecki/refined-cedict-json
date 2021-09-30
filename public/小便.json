@@ -1,0 +1,39 @@
+{
+  "simplified": "小便",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xiǎo biàn",
+          "wade_giles_pinyin": "xiao3 bian4"
+        }
+      ],
+      "simplified": "小便",
+      "simplified_stroke_count": 0,
+      "traditional": "小便",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to urinate"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to pass water"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "urine"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

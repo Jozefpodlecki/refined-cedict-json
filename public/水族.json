@@ -1,0 +1,48 @@
+{
+  "simplified": "水族",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shuǐ zú",
+          "wade_giles_pinyin": "Shui3 zu2"
+        }
+      ],
+      "simplified": "水族",
+      "simplified_stroke_count": 0,
+      "traditional": "水族",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Shui ethnic group of Guangxi"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shuǐ zú",
+          "wade_giles_pinyin": "shui3 zu2"
+        }
+      ],
+      "simplified": "水族",
+      "simplified_stroke_count": 0,
+      "traditional": "水族",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "collective term for aquatic animals"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

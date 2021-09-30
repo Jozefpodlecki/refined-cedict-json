@@ -1,0 +1,33 @@
+{
+  "simplified": "探测",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tàn cè",
+          "wade_giles_pinyin": "tan4 ce4"
+        }
+      ],
+      "simplified": "探测",
+      "traditional": "探測",
+      "meanings": [
+        {
+          "value": "to probe"
+        },
+        {
+          "value": "to take readings"
+        },
+        {
+          "value": "to explore"
+        },
+        {
+          "value": "exploration"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

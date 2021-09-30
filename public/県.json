@@ -1,0 +1,32 @@
+{
+  "simplified": "県",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xiàn",
+          "wade_giles_pinyin": "xian4"
+        }
+      ],
+      "simplified": "県",
+      "simplified_stroke_count": 9,
+      "traditional": "県",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "Japanese  縣|县"
+        },
+        {
+          "context": "polite",
+          "lexical_item": "",
+          "value": "Japanese prefecture"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

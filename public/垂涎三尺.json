@@ -1,0 +1,34 @@
+{
+  "simplified": "垂涎三尺",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chuí xián sān chǐ",
+          "wade_giles_pinyin": "chui2 xian2 san1 chi3"
+        }
+      ],
+      "simplified": "垂涎三尺",
+      "traditional": "垂涎三尺",
+      "meanings": [
+        {
+          "lexical_item": "idiom",
+          "value": "to drool (over)"
+        },
+        {
+          "value": "to yearn for"
+        },
+        {
+          "value": "to covet"
+        },
+        {
+          "value": "to crave"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

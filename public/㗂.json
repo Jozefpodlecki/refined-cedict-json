@@ -1,0 +1,49 @@
+{
+  "simplified": "㗂",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shěng",
+          "wade_giles_pinyin": "sheng3"
+        }
+      ],
+      "simplified": "㗂",
+      "simplified_stroke_count": 12,
+      "traditional": "㗂",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "省[sheng3]"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "tight-lipped"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to examine"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to watch"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to scour (esp. Cantonese)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "有价证券",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yǒu jià zhèng quàn",
+          "wade_giles_pinyin": "you3 jia4 zheng4 quan4"
+        }
+      ],
+      "simplified": "有价证券",
+      "simplified_stroke_count": 0,
+      "traditional": "有價證券",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "securities"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "collateral (for loan)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

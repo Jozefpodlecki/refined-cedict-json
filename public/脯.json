@@ -1,0 +1,50 @@
+{
+  "simplified": "脯",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fǔ",
+          "wade_giles_pinyin": "fu3"
+        }
+      ],
+      "simplified": "脯",
+      "simplified_stroke_count": 11,
+      "traditional": "脯",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "dried meat"
+        },
+        {
+          "value": "preserved fruit"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pú",
+          "wade_giles_pinyin": "pu2"
+        }
+      ],
+      "simplified": "脯",
+      "simplified_stroke_count": 11,
+      "traditional": "脯",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "chest"
+        },
+        {
+          "value": "breast"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

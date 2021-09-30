@@ -1,0 +1,39 @@
+{
+  "simplified": "袭",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xí",
+          "wade_giles_pinyin": "xi2"
+        }
+      ],
+      "simplified": "袭",
+      "simplified_stroke_count": 11,
+      "traditional": "襲",
+      "traditional_stroke_count": 22,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to attack"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to inherit"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "classifier for suits (esp. of funeral robes)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

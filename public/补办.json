@@ -1,0 +1,30 @@
+{
+  "simplified": "补办",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǔ bàn",
+          "wade_giles_pinyin": "bu3 ban4"
+        }
+      ],
+      "simplified": "补办",
+      "traditional": "補辦",
+      "meanings": [
+        {
+          "value": "to do sth after the time it should have been done"
+        },
+        {
+          "value": "to do sth to make up for not having done it before"
+        },
+        {
+          "value": "to reapply for (a lost document, card etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

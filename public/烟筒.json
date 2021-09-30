@@ -1,0 +1,28 @@
+{
+  "simplified": "烟筒",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yān tong",
+          "wade_giles_pinyin": "yan1 tong5"
+        }
+      ],
+      "simplified": "烟筒",
+      "traditional": "煙筒",
+      "meanings": [
+        {
+          "value": "chimney"
+        },
+        {
+          "value": "stovepipe"
+        },
+        {
+          "value": "smokestack"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "疗养",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "liáo yǎng",
+          "wade_giles_pinyin": "liao2 yang3"
+        }
+      ],
+      "simplified": "疗养",
+      "traditional": "療養",
+      "meanings": [
+        {
+          "value": "to get well"
+        },
+        {
+          "value": "to heal"
+        },
+        {
+          "value": "to recuperate"
+        },
+        {
+          "value": "to convalesce"
+        },
+        {
+          "value": "convalescence"
+        },
+        {
+          "value": "to nurse"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

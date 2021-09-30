@@ -1,0 +1,32 @@
+{
+  "simplified": "终天",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhōng tiān",
+          "wade_giles_pinyin": "zhong1 tian1"
+        }
+      ],
+      "simplified": "终天",
+      "simplified_stroke_count": null,
+      "traditional": "終天",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "all day long"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "all one's life"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "simplified": "褶",
+  "simplified_stroke_count": 17,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xí",
+          "wade_giles_pinyin": "xi2"
+        }
+      ],
+      "simplified": "褶",
+      "simplified_stroke_count": 17,
+      "traditional": "褶",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "(arch.) court dress"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhě",
+          "wade_giles_pinyin": "zhe3"
+        }
+      ],
+      "simplified": "褶",
+      "simplified_stroke_count": 17,
+      "traditional": "褶",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "pleat"
+        },
+        {
+          "value": "crease"
+        },
+        {
+          "value": "Taiwan pr. [zhe2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

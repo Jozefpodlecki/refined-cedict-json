@@ -1,0 +1,27 @@
+{
+  "simplified": "日军",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rì jūn",
+          "wade_giles_pinyin": "Ri4 jun1"
+        }
+      ],
+      "simplified": "日军",
+      "traditional": "日軍",
+      "meanings": [
+        {
+          "context": "Japanese",
+          "value": "Japanese army"
+        },
+        {
+          "context": "Japanese",
+          "value": "Japanese troops"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

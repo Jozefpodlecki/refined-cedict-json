@@ -1,0 +1,30 @@
+{
+  "simplified": "铺摊",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pū tan",
+          "wade_giles_pinyin": "pu1 tan5"
+        }
+      ],
+      "simplified": "铺摊",
+      "traditional": "鋪攤",
+      "meanings": [
+        {
+          "value": "to spread out"
+        },
+        {
+          "value": "to display"
+        },
+        {
+          "value": "to lay out a vendor's stall"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "simplified": "援助机构",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yuán zhù jī gòu",
+          "wade_giles_pinyin": "yuan2 zhu4 ji1 gou4"
+        }
+      ],
+      "simplified": "援助机构",
+      "simplified_stroke_count": 0,
+      "traditional": "援助機構",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "relief agency"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "emergency service"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "rescue organisation"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

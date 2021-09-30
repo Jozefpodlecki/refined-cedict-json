@@ -1,0 +1,49 @@
+{
+  "simplified": "瓣",
+  "simplified_stroke_count": 19,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bàn",
+          "wade_giles_pinyin": "ban4"
+        }
+      ],
+      "simplified": "瓣",
+      "simplified_stroke_count": 19,
+      "traditional": "瓣",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "value": "petal"
+        },
+        {
+          "value": "segment"
+        },
+        {
+          "value": "clove (of garlic)"
+        },
+        {
+          "value": "piece"
+        },
+        {
+          "value": "section"
+        },
+        {
+          "value": "fragment"
+        },
+        {
+          "value": "valve"
+        },
+        {
+          "value": "lamella"
+        },
+        {
+          "value": "classifier for pieces, segments etc"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

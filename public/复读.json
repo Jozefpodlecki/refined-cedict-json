@@ -1,0 +1,52 @@
+{
+  "simplified": "复读",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fù dú",
+          "wade_giles_pinyin": "fu4 du2"
+        }
+      ],
+      "simplified": "复读",
+      "simplified_stroke_count": 0,
+      "traditional": "復讀",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to return to the same school and repeat a course from which one has already graduated, as a result of failing to get good enough results to progress to one's desired higher-level school"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fù dú",
+          "wade_giles_pinyin": "fu4 du2"
+        }
+      ],
+      "simplified": "复读",
+      "simplified_stroke_count": 0,
+      "traditional": "複讀",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(of an audio device) to repeat a recorded phrase (e.g. for language learning)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

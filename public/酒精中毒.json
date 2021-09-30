@@ -1,0 +1,32 @@
+{
+  "simplified": "酒精中毒",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jiǔ jīng zhòng dú",
+          "wade_giles_pinyin": "jiu3 jing1 zhong4 du2"
+        }
+      ],
+      "simplified": "酒精中毒",
+      "simplified_stroke_count": 0,
+      "traditional": "酒精中毒",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "alcoholism"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "alcohol poisoning"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

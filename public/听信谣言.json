@@ -1,0 +1,25 @@
+{
+  "simplified": "听信谣言",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tīng xìn yáo yán",
+          "wade_giles_pinyin": "ting1 xin4 yao2 yan2"
+        }
+      ],
+      "simplified": "听信谣言",
+      "traditional": "聽信謠言",
+      "meanings": [
+        {
+          "lexical_item": "idiom",
+          "value": "to take heed of idle chatter"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

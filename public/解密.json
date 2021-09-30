@@ -1,0 +1,30 @@
+{
+  "simplified": "解密",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiě mì",
+          "wade_giles_pinyin": "jie3 mi4"
+        }
+      ],
+      "simplified": "解密",
+      "traditional": "解密",
+      "meanings": [
+        {
+          "value": "to declassify"
+        },
+        {
+          "value": "(computing) to decrypt"
+        },
+        {
+          "value": "to decipher"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "simplified": "部门",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bù mén",
+          "wade_giles_pinyin": "bu4 men2"
+        }
+      ],
+      "simplified": "部门",
+      "traditional": "部門",
+      "meanings": [
+        {
+          "value": "department"
+        },
+        {
+          "value": "branch"
+        },
+        {
+          "value": "section"
+        },
+        {
+          "value": "division"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

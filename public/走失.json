@@ -1,0 +1,42 @@
+{
+  "simplified": "走失",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zǒu shī",
+          "wade_giles_pinyin": "zou3 shi1"
+        }
+      ],
+      "simplified": "走失",
+      "traditional": "走失",
+      "meanings": [
+        {
+          "value": "lost"
+        },
+        {
+          "value": "missing"
+        },
+        {
+          "value": "to lose (sb in one's charge)"
+        },
+        {
+          "value": "to get lost"
+        },
+        {
+          "value": "to wander away"
+        },
+        {
+          "value": "to lose (flavor, freshness, shape, hair, one's good looks etc)"
+        },
+        {
+          "value": "to lose meaning (in translation)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

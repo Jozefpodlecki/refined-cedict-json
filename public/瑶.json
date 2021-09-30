@@ -1,0 +1,62 @@
+{
+  "simplified": "瑶",
+  "simplified_stroke_count": 14,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yáo",
+          "wade_giles_pinyin": "Yao2"
+        }
+      ],
+      "simplified": "瑶",
+      "simplified_stroke_count": 14,
+      "traditional": "瑤",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "Yao ethnic group of southwest China and southeast Asia"
+        },
+        {
+          "value": "surname Yao"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yáo",
+          "wade_giles_pinyin": "yao2"
+        }
+      ],
+      "simplified": "瑶",
+      "simplified_stroke_count": 14,
+      "traditional": "瑤",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "jade"
+        },
+        {
+          "value": "precious stone"
+        },
+        {
+          "value": "mother-of-pearl"
+        },
+        {
+          "value": "nacre"
+        },
+        {
+          "value": "precious"
+        },
+        {
+          "value": "used a complementary honorific"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

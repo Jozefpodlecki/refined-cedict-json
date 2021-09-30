@@ -1,0 +1,32 @@
+{
+  "simplified": "十二码",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shí èr mǎ",
+          "wade_giles_pinyin": "shi2 er4 ma3"
+        }
+      ],
+      "simplified": "十二码",
+      "simplified_stroke_count": null,
+      "traditional": "十二碼",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "12-yard (sports)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "penalty kick"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

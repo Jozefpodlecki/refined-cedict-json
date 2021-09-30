@@ -1,0 +1,31 @@
+{
+  "simplified": "内衣",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nèi yī",
+          "wade_giles_pinyin": "nei4 yi1"
+        }
+      ],
+      "simplified": "内衣",
+      "traditional": "內衣",
+      "meanings": [
+        {
+          "value": "undergarment"
+        },
+        {
+          "value": "underwear"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "件",
+          "traditional": "",
+          "wade_giles_pinyin": "jian4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

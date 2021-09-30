@@ -1,0 +1,34 @@
+{
+  "simplified": "犯怵",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fàn chù",
+          "wade_giles_pinyin": "fan4 chu4"
+        }
+      ],
+      "simplified": "犯怵",
+      "simplified_stroke_count": null,
+      "traditional": "犯怵",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to be afraid"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to feel nervous"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

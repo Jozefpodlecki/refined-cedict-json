@@ -1,0 +1,31 @@
+{
+  "simplified": "大队",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dà duì",
+          "wade_giles_pinyin": "da4 dui4"
+        }
+      ],
+      "simplified": "大队",
+      "traditional": "大隊",
+      "meanings": [
+        {
+          "value": "group"
+        },
+        {
+          "value": "a large body of"
+        },
+        {
+          "value": "production brigade"
+        },
+        {
+          "value": "military group"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

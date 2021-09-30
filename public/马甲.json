@@ -1,0 +1,29 @@
+{
+  "simplified": "马甲",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mǎ jiǎ",
+          "wade_giles_pinyin": "ma3 jia3"
+        }
+      ],
+      "simplified": "马甲",
+      "traditional": "馬甲",
+      "meanings": [
+        {
+          "value": "corset"
+        },
+        {
+          "value": "sockpuppet (Internet slang)"
+        },
+        {
+          "context": "dialect",
+          "value": "vest"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

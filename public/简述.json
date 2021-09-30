@@ -1,0 +1,45 @@
+{
+  "simplified": "简述",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiǎn shù",
+          "wade_giles_pinyin": "jian3 shu4"
+        }
+      ],
+      "simplified": "简述",
+      "traditional": "簡述",
+      "meanings": [
+        {
+          "value": "to outline"
+        },
+        {
+          "value": "to summarize"
+        },
+        {
+          "value": "to sketch"
+        },
+        {
+          "value": "summary"
+        },
+        {
+          "value": "brief description"
+        },
+        {
+          "value": "concise narrative"
+        },
+        {
+          "value": "in a nutshell"
+        },
+        {
+          "value": "briefly"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

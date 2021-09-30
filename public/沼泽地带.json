@@ -1,0 +1,37 @@
+{
+  "simplified": "沼泽地带",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhǎo zé dì dài",
+          "wade_giles_pinyin": "zhao3 ze2 di4 dai4"
+        }
+      ],
+      "simplified": "沼泽地带",
+      "simplified_stroke_count": 0,
+      "traditional": "沼澤地帶",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "marsh"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "swamp"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "everglade"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

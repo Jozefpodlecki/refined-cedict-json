@@ -1,0 +1,28 @@
+{
+  "simplified": "中锋",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhōng fēng",
+          "wade_giles_pinyin": "zhong1 feng1"
+        }
+      ],
+      "simplified": "中锋",
+      "traditional": "中鋒",
+      "meanings": [
+        {
+          "value": "midfielder"
+        },
+        {
+          "value": "center (basketball)"
+        },
+        {
+          "value": "center forward (hockey, football)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

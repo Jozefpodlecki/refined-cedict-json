@@ -1,0 +1,32 @@
+{
+  "simplified": "股东",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " gǔ dōng",
+          "wade_giles_pinyin": "gu3 dong1"
+        }
+      ],
+      "simplified": "股东",
+      "simplified_stroke_count": 0,
+      "traditional": "股東",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "shareholder"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "stockholder"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

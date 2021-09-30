@@ -1,0 +1,39 @@
+{
+  "simplified": "滨",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bīn",
+          "wade_giles_pinyin": "bin1"
+        }
+      ],
+      "simplified": "滨",
+      "simplified_stroke_count": 13,
+      "traditional": "濱",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "shore"
+        },
+        {
+          "value": "beach"
+        },
+        {
+          "value": "coast"
+        },
+        {
+          "value": "bank"
+        },
+        {
+          "value": "to border on"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

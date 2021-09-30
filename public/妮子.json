@@ -1,0 +1,27 @@
+{
+  "simplified": "妮子",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nī zi",
+          "wade_giles_pinyin": "ni1 zi5"
+        }
+      ],
+      "simplified": "妮子",
+      "traditional": "妮子",
+      "meanings": [
+        {
+          "context": "colloquial",
+          "value": "lass"
+        },
+        {
+          "context": "dialect",
+          "value": "little girl"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

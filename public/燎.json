@@ -1,0 +1,51 @@
+{
+  "simplified": "燎",
+  "simplified_stroke_count": 16,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "liáo",
+          "wade_giles_pinyin": "liao2"
+        }
+      ],
+      "simplified": "燎",
+      "simplified_stroke_count": 16,
+      "traditional": "燎",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "to burn"
+        },
+        {
+          "value": "to set afire"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "liǎo",
+          "wade_giles_pinyin": "liao3"
+        }
+      ],
+      "simplified": "燎",
+      "simplified_stroke_count": 16,
+      "traditional": "燎",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "to singe"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

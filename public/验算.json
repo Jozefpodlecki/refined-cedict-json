@@ -1,0 +1,27 @@
+{
+  "simplified": "验算",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yàn suàn",
+          "wade_giles_pinyin": "yan4 suan4"
+        }
+      ],
+      "simplified": "验算",
+      "traditional": "驗算",
+      "meanings": [
+        {
+          "value": "to verify a calculation"
+        },
+        {
+          "value": "a double-check"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

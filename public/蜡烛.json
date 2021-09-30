@@ -1,0 +1,33 @@
+{
+  "simplified": "蜡烛",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "là zhú",
+          "wade_giles_pinyin": "la4 zhu2"
+        }
+      ],
+      "simplified": "蜡烛",
+      "traditional": "蠟燭",
+      "meanings": [
+        {
+          "value": "candle"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "根",
+          "traditional": "",
+          "wade_giles_pinyin": "gen1"
+        },
+        {
+          "simplified": "支",
+          "traditional": "",
+          "wade_giles_pinyin": "zhi1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

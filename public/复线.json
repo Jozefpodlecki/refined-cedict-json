@@ -1,0 +1,28 @@
+{
+  "simplified": "复线",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fù xiàn",
+          "wade_giles_pinyin": "fu4 xian4"
+        }
+      ],
+      "simplified": "复线",
+      "traditional": "複線",
+      "meanings": [
+        {
+          "value": "multiple track (e.g. rail)"
+        },
+        {
+          "value": "multi-lane (e.g. highway)"
+        },
+        {
+          "value": "the complex line (math.)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

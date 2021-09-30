@@ -1,0 +1,28 @@
+{
+  "simplified": "卫生",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "weì shēng",
+          "wade_giles_pinyin": "wei4 sheng1"
+        }
+      ],
+      "simplified": "卫生",
+      "traditional": "衛生",
+      "meanings": [
+        {
+          "value": "health"
+        },
+        {
+          "value": "hygiene"
+        },
+        {
+          "value": "sanitation"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

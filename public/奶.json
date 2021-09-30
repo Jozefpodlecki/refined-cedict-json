@@ -1,0 +1,90 @@
+{
+  "simplified": "奶",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " nǎi",
+          "wade_giles_pinyin": "nai3"
+        }
+      ],
+      "simplified": "奶",
+      "simplified_stroke_count": 5,
+      "traditional": "奶",
+      "traditional_stroke_count": 5,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "breast"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "milk"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to breastfeed"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " nǎi",
+          "wade_giles_pinyin": "nai3"
+        }
+      ],
+      "simplified": "奶",
+      "simplified_stroke_count": 5,
+      "traditional": "妳",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "嬭|奶[nai3]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " nǎi",
+          "wade_giles_pinyin": "nai3"
+        }
+      ],
+      "simplified": "奶",
+      "simplified_stroke_count": 5,
+      "traditional": "嬭",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "mother"
+        },
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "奶[nai3]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

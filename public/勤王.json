@@ -1,0 +1,30 @@
+{
+  "simplified": "勤王",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qín wáng",
+          "wade_giles_pinyin": "qin2 wang2"
+        }
+      ],
+      "simplified": "勤王",
+      "traditional": "勤王",
+      "meanings": [
+        {
+          "value": "to serve the king diligently"
+        },
+        {
+          "value": "to save the country in times of danger"
+        },
+        {
+          "value": "to send troops to rescue the king"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

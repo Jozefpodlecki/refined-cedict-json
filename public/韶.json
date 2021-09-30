@@ -1,0 +1,50 @@
+{
+  "simplified": "韶",
+  "simplified_stroke_count": 14,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sháo",
+          "wade_giles_pinyin": "Shao2"
+        }
+      ],
+      "simplified": "韶",
+      "simplified_stroke_count": 14,
+      "traditional": "韶",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "surname Shao"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sháo",
+          "wade_giles_pinyin": "shao2"
+        }
+      ],
+      "simplified": "韶",
+      "simplified_stroke_count": 14,
+      "traditional": "韶",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "(music)"
+        },
+        {
+          "value": "excellent"
+        },
+        {
+          "value": "harmonious"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

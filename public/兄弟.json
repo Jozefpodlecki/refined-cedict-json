@@ -1,0 +1,40 @@
+{
+  "simplified": "兄弟",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiōng dì",
+          "wade_giles_pinyin": "xiong1 di4"
+        }
+      ],
+      "simplified": "兄弟",
+      "traditional": "兄弟",
+      "meanings": [
+        {
+          "value": "brothers"
+        },
+        {
+          "value": "younger brother"
+        },
+        {
+          "value": "I, me (humble term used by men in public speech)"
+        },
+        {
+          "value": "brotherly"
+        },
+        {
+          "value": "fraternal"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "斜坡",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xié pō",
+          "wade_giles_pinyin": "xie2 po1"
+        }
+      ],
+      "simplified": "斜坡",
+      "simplified_stroke_count": 0,
+      "traditional": "斜坡",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "slope"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "incline"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

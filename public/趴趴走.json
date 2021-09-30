@@ -1,0 +1,31 @@
+{
+  "simplified": "趴趴走",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pā pā zǒu",
+          "wade_giles_pinyin": "pa1 pa1 zou3"
+        }
+      ],
+      "simplified": "趴趴走",
+      "traditional": "趴趴走",
+      "meanings": [
+        {
+          "context": "taiwan",
+          "value": "to wander about"
+        },
+        {
+          "value": "to roam around freely"
+        },
+        {
+          "value": "(from Taiwanese 拋拋走, Tai-lo pr. [pha-pha-tsáu])"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

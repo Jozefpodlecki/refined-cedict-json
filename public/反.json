@@ -1,0 +1,67 @@
+{
+  "simplified": "反",
+  "simplified_stroke_count": 4,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fǎn",
+          "wade_giles_pinyin": "fan3"
+        }
+      ],
+      "simplified": "反",
+      "simplified_stroke_count": 4,
+      "traditional": "反",
+      "traditional_stroke_count": 4,
+      "meanings": [
+        {
+          "value": "contrary"
+        },
+        {
+          "value": "in reverse"
+        },
+        {
+          "value": "inside out or upside down"
+        },
+        {
+          "value": "to reverse"
+        },
+        {
+          "value": "to return"
+        },
+        {
+          "value": "to oppose"
+        },
+        {
+          "value": "opposite"
+        },
+        {
+          "value": "against"
+        },
+        {
+          "value": "anti-"
+        },
+        {
+          "value": "to rebel"
+        },
+        {
+          "value": "to use analogy"
+        },
+        {
+          "value": "instead"
+        },
+        {
+          "context": "abbreviation",
+          "value": "反切[fan3 qie4] phonetic system",
+          "simplified": "反",
+          "traditional": "切",
+          "wade_giles_pinyin": "fan3 qie4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

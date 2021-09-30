@@ -1,0 +1,40 @@
+{
+  "simplified": "会见",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " huì jiàn",
+          "wade_giles_pinyin": "hui4 jian4"
+        }
+      ],
+      "simplified": "会见",
+      "simplified_stroke_count": 0,
+      "traditional": "會見",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to meet with (sb who is paying a visit)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:次[ci4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "次",
+          "traditional": "",
+          "wade_giles_pinyin": "ci4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

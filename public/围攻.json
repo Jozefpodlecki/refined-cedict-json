@@ -1,0 +1,44 @@
+{
+  "simplified": "围攻",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wéi gōng",
+          "wade_giles_pinyin": "wei2 gong1"
+        }
+      ],
+      "simplified": "围攻",
+      "simplified_stroke_count": null,
+      "traditional": "圍攻",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to besiege"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to beleaguer"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to attack from all sides"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to jointly speak or write against sb"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

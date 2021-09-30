@@ -1,0 +1,57 @@
+{
+  "simplified": "笑",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiào",
+          "wade_giles_pinyin": "xiao4"
+        }
+      ],
+      "simplified": "笑",
+      "simplified_stroke_count": 10,
+      "traditional": "咲",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 笑[xiao4]",
+          "simplified": "笑",
+          "traditional": "",
+          "wade_giles_pinyin": "xiao4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiào",
+          "wade_giles_pinyin": "xiao4"
+        }
+      ],
+      "simplified": "笑",
+      "simplified_stroke_count": 10,
+      "traditional": "笑",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "laugh"
+        },
+        {
+          "value": "smile"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

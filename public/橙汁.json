@@ -1,0 +1,43 @@
+{
+  "simplified": "橙汁",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chéng zhī",
+          "wade_giles_pinyin": "cheng2 zhi1"
+        }
+      ],
+      "simplified": "橙汁",
+      "traditional": "橙汁",
+      "meanings": [
+        {
+          "value": "orange juice"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "瓶",
+          "traditional": "",
+          "wade_giles_pinyin": "ping2"
+        },
+        {
+          "simplified": "杯",
+          "traditional": "",
+          "wade_giles_pinyin": "bei1"
+        },
+        {
+          "simplified": "罐",
+          "traditional": "",
+          "wade_giles_pinyin": "guan4"
+        },
+        {
+          "simplified": "盒",
+          "traditional": "",
+          "wade_giles_pinyin": "he2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

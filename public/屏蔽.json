@@ -1,0 +1,33 @@
+{
+  "simplified": "屏蔽",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "píng bì",
+          "wade_giles_pinyin": "ping2 bi4"
+        }
+      ],
+      "simplified": "屏蔽",
+      "traditional": "屏蔽",
+      "meanings": [
+        {
+          "value": "to screen"
+        },
+        {
+          "value": "to block (sth or sb)"
+        },
+        {
+          "value": "to shield"
+        },
+        {
+          "value": "(protective) shield"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

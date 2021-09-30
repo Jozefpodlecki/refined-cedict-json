@@ -1,0 +1,24 @@
+{
+  "simplified": "病休",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bìng xiū",
+          "wade_giles_pinyin": "bing4 xiu1"
+        }
+      ],
+      "simplified": "病休",
+      "traditional": "病休",
+      "meanings": [
+        {
+          "value": "to be on sick leave"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

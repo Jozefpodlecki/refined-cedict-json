@@ -1,0 +1,58 @@
+{
+  "simplified": "小康",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xiǎo kāng",
+          "wade_giles_pinyin": "Xiao3 kang1"
+        }
+      ],
+      "simplified": "小康",
+      "simplified_stroke_count": 0,
+      "traditional": "小康",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Xiaokang, a Confucian near-ideal state of society, second only to Datong 大同[Da4 tong2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xiǎo kāng",
+          "wade_giles_pinyin": "xiao3 kang1"
+        }
+      ],
+      "simplified": "小康",
+      "simplified_stroke_count": 0,
+      "traditional": "小康",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "moderately affluent"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "well-off"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "a period of peace and prosperity"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

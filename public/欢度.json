@@ -1,0 +1,34 @@
+{
+  "simplified": "欢度",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " huān dù",
+          "wade_giles_pinyin": "huan1 du4"
+        }
+      ],
+      "simplified": "欢度",
+      "simplified_stroke_count": 0,
+      "traditional": "歡度",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to merrily spend (an occasion)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to celebrate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

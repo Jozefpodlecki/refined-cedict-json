@@ -1,0 +1,28 @@
+{
+  "simplified": "洗手间",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xǐ shǒu jiān",
+          "wade_giles_pinyin": "xi3 shou3 jian1"
+        }
+      ],
+      "simplified": "洗手间",
+      "traditional": "洗手間",
+      "meanings": [
+        {
+          "value": "toilet"
+        },
+        {
+          "value": "lavatory"
+        },
+        {
+          "value": "washroom"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

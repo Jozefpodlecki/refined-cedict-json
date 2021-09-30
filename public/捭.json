@@ -1,0 +1,67 @@
+{
+  "simplified": "捭",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bǎi",
+          "wade_giles_pinyin": "bai3"
+        }
+      ],
+      "simplified": "捭",
+      "simplified_stroke_count": 11,
+      "traditional": "捭",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to spread out"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to open"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bò",
+          "wade_giles_pinyin": "bo4"
+        }
+      ],
+      "simplified": "捭",
+      "simplified_stroke_count": 11,
+      "traditional": "捭",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "擘[bo4]"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to separate"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to split"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

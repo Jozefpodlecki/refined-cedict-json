@@ -1,0 +1,43 @@
+{
+  "simplified": "床单",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chuáng dān",
+          "wade_giles_pinyin": "chuang2 dan1"
+        }
+      ],
+      "simplified": "床单",
+      "traditional": "床單",
+      "meanings": [
+        {
+          "value": "bed sheet"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "條",
+          "traditional": "条",
+          "wade_giles_pinyin": "tiao2"
+        },
+        {
+          "simplified": "件",
+          "traditional": "",
+          "wade_giles_pinyin": "jian4"
+        },
+        {
+          "simplified": "張",
+          "traditional": "张",
+          "wade_giles_pinyin": "zhang1"
+        },
+        {
+          "simplified": "床",
+          "traditional": "",
+          "wade_giles_pinyin": "chuang2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

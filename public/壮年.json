@@ -1,0 +1,35 @@
+{
+  "simplified": "壮年",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhuàng nián",
+          "wade_giles_pinyin": "zhuang4 nian2"
+        }
+      ],
+      "simplified": "壮年",
+      "traditional": "壯年",
+      "meanings": [
+        {
+          "context": "literature",
+          "value": "robust years"
+        },
+        {
+          "value": "prime of life"
+        },
+        {
+          "value": "summer"
+        },
+        {
+          "value": "able-bodied (fit for military service)"
+        },
+        {
+          "value": "mature (talent, garden etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

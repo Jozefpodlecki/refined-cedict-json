@@ -1,0 +1,28 @@
+{
+  "simplified": "近视",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jìn shì",
+          "wade_giles_pinyin": "jin4 shi4"
+        }
+      ],
+      "simplified": "近视",
+      "traditional": "近視",
+      "meanings": [
+        {
+          "value": "shortsighted"
+        },
+        {
+          "value": "nearsighted"
+        },
+        {
+          "value": "myopia"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

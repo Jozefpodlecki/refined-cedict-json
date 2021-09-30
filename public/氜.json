@@ -1,0 +1,48 @@
+{
+  "simplified": "氜",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rì",
+          "wade_giles_pinyin": "ri4"
+        }
+      ],
+      "simplified": "氜",
+      "simplified_stroke_count": 8,
+      "traditional": "氜",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "old name for 氦[hai4], helium"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yáng",
+          "wade_giles_pinyin": "yang2"
+        }
+      ],
+      "simplified": "氜",
+      "simplified_stroke_count": 8,
+      "traditional": "氜",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 陽|阳[yang2]",
+          "simplified": "陽",
+          "traditional": "阳",
+          "wade_giles_pinyin": "yang2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

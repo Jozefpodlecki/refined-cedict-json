@@ -1,0 +1,34 @@
+{
+  "simplified": "打住",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dǎ zhù",
+          "wade_giles_pinyin": "da3 zhu4"
+        }
+      ],
+      "simplified": "打住",
+      "simplified_stroke_count": 0,
+      "traditional": "打住",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to stop"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to halt"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "simplified": "盘龙卧虎",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pán lóng wò hǔ",
+          "wade_giles_pinyin": "pan2 long2 wo4 hu3"
+        }
+      ],
+      "simplified": "盘龙卧虎",
+      "traditional": "盤龍臥虎",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "coiled dragon, crouching tiger"
+        },
+        {
+          "value": "fig. talented individuals in hiding"
+        },
+        {
+          "value": "concealed talent"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "simplified": "电子邮件",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diàn zǐ yóu jiàn",
+          "wade_giles_pinyin": "dian4 zi3 you2 jian4"
+        }
+      ],
+      "simplified": "电子邮件",
+      "traditional": "電子郵件",
+      "meanings": [
+        {
+          "value": "email"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "封",
+          "traditional": "",
+          "wade_giles_pinyin": "feng1"
+        },
+        {
+          "simplified": "份",
+          "traditional": "",
+          "wade_giles_pinyin": "fen4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

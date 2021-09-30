@@ -1,0 +1,34 @@
+{
+  "simplified": "填堵",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " tián dǔ",
+          "wade_giles_pinyin": "tian2 du3"
+        }
+      ],
+      "simplified": "填堵",
+      "simplified_stroke_count": 0,
+      "traditional": "填堵",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to stuff"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to cram into"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

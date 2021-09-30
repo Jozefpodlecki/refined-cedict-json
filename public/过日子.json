@@ -1,0 +1,39 @@
+{
+  "simplified": "过日子",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " guò rì zi",
+          "wade_giles_pinyin": "guo4 ri4 zi5"
+        }
+      ],
+      "simplified": "过日子",
+      "simplified_stroke_count": 0,
+      "traditional": "過日子",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to live one's life"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to pass one's days"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to get along"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

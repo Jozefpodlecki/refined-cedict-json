@@ -1,0 +1,31 @@
+{
+  "simplified": "路程",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lù chéng",
+          "wade_giles_pinyin": "lu4 cheng2"
+        }
+      ],
+      "simplified": "路程",
+      "traditional": "路程",
+      "meanings": [
+        {
+          "value": "route"
+        },
+        {
+          "value": "path traveled"
+        },
+        {
+          "value": "distance traveled"
+        },
+        {
+          "value": "course (of development)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

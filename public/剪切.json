@@ -1,0 +1,30 @@
+{
+  "simplified": "剪切",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiǎn qiē",
+          "wade_giles_pinyin": "jian3 qie1"
+        }
+      ],
+      "simplified": "剪切",
+      "traditional": "剪切",
+      "meanings": [
+        {
+          "value": "to shear"
+        },
+        {
+          "value": "shearing (force)"
+        },
+        {
+          "value": "(computing) to cut (as in \"cut-and-paste\")"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

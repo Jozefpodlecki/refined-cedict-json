@@ -1,0 +1,34 @@
+{
+  "simplified": "国家",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guó jiā",
+          "wade_giles_pinyin": "guo2 jia1"
+        }
+      ],
+      "simplified": "国家",
+      "traditional": "國家",
+      "meanings": [
+        {
+          "value": "country"
+        },
+        {
+          "value": "nation"
+        },
+        {
+          "value": "state"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

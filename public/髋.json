@@ -1,0 +1,32 @@
+{
+  "simplified": "髋",
+  "simplified_stroke_count": 20,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " kuān",
+          "wade_giles_pinyin": "kuan1"
+        }
+      ],
+      "simplified": "髋",
+      "simplified_stroke_count": 20,
+      "traditional": "髖",
+      "traditional_stroke_count": 25,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "pelvis"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "pelvic"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "月份会议",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yuè fèn huì yì",
+          "wade_giles_pinyin": "yue4 fen4 hui4 yi4"
+        }
+      ],
+      "simplified": "月份会议",
+      "simplified_stroke_count": 0,
+      "traditional": "月份會議",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "monthly meeting"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "monthly conference"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "simplified": "筛糠",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shāi kāng",
+          "wade_giles_pinyin": "shai1 kang1"
+        }
+      ],
+      "simplified": "筛糠",
+      "traditional": "篩糠",
+      "meanings": [
+        {
+          "value": "to sift chaff"
+        },
+        {
+          "context": "figuratively",
+          "value": "to shake all over"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

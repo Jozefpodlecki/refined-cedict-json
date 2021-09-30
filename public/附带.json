@@ -1,0 +1,48 @@
+{
+  "simplified": "附带",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fù dài",
+          "wade_giles_pinyin": "fu4 dai4"
+        }
+      ],
+      "simplified": "附带",
+      "traditional": "附帶",
+      "meanings": [
+        {
+          "value": "supplementary"
+        },
+        {
+          "value": "incidentally"
+        },
+        {
+          "value": "in parentheses"
+        },
+        {
+          "value": "by chance"
+        },
+        {
+          "value": "in passing"
+        },
+        {
+          "value": "additionally"
+        },
+        {
+          "value": "secondary"
+        },
+        {
+          "value": "subsidiary"
+        },
+        {
+          "value": "to attach"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

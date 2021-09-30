@@ -1,0 +1,36 @@
+{
+  "simplified": "翚",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huī",
+          "wade_giles_pinyin": "hui1"
+        }
+      ],
+      "simplified": "翚",
+      "simplified_stroke_count": 12,
+      "traditional": "翬",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "pheasant"
+        },
+        {
+          "value": "golden pheasant"
+        },
+        {
+          "value": "variegated"
+        },
+        {
+          "value": "to fly"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

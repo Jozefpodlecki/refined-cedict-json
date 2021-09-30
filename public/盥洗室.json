@@ -1,0 +1,37 @@
+{
+  "simplified": "盥洗室",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guàn xǐ shì",
+          "wade_giles_pinyin": "guan4 xi3 shi4"
+        }
+      ],
+      "simplified": "盥洗室",
+      "traditional": "盥洗室",
+      "meanings": [
+        {
+          "value": "toilet"
+        },
+        {
+          "value": "washroom"
+        },
+        {
+          "value": "bathroom"
+        },
+        {
+          "value": "lavatory"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "間",
+          "traditional": "间",
+          "wade_giles_pinyin": "jian1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

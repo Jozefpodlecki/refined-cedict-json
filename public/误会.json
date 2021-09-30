@@ -1,0 +1,50 @@
+{
+  "simplified": "误会",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " wù huì",
+          "wade_giles_pinyin": "wu4 hui4"
+        }
+      ],
+      "simplified": "误会",
+      "simplified_stroke_count": 0,
+      "traditional": "誤會",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to misunderstand"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to mistake"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "misunderstanding"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:個|个[ge4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

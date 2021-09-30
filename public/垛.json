@@ -1,0 +1,59 @@
+{
+  "simplified": "垛",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "duǒ",
+          "wade_giles_pinyin": "duo3"
+        }
+      ],
+      "simplified": "垛",
+      "simplified_stroke_count": 9,
+      "traditional": "垛",
+      "traditional_stroke_count": 9,
+      "meanings": [],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "duò",
+          "wade_giles_pinyin": "duo4"
+        }
+      ],
+      "simplified": "垛",
+      "simplified_stroke_count": 9,
+      "traditional": "垛",
+      "traditional_stroke_count": 9,
+      "meanings": [],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "duǒ",
+          "wade_giles_pinyin": "duo3"
+        }
+      ],
+      "simplified": "垛",
+      "simplified_stroke_count": 9,
+      "traditional": "垜",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 垛[duo3]",
+          "simplified": "垛",
+          "traditional": "",
+          "wade_giles_pinyin": "duo3"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "simplified": "参战",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cān zhàn",
+          "wade_giles_pinyin": "can1 zhan4"
+        }
+      ],
+      "simplified": "参战",
+      "traditional": "參戰",
+      "meanings": [
+        {
+          "value": "to go to war"
+        },
+        {
+          "value": "to engage in war"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

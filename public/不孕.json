@@ -1,0 +1,28 @@
+{
+  "simplified": "不孕",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bù yùn",
+          "wade_giles_pinyin": "bu4 yun4"
+        }
+      ],
+      "simplified": "不孕",
+      "traditional": "不孕",
+      "meanings": [
+        {
+          "value": "infertile"
+        },
+        {
+          "value": "unable to conceive a child"
+        },
+        {
+          "value": "infertility"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "放卫星",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fàng weì xīng",
+          "wade_giles_pinyin": "fang4 wei4 xing1"
+        }
+      ],
+      "simplified": "放卫星",
+      "simplified_stroke_count": 0,
+      "traditional": "放衛星",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to launch a satellite"
+        },
+        {
+          "context": "figuratively",
+          "lexical_item": "",
+          "value": "(neologism during the Great Leap Forward, c. 1958) to achieve prominent success"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(later used sarcastically) to make exaggerated claims"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to talk big"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

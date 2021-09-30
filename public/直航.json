@@ -1,0 +1,27 @@
+{
+  "simplified": "直航",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhí háng",
+          "wade_giles_pinyin": "zhi2 hang2"
+        }
+      ],
+      "simplified": "直航",
+      "traditional": "直航",
+      "meanings": [
+        {
+          "value": "direct flight"
+        },
+        {
+          "value": "to fly directly"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

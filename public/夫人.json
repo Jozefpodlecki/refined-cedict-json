@@ -1,0 +1,34 @@
+{
+  "simplified": "夫人",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fū ren",
+          "wade_giles_pinyin": "fu1 ren5"
+        }
+      ],
+      "simplified": "夫人",
+      "traditional": "夫人",
+      "meanings": [
+        {
+          "value": "lady"
+        },
+        {
+          "value": "madam"
+        },
+        {
+          "value": "Mrs."
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "位",
+          "traditional": "",
+          "wade_giles_pinyin": "wei4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

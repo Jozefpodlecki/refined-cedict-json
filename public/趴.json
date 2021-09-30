@@ -1,0 +1,34 @@
+{
+  "simplified": "趴",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pā",
+          "wade_giles_pinyin": "pa1"
+        }
+      ],
+      "simplified": "趴",
+      "simplified_stroke_count": 9,
+      "traditional": "趴",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "to lie on one's stomach"
+        },
+        {
+          "value": "to lean forward, resting one's upper body (on a desktop etc)"
+        },
+        {
+          "context": "taiwan",
+          "value": "percent"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

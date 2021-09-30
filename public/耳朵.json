@@ -1,0 +1,53 @@
+{
+  "simplified": "耳朵",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " ěr duo",
+          "wade_giles_pinyin": "er3 duo5"
+        }
+      ],
+      "simplified": "耳朵",
+      "simplified_stroke_count": 0,
+      "traditional": "耳朵",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "ear"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:隻|只[zhi1],個|个[ge4],對|对[dui4]"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "handle (on a cup)"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "隻",
+          "traditional": "只",
+          "wade_giles_pinyin": "zhi1"
+        },
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        },
+        {
+          "simplified": "對",
+          "traditional": "对",
+          "wade_giles_pinyin": "dui4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

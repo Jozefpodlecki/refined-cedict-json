@@ -1,0 +1,54 @@
+{
+  "simplified": "渫",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiè",
+          "wade_giles_pinyin": "Xie4"
+        }
+      ],
+      "simplified": "渫",
+      "simplified_stroke_count": 12,
+      "traditional": "渫",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "surname Xie"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiè",
+          "wade_giles_pinyin": "xie4"
+        }
+      ],
+      "simplified": "渫",
+      "simplified_stroke_count": 12,
+      "traditional": "渫",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "to get rid of"
+        },
+        {
+          "value": "to discharge"
+        },
+        {
+          "value": "to dredge"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

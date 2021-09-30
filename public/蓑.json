@@ -1,0 +1,48 @@
+{
+  "simplified": "蓑",
+  "simplified_stroke_count": 16,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "suō",
+          "wade_giles_pinyin": "suo1"
+        }
+      ],
+      "simplified": "蓑",
+      "simplified_stroke_count": 16,
+      "traditional": "簑",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": null,
+          "value": "蓑[suo1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "suō",
+          "wade_giles_pinyin": "suo1"
+        }
+      ],
+      "simplified": "蓑",
+      "simplified_stroke_count": 16,
+      "traditional": "蓑",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "rain coat made of straw etc"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

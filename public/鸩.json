@@ -1,0 +1,39 @@
+{
+  "simplified": "鸩",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhèn",
+          "wade_giles_pinyin": "zhen4"
+        }
+      ],
+      "simplified": "鸩",
+      "simplified_stroke_count": 9,
+      "traditional": "鴆",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "legendary bird whose feathers can be used as poison"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "poisonous"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to poison sb"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

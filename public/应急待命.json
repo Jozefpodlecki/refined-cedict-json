@@ -1,0 +1,27 @@
+{
+  "simplified": "应急待命",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yìng jí dài mìng",
+          "wade_giles_pinyin": "ying4 ji2 dai4 ming4"
+        }
+      ],
+      "simplified": "应急待命",
+      "traditional": "應急待命",
+      "meanings": [
+        {
+          "value": "emergency standby"
+        },
+        {
+          "value": "to be on standby"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "simplified": "总局",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zǒng jú",
+          "wade_giles_pinyin": "zong3 ju2"
+        }
+      ],
+      "simplified": "总局",
+      "simplified_stroke_count": null,
+      "traditional": "總局",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "head office"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "general office"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "central office"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

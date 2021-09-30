@@ -1,0 +1,27 @@
+{
+  "simplified": "氢",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qīng",
+          "wade_giles_pinyin": "qing1"
+        }
+      ],
+      "simplified": "氢",
+      "simplified_stroke_count": 9,
+      "traditional": "氫",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "hydrogen (chemistry)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "chemical elements"
+      ]
+    }
+  ]
+}

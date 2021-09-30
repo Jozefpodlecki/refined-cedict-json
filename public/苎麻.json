@@ -1,0 +1,42 @@
+{
+  "simplified": "苎麻",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhù má",
+          "wade_giles_pinyin": "zhu4 ma2"
+        }
+      ],
+      "simplified": "苎麻",
+      "simplified_stroke_count": null,
+      "traditional": "苧麻",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "rush (tall grass)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "bulrush"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "Boehmeria"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "ramie"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

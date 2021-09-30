@@ -1,0 +1,28 @@
+{
+  "simplified": "早上",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zǎo shang",
+          "wade_giles_pinyin": "zao3 shang5"
+        }
+      ],
+      "simplified": "早上",
+      "traditional": "早上",
+      "meanings": [
+        {
+          "value": "early morning"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

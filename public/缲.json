@@ -1,0 +1,48 @@
+{
+  "simplified": "缲",
+  "simplified_stroke_count": 16,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiāo",
+          "wade_giles_pinyin": "qiao1"
+        }
+      ],
+      "simplified": "缲",
+      "simplified_stroke_count": 16,
+      "traditional": "繰",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "value": "hem with invisible stitches"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sāo",
+          "wade_giles_pinyin": "sao1"
+        }
+      ],
+      "simplified": "缲",
+      "simplified_stroke_count": 16,
+      "traditional": "繰",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "value": "to reel silk from cocoons"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

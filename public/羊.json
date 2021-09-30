@@ -1,0 +1,58 @@
+{
+  "simplified": "羊",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yáng",
+          "wade_giles_pinyin": "Yang2"
+        }
+      ],
+      "simplified": "羊",
+      "simplified_stroke_count": 6,
+      "traditional": "羊",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "value": "surname Yang"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yáng",
+          "wade_giles_pinyin": "yang2"
+        }
+      ],
+      "simplified": "羊",
+      "simplified_stroke_count": 6,
+      "traditional": "羊",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "value": "sheep"
+        },
+        {
+          "value": "goat"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "頭",
+          "traditional": "头",
+          "wade_giles_pinyin": "tou2"
+        },
+        {
+          "simplified": "隻",
+          "traditional": "只",
+          "wade_giles_pinyin": "zhi1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

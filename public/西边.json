@@ -1,0 +1,33 @@
+{
+  "simplified": "西边",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xī biān",
+          "wade_giles_pinyin": "xi1 bian1"
+        }
+      ],
+      "simplified": "西边",
+      "traditional": "西邊",
+      "meanings": [
+        {
+          "value": "west"
+        },
+        {
+          "value": "west side"
+        },
+        {
+          "value": "western part"
+        },
+        {
+          "value": "to the west of"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

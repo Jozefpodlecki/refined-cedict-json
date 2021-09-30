@@ -1,0 +1,29 @@
+{
+  "simplified": "好康",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hǎo kāng",
+          "wade_giles_pinyin": "hao3 kang1"
+        }
+      ],
+      "simplified": "好康",
+      "traditional": "好康",
+      "meanings": [
+        {
+          "context": "taiwan",
+          "value": "benefit"
+        },
+        {
+          "value": "advantage"
+        },
+        {
+          "value": "(from Taiwanese 好空, Tai-lo pr. [hó-khang])"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

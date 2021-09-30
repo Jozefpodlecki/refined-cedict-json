@@ -1,0 +1,50 @@
+{
+  "simplified": "古",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gǔ",
+          "wade_giles_pinyin": "Gu3"
+        }
+      ],
+      "simplified": "古",
+      "simplified_stroke_count": 5,
+      "traditional": "古",
+      "traditional_stroke_count": 5,
+      "meanings": [
+        {
+          "value": "surname Gu"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gǔ",
+          "wade_giles_pinyin": "gu3"
+        }
+      ],
+      "simplified": "古",
+      "simplified_stroke_count": 5,
+      "traditional": "古",
+      "traditional_stroke_count": 5,
+      "meanings": [
+        {
+          "value": "ancient"
+        },
+        {
+          "value": "old"
+        },
+        {
+          "value": "paleo-"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

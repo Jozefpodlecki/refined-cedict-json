@@ -1,0 +1,30 @@
+{
+  "simplified": "焙",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bèi",
+          "wade_giles_pinyin": "bei4"
+        }
+      ],
+      "simplified": "焙",
+      "simplified_stroke_count": 12,
+      "traditional": "焙",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "to dry over a fire"
+        },
+        {
+          "value": "to bake"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

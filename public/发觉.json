@@ -1,0 +1,44 @@
+{
+  "simplified": "发觉",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fā jué",
+          "wade_giles_pinyin": "fa1 jue2"
+        }
+      ],
+      "simplified": "发觉",
+      "simplified_stroke_count": 0,
+      "traditional": "發覺",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to become aware"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to detect"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to realize"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to perceive"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

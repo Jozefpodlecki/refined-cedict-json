@@ -1,0 +1,36 @@
+{
+  "simplified": "打量",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dǎ liang",
+          "wade_giles_pinyin": "da3 liang5"
+        }
+      ],
+      "simplified": "打量",
+      "traditional": "打量",
+      "meanings": [
+        {
+          "value": "to size sb up"
+        },
+        {
+          "value": "to look sb up and down"
+        },
+        {
+          "value": "to take the measure of"
+        },
+        {
+          "value": "to suppose"
+        },
+        {
+          "value": "to reckon"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "腌猪肉",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yān zhū ròu",
+          "wade_giles_pinyin": "yan1 zhu1 rou4"
+        }
+      ],
+      "simplified": "腌猪肉",
+      "simplified_stroke_count": 0,
+      "traditional": "醃豬肉",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "bacon"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "cured pork"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

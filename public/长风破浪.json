@@ -1,0 +1,34 @@
+{
+  "simplified": "长风破浪",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cháng fēng pò làng",
+          "wade_giles_pinyin": "chang2 feng1 po4 lang4"
+        }
+      ],
+      "simplified": "长风破浪",
+      "simplified_stroke_count": null,
+      "traditional": "長風破浪",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": null,
+          "value": "to ride the wind and crest the waves"
+        },
+        {
+          "context": null,
+          "lexical_item": "idiom",
+          "value": "to be ambitious and unafraid"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

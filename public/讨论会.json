@@ -1,0 +1,32 @@
+{
+  "simplified": "讨论会",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tǎo lùn huì",
+          "wade_giles_pinyin": "tao3 lun4 hui4"
+        }
+      ],
+      "simplified": "讨论会",
+      "simplified_stroke_count": null,
+      "traditional": "討論會",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "symposium"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "discussion forum"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "simplified": "存钱罐",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cún qián guàn",
+          "wade_giles_pinyin": "cun2 qian2 guan4"
+        }
+      ],
+      "simplified": "存钱罐",
+      "traditional": "存錢罐",
+      "meanings": [
+        {
+          "value": "piggy bank"
+        },
+        {
+          "value": "coin bank"
+        },
+        {
+          "value": "money box"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

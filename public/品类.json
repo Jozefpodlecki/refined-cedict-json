@@ -1,0 +1,32 @@
+{
+  "simplified": "品类",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " pǐn lèi",
+          "wade_giles_pinyin": "pin3 lei4"
+        }
+      ],
+      "simplified": "品类",
+      "simplified_stroke_count": 0,
+      "traditional": "品類",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "category"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "kind"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "simplified": "盘费",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " pán feì",
+          "wade_giles_pinyin": "pan2 fei4"
+        }
+      ],
+      "simplified": "盘费",
+      "simplified_stroke_count": 0,
+      "traditional": "盤費",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "travel expenses"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "fare"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "traveling allowance"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

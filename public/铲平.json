@@ -1,0 +1,30 @@
+{
+  "simplified": "铲平",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chǎn píng",
+          "wade_giles_pinyin": "chan3 ping2"
+        }
+      ],
+      "simplified": "铲平",
+      "traditional": "鏟平",
+      "meanings": [
+        {
+          "value": "to flatten"
+        },
+        {
+          "value": "to level"
+        },
+        {
+          "value": "to raze to the ground"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

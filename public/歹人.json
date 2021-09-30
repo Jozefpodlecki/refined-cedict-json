@@ -1,0 +1,37 @@
+{
+  "simplified": "歹人",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dǎi rén",
+          "wade_giles_pinyin": "dai3 ren2"
+        }
+      ],
+      "simplified": "歹人",
+      "simplified_stroke_count": null,
+      "traditional": "歹人",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "bad person"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "evildoer"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "robber"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

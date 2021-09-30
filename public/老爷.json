@@ -1,0 +1,29 @@
+{
+  "simplified": "老爷",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lǎo ye",
+          "wade_giles_pinyin": "lao3 ye5"
+        }
+      ],
+      "simplified": "老爷",
+      "traditional": "老爺",
+      "meanings": [
+        {
+          "value": "(respectful) lord"
+        },
+        {
+          "value": "master"
+        },
+        {
+          "context": "colloquial",
+          "value": "maternal grandfather"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

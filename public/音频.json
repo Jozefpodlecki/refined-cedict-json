@@ -1,0 +1,31 @@
+{
+  "simplified": "音频",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yīn pín",
+          "wade_giles_pinyin": "yin1 pin2"
+        }
+      ],
+      "simplified": "音频",
+      "traditional": "音頻",
+      "meanings": [
+        {
+          "value": "audio"
+        },
+        {
+          "value": "sound"
+        },
+        {
+          "value": "audio frequency"
+        },
+        {
+          "value": "sound frequency"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

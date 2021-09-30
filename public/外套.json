@@ -1,0 +1,31 @@
+{
+  "simplified": "外套",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wài tào",
+          "wade_giles_pinyin": "wai4 tao4"
+        }
+      ],
+      "simplified": "外套",
+      "traditional": "外套",
+      "meanings": [
+        {
+          "value": "coat"
+        },
+        {
+          "value": "jacket"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "件",
+          "traditional": "",
+          "wade_giles_pinyin": "jian4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

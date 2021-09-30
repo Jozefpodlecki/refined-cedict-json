@@ -1,0 +1,28 @@
+{
+  "simplified": "冻土",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dòng tǔ",
+          "wade_giles_pinyin": "dong4 tu3"
+        }
+      ],
+      "simplified": "冻土",
+      "traditional": "凍土",
+      "meanings": [
+        {
+          "value": "frozen earth"
+        },
+        {
+          "value": "permafrost"
+        },
+        {
+          "value": "tundra"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

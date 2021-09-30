@@ -1,0 +1,40 @@
+{
+  "simplified": "修理",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiū lǐ",
+          "wade_giles_pinyin": "xiu1 li3"
+        }
+      ],
+      "simplified": "修理",
+      "traditional": "修理",
+      "meanings": [
+        {
+          "value": "to repair"
+        },
+        {
+          "value": "to fix"
+        },
+        {
+          "value": "to prune"
+        },
+        {
+          "value": "to trim"
+        },
+        {
+          "context": "colloquial",
+          "value": "to sort sb out"
+        },
+        {
+          "value": "to fix sb"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

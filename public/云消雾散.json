@@ -1,0 +1,31 @@
+{
+  "simplified": "云消雾散",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yún xiāo wù sàn",
+          "wade_giles_pinyin": "yun2 xiao1 wu4 san4"
+        }
+      ],
+      "simplified": "云消雾散",
+      "traditional": "雲消霧散",
+      "meanings": [
+        {
+          "lexical_item": "idiom",
+          "value": "the clouds melt and the mists disperse"
+        },
+        {
+          "value": "to clear up"
+        },
+        {
+          "value": "to vanish into thin air"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

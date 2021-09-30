@@ -1,0 +1,37 @@
+{
+  "simplified": "老梗",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lǎo gěng",
+          "wade_giles_pinyin": "lao3 geng3"
+        }
+      ],
+      "simplified": "老梗",
+      "simplified_stroke_count": null,
+      "traditional": "老梗",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": "taiwan",
+          "lexical_item": null,
+          "value": "unoriginal"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "hackneyed"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "(of a joke) old"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "simplified": "大韩帝国",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dà hán dì guó",
+          "wade_giles_pinyin": "Da4 han2 Di4 guo2"
+        }
+      ],
+      "simplified": "大韩帝国",
+      "simplified_stroke_count": null,
+      "traditional": "大韓帝國",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "Korean Empire, from fall of Joseon dynasty in 1897 to annexation by Japan in 1910"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

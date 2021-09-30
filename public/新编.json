@@ -1,0 +1,30 @@
+{
+  "simplified": "新编",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xīn biān",
+          "wade_giles_pinyin": "xin1 bian1"
+        }
+      ],
+      "simplified": "新编",
+      "traditional": "新編",
+      "meanings": [
+        {
+          "value": "to compile anew"
+        },
+        {
+          "value": "new (version)"
+        },
+        {
+          "value": "newly set up (part of an organization)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "simplified": "剪接",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiǎn jiē",
+          "wade_giles_pinyin": "jian3 jie1"
+        }
+      ],
+      "simplified": "剪接",
+      "traditional": "剪接",
+      "meanings": [
+        {
+          "value": "film-editing"
+        },
+        {
+          "value": "montage"
+        },
+        {
+          "value": "to cut or edit film"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

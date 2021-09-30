@@ -1,0 +1,30 @@
+{
+  "simplified": "围捕",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wéi bǔ",
+          "wade_giles_pinyin": "wei2 bu3"
+        }
+      ],
+      "simplified": "围捕",
+      "traditional": "圍捕",
+      "meanings": [
+        {
+          "value": "to fish by casting a net"
+        },
+        {
+          "value": "to capture"
+        },
+        {
+          "value": "to surround and seize"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

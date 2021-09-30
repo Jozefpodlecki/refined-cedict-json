@@ -1,0 +1,37 @@
+{
+  "simplified": "水分",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shuǐ fèn",
+          "wade_giles_pinyin": "shui3 fen4"
+        }
+      ],
+      "simplified": "水分",
+      "simplified_stroke_count": 0,
+      "traditional": "水分",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "moisture content"
+        },
+        {
+          "context": "figuratively",
+          "lexical_item": "",
+          "value": "overstatement"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "padding"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

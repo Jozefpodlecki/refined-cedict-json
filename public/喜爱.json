@@ -1,0 +1,33 @@
+{
+  "simplified": "喜爱",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xǐ ài",
+          "wade_giles_pinyin": "xi3 ai4"
+        }
+      ],
+      "simplified": "喜爱",
+      "traditional": "喜愛",
+      "meanings": [
+        {
+          "value": "to like"
+        },
+        {
+          "value": "to love"
+        },
+        {
+          "value": "to be fond of"
+        },
+        {
+          "value": "favorite"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

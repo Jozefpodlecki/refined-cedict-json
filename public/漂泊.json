@@ -1,0 +1,36 @@
+{
+  "simplified": "漂泊",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "piāo bó",
+          "wade_giles_pinyin": "piao1 bo2"
+        }
+      ],
+      "simplified": "漂泊",
+      "traditional": "漂泊",
+      "meanings": [
+        {
+          "value": "to drift (in the tide)"
+        },
+        {
+          "value": "to rove"
+        },
+        {
+          "value": "to lead a wandering existence"
+        },
+        {
+          "value": "drifter"
+        },
+        {
+          "value": "wanderer"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

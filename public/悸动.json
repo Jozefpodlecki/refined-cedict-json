@@ -1,0 +1,34 @@
+{
+  "simplified": "悸动",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jì dòng",
+          "wade_giles_pinyin": "ji4 dong4"
+        }
+      ],
+      "simplified": "悸动",
+      "simplified_stroke_count": null,
+      "traditional": "悸動",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to pound"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to throb"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

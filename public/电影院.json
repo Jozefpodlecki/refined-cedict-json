@@ -1,0 +1,36 @@
+{
+  "simplified": "电影院",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diàn yǐng yuàn",
+          "wade_giles_pinyin": "dian4 ying3 yuan4"
+        }
+      ],
+      "simplified": "电影院",
+      "traditional": "電影院",
+      "meanings": [
+        {
+          "value": "cinema"
+        },
+        {
+          "value": "movie theater"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "家",
+          "traditional": "",
+          "wade_giles_pinyin": "jia1"
+        },
+        {
+          "simplified": "座",
+          "traditional": "",
+          "wade_giles_pinyin": "zuo4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

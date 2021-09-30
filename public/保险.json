@@ -1,0 +1,45 @@
+{
+  "simplified": "保险",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǎo xiǎn",
+          "wade_giles_pinyin": "bao3 xian3"
+        }
+      ],
+      "simplified": "保险",
+      "traditional": "保險",
+      "meanings": [
+        {
+          "value": "insurance"
+        },
+        {
+          "value": "to insure"
+        },
+        {
+          "value": "safe"
+        },
+        {
+          "value": "secure"
+        },
+        {
+          "value": "be sure"
+        },
+        {
+          "value": "be bound to"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "份",
+          "traditional": "",
+          "wade_giles_pinyin": "fen4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

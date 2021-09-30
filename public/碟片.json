@@ -1,0 +1,28 @@
+{
+  "simplified": "碟片",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dié piàn",
+          "wade_giles_pinyin": "die2 pian4"
+        }
+      ],
+      "simplified": "碟片",
+      "traditional": "碟片",
+      "meanings": [
+        {
+          "value": "disc"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "張",
+          "traditional": "张",
+          "wade_giles_pinyin": "zhang1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "露面",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " lòu miàn",
+          "wade_giles_pinyin": "lou4 mian4"
+        }
+      ],
+      "simplified": "露面",
+      "simplified_stroke_count": 0,
+      "traditional": "露面",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to show one's face"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to appear (in public)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

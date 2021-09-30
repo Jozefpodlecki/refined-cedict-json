@@ -1,0 +1,30 @@
+{
+  "simplified": "打断",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dǎ duàn",
+          "wade_giles_pinyin": "da3 duan4"
+        }
+      ],
+      "simplified": "打断",
+      "traditional": "打斷",
+      "meanings": [
+        {
+          "value": "to interrupt"
+        },
+        {
+          "value": "to break off"
+        },
+        {
+          "value": "to break (a bone)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

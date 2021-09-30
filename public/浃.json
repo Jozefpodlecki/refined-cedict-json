@@ -1,0 +1,36 @@
+{
+  "simplified": "浃",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiā",
+          "wade_giles_pinyin": "jia1"
+        }
+      ],
+      "simplified": "浃",
+      "simplified_stroke_count": 9,
+      "traditional": "浹",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "soaked"
+        },
+        {
+          "value": "to wet"
+        },
+        {
+          "value": "to drench"
+        },
+        {
+          "value": "Taiwan pr. [jia2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

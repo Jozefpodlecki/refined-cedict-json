@@ -1,0 +1,39 @@
+{
+  "simplified": "得令",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dé lìng",
+          "wade_giles_pinyin": "de2 ling4"
+        }
+      ],
+      "simplified": "得令",
+      "simplified_stroke_count": 0,
+      "traditional": "得令",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to follow your orders"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "roger!"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "yessir!"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

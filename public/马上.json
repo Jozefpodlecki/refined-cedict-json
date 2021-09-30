@@ -1,0 +1,33 @@
+{
+  "simplified": "马上",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mǎ shàng",
+          "wade_giles_pinyin": "ma3 shang4"
+        }
+      ],
+      "simplified": "马上",
+      "traditional": "馬上",
+      "meanings": [
+        {
+          "value": "at once"
+        },
+        {
+          "value": "right away"
+        },
+        {
+          "value": "immediately"
+        },
+        {
+          "value": "on horseback (i.e. by military force)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "adverb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "simplified": "黔",
+  "simplified_stroke_count": 16,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qián",
+          "wade_giles_pinyin": "Qian2"
+        }
+      ],
+      "simplified": "黔",
+      "simplified_stroke_count": 16,
+      "traditional": "黔",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "value": "Guizhou province 貴州|贵州[Gui4 zhou1]",
+          "simplified": "G",
+          "traditional": "uizhou province 貴州|贵州",
+          "wade_giles_pinyin": "Gui4 zhou1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

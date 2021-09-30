@@ -1,0 +1,32 @@
+{
+  "simplified": "掍",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hùn",
+          "wade_giles_pinyin": "hun4"
+        }
+      ],
+      "simplified": "掍",
+      "simplified_stroke_count": 11,
+      "traditional": "掍",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "edging (of a dress etc)"
+        },
+        {
+          "context": "old variant",
+          "value": "old variant of 混[hun4]",
+          "simplified": "混",
+          "traditional": "",
+          "wade_giles_pinyin": "hun4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

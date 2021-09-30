@@ -1,0 +1,34 @@
+{
+  "simplified": "开市",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " kāi shì",
+          "wade_giles_pinyin": "kai1 shi4"
+        }
+      ],
+      "simplified": "开市",
+      "simplified_stroke_count": 0,
+      "traditional": "開市",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(of a store, stock market etc) to open for trading"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to make the first transaction of the day"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

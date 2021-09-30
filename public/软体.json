@@ -1,0 +1,32 @@
+{
+  "simplified": "软体",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " ruǎn tǐ",
+          "wade_giles_pinyin": "ruan3 ti3"
+        }
+      ],
+      "simplified": "软体",
+      "simplified_stroke_count": 0,
+      "traditional": "軟體",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "taiwan",
+          "lexical_item": "",
+          "value": "software"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "soft-bodied (animal)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

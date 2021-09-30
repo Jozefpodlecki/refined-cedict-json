@@ -1,0 +1,25 @@
+{
+  "simplified": "电脑语言",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diàn nǎo yǔ yán",
+          "wade_giles_pinyin": "dian4 nao3 yu3 yan2"
+        }
+      ],
+      "simplified": "电脑语言",
+      "traditional": "電腦語言",
+      "meanings": [
+        {
+          "value": "programming language"
+        },
+        {
+          "value": "computer language"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

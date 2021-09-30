@@ -1,0 +1,32 @@
+{
+  "simplified": "煰",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zào",
+          "wade_giles_pinyin": "zao4"
+        }
+      ],
+      "simplified": "煰",
+      "simplified_stroke_count": 13,
+      "traditional": "煰",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 燥[zao4]",
+          "simplified": "燥",
+          "traditional": "",
+          "wade_giles_pinyin": "zao4"
+        },
+        {
+          "value": "dry"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

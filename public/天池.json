@@ -1,0 +1,42 @@
+{
+  "simplified": "天池",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tiān chí",
+          "wade_giles_pinyin": "Tian1 chi2"
+        }
+      ],
+      "simplified": "天池",
+      "traditional": "天池",
+      "meanings": [
+        {
+          "value": "Lake Tianchi in Xinjiang"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tiān chí",
+          "wade_giles_pinyin": "tian1 chi2"
+        }
+      ],
+      "simplified": "天池",
+      "traditional": "天池",
+      "meanings": [
+        {
+          "value": "\"heavenly lake\", lake situated on a mountain"
+        },
+        {
+          "value": "used as the name of numerous lakes, such as 長白山天池|长白山天池[Chang2 bai2 shan1 Tian1 chi2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

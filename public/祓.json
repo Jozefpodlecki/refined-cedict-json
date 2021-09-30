@@ -1,0 +1,33 @@
+{
+  "simplified": "祓",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fú",
+          "wade_giles_pinyin": "fu2"
+        }
+      ],
+      "simplified": "祓",
+      "simplified_stroke_count": 10,
+      "traditional": "祓",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "to cleanse"
+        },
+        {
+          "value": "to remove evil"
+        },
+        {
+          "value": "ritual for seeking good fortune and avoiding disaster"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

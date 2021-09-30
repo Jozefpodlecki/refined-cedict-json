@@ -1,0 +1,47 @@
+{
+  "simplified": "武",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wǔ",
+          "wade_giles_pinyin": "Wu3"
+        }
+      ],
+      "simplified": "武",
+      "simplified_stroke_count": 8,
+      "traditional": "武",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "surname Wu"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wǔ",
+          "wade_giles_pinyin": "wu3"
+        }
+      ],
+      "simplified": "武",
+      "simplified_stroke_count": 8,
+      "traditional": "武",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "martial"
+        },
+        {
+          "value": "military"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

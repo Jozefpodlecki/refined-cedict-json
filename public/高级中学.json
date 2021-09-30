@@ -1,0 +1,26 @@
+{
+  "simplified": "高级中学",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gāo jí zhōng xué",
+          "wade_giles_pinyin": "gao1 ji2 zhong1 xue2"
+        }
+      ],
+      "simplified": "高级中学",
+      "traditional": "高級中學",
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "value": "abbr. to 高中[gao1 zhong1]",
+          "simplified": "a",
+          "traditional": "bbr. to 高中",
+          "wade_giles_pinyin": "gao1 zhong1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

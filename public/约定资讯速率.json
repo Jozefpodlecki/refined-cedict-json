@@ -1,0 +1,25 @@
+{
+  "simplified": "约定资讯速率",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yuē dìng zī xùn sù lǜ",
+          "wade_giles_pinyin": "yue1 ding4 zi1 xun4 su4 lu:4"
+        }
+      ],
+      "simplified": "约定资讯速率",
+      "traditional": "約定資訊速率",
+      "meanings": [
+        {
+          "value": "committed information rate (Frame Relay)"
+        },
+        {
+          "value": "CIR"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

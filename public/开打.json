@@ -1,0 +1,36 @@
+{
+  "simplified": "开打",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kāi dǎ",
+          "wade_giles_pinyin": "kai1 da3"
+        }
+      ],
+      "simplified": "开打",
+      "traditional": "開打",
+      "meanings": [
+        {
+          "value": "(of a sports competition or match) to commence"
+        },
+        {
+          "value": "(of a war or battle) to break out"
+        },
+        {
+          "value": "to perform acrobatic or choreographed fighting (in Chinese opera)"
+        },
+        {
+          "value": "to brawl"
+        },
+        {
+          "value": "to come to blows"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "simplified": "剧院",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jù yuàn",
+          "wade_giles_pinyin": "ju4 yuan4"
+        }
+      ],
+      "simplified": "剧院",
+      "traditional": "劇院",
+      "meanings": [
+        {
+          "value": "theater"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "家",
+          "traditional": "",
+          "wade_giles_pinyin": "jia1"
+        },
+        {
+          "simplified": "座",
+          "traditional": "",
+          "wade_giles_pinyin": "zuo4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

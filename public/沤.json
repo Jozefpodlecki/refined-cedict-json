@@ -1,0 +1,54 @@
+{
+  "simplified": "沤",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ōu",
+          "wade_giles_pinyin": "ou1"
+        }
+      ],
+      "simplified": "沤",
+      "simplified_stroke_count": 7,
+      "traditional": "漚",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "bubble"
+        },
+        {
+          "value": "froth"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "òu",
+          "wade_giles_pinyin": "ou4"
+        }
+      ],
+      "simplified": "沤",
+      "simplified_stroke_count": 7,
+      "traditional": "漚",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "to steep"
+        },
+        {
+          "value": "to macerate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

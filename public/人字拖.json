@@ -1,0 +1,29 @@
+{
+  "simplified": "人字拖",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rén zì tuō",
+          "wade_giles_pinyin": "ren2 zi4 tuo1"
+        }
+      ],
+      "simplified": "人字拖",
+      "traditional": "人字拖",
+      "meanings": [
+        {
+          "value": "flip-flops"
+        },
+        {
+          "context": "abbreviation",
+          "value": "人字拖鞋[ren2 zi4 tuo1 xie2]",
+          "simplified": "人",
+          "traditional": "字拖鞋",
+          "wade_giles_pinyin": "ren2 zi4 tuo1 xie2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

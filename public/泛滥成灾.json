@@ -1,0 +1,30 @@
+{
+  "simplified": "泛滥成灾",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fàn làn chéng zāi",
+          "wade_giles_pinyin": "fan4 lan4 cheng2 zai1"
+        }
+      ],
+      "simplified": "泛滥成灾",
+      "traditional": "泛濫成災",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "to flood"
+        },
+        {
+          "value": "fig. rampant"
+        },
+        {
+          "value": "in plague proportions"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

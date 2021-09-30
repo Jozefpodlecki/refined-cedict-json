@@ -1,0 +1,27 @@
+{
+  "simplified": "铸",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhù",
+          "wade_giles_pinyin": "zhu4"
+        }
+      ],
+      "simplified": "铸",
+      "simplified_stroke_count": 12,
+      "traditional": "鑄",
+      "traditional_stroke_count": 22,
+      "meanings": [
+        {
+          "value": "to cast or found metals"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

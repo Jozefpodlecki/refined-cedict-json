@@ -1,0 +1,30 @@
+{
+  "simplified": "缝合",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "féng hé",
+          "wade_giles_pinyin": "feng2 he2"
+        }
+      ],
+      "simplified": "缝合",
+      "traditional": "縫合",
+      "meanings": [
+        {
+          "value": "to sew together"
+        },
+        {
+          "value": "suture (in surgery)"
+        },
+        {
+          "value": "to sew up (a wound)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

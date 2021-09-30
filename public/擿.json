@@ -1,0 +1,61 @@
+{
+  "simplified": "擿",
+  "simplified_stroke_count": 18,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tī",
+          "wade_giles_pinyin": "ti1"
+        }
+      ],
+      "simplified": "擿",
+      "simplified_stroke_count": 18,
+      "traditional": "擿",
+      "traditional_stroke_count": 18,
+      "meanings": [
+        {
+          "value": "to select"
+        },
+        {
+          "value": "to nitpick"
+        },
+        {
+          "value": "to expose"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhì",
+          "wade_giles_pinyin": "zhi4"
+        }
+      ],
+      "simplified": "擿",
+      "simplified_stroke_count": 18,
+      "traditional": "擿",
+      "traditional_stroke_count": 18,
+      "meanings": [
+        {
+          "value": "to scratch"
+        },
+        {
+          "context": "old variant",
+          "value": "old variant of 擲|掷[zhi4]",
+          "simplified": "擲",
+          "traditional": "掷",
+          "wade_giles_pinyin": "zhi4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

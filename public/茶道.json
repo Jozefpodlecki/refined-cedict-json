@@ -1,0 +1,26 @@
+{
+  "simplified": "茶道",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chá dào",
+          "wade_giles_pinyin": "cha2 dao4"
+        }
+      ],
+      "simplified": "茶道",
+      "traditional": "茶道",
+      "meanings": [
+        {
+          "context": "Japanese",
+          "value": "Japanese tea ceremony"
+        },
+        {
+          "value": "sado"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

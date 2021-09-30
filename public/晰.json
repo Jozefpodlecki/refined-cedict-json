@@ -1,0 +1,84 @@
+{
+  "simplified": "晰",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xī",
+          "wade_giles_pinyin": "xi1"
+        }
+      ],
+      "simplified": "晰",
+      "simplified_stroke_count": 12,
+      "traditional": "晰",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "clear"
+        },
+        {
+          "value": "distinct"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xī",
+          "wade_giles_pinyin": "xi1"
+        }
+      ],
+      "simplified": "晰",
+      "simplified_stroke_count": 12,
+      "traditional": "晳",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 晰[xi1]",
+          "simplified": "晰",
+          "traditional": "",
+          "wade_giles_pinyin": "xi1"
+        },
+        {
+          "context": "variant",
+          "value": "variant of 皙|晰[xi1]",
+          "simplified": "皙",
+          "traditional": "晰",
+          "wade_giles_pinyin": "xi1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xī",
+          "wade_giles_pinyin": "xi1"
+        }
+      ],
+      "simplified": "晰",
+      "simplified_stroke_count": 12,
+      "traditional": "皙",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "white"
+        },
+        {
+          "context": "variant",
+          "value": "variant of 晰[xi1]",
+          "simplified": "晰",
+          "traditional": "",
+          "wade_giles_pinyin": "xi1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "牙齿",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yá chǐ",
+          "wade_giles_pinyin": "ya2 chi3"
+        }
+      ],
+      "simplified": "牙齿",
+      "traditional": "牙齒",
+      "meanings": [
+        {
+          "value": "tooth"
+        },
+        {
+          "value": "dental"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "顆",
+          "traditional": "颗",
+          "wade_giles_pinyin": "ke1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "特色",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tè sè",
+          "wade_giles_pinyin": "te4 se4"
+        }
+      ],
+      "simplified": "特色",
+      "simplified_stroke_count": null,
+      "traditional": "特色",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "characteristic"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "distinguishing feature or quality"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

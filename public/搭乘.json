@@ -1,0 +1,27 @@
+{
+  "simplified": "搭乘",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dā chéng",
+          "wade_giles_pinyin": "da1 cheng2"
+        }
+      ],
+      "simplified": "搭乘",
+      "traditional": "搭乘",
+      "meanings": [
+        {
+          "value": "to ride as a passenger"
+        },
+        {
+          "value": "to travel by (car, plane etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

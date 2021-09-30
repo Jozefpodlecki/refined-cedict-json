@@ -1,0 +1,50 @@
+{
+  "simplified": "蓬",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "péng",
+          "wade_giles_pinyin": "Peng2"
+        }
+      ],
+      "simplified": "蓬",
+      "simplified_stroke_count": 13,
+      "traditional": "蓬",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "surname Peng"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "péng",
+          "wade_giles_pinyin": "peng2"
+        }
+      ],
+      "simplified": "蓬",
+      "simplified_stroke_count": 13,
+      "traditional": "蓬",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "fleabane (family Asteraceae)"
+        },
+        {
+          "value": "disheveled"
+        },
+        {
+          "value": "classifier for luxuriant plants, smoke, ashes, campfires: clump, puff"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

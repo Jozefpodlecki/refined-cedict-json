@@ -1,0 +1,48 @@
+{
+  "simplified": "扑",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pū",
+          "wade_giles_pinyin": "pu1"
+        }
+      ],
+      "simplified": "扑",
+      "simplified_stroke_count": 5,
+      "traditional": "撲",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "to throw oneself at"
+        },
+        {
+          "value": "to pounce on"
+        },
+        {
+          "value": "to devote one's energies"
+        },
+        {
+          "value": "to flap"
+        },
+        {
+          "value": "to flutter"
+        },
+        {
+          "value": "to dab"
+        },
+        {
+          "value": "to pat"
+        },
+        {
+          "value": "to bend over"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "发行",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fā xíng",
+          "wade_giles_pinyin": "fa1 xing2"
+        }
+      ],
+      "simplified": "发行",
+      "simplified_stroke_count": null,
+      "traditional": "發行",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to publish"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to issue (stocks, currency etc)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to release"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to distribute (a film)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

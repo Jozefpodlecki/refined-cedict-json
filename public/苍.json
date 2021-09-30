@@ -1,0 +1,50 @@
+{
+  "simplified": "苍",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cāng",
+          "wade_giles_pinyin": "Cang1"
+        }
+      ],
+      "simplified": "苍",
+      "simplified_stroke_count": 8,
+      "traditional": "蒼",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "surname Cang"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cāng",
+          "wade_giles_pinyin": "cang1"
+        }
+      ],
+      "simplified": "苍",
+      "simplified_stroke_count": 8,
+      "traditional": "蒼",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "dark blue"
+        },
+        {
+          "value": "deep green"
+        },
+        {
+          "value": "ash-gray"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

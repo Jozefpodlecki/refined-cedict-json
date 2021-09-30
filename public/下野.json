@@ -1,0 +1,34 @@
+{
+  "simplified": "下野",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xià yě",
+          "wade_giles_pinyin": "xia4 ye3"
+        }
+      ],
+      "simplified": "下野",
+      "simplified_stroke_count": 0,
+      "traditional": "下野",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to step down from office"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to go into opposition"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "simplified": "纳",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nà",
+          "wade_giles_pinyin": "Na4"
+        }
+      ],
+      "simplified": "纳",
+      "simplified_stroke_count": 7,
+      "traditional": "納",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "surname Na"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nà",
+          "wade_giles_pinyin": "na4"
+        }
+      ],
+      "simplified": "纳",
+      "simplified_stroke_count": 7,
+      "traditional": "納",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "to receive"
+        },
+        {
+          "value": "to accept"
+        },
+        {
+          "value": "to enjoy"
+        },
+        {
+          "value": "to bring into"
+        },
+        {
+          "value": "to pay (tax etc)"
+        },
+        {
+          "value": "nano- (one billionth)"
+        },
+        {
+          "value": "to reinforce sole of shoes or stockings by close sewing"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

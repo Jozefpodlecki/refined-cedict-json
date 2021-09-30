@@ -1,0 +1,43 @@
+{
+  "simplified": "牛奶",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " niú nǎi",
+          "wade_giles_pinyin": "niu2 nai3"
+        }
+      ],
+      "simplified": "牛奶",
+      "simplified_stroke_count": 0,
+      "traditional": "牛奶",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "cow's milk"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:瓶[ping2],杯[bei1]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "瓶",
+          "traditional": "",
+          "wade_giles_pinyin": "ping2"
+        },
+        {
+          "simplified": "杯",
+          "traditional": "",
+          "wade_giles_pinyin": "bei1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "simplified": "收回",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shōu huí",
+          "wade_giles_pinyin": "shou1 hui2"
+        }
+      ],
+      "simplified": "收回",
+      "traditional": "收回",
+      "meanings": [
+        {
+          "value": "to regain"
+        },
+        {
+          "value": "to retake"
+        },
+        {
+          "value": "to take back"
+        },
+        {
+          "value": "to withdraw"
+        },
+        {
+          "value": "to revoke"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

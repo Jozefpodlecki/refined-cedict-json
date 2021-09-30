@@ -1,0 +1,71 @@
+{
+  "simplified": "差使",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chāi shǐ",
+          "wade_giles_pinyin": "chai1 shi3"
+        }
+      ],
+      "simplified": "差使",
+      "traditional": "差使",
+      "meanings": [
+        {
+          "value": "to send"
+        },
+        {
+          "value": "to assign"
+        },
+        {
+          "value": "to appoint"
+        },
+        {
+          "value": "servants of an official"
+        },
+        {
+          "value": "official messenger"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chāi shi",
+          "wade_giles_pinyin": "chai1 shi5"
+        }
+      ],
+      "simplified": "差使",
+      "traditional": "差使",
+      "meanings": [
+        {
+          "value": "official post"
+        },
+        {
+          "value": "billet"
+        },
+        {
+          "value": "commission"
+        },
+        {
+          "context": "see also",
+          "value": "差事[chai1 shi5]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "件",
+          "traditional": "",
+          "wade_giles_pinyin": "jian4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

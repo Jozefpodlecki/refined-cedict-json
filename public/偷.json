@@ -1,0 +1,49 @@
+{
+  "simplified": "偷",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tōu",
+          "wade_giles_pinyin": "tou1"
+        }
+      ],
+      "simplified": "偷",
+      "simplified_stroke_count": 11,
+      "traditional": "偷",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to steal"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to pilfer"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to snatch"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "thief"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "stealthily"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

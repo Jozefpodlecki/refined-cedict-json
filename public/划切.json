@@ -1,0 +1,34 @@
+{
+  "simplified": "划切",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " huá qiè",
+          "wade_giles_pinyin": "hua2 qie4"
+        }
+      ],
+      "simplified": "划切",
+      "simplified_stroke_count": 0,
+      "traditional": "劃切",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to slice"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to dice"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

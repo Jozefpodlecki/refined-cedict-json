@@ -1,0 +1,28 @@
+{
+  "simplified": "领主",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lǐng zhǔ",
+          "wade_giles_pinyin": "ling3 zhu3"
+        }
+      ],
+      "simplified": "领主",
+      "traditional": "領主",
+      "meanings": [
+        {
+          "value": "feudal lord"
+        },
+        {
+          "value": "suzerain"
+        },
+        {
+          "value": "overlord"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

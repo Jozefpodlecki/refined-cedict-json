@@ -1,0 +1,30 @@
+{
+  "simplified": "蠕动",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rú dòng",
+          "wade_giles_pinyin": "ru2 dong4"
+        }
+      ],
+      "simplified": "蠕动",
+      "traditional": "蠕動",
+      "meanings": [
+        {
+          "value": "to wiggle"
+        },
+        {
+          "value": "to squirm"
+        },
+        {
+          "value": "peristalsis (wave movement of gut wall)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

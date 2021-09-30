@@ -1,0 +1,30 @@
+{
+  "simplified": "镌",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "juān",
+          "wade_giles_pinyin": "juan1"
+        }
+      ],
+      "simplified": "镌",
+      "simplified_stroke_count": 15,
+      "traditional": "鐫",
+      "traditional_stroke_count": 21,
+      "meanings": [
+        {
+          "value": "to engrave (on wood or stone)"
+        },
+        {
+          "value": "to inscribe"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

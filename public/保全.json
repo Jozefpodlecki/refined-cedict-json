@@ -1,0 +1,37 @@
+{
+  "simplified": "保全",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǎo quán",
+          "wade_giles_pinyin": "bao3 quan2"
+        }
+      ],
+      "simplified": "保全",
+      "traditional": "保全",
+      "meanings": [
+        {
+          "value": "to save from damage"
+        },
+        {
+          "value": "to preserve"
+        },
+        {
+          "value": "to maintain"
+        },
+        {
+          "value": "to keep in good repair"
+        },
+        {
+          "context": "taiwan",
+          "value": "security guard"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

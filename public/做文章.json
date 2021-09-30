@@ -1,0 +1,30 @@
+{
+  "simplified": "做文章",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zuò wén zhāng",
+          "wade_giles_pinyin": "zuo4 wen2 zhang1"
+        }
+      ],
+      "simplified": "做文章",
+      "traditional": "做文章",
+      "meanings": [
+        {
+          "value": "to make an issue of sth"
+        },
+        {
+          "value": "to fuss"
+        },
+        {
+          "value": "to make a song and dance"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

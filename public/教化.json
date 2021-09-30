@@ -1,0 +1,33 @@
+{
+  "simplified": "教化",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiào huà",
+          "wade_giles_pinyin": "jiao4 hua4"
+        }
+      ],
+      "simplified": "教化",
+      "traditional": "教化",
+      "meanings": [
+        {
+          "value": "to enlighten"
+        },
+        {
+          "value": "to civilize"
+        },
+        {
+          "value": "to indoctrinate"
+        },
+        {
+          "value": "to train (an animal)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

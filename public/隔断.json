@@ -1,0 +1,30 @@
+{
+  "simplified": "隔断",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gé duàn",
+          "wade_giles_pinyin": "ge2 duan4"
+        }
+      ],
+      "simplified": "隔断",
+      "traditional": "隔斷",
+      "meanings": [
+        {
+          "value": "partition"
+        },
+        {
+          "value": "to stand between"
+        },
+        {
+          "value": "wall or fence serving as partition"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "simplified": "坟",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fén",
+          "wade_giles_pinyin": "fen2"
+        }
+      ],
+      "simplified": "坟",
+      "simplified_stroke_count": 7,
+      "traditional": "墳",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "grave"
+        },
+        {
+          "value": "tomb"
+        },
+        {
+          "value": "embankment"
+        },
+        {
+          "value": "mound"
+        },
+        {
+          "value": "ancient book"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "座",
+          "traditional": "",
+          "wade_giles_pinyin": "zuo4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

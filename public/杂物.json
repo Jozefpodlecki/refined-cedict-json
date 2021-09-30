@@ -1,0 +1,28 @@
+{
+  "simplified": "杂物",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zá wù",
+          "wade_giles_pinyin": "za2 wu4"
+        }
+      ],
+      "simplified": "杂物",
+      "traditional": "雜物",
+      "meanings": [
+        {
+          "value": "junk"
+        },
+        {
+          "value": "items of no value"
+        },
+        {
+          "value": "various bits and bobs"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "交易",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiāo yì",
+          "wade_giles_pinyin": "jiao1 yi4"
+        }
+      ],
+      "simplified": "交易",
+      "traditional": "交易",
+      "meanings": [
+        {
+          "value": "(business) transaction"
+        },
+        {
+          "value": "business deal"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "筆",
+          "traditional": "笔",
+          "wade_giles_pinyin": "bi3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

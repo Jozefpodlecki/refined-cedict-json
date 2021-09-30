@@ -1,0 +1,42 @@
+{
+  "simplified": "指针",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhǐ zhēn",
+          "wade_giles_pinyin": "zhi3 zhen1"
+        }
+      ],
+      "simplified": "指针",
+      "simplified_stroke_count": 0,
+      "traditional": "指針",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "pointer on a gauge"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "clock hand"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "cursor"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(computing) pointer"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

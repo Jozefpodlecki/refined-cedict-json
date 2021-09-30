@@ -1,0 +1,54 @@
+{
+  "simplified": "竟然",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jìng rán",
+          "wade_giles_pinyin": "jing4 ran2"
+        }
+      ],
+      "simplified": "竟然",
+      "simplified_stroke_count": null,
+      "traditional": "竟然",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "unexpectedly"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to one's surprise"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "in spite of everything"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "in that crazy way"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "actually"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to go as far as to"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "simplified": "牙托",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yá tuō",
+          "wade_giles_pinyin": "ya2 tuo1"
+        }
+      ],
+      "simplified": "牙托",
+      "traditional": "牙托",
+      "meanings": [
+        {
+          "value": "mouthguard"
+        },
+        {
+          "value": "occlusal splint"
+        },
+        {
+          "value": "dental impression tray"
+        },
+        {
+          "value": "orthodontic plate"
+        },
+        {
+          "value": "denture base"
+        },
+        {
+          "value": "denture"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

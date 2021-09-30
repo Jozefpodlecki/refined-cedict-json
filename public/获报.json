@@ -1,0 +1,27 @@
+{
+  "simplified": "获报",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huò bào",
+          "wade_giles_pinyin": "huo4 bao4"
+        }
+      ],
+      "simplified": "获报",
+      "traditional": "獲報",
+      "meanings": [
+        {
+          "value": "to receive a report"
+        },
+        {
+          "value": "to receive intelligence, information etc"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "哂",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shěn",
+          "wade_giles_pinyin": "shen3"
+        }
+      ],
+      "simplified": "哂",
+      "simplified_stroke_count": 9,
+      "traditional": "哂",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(literary) to smile"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to sneer"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "simplified": "免",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "miǎn",
+          "wade_giles_pinyin": "mian3"
+        }
+      ],
+      "simplified": "免",
+      "simplified_stroke_count": 0,
+      "traditional": "免",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "value": "to excuse sb"
+        },
+        {
+          "value": "to exempt"
+        },
+        {
+          "value": "to remove or dismiss from office"
+        },
+        {
+          "value": "to avoid"
+        },
+        {
+          "value": "to avert"
+        },
+        {
+          "value": "to escape"
+        },
+        {
+          "value": "to be prohibited"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wèn",
+          "wade_giles_pinyin": "wen4"
+        }
+      ],
+      "simplified": "免",
+      "simplified_stroke_count": 0,
+      "traditional": "免",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 絻[wen4]",
+          "simplified": "絻",
+          "traditional": "",
+          "wade_giles_pinyin": "wen4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

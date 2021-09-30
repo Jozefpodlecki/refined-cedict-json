@@ -1,0 +1,37 @@
+{
+  "simplified": "畜牧业",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xù mù yè",
+          "wade_giles_pinyin": "xu4 mu4 ye4"
+        }
+      ],
+      "simplified": "畜牧业",
+      "simplified_stroke_count": 0,
+      "traditional": "畜牧業",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "animal husbandry"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "stock raising"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "livestock raising"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

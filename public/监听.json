@@ -1,0 +1,39 @@
+{
+  "simplified": "监听",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jiān tīng",
+          "wade_giles_pinyin": "jian1 ting1"
+        }
+      ],
+      "simplified": "监听",
+      "simplified_stroke_count": 0,
+      "traditional": "監聽",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to monitor"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to listen in"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to eavesdrop"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

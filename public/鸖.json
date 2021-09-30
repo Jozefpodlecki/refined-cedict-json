@@ -1,0 +1,29 @@
+{
+  "simplified": "鸖",
+  "simplified_stroke_count": 27,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hè",
+          "wade_giles_pinyin": "he4"
+        }
+      ],
+      "simplified": "鸖",
+      "simplified_stroke_count": 27,
+      "traditional": "鸖",
+      "traditional_stroke_count": 27,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 鶴|鹤[he4]",
+          "simplified": "鶴",
+          "traditional": "鹤",
+          "wade_giles_pinyin": "he4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

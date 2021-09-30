@@ -1,0 +1,28 @@
+{
+  "simplified": "鬼叫",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guǐ jiào",
+          "wade_giles_pinyin": "gui3 jiao4"
+        }
+      ],
+      "simplified": "鬼叫",
+      "traditional": "鬼叫",
+      "meanings": [
+        {
+          "context": "colloquial",
+          "value": "to holler"
+        },
+        {
+          "value": "to squawk"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

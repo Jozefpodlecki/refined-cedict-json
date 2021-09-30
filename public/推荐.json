@@ -1,0 +1,27 @@
+{
+  "simplified": "推荐",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tuī jiàn",
+          "wade_giles_pinyin": "tui1 jian4"
+        }
+      ],
+      "simplified": "推荐",
+      "traditional": "推薦",
+      "meanings": [
+        {
+          "value": "to recommend"
+        },
+        {
+          "value": "recommendation"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

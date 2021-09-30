@@ -1,0 +1,34 @@
+{
+  "simplified": "布建",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bù jiàn",
+          "wade_giles_pinyin": "bu4 jian4"
+        }
+      ],
+      "simplified": "布建",
+      "simplified_stroke_count": null,
+      "traditional": "佈建",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to progressively extend (service delivery, network etc) to a wider area"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "rollout"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

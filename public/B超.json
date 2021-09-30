@@ -1,0 +1,32 @@
+{
+  "simplified": "B超",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " b chāo",
+          "wade_giles_pinyin": "B chao1"
+        }
+      ],
+      "simplified": "B超",
+      "traditional": "B超",
+      "meanings": [
+        {
+          "value": "B-mode ultrasonography"
+        },
+        {
+          "value": "prenatal ultrasound scan"
+        },
+        {
+          "context": "abbreviation",
+          "value": "B型超聲|B型超声[B xing2 chao1 sheng1]",
+          "simplified": "B",
+          "traditional": "型超聲|B型超声",
+          "wade_giles_pinyin": "B xing2 chao1 sheng1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

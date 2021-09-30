@@ -1,0 +1,57 @@
+{
+  "simplified": "排",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pái",
+          "wade_giles_pinyin": "pai2"
+        }
+      ],
+      "simplified": "排",
+      "simplified_stroke_count": 11,
+      "traditional": "排",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "a row"
+        },
+        {
+          "value": "a line"
+        },
+        {
+          "value": "to set in order"
+        },
+        {
+          "value": "to arrange"
+        },
+        {
+          "value": "to line up"
+        },
+        {
+          "value": "to eliminate"
+        },
+        {
+          "value": "to drain"
+        },
+        {
+          "value": "to push open"
+        },
+        {
+          "value": "platoon"
+        },
+        {
+          "value": "raft"
+        },
+        {
+          "value": "classifier for lines, rows etc"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

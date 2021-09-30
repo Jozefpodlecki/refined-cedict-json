@@ -1,0 +1,45 @@
+{
+  "simplified": "背着",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bēi zhe",
+          "wade_giles_pinyin": "bei1 zhe5"
+        }
+      ],
+      "simplified": "背着",
+      "traditional": "背著",
+      "meanings": [
+        {
+          "value": "carrying on one's back"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bèi zhe",
+          "wade_giles_pinyin": "bei4 zhe5"
+        }
+      ],
+      "simplified": "背着",
+      "traditional": "背著",
+      "meanings": [
+        {
+          "value": "turning one's back to (sth or sb)"
+        },
+        {
+          "value": "keeping sth secret from (sb)"
+        },
+        {
+          "value": "keeping (one's hands) behind one's back"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

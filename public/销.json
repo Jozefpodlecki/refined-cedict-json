@@ -1,0 +1,54 @@
+{
+  "simplified": "销",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xiāo",
+          "wade_giles_pinyin": "xiao1"
+        }
+      ],
+      "simplified": "销",
+      "simplified_stroke_count": 12,
+      "traditional": "銷",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to melt (metal)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to cancel or annul"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to sell"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to spend"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to fasten with a bolt"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "bolt or pin"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

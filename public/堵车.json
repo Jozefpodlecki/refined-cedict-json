@@ -1,0 +1,25 @@
+{
+  "simplified": "堵车",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dǔ chē",
+          "wade_giles_pinyin": "du3 che1"
+        }
+      ],
+      "simplified": "堵车",
+      "traditional": "堵車",
+      "meanings": [
+        {
+          "value": "traffic jam"
+        },
+        {
+          "value": "(of traffic) to get congested"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

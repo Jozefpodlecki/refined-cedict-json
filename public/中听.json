@@ -1,0 +1,33 @@
+{
+  "simplified": "中听",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhōng tīng",
+          "wade_giles_pinyin": "zhong1 ting1"
+        }
+      ],
+      "simplified": "中听",
+      "traditional": "中聽",
+      "meanings": [
+        {
+          "value": "pleasant to hear (i.e. agreeable news)"
+        },
+        {
+          "value": "to one's liking"
+        },
+        {
+          "value": "music to one's ears"
+        },
+        {
+          "value": "Taiwan pr. [zhong4 ting1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

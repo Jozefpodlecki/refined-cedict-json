@@ -1,0 +1,50 @@
+{
+  "simplified": "估计",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " gū jì",
+          "wade_giles_pinyin": "gu1 ji4"
+        }
+      ],
+      "simplified": "估计",
+      "simplified_stroke_count": 0,
+      "traditional": "估計",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to estimate"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to reckon"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:個|个[ge4]"
+        },
+        {
+          "context": "colloquial",
+          "lexical_item": "",
+          "value": "to suppose"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

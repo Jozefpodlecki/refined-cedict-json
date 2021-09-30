@@ -1,0 +1,28 @@
+{
+  "simplified": "客车",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kè chē",
+          "wade_giles_pinyin": "ke4 che1"
+        }
+      ],
+      "simplified": "客车",
+      "traditional": "客車",
+      "meanings": [
+        {
+          "value": "coach"
+        },
+        {
+          "value": "bus"
+        },
+        {
+          "value": "passenger train"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

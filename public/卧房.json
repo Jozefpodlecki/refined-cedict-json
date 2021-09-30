@@ -1,0 +1,32 @@
+{
+  "simplified": "卧房",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " wò fáng",
+          "wade_giles_pinyin": "wo4 fang2"
+        }
+      ],
+      "simplified": "卧房",
+      "simplified_stroke_count": 0,
+      "traditional": "臥房",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "bedroom"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "a sleeping compartment (on a train)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

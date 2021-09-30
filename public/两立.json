@@ -1,0 +1,34 @@
+{
+  "simplified": "两立",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "liǎng lì",
+          "wade_giles_pinyin": "liang3 li4"
+        }
+      ],
+      "simplified": "两立",
+      "simplified_stroke_count": null,
+      "traditional": "兩立",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to coexist"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "coexistence"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

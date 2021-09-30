@@ -1,0 +1,31 @@
+{
+  "simplified": "翔",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiáng",
+          "wade_giles_pinyin": "xiang2"
+        }
+      ],
+      "simplified": "翔",
+      "simplified_stroke_count": 12,
+      "traditional": "翔",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 詳|详[xiang2]",
+          "simplified": "詳",
+          "traditional": "详",
+          "wade_giles_pinyin": "xiang2"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

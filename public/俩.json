@@ -1,0 +1,37 @@
+{
+  "simplified": "俩",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " liǎ",
+          "wade_giles_pinyin": "lia3"
+        }
+      ],
+      "simplified": "俩",
+      "simplified_stroke_count": 9,
+      "traditional": "倆",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "two (colloquial equivalent of 兩個|两个)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "both"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "some"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "simplified": "文面",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wén miàn",
+          "wade_giles_pinyin": "wen2 mian4"
+        }
+      ],
+      "simplified": "文面",
+      "traditional": "文面",
+      "meanings": [
+        {
+          "value": "to tattoo the face"
+        },
+        {
+          "value": "face tattoo"
+        },
+        {
+          "value": "to brand (ancient punishment)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "密码电报",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " mì mǎ diàn bào",
+          "wade_giles_pinyin": "mi4 ma3 dian4 bao4"
+        }
+      ],
+      "simplified": "密码电报",
+      "simplified_stroke_count": 0,
+      "traditional": "密碼電報",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "coded telegram"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "ciphered cable"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

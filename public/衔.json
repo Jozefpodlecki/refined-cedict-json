@@ -1,0 +1,95 @@
+{
+  "simplified": "衔",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xián",
+          "wade_giles_pinyin": "xian2"
+        }
+      ],
+      "simplified": "衔",
+      "simplified_stroke_count": 11,
+      "traditional": "啣",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 銜|衔[xian2]",
+          "simplified": "銜",
+          "traditional": "衔",
+          "wade_giles_pinyin": "xian2"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xián",
+          "wade_giles_pinyin": "xian2"
+        }
+      ],
+      "simplified": "衔",
+      "simplified_stroke_count": 11,
+      "traditional": "衘",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 銜|衔[xian2]",
+          "simplified": "銜",
+          "traditional": "衔",
+          "wade_giles_pinyin": "xian2"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xián",
+          "wade_giles_pinyin": "xian2"
+        }
+      ],
+      "simplified": "衔",
+      "simplified_stroke_count": 11,
+      "traditional": "銜",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "bit (of a bridle)"
+        },
+        {
+          "value": "to hold in the mouth"
+        },
+        {
+          "value": "to harbor (feelings)"
+        },
+        {
+          "value": "to link"
+        },
+        {
+          "value": "to accept"
+        },
+        {
+          "value": "rank"
+        },
+        {
+          "value": "title"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

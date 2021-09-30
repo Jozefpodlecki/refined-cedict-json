@@ -1,0 +1,43 @@
+{
+  "simplified": "壁灯",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bì dēng",
+          "wade_giles_pinyin": "bi4 deng1"
+        }
+      ],
+      "simplified": "壁灯",
+      "simplified_stroke_count": 0,
+      "traditional": "壁燈",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "wall lamp"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "bracket light"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:盞|盏[zhan3]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "盞",
+          "traditional": "盏",
+          "wade_giles_pinyin": "zhan3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

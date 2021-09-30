@@ -1,0 +1,40 @@
+{
+  "simplified": "指标",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhǐ biāo",
+          "wade_giles_pinyin": "zhi3 biao1"
+        }
+      ],
+      "simplified": "指标",
+      "traditional": "指標",
+      "meanings": [
+        {
+          "value": "(production) target"
+        },
+        {
+          "value": "quota"
+        },
+        {
+          "value": "index"
+        },
+        {
+          "value": "indicator"
+        },
+        {
+          "value": "sign"
+        },
+        {
+          "value": "signpost"
+        },
+        {
+          "value": "(computing) pointer"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

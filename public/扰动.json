@@ -1,0 +1,36 @@
+{
+  "simplified": "扰动",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rǎo dòng",
+          "wade_giles_pinyin": "rao3 dong4"
+        }
+      ],
+      "simplified": "扰动",
+      "traditional": "擾動",
+      "meanings": [
+        {
+          "value": "to disturb"
+        },
+        {
+          "value": "to stir up"
+        },
+        {
+          "value": "disturbance"
+        },
+        {
+          "value": "agitation"
+        },
+        {
+          "value": "turmoil"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

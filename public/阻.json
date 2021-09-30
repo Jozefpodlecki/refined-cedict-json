@@ -1,0 +1,33 @@
+{
+  "simplified": "阻",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zǔ",
+          "wade_giles_pinyin": "zu3"
+        }
+      ],
+      "simplified": "阻",
+      "simplified_stroke_count": 8,
+      "traditional": "阻",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "to hinder"
+        },
+        {
+          "value": "to block"
+        },
+        {
+          "value": "to obstruct"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

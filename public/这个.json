@@ -1,0 +1,32 @@
+{
+  "simplified": "这个",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhè ge",
+          "wade_giles_pinyin": "zhe4 ge5"
+        }
+      ],
+      "simplified": "这个",
+      "simplified_stroke_count": 0,
+      "traditional": "這個",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "this"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "this one"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

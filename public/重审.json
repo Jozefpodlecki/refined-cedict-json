@@ -1,0 +1,27 @@
+{
+  "simplified": "重审",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chóng shěn",
+          "wade_giles_pinyin": "chong2 shen3"
+        }
+      ],
+      "simplified": "重审",
+      "traditional": "重審",
+      "meanings": [
+        {
+          "value": "to re-investigate"
+        },
+        {
+          "value": "to investigate and reconsider a judgment"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

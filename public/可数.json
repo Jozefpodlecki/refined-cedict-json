@@ -1,0 +1,32 @@
+{
+  "simplified": "可数",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " kě shǔ",
+          "wade_giles_pinyin": "ke3 shu3"
+        }
+      ],
+      "simplified": "可数",
+      "simplified_stroke_count": 0,
+      "traditional": "可數",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "countable"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "denumerable"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

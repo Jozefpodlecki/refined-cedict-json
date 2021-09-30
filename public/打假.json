@@ -1,0 +1,39 @@
+{
+  "simplified": "打假",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dǎ jiǎ",
+          "wade_giles_pinyin": "da3 jia3"
+        }
+      ],
+      "simplified": "打假",
+      "simplified_stroke_count": 0,
+      "traditional": "打假",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to fight counterfeiting"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to expose as false"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to denounce sb's lies"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "simplified": "瓮",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wèng",
+          "wade_giles_pinyin": "weng4"
+        }
+      ],
+      "simplified": "瓮",
+      "simplified_stroke_count": 8,
+      "traditional": "瓮",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 甕|瓮[weng4]",
+          "simplified": "甕",
+          "traditional": "瓮",
+          "wade_giles_pinyin": "weng4"
+        },
+        {
+          "value": "earthen jar"
+        },
+        {
+          "value": "urn"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wèng",
+          "wade_giles_pinyin": "Weng4"
+        }
+      ],
+      "simplified": "瓮",
+      "simplified_stroke_count": 8,
+      "traditional": "甕",
+      "traditional_stroke_count": 18,
+      "meanings": [
+        {
+          "value": "surname Weng"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wèng",
+          "wade_giles_pinyin": "weng4"
+        }
+      ],
+      "simplified": "瓮",
+      "simplified_stroke_count": 8,
+      "traditional": "甕",
+      "traditional_stroke_count": 18,
+      "meanings": [
+        {
+          "value": "pottery container for water, wine etc"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wèng",
+          "wade_giles_pinyin": "weng4"
+        }
+      ],
+      "simplified": "瓮",
+      "simplified_stroke_count": 8,
+      "traditional": "罋",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 甕|瓮[weng4]",
+          "simplified": "甕",
+          "traditional": "瓮",
+          "wade_giles_pinyin": "weng4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

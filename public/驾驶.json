@@ -1,0 +1,27 @@
+{
+  "simplified": "驾驶",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jià shǐ",
+          "wade_giles_pinyin": "jia4 shi3"
+        }
+      ],
+      "simplified": "驾驶",
+      "traditional": "駕駛",
+      "meanings": [
+        {
+          "value": "to pilot (ship, airplane etc)"
+        },
+        {
+          "value": "to drive"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

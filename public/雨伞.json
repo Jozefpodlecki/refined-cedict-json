@@ -1,0 +1,31 @@
+{
+  "simplified": "雨伞",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǔ sǎn",
+          "wade_giles_pinyin": "yu3 san3"
+        }
+      ],
+      "simplified": "雨伞",
+      "traditional": "雨傘",
+      "meanings": [
+        {
+          "value": "umbrella"
+        },
+        {
+          "value": "CL:把[ba3]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "把",
+          "traditional": "",
+          "wade_giles_pinyin": "ba3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

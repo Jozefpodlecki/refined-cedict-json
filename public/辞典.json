@@ -1,0 +1,29 @@
+{
+  "simplified": "辞典",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cí diǎn",
+          "wade_giles_pinyin": "ci2 dian3"
+        }
+      ],
+      "simplified": "辞典",
+      "traditional": "辭典",
+      "meanings": [],
+      "classifiers": [
+        {
+          "simplified": "本",
+          "traditional": "",
+          "wade_giles_pinyin": "ben3"
+        },
+        {
+          "simplified": "部",
+          "traditional": "",
+          "wade_giles_pinyin": "bu4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

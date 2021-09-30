@@ -1,0 +1,66 @@
+{
+  "simplified": "跑",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "páo",
+          "wade_giles_pinyin": "pao2"
+        }
+      ],
+      "simplified": "跑",
+      "simplified_stroke_count": 12,
+      "traditional": "跑",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "(of an animal) to paw (the ground)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pǎo",
+          "wade_giles_pinyin": "pao3"
+        }
+      ],
+      "simplified": "跑",
+      "simplified_stroke_count": 12,
+      "traditional": "跑",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "to run"
+        },
+        {
+          "value": "to run away"
+        },
+        {
+          "value": "to escape"
+        },
+        {
+          "value": "to run around (on errands etc)"
+        },
+        {
+          "value": "(of a gas or liquid) to leak or evaporate"
+        },
+        {
+          "value": "(verb complement) away"
+        },
+        {
+          "value": "off"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "simplified": "珠山",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhū shān",
+          "wade_giles_pinyin": "Zhu1 shan1"
+        }
+      ],
+      "simplified": "珠山",
+      "traditional": "珠山",
+      "meanings": [
+        {
+          "value": "Mt Everest"
+        },
+        {
+          "context": "abbreviation",
+          "value": "珠穆朗瑪峰|珠穆朗玛峰, Mt Chomolungma or Qomolangma (Tibetan)"
+        },
+        {
+          "value": "Nepalese: Sagarmatha"
+        },
+        {
+          "value": "Mt Pearl (place name)"
+        },
+        {
+          "value": "Zhushan district of Jingdezhen city 景德鎮市|景德镇市, Jiangxi"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

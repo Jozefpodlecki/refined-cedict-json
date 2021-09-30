@@ -1,0 +1,54 @@
+{
+  "simplified": "提出",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " tí chū",
+          "wade_giles_pinyin": "ti2 chu1"
+        }
+      ],
+      "simplified": "提出",
+      "simplified_stroke_count": 0,
+      "traditional": "提出",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to raise (an issue)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to propose"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to put forward"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to suggest"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to post (on a website)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to withdraw (cash)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

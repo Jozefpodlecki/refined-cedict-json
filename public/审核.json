@@ -1,0 +1,34 @@
+{
+  "simplified": "审核",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shěn hé",
+          "wade_giles_pinyin": "shen3 he2"
+        }
+      ],
+      "simplified": "审核",
+      "simplified_stroke_count": 0,
+      "traditional": "審核",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to audit"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to investigate thoroughly"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

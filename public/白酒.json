@@ -1,0 +1,26 @@
+{
+  "simplified": "白酒",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bái jiǔ",
+          "wade_giles_pinyin": "bai2 jiu3"
+        }
+      ],
+      "simplified": "白酒",
+      "traditional": "白酒",
+      "meanings": [
+        {
+          "value": "baijiu, a spirit usually distilled from sorghum"
+        },
+        {
+          "context": "taiwan",
+          "value": "white wine (abbr. for 白葡萄酒[bai2 pu2 tao5 jiu3])"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

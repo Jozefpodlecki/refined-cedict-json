@@ -1,0 +1,42 @@
+{
+  "simplified": "包间",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bāo jiān",
+          "wade_giles_pinyin": "bao1 jian1"
+        }
+      ],
+      "simplified": "包间",
+      "simplified_stroke_count": 0,
+      "traditional": "包間",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "private room (in a restaurant, or for karaoke etc)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "parlor"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "booth"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "compartment"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

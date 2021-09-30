@@ -1,0 +1,48 @@
+{
+  "simplified": "咚咚",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dōng dong",
+          "wade_giles_pinyin": "Dong1 dong5"
+        }
+      ],
+      "simplified": "咚咚",
+      "traditional": "咚咚",
+      "meanings": [
+        {
+          "value": "Dongdong, cheerleading mascot of 2008 Beijing Olympics"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dōng dōng",
+          "wade_giles_pinyin": "dong1 dong1"
+        }
+      ],
+      "simplified": "咚咚",
+      "traditional": "咚咚",
+      "meanings": [
+        {
+          "value": "(onom.) thud"
+        },
+        {
+          "value": "thumping"
+        },
+        {
+          "value": "thudding"
+        },
+        {
+          "value": "pounding"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

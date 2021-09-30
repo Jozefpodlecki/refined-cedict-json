@@ -1,0 +1,38 @@
+{
+  "simplified": "被子",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bèi zi",
+          "wade_giles_pinyin": "bei4 zi5"
+        }
+      ],
+      "simplified": "被子",
+      "simplified_stroke_count": 0,
+      "traditional": "被子",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "quilt"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:床[chuang2]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "床",
+          "traditional": "",
+          "wade_giles_pinyin": "chuang2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

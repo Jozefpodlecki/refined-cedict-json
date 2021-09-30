@@ -1,0 +1,42 @@
+{
+  "simplified": "元气",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yuán qì",
+          "wade_giles_pinyin": "yuan2 qi4"
+        }
+      ],
+      "simplified": "元气",
+      "simplified_stroke_count": null,
+      "traditional": "元氣",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "strength"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "vigor"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "vitality"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "(TCM) vital energy"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

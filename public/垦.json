@@ -1,0 +1,30 @@
+{
+  "simplified": "垦",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kěn",
+          "wade_giles_pinyin": "ken3"
+        }
+      ],
+      "simplified": "垦",
+      "simplified_stroke_count": 9,
+      "traditional": "墾",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "to reclaim (land)"
+        },
+        {
+          "value": "to cultivate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

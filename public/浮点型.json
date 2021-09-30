@@ -1,0 +1,28 @@
+{
+  "simplified": "浮点型",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fú diǎn xíng",
+          "wade_giles_pinyin": "fu2 dian3 xing2"
+        }
+      ],
+      "simplified": "浮点型",
+      "traditional": "浮點型",
+      "meanings": [
+        {
+          "value": "(computing)floating-point"
+        },
+        {
+          "value": "float"
+        },
+        {
+          "value": "real"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

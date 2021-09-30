@@ -1,0 +1,27 @@
+{
+  "simplified": "凶杀",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiōng shā",
+          "wade_giles_pinyin": "xiong1 sha1"
+        }
+      ],
+      "simplified": "凶杀",
+      "traditional": "兇殺",
+      "meanings": [
+        {
+          "value": "to murder"
+        },
+        {
+          "value": "assassination"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "simplified": "馍",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mó",
+          "wade_giles_pinyin": "mo2"
+        }
+      ],
+      "simplified": "馍",
+      "simplified_stroke_count": 13,
+      "traditional": "饃",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "value": "small loaf of steamed bread"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mó",
+          "wade_giles_pinyin": "mo2"
+        }
+      ],
+      "simplified": "馍",
+      "simplified_stroke_count": 13,
+      "traditional": "饝",
+      "traditional_stroke_count": 25,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 饃|馍[mo2]",
+          "simplified": "饃",
+          "traditional": "馍",
+          "wade_giles_pinyin": "mo2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "simplified": "踉",
+  "simplified_stroke_count": 14,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "liáng",
+          "wade_giles_pinyin": "liang2"
+        }
+      ],
+      "simplified": "踉",
+      "simplified_stroke_count": 14,
+      "traditional": "踉",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "jump"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "liàng",
+          "wade_giles_pinyin": "liang4"
+        }
+      ],
+      "simplified": "踉",
+      "simplified_stroke_count": 14,
+      "traditional": "踉",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "stagger"
+        },
+        {
+          "value": "sway from side to side"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

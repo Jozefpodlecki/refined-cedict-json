@@ -1,0 +1,47 @@
+{
+  "simplified": "帱",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chóu",
+          "wade_giles_pinyin": "chou2"
+        }
+      ],
+      "simplified": "帱",
+      "simplified_stroke_count": 10,
+      "traditional": "幬",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "canopy"
+        },
+        {
+          "value": "curtain"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dào",
+          "wade_giles_pinyin": "dao4"
+        }
+      ],
+      "simplified": "帱",
+      "simplified_stroke_count": 10,
+      "traditional": "幬",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "canopy"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

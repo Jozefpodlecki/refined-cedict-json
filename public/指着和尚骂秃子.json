@@ -1,0 +1,32 @@
+{
+  "simplified": "指着和尚骂秃子",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhǐ zhe hé shang mà tū zi",
+          "wade_giles_pinyin": "zhi3 zhe5 he2 shang5 ma4 tu1 zi5"
+        }
+      ],
+      "simplified": "指着和尚骂秃子",
+      "traditional": "指着和尚罵禿子",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "to insult a bald man while pointing at a monk"
+        },
+        {
+          "value": "fig. to insult indirectly"
+        },
+        {
+          "value": "to criticize obliquely"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

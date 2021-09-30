@@ -1,0 +1,46 @@
+{
+  "simplified": "鹰雕",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yīng diāo",
+          "wade_giles_pinyin": "ying1 diao1"
+        }
+      ],
+      "simplified": "鹰雕",
+      "traditional": "鷹雕",
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 鷹鵰|鹰雕[ying1 diao1]",
+          "simplified": "鷹",
+          "traditional": "鵰|鹰雕",
+          "wade_giles_pinyin": "ying1 diao1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yīng diāo",
+          "wade_giles_pinyin": "ying1 diao1"
+        }
+      ],
+      "simplified": "鹰雕",
+      "traditional": "鷹鵰",
+      "meanings": [
+        {
+          "value": "(bird species of China) mountain hawk-eagle (Nisaetus nipalensis)"
+        },
+        {
+          "value": "aka Hodgson's hawk-eagle"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

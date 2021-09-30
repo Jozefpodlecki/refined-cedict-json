@@ -1,0 +1,30 @@
+{
+  "simplified": "保守",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǎo shǒu",
+          "wade_giles_pinyin": "bao3 shou3"
+        }
+      ],
+      "simplified": "保守",
+      "traditional": "保守",
+      "meanings": [
+        {
+          "value": "conservative"
+        },
+        {
+          "value": "to guard"
+        },
+        {
+          "value": "to keep"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

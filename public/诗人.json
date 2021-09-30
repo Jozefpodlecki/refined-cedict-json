@@ -1,0 +1,25 @@
+{
+  "simplified": "诗人",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shī rén",
+          "wade_giles_pinyin": "shi1 ren2"
+        }
+      ],
+      "simplified": "诗人",
+      "traditional": "詩人",
+      "meanings": [
+        {
+          "value": "bard"
+        },
+        {
+          "value": "poet"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

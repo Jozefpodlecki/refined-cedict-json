@@ -1,0 +1,31 @@
+{
+  "simplified": "任期",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rèn qī",
+          "wade_giles_pinyin": "ren4 qi1"
+        }
+      ],
+      "simplified": "任期",
+      "traditional": "任期",
+      "meanings": [
+        {
+          "value": "term of office"
+        },
+        {
+          "value": "tenure (entire period in office)"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "屆",
+          "traditional": "届",
+          "wade_giles_pinyin": "jie4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

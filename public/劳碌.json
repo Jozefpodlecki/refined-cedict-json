@@ -1,0 +1,34 @@
+{
+  "simplified": "劳碌",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " láo lù",
+          "wade_giles_pinyin": "lao2 lu4"
+        }
+      ],
+      "simplified": "劳碌",
+      "simplified_stroke_count": 0,
+      "traditional": "勞碌",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to work hard"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to toil"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

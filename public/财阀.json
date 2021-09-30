@@ -1,0 +1,57 @@
+{
+  "simplified": "财阀",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " cái fá",
+          "wade_giles_pinyin": "cai2 fa2"
+        }
+      ],
+      "simplified": "财阀",
+      "simplified_stroke_count": 0,
+      "traditional": "財閥",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "plutocracy"
+        },
+        {
+          "context": "polite",
+          "lexical_item": "",
+          "value": "monopolistic corporation, esp. prewar Japanese zaibatsu"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Korean chaebol"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "plutocrat"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "tycoon"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "oligarch"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "financial magnate"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

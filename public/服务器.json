@@ -1,0 +1,28 @@
+{
+  "simplified": "服务器",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fú wù qì",
+          "wade_giles_pinyin": "fu2 wu4 qi4"
+        }
+      ],
+      "simplified": "服务器",
+      "traditional": "服務器",
+      "meanings": [
+        {
+          "value": "server (computer)"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "臺",
+          "traditional": "台",
+          "wade_giles_pinyin": "tai2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

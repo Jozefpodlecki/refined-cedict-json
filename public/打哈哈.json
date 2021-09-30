@@ -1,0 +1,44 @@
+{
+  "simplified": "打哈哈",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dǎ hā ha",
+          "wade_giles_pinyin": "da3 ha1 ha5"
+        }
+      ],
+      "simplified": "打哈哈",
+      "simplified_stroke_count": 0,
+      "traditional": "打哈哈",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to joke"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to laugh insincerely"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to make merry"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to talk irrelevantly"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

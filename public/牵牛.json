@@ -1,0 +1,42 @@
+{
+  "simplified": "牵牛",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiān niú",
+          "wade_giles_pinyin": "Qian1 niu2"
+        }
+      ],
+      "simplified": "牵牛",
+      "traditional": "牽牛",
+      "meanings": [
+        {
+          "value": "Altair (star)"
+        },
+        {
+          "value": "Cowherd of the folk tale Cowherd and Weaving maid 牛郎織女|牛郎织女"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiān niú",
+          "wade_giles_pinyin": "qian1 niu2"
+        }
+      ],
+      "simplified": "牵牛",
+      "traditional": "牽牛",
+      "meanings": [
+        {
+          "value": "morning glory (Pharbitis nil)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

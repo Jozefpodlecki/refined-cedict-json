@@ -1,0 +1,31 @@
+{
+  "simplified": "外援",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wài yuán",
+          "wade_giles_pinyin": "wai4 yuan2"
+        }
+      ],
+      "simplified": "外援",
+      "traditional": "外援",
+      "meanings": [
+        {
+          "value": "foreign aid"
+        },
+        {
+          "value": "external aid"
+        },
+        {
+          "value": "(sports) foreign player"
+        },
+        {
+          "value": "player recruited from overseas"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

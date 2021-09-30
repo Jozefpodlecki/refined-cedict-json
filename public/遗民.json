@@ -1,0 +1,30 @@
+{
+  "simplified": "遗民",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yí mín",
+          "wade_giles_pinyin": "yi2 min2"
+        }
+      ],
+      "simplified": "遗民",
+      "traditional": "遺民",
+      "meanings": [
+        {
+          "context": "literature",
+          "value": "leftover men"
+        },
+        {
+          "context": "figuratively",
+          "value": "loyalist adherents of a former dynasty"
+        },
+        {
+          "value": "surviving members of an ethnic group"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

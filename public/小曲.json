@@ -1,0 +1,28 @@
+{
+  "simplified": "小曲",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiǎo qǔ",
+          "wade_giles_pinyin": "xiao3 qu3"
+        }
+      ],
+      "simplified": "小曲",
+      "traditional": "小曲",
+      "meanings": [
+        {
+          "value": "popular song"
+        },
+        {
+          "value": "folk tune"
+        },
+        {
+          "value": "ballad"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

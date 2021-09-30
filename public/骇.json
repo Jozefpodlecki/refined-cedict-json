@@ -1,0 +1,33 @@
+{
+  "simplified": "骇",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hài",
+          "wade_giles_pinyin": "hai4"
+        }
+      ],
+      "simplified": "骇",
+      "simplified_stroke_count": 9,
+      "traditional": "駭",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "to astonish"
+        },
+        {
+          "value": "to startle"
+        },
+        {
+          "value": "to hack (computing, loanword)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "simplified": "恪",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kè",
+          "wade_giles_pinyin": "Ke4"
+        }
+      ],
+      "simplified": "恪",
+      "simplified_stroke_count": 9,
+      "traditional": "恪",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "surname Ke"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kè",
+          "wade_giles_pinyin": "ke4"
+        }
+      ],
+      "simplified": "恪",
+      "simplified_stroke_count": 9,
+      "traditional": "恪",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "respectful"
+        },
+        {
+          "value": "scrupulous"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kè",
+          "wade_giles_pinyin": "ke4"
+        }
+      ],
+      "simplified": "恪",
+      "simplified_stroke_count": 9,
+      "traditional": "愙",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 恪[ke4]",
+          "simplified": "恪",
+          "traditional": "",
+          "wade_giles_pinyin": "ke4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

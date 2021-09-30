@@ -1,0 +1,34 @@
+{
+  "simplified": "摘抄",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhāi chāo",
+          "wade_giles_pinyin": "zhai1 chao1"
+        }
+      ],
+      "simplified": "摘抄",
+      "simplified_stroke_count": 0,
+      "traditional": "摘抄",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to extract"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to excerpt"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

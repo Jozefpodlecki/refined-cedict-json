@@ -1,0 +1,34 @@
+{
+  "simplified": "对换",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " duì huàn",
+          "wade_giles_pinyin": "dui4 huan4"
+        }
+      ],
+      "simplified": "对换",
+      "simplified_stroke_count": 0,
+      "traditional": "對換",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to exchange"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to swap"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

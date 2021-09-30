@@ -1,0 +1,30 @@
+{
+  "simplified": "化脓",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huà nóng",
+          "wade_giles_pinyin": "hua4 nong2"
+        }
+      ],
+      "simplified": "化脓",
+      "traditional": "化膿",
+      "meanings": [
+        {
+          "value": "to fester"
+        },
+        {
+          "value": "to suppurate"
+        },
+        {
+          "value": "to be infected"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

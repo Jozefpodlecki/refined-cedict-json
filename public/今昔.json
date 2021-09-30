@@ -1,0 +1,32 @@
+{
+  "simplified": "今昔",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jīn xī",
+          "wade_giles_pinyin": "jin1 xi1"
+        }
+      ],
+      "simplified": "今昔",
+      "simplified_stroke_count": 0,
+      "traditional": "今昔",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "past and present"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "yesterday and today"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

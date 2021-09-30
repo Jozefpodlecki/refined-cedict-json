@@ -1,0 +1,25 @@
+{
+  "simplified": "文科",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wén kē",
+          "wade_giles_pinyin": "wen2 ke1"
+        }
+      ],
+      "simplified": "文科",
+      "traditional": "文科",
+      "meanings": [
+        {
+          "value": "liberal arts"
+        },
+        {
+          "value": "humanities"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

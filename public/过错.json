@@ -1,0 +1,37 @@
+{
+  "simplified": "过错",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guò cuò",
+          "wade_giles_pinyin": "guo4 cuo4"
+        }
+      ],
+      "simplified": "过错",
+      "simplified_stroke_count": null,
+      "traditional": "過錯",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "mistake"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "fault"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "responsibility (for a fault)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

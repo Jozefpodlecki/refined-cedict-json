@@ -1,0 +1,55 @@
+{
+  "simplified": "回旋",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huí xuán",
+          "wade_giles_pinyin": "hui2 xuan2"
+        }
+      ],
+      "simplified": "回旋",
+      "traditional": "回旋",
+      "meanings": [
+        {
+          "value": "to cycle around"
+        },
+        {
+          "value": "cyclotron"
+        },
+        {
+          "value": "slalom"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huí xuán",
+          "wade_giles_pinyin": "hui2 xuan2"
+        }
+      ],
+      "simplified": "回旋",
+      "traditional": "迴旋",
+      "meanings": [
+        {
+          "value": "to turn around"
+        },
+        {
+          "value": "maneuvering room"
+        },
+        {
+          "value": "leeway"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

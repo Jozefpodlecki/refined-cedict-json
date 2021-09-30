@@ -1,0 +1,27 @@
+{
+  "simplified": "审计",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shěn jì",
+          "wade_giles_pinyin": "shen3 ji4"
+        }
+      ],
+      "simplified": "审计",
+      "traditional": "審計",
+      "meanings": [
+        {
+          "value": "to audit"
+        },
+        {
+          "value": "to examine finances"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

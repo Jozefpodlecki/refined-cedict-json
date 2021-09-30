@@ -1,0 +1,31 @@
+{
+  "simplified": "石碑",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shí bēi",
+          "wade_giles_pinyin": "shi2 bei1"
+        }
+      ],
+      "simplified": "石碑",
+      "traditional": "石碑",
+      "meanings": [
+        {
+          "value": "stele"
+        },
+        {
+          "value": "stone tablet (for inscription)"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "方",
+          "traditional": "",
+          "wade_giles_pinyin": "fang1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

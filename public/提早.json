@@ -1,0 +1,39 @@
+{
+  "simplified": "提早",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " tí zǎo",
+          "wade_giles_pinyin": "ti2 zao3"
+        }
+      ],
+      "simplified": "提早",
+      "simplified_stroke_count": 0,
+      "traditional": "提早",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "ahead of schedule"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "sooner than planned"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to bring forward (to an earlier time)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

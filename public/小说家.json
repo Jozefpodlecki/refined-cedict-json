@@ -1,0 +1,48 @@
+{
+  "simplified": "小说家",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiǎo shuō jiā",
+          "wade_giles_pinyin": "Xiao3 shuo1 jia1"
+        }
+      ],
+      "simplified": "小说家",
+      "simplified_stroke_count": null,
+      "traditional": "小說家",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "School of Minor-talks, one of the Hundred Schools of Thought 諸子百家|诸子百家[zhu1 zi3 bai3 jia1] during the Warring States Period (475-221 BC)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiǎo shuō jiā",
+          "wade_giles_pinyin": "xiao3 shuo1 jia1"
+        }
+      ],
+      "simplified": "小说家",
+      "simplified_stroke_count": null,
+      "traditional": "小說家",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "novelist"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

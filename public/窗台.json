@@ -1,0 +1,32 @@
+{
+  "simplified": "窗台",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chuāng tái",
+          "wade_giles_pinyin": "chuang1 tai2"
+        }
+      ],
+      "simplified": "窗台",
+      "simplified_stroke_count": 0,
+      "traditional": "窗臺",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "window sill"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "window ledge"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

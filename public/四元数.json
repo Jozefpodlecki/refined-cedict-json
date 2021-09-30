@@ -1,0 +1,27 @@
+{
+  "simplified": "四元数",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sì yuán shù",
+          "wade_giles_pinyin": "si4 yuan2 shu4"
+        }
+      ],
+      "simplified": "四元数",
+      "simplified_stroke_count": null,
+      "traditional": "四元數",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "quaternion (math.)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

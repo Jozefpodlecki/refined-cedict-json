@@ -1,0 +1,34 @@
+{
+  "simplified": "提拔",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " tí bá",
+          "wade_giles_pinyin": "ti2 ba2"
+        }
+      ],
+      "simplified": "提拔",
+      "simplified_stroke_count": 0,
+      "traditional": "提拔",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to promote to a higher job"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to select for promotion"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

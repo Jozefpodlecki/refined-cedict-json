@@ -1,0 +1,25 @@
+{
+  "simplified": "农历",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nóng lì",
+          "wade_giles_pinyin": "nong2 li4"
+        }
+      ],
+      "simplified": "农历",
+      "traditional": "農曆",
+      "meanings": [
+        {
+          "value": "the traditional Chinese calendar"
+        },
+        {
+          "value": "the lunar calendar"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

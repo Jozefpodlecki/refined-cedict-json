@@ -1,0 +1,30 @@
+{
+  "simplified": "推算",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tuī suàn",
+          "wade_giles_pinyin": "tui1 suan4"
+        }
+      ],
+      "simplified": "推算",
+      "traditional": "推算",
+      "meanings": [
+        {
+          "value": "to calculate"
+        },
+        {
+          "value": "to reckon"
+        },
+        {
+          "value": "to extrapolate (in calculation)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

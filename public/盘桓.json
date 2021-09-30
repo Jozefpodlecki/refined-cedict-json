@@ -1,0 +1,49 @@
+{
+  "simplified": "盘桓",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " pán huán",
+          "wade_giles_pinyin": "pan2 huan2"
+        }
+      ],
+      "simplified": "盘桓",
+      "simplified_stroke_count": 0,
+      "traditional": "盤桓",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to pace"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to linger"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to stay over"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to spiral"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to hover"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

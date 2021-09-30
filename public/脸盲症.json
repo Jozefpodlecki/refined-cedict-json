@@ -1,0 +1,25 @@
+{
+  "simplified": "脸盲症",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "liǎn máng zhèng",
+          "wade_giles_pinyin": "lian3 mang2 zheng4"
+        }
+      ],
+      "simplified": "脸盲症",
+      "traditional": "臉盲症",
+      "meanings": [
+        {
+          "value": "prosopagnosia"
+        },
+        {
+          "value": "face blindness"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

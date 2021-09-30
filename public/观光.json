@@ -1,0 +1,30 @@
+{
+  "simplified": "观光",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guān guāng",
+          "wade_giles_pinyin": "guan1 guang1"
+        }
+      ],
+      "simplified": "观光",
+      "traditional": "觀光",
+      "meanings": [
+        {
+          "value": "to tour"
+        },
+        {
+          "value": "sightseeing"
+        },
+        {
+          "value": "tourism"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

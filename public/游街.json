@@ -1,0 +1,27 @@
+{
+  "simplified": "游街",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yóu jiē",
+          "wade_giles_pinyin": "you2 jie1"
+        }
+      ],
+      "simplified": "游街",
+      "traditional": "遊街",
+      "meanings": [
+        {
+          "value": "to parade sb through the streets"
+        },
+        {
+          "value": "to march or parade in the streets"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

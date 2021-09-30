@@ -1,0 +1,39 @@
+{
+  "simplified": "谘询",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zī xún",
+          "wade_giles_pinyin": "zi1 xun2"
+        }
+      ],
+      "simplified": "谘询",
+      "simplified_stroke_count": 0,
+      "traditional": "諮詢",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "consultation"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to consult"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to inquire"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

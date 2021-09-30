@@ -1,0 +1,39 @@
+{
+  "simplified": "悟",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " wù",
+          "wade_giles_pinyin": "wu4"
+        }
+      ],
+      "simplified": "悟",
+      "simplified_stroke_count": 10,
+      "traditional": "悟",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to comprehend"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to apprehend"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to become aware"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

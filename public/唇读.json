@@ -1,0 +1,27 @@
+{
+  "simplified": "唇读",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chún dú",
+          "wade_giles_pinyin": "chun2 du2"
+        }
+      ],
+      "simplified": "唇读",
+      "traditional": "唇讀",
+      "meanings": [
+        {
+          "value": "to lip-read"
+        },
+        {
+          "value": "lipreading"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

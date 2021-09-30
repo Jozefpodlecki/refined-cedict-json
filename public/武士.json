@@ -1,0 +1,32 @@
+{
+  "simplified": "武士",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " wǔ shì",
+          "wade_giles_pinyin": "wu3 shi4"
+        }
+      ],
+      "simplified": "武士",
+      "simplified_stroke_count": 0,
+      "traditional": "武士",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "warrior"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "samurai"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

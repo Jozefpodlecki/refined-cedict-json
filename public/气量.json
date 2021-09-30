@@ -1,0 +1,38 @@
+{
+  "simplified": "气量",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qì liàng",
+          "wade_giles_pinyin": "qi4 liang4"
+        }
+      ],
+      "simplified": "气量",
+      "traditional": "氣量",
+      "meanings": [
+        {
+          "context": "literature",
+          "value": "( quantity of spirit)"
+        },
+        {
+          "value": "moral character"
+        },
+        {
+          "value": "degree of forbearance"
+        },
+        {
+          "value": "broad-mindedness or otherwise"
+        },
+        {
+          "value": "tolerance"
+        },
+        {
+          "value": "magnanimity"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

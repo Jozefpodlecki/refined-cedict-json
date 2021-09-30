@@ -1,0 +1,44 @@
+{
+  "simplified": "煆",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiā",
+          "wade_giles_pinyin": "xia1"
+        }
+      ],
+      "simplified": "煆",
+      "simplified_stroke_count": 13,
+      "traditional": "煆",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "a raging fire"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yā",
+          "wade_giles_pinyin": "ya1"
+        }
+      ],
+      "simplified": "煆",
+      "simplified_stroke_count": 13,
+      "traditional": "煆",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "raging fire"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

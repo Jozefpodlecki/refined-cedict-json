@@ -1,0 +1,33 @@
+{
+  "simplified": "撬",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiào",
+          "wade_giles_pinyin": "qiao4"
+        }
+      ],
+      "simplified": "撬",
+      "simplified_stroke_count": 15,
+      "traditional": "撬",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "to lift"
+        },
+        {
+          "value": "to pry open"
+        },
+        {
+          "value": "to lever open"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

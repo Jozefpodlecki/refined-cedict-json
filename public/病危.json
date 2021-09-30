@@ -1,0 +1,27 @@
+{
+  "simplified": "病危",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bìng wēi",
+          "wade_giles_pinyin": "bing4 wei1"
+        }
+      ],
+      "simplified": "病危",
+      "traditional": "病危",
+      "meanings": [
+        {
+          "value": "to be critically ill"
+        },
+        {
+          "value": "to be terminally ill"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

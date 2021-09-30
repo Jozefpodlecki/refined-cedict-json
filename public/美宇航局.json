@@ -1,0 +1,29 @@
+{
+  "simplified": "美宇航局",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "měi yǔ háng jú",
+          "wade_giles_pinyin": "Mei3 Yu3 hang2 ju2"
+        }
+      ],
+      "simplified": "美宇航局",
+      "traditional": "美宇航局",
+      "meanings": [
+        {
+          "value": "US National Aeronautics and Space Administration"
+        },
+        {
+          "value": "NASA"
+        },
+        {
+          "context": "abbreviation",
+          "value": "美國宇航局|美国宇航局"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "绑架",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǎng jià",
+          "wade_giles_pinyin": "bang3 jia4"
+        }
+      ],
+      "simplified": "绑架",
+      "traditional": "綁架",
+      "meanings": [
+        {
+          "value": "to kidnap"
+        },
+        {
+          "value": "to abduct"
+        },
+        {
+          "value": "to hijack"
+        },
+        {
+          "value": "a kidnapping"
+        },
+        {
+          "value": "abduction"
+        },
+        {
+          "value": "staking"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

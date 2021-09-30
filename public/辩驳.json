@@ -1,0 +1,34 @@
+{
+  "simplified": "辩驳",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " biàn bó",
+          "wade_giles_pinyin": "bian4 bo2"
+        }
+      ],
+      "simplified": "辩驳",
+      "simplified_stroke_count": 0,
+      "traditional": "辯駁",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to dispute"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to refute"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

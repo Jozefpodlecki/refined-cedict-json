@@ -1,0 +1,39 @@
+{
+  "simplified": "心肠",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xīn cháng",
+          "wade_giles_pinyin": "xin1 chang2"
+        }
+      ],
+      "simplified": "心肠",
+      "traditional": "心腸",
+      "meanings": [
+        {
+          "value": "heart"
+        },
+        {
+          "value": "intention"
+        },
+        {
+          "value": "one's inclination"
+        },
+        {
+          "value": "state of mind"
+        },
+        {
+          "value": "to have the heart for sth"
+        },
+        {
+          "value": "mood"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

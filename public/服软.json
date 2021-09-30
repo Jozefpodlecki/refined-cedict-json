@@ -1,0 +1,36 @@
+{
+  "simplified": "服软",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fú ruǎn",
+          "wade_giles_pinyin": "fu2 ruan3"
+        }
+      ],
+      "simplified": "服软",
+      "traditional": "服軟",
+      "meanings": [
+        {
+          "value": "to admit defeat"
+        },
+        {
+          "value": "to give in"
+        },
+        {
+          "value": "to acknowledge a mistake"
+        },
+        {
+          "value": "to apologize"
+        },
+        {
+          "value": "to be amenable to persuasion"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "simplified": "说明",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shuō míng",
+          "wade_giles_pinyin": "shuo1 ming2"
+        }
+      ],
+      "simplified": "说明",
+      "simplified_stroke_count": null,
+      "traditional": "說明",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to explain"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to illustrate"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to indicate"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to show"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to prove"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "explanation"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "directions"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "caption"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "CL:個|个[ge4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

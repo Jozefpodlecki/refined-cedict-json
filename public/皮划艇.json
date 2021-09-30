@@ -1,0 +1,32 @@
+{
+  "simplified": "皮划艇",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " pí huá tǐng",
+          "wade_giles_pinyin": "pi2 hua2 ting3"
+        }
+      ],
+      "simplified": "皮划艇",
+      "simplified_stroke_count": 0,
+      "traditional": "皮劃艇",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "canoe"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "kayak"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

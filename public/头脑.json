@@ -1,0 +1,38 @@
+{
+  "simplified": "头脑",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tóu nǎo",
+          "wade_giles_pinyin": "tou2 nao3"
+        }
+      ],
+      "simplified": "头脑",
+      "traditional": "頭腦",
+      "meanings": [
+        {
+          "value": "brains"
+        },
+        {
+          "value": "mind"
+        },
+        {
+          "value": "skull"
+        },
+        {
+          "context": "figuratively",
+          "value": "gist (of a matter)"
+        },
+        {
+          "value": "leader"
+        },
+        {
+          "value": "boss"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "simplified": "吟",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yín",
+          "wade_giles_pinyin": "yin2"
+        }
+      ],
+      "simplified": "吟",
+      "simplified_stroke_count": 7,
+      "traditional": "吟",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "value": "to chant"
+        },
+        {
+          "value": "to recite"
+        },
+        {
+          "value": "to moan"
+        },
+        {
+          "value": "to groan"
+        },
+        {
+          "value": "cry (of certain animals and insects)"
+        },
+        {
+          "value": "song (ancient poem)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yín",
+          "wade_giles_pinyin": "yin2"
+        }
+      ],
+      "simplified": "吟",
+      "simplified_stroke_count": 7,
+      "traditional": "唫",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "吟[yin2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

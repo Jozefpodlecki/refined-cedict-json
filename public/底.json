@@ -1,0 +1,62 @@
+{
+  "simplified": "底",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "de",
+          "wade_giles_pinyin": "de5"
+        }
+      ],
+      "simplified": "底",
+      "simplified_stroke_count": 8,
+      "traditional": "底",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "(equivalent to 的 as possessive particle)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dǐ",
+          "wade_giles_pinyin": "di3"
+        }
+      ],
+      "simplified": "底",
+      "simplified_stroke_count": 8,
+      "traditional": "底",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "background"
+        },
+        {
+          "value": "bottom"
+        },
+        {
+          "value": "base"
+        },
+        {
+          "value": "end (of the month, year etc)"
+        },
+        {
+          "value": "remnants"
+        },
+        {
+          "value": "(math.) radix"
+        },
+        {
+          "value": "base"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

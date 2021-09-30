@@ -1,0 +1,43 @@
+{
+  "simplified": "十分",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shí fēn",
+          "wade_giles_pinyin": "shi2 fen1"
+        }
+      ],
+      "simplified": "十分",
+      "traditional": "十分",
+      "meanings": [
+        {
+          "value": "very"
+        },
+        {
+          "value": "completely"
+        },
+        {
+          "value": "utterly"
+        },
+        {
+          "value": "extremely"
+        },
+        {
+          "value": "absolutely"
+        },
+        {
+          "value": "hundred percent"
+        },
+        {
+          "value": "to divide into ten equal parts"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "adverb",
+        "verb"
+      ]
+    }
+  ]
+}

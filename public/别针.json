@@ -1,0 +1,37 @@
+{
+  "simplified": "别针",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bié zhēn",
+          "wade_giles_pinyin": "bie2 zhen1"
+        }
+      ],
+      "simplified": "别针",
+      "traditional": "別針",
+      "meanings": [
+        {
+          "value": "pin"
+        },
+        {
+          "value": "safety pin"
+        },
+        {
+          "value": "clip"
+        },
+        {
+          "value": "brooch"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "枚",
+          "traditional": "",
+          "wade_giles_pinyin": "mei2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

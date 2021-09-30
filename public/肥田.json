@@ -1,0 +1,34 @@
+{
+  "simplified": "肥田",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " féi tián",
+          "wade_giles_pinyin": "fei2 tian2"
+        }
+      ],
+      "simplified": "肥田",
+      "simplified_stroke_count": 0,
+      "traditional": "肥田",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "fertile land"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to fertilize (soil)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

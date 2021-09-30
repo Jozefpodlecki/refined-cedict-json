@@ -1,0 +1,59 @@
+{
+  "simplified": "忒",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tè",
+          "wade_giles_pinyin": "te4"
+        }
+      ],
+      "simplified": "忒",
+      "simplified_stroke_count": 7,
+      "traditional": "忒",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "value": "to err"
+        },
+        {
+          "value": "to change"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tēi",
+          "wade_giles_pinyin": "tei1"
+        },
+        {
+          "pinyin": "tuī",
+          "wade_giles_pinyin": "tui1"
+        }
+      ],
+      "simplified": "忒",
+      "simplified_stroke_count": 7,
+      "traditional": "忒",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": "dialect",
+          "value": "too"
+        },
+        {
+          "value": "very"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

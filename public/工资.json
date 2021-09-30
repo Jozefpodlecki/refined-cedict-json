@@ -1,0 +1,53 @@
+{
+  "simplified": "工资",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gōng zī",
+          "wade_giles_pinyin": "gong1 zi1"
+        }
+      ],
+      "simplified": "工资",
+      "simplified_stroke_count": null,
+      "traditional": "工資",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "wages"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "pay"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "CL:個|个[ge4],份[fen4],月[yue4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        },
+        {
+          "simplified": "份",
+          "traditional": "",
+          "wade_giles_pinyin": "fen4"
+        },
+        {
+          "simplified": "月",
+          "traditional": "",
+          "wade_giles_pinyin": "yue4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

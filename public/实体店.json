@@ -1,0 +1,32 @@
+{
+  "simplified": "实体店",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shí tǐ diàn",
+          "wade_giles_pinyin": "shi2 ti3 dian4"
+        }
+      ],
+      "simplified": "实体店",
+      "simplified_stroke_count": 0,
+      "traditional": "實體店",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "brick and mortar business"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "physical (rather than online) retail store"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

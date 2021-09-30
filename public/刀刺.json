@@ -1,0 +1,34 @@
+{
+  "simplified": "刀刺",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dāo cì",
+          "wade_giles_pinyin": "dao1 ci4"
+        }
+      ],
+      "simplified": "刀刺",
+      "simplified_stroke_count": 0,
+      "traditional": "刀刺",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to stab"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to attack with knife"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

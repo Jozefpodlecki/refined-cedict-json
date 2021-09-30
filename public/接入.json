@@ -1,0 +1,27 @@
+{
+  "simplified": "接入",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiē rù",
+          "wade_giles_pinyin": "jie1 ru4"
+        }
+      ],
+      "simplified": "接入",
+      "traditional": "接入",
+      "meanings": [
+        {
+          "value": "to access (a network)"
+        },
+        {
+          "value": "to insert (a plug) into (a socket)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

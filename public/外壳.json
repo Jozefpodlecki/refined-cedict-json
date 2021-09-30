@@ -1,0 +1,47 @@
+{
+  "simplified": "外壳",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wài ké",
+          "wade_giles_pinyin": "wai4 ke2"
+        }
+      ],
+      "simplified": "外壳",
+      "simplified_stroke_count": null,
+      "traditional": "外殼",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "envelope"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "outer shell"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "hull"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "cover"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "case"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

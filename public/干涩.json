@@ -1,0 +1,37 @@
+{
+  "simplified": "干涩",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gān sè",
+          "wade_giles_pinyin": "gan1 se4"
+        }
+      ],
+      "simplified": "干涩",
+      "simplified_stroke_count": null,
+      "traditional": "乾澀",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "dry and rough (skin)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "hoarse (voice)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "dry and heavy (style)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "simplified": "警号",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jǐng hào",
+          "wade_giles_pinyin": "jing3 hao4"
+        }
+      ],
+      "simplified": "警号",
+      "traditional": "警號",
+      "meanings": [
+        {
+          "value": "alarm"
+        },
+        {
+          "value": "alert"
+        },
+        {
+          "value": "warning signal"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "拳",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " quán",
+          "wade_giles_pinyin": "quan2"
+        }
+      ],
+      "simplified": "拳",
+      "simplified_stroke_count": 10,
+      "traditional": "拳",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "fist"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "boxing"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

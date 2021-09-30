@@ -1,0 +1,55 @@
+{
+  "simplified": "掏",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tāo",
+          "wade_giles_pinyin": "tao1"
+        }
+      ],
+      "simplified": "掏",
+      "simplified_stroke_count": 11,
+      "traditional": "掏",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "to fish out (from pocket)"
+        },
+        {
+          "value": "to scoop"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tāo",
+          "wade_giles_pinyin": "tao1"
+        }
+      ],
+      "simplified": "掏",
+      "simplified_stroke_count": 11,
+      "traditional": "搯",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 掏[tao1]",
+          "simplified": "掏",
+          "traditional": "",
+          "wade_giles_pinyin": "tao1"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

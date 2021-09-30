@@ -1,0 +1,52 @@
+{
+  "simplified": "瘅",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dān",
+          "wade_giles_pinyin": "dan1"
+        }
+      ],
+      "simplified": "瘅",
+      "simplified_stroke_count": 13,
+      "traditional": "癉",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(disease)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dàn",
+          "wade_giles_pinyin": "dan4"
+        }
+      ],
+      "simplified": "瘅",
+      "simplified_stroke_count": 13,
+      "traditional": "癉",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to hate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

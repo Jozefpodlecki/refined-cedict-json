@@ -1,0 +1,48 @@
+{
+  "simplified": "风",
+  "simplified_stroke_count": 4,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fēng",
+          "wade_giles_pinyin": "feng1"
+        }
+      ],
+      "simplified": "风",
+      "simplified_stroke_count": 4,
+      "traditional": "風",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "wind"
+        },
+        {
+          "value": "news"
+        },
+        {
+          "value": "style"
+        },
+        {
+          "value": "custom"
+        },
+        {
+          "value": "manner"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "陣",
+          "traditional": "阵",
+          "wade_giles_pinyin": "zhen4"
+        },
+        {
+          "simplified": "絲",
+          "traditional": "丝",
+          "wade_giles_pinyin": "si1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

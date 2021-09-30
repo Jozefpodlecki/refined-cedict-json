@@ -1,0 +1,30 @@
+{
+  "simplified": "询",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xún",
+          "wade_giles_pinyin": "xun2"
+        }
+      ],
+      "simplified": "询",
+      "simplified_stroke_count": 8,
+      "traditional": "詢",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "to ask about"
+        },
+        {
+          "value": "to inquire about"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

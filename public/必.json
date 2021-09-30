@@ -1,0 +1,42 @@
+{
+  "simplified": "必",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bì",
+          "wade_giles_pinyin": "bi4"
+        }
+      ],
+      "simplified": "必",
+      "simplified_stroke_count": 5,
+      "traditional": "必",
+      "traditional_stroke_count": 5,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "certainly"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "must"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "will"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "necessarily"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

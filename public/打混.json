@@ -1,0 +1,39 @@
+{
+  "simplified": "打混",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dǎ hùn",
+          "wade_giles_pinyin": "da3 hun4"
+        }
+      ],
+      "simplified": "打混",
+      "simplified_stroke_count": null,
+      "traditional": "打混",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to muddle things up"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to goof off"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to hang around"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "simplified": "胡",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hú",
+          "wade_giles_pinyin": "Hu2"
+        }
+      ],
+      "simplified": "胡",
+      "simplified_stroke_count": 9,
+      "traditional": "胡",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "surname Hu"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hú",
+          "wade_giles_pinyin": "hu2"
+        }
+      ],
+      "simplified": "胡",
+      "simplified_stroke_count": 9,
+      "traditional": "胡",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "non-Han people, esp. from central Asia"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "reckless"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "outrageous"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "what?"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "why?"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to complete a winning hand at mahjong (also written 和[hu2])"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hú",
+          "wade_giles_pinyin": "hu2"
+        }
+      ],
+      "simplified": "胡",
+      "simplified_stroke_count": 9,
+      "traditional": "衚",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "see 衚衕|胡同[hu2 tong4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hú",
+          "wade_giles_pinyin": "hu2"
+        }
+      ],
+      "simplified": "胡",
+      "simplified_stroke_count": 9,
+      "traditional": "鬍",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "beard"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "mustache"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "whiskers"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

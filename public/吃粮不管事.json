@@ -1,0 +1,28 @@
+{
+  "simplified": "吃粮不管事",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chī liáng bù guǎn shì",
+          "wade_giles_pinyin": "chi1 liang2 bu4 guan3 shi4"
+        }
+      ],
+      "simplified": "吃粮不管事",
+      "traditional": "吃糧不管事",
+      "meanings": [
+        {
+          "lexical_item": "idiom",
+          "value": "to eat without working"
+        },
+        {
+          "value": "to take one's pay and not care about the rest"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

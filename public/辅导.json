@@ -1,0 +1,36 @@
+{
+  "simplified": "辅导",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fǔ dǎo",
+          "wade_giles_pinyin": "fu3 dao3"
+        }
+      ],
+      "simplified": "辅导",
+      "traditional": "輔導",
+      "meanings": [
+        {
+          "value": "to give guidance"
+        },
+        {
+          "value": "to mentor"
+        },
+        {
+          "value": "to counsel"
+        },
+        {
+          "value": "to coach"
+        },
+        {
+          "value": "to tutor"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

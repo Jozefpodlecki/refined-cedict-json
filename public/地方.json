@@ -1,0 +1,73 @@
+{
+  "simplified": "地方",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dì fāng",
+          "wade_giles_pinyin": "di4 fang1"
+        }
+      ],
+      "simplified": "地方",
+      "traditional": "地方",
+      "meanings": [
+        {
+          "value": "region"
+        },
+        {
+          "value": "regional (away from the central administration)"
+        },
+        {
+          "value": "local"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dì fang",
+          "wade_giles_pinyin": "di4 fang5"
+        }
+      ],
+      "simplified": "地方",
+      "traditional": "地方",
+      "meanings": [
+        {
+          "value": "area"
+        },
+        {
+          "value": "place"
+        },
+        {
+          "value": "space"
+        },
+        {
+          "value": "room"
+        },
+        {
+          "value": "territory"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "處",
+          "traditional": "处",
+          "wade_giles_pinyin": "chu4"
+        },
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        },
+        {
+          "simplified": "塊",
+          "traditional": "块",
+          "wade_giles_pinyin": "kuai4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

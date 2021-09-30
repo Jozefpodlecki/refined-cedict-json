@@ -1,0 +1,30 @@
+{
+  "simplified": "统计",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tǒng jì",
+          "wade_giles_pinyin": "tong3 ji4"
+        }
+      ],
+      "simplified": "统计",
+      "traditional": "統計",
+      "meanings": [
+        {
+          "value": "statistics"
+        },
+        {
+          "value": "to count"
+        },
+        {
+          "value": "to add up"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

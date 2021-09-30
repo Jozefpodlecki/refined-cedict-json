@@ -1,0 +1,25 @@
+{
+  "simplified": "弧线长",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hú xiàn cháng",
+          "wade_giles_pinyin": "hu2 xian4 chang2"
+        }
+      ],
+      "simplified": "弧线长",
+      "traditional": "弧線長",
+      "meanings": [
+        {
+          "value": "arc length"
+        },
+        {
+          "value": "length of a curve segment"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

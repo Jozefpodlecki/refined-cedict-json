@@ -1,0 +1,43 @@
+{
+  "simplified": "笔记本",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bǐ jì běn",
+          "wade_giles_pinyin": "bi3 ji4 ben3"
+        }
+      ],
+      "simplified": "笔记本",
+      "simplified_stroke_count": 0,
+      "traditional": "筆記本",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "notebook (stationery)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:本[ben3]"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "notebook (computing)"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "本",
+          "traditional": "",
+          "wade_giles_pinyin": "ben3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "朝三暮四",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhāo sān mù sì",
+          "wade_giles_pinyin": "zhao1 san1 mu4 si4"
+        }
+      ],
+      "simplified": "朝三暮四",
+      "traditional": "朝三暮四",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "say three in the morning but four in the evening ; to change sth that is already settled upon"
+        },
+        {
+          "value": "indecisive"
+        },
+        {
+          "value": "to blow hot and cold"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

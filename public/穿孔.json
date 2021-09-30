@@ -1,0 +1,39 @@
+{
+  "simplified": "穿孔",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chuān kǒng",
+          "wade_giles_pinyin": "chuan1 kong3"
+        }
+      ],
+      "simplified": "穿孔",
+      "simplified_stroke_count": 0,
+      "traditional": "穿孔",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to punch or bore a hole"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to perforate"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "perforation"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

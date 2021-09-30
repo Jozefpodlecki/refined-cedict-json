@@ -1,0 +1,52 @@
+{
+  "simplified": "贺",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hè",
+          "wade_giles_pinyin": "He4"
+        }
+      ],
+      "simplified": "贺",
+      "simplified_stroke_count": 9,
+      "traditional": "賀",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "surname He"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hè",
+          "wade_giles_pinyin": "he4"
+        }
+      ],
+      "simplified": "贺",
+      "simplified_stroke_count": 9,
+      "traditional": "賀",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to congratulate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

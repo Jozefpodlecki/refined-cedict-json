@@ -1,0 +1,32 @@
+{
+  "simplified": "政事",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhèng shì",
+          "wade_giles_pinyin": "zheng4 shi4"
+        }
+      ],
+      "simplified": "政事",
+      "simplified_stroke_count": 0,
+      "traditional": "政事",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "politics"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "government affairs"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

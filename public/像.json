@@ -1,0 +1,64 @@
+{
+  "simplified": "像",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xiàng",
+          "wade_giles_pinyin": "xiang4"
+        }
+      ],
+      "simplified": "像",
+      "simplified_stroke_count": 13,
+      "traditional": "像",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to resemble"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to be like"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to look as if"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "such as"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "appearance"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "image"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "portrait"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "image under a mapping (math.)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

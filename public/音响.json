@@ -1,0 +1,41 @@
+{
+  "simplified": "音响",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yīn xiǎng",
+          "wade_giles_pinyin": "yin1 xiang3"
+        }
+      ],
+      "simplified": "音响",
+      "traditional": "音響",
+      "meanings": [
+        {
+          "value": "sound"
+        },
+        {
+          "value": "acoustics"
+        },
+        {
+          "value": "audio"
+        },
+        {
+          "value": "hi-fi system"
+        },
+        {
+          "value": "stereo sound system"
+        },
+        {
+          "context": "abbreviation",
+          "value": "組合音響|组合音响[zu3 he2 yin1 xiang3]",
+          "simplified": "組",
+          "traditional": "合音響|组合音响",
+          "wade_giles_pinyin": "zu3 he2 yin1 xiang3"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

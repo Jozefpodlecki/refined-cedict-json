@@ -1,0 +1,62 @@
+{
+  "simplified": "董",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dǒng",
+          "wade_giles_pinyin": "Dong3"
+        }
+      ],
+      "simplified": "董",
+      "simplified_stroke_count": 15,
+      "traditional": "董",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "surname Dong"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dǒng",
+          "wade_giles_pinyin": "dong3"
+        }
+      ],
+      "simplified": "董",
+      "simplified_stroke_count": 15,
+      "traditional": "董",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to supervise"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to direct"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "director"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

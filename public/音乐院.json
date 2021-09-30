@@ -1,0 +1,25 @@
+{
+  "simplified": "音乐院",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yīn yuè yuàn",
+          "wade_giles_pinyin": "yin1 yue4 yuan4"
+        }
+      ],
+      "simplified": "音乐院",
+      "traditional": "音樂院",
+      "meanings": [
+        {
+          "value": "conservatory"
+        },
+        {
+          "value": "music college"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

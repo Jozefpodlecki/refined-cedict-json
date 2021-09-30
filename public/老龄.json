@@ -1,0 +1,34 @@
+{
+  "simplified": "老龄",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lǎo líng",
+          "wade_giles_pinyin": "lao3 ling2"
+        }
+      ],
+      "simplified": "老龄",
+      "traditional": "老齡",
+      "meanings": [
+        {
+          "value": "old age"
+        },
+        {
+          "value": "aging"
+        },
+        {
+          "value": "aged"
+        },
+        {
+          "value": "geriatric"
+        },
+        {
+          "value": "the aged"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

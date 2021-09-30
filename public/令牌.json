@@ -1,0 +1,32 @@
+{
+  "simplified": "令牌",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lìng pái",
+          "wade_giles_pinyin": "ling4 pai2"
+        }
+      ],
+      "simplified": "令牌",
+      "traditional": "令牌",
+      "meanings": [
+        {
+          "value": "(archaic) wooden or metal token of authority"
+        },
+        {
+          "context": "figuratively",
+          "value": "decree"
+        },
+        {
+          "value": "directive"
+        },
+        {
+          "value": "(computing) token"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "simplified": "脆",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " cuì",
+          "wade_giles_pinyin": "cui4"
+        }
+      ],
+      "simplified": "脆",
+      "simplified_stroke_count": 10,
+      "traditional": "脃",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "old variant",
+          "lexical_item": "",
+          "value": "脆[cui4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " cuì",
+          "wade_giles_pinyin": "cui4"
+        }
+      ],
+      "simplified": "脆",
+      "simplified_stroke_count": 10,
+      "traditional": "脆",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "brittle"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "fragile"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "crisp"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "crunchy"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "clear and loud voice"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "neat"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

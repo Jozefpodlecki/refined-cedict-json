@@ -1,0 +1,59 @@
+{
+  "simplified": "感",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " gǎn",
+          "wade_giles_pinyin": "gan3"
+        }
+      ],
+      "simplified": "感",
+      "simplified_stroke_count": 13,
+      "traditional": "感",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to feel"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to move"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to touch"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to affect"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "feeling"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "emotion"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(suffix) sense of ~"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

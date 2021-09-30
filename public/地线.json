@@ -1,0 +1,32 @@
+{
+  "simplified": "地线",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dì xiàn",
+          "wade_giles_pinyin": "di4 xian4"
+        }
+      ],
+      "simplified": "地线",
+      "simplified_stroke_count": 0,
+      "traditional": "地線",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "earth (wire)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "ground"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

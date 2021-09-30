@@ -1,0 +1,32 @@
+{
+  "simplified": "疗养所",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " liáo yǎng suǒ",
+          "wade_giles_pinyin": "liao2 yang3 suo3"
+        }
+      ],
+      "simplified": "疗养所",
+      "simplified_stroke_count": 0,
+      "traditional": "療養所",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "sanitorium"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "convalescent hospital"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

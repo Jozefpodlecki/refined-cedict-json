@@ -1,0 +1,39 @@
+{
+  "simplified": "翅膀硬",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chì bǎng yìng",
+          "wade_giles_pinyin": "chi4 bang3 ying4"
+        }
+      ],
+      "simplified": "翅膀硬",
+      "simplified_stroke_count": null,
+      "traditional": "翅膀硬",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "(of a bird) to fledge"
+        },
+        {
+          "context": "figuratively",
+          "lexical_item": null,
+          "value": "(of a person) to outgrow the need to be submissive to one's parents, mentor etc"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to break away from the people who have supported one up to now"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

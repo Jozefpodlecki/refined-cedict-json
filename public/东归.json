@@ -1,0 +1,32 @@
+{
+  "simplified": "东归",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dōng guī",
+          "wade_giles_pinyin": "dong1 gui1"
+        }
+      ],
+      "simplified": "东归",
+      "simplified_stroke_count": 0,
+      "traditional": "東歸",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "",
+          "value": "to return east"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "fig. to return to one's homeland"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

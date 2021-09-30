@@ -1,0 +1,37 @@
+{
+  "simplified": "萌",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "méng",
+          "wade_giles_pinyin": "meng2"
+        }
+      ],
+      "simplified": "萌",
+      "simplified_stroke_count": 11,
+      "traditional": "萌",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "to sprout"
+        },
+        {
+          "value": "to bud"
+        },
+        {
+          "value": "to have a strong affection for (slang)"
+        },
+        {
+          "context": "Japanese",
+          "value": "adorable (loanword from Japanese 萌え moe, slang describing affection for a cute character)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

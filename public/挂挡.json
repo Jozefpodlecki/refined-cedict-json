@@ -1,0 +1,30 @@
+{
+  "simplified": "挂挡",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guà dǎng",
+          "wade_giles_pinyin": "gua4 dang3"
+        }
+      ],
+      "simplified": "挂挡",
+      "traditional": "掛擋",
+      "meanings": [
+        {
+          "value": "to put into gear"
+        },
+        {
+          "value": "to engage the gear"
+        },
+        {
+          "value": "gear change"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

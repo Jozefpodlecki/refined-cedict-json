@@ -1,0 +1,32 @@
+{
+  "simplified": "理发厅",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lǐ fà tīng",
+          "wade_giles_pinyin": "li3 fa4 ting1"
+        }
+      ],
+      "simplified": "理发厅",
+      "traditional": "理髮廳",
+      "meanings": [
+        {
+          "context": "taiwan",
+          "value": "barbershop"
+        },
+        {
+          "value": "hairdresser's"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "家",
+          "traditional": "",
+          "wade_giles_pinyin": "jia1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

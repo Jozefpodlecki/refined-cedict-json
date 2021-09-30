@@ -1,0 +1,50 @@
+{
+  "simplified": "翰",
+  "simplified_stroke_count": 16,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hàn",
+          "wade_giles_pinyin": "Han4"
+        }
+      ],
+      "simplified": "翰",
+      "simplified_stroke_count": 16,
+      "traditional": "翰",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "surname Han"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hàn",
+          "wade_giles_pinyin": "han4"
+        }
+      ],
+      "simplified": "翰",
+      "simplified_stroke_count": 16,
+      "traditional": "翰",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "writing brush"
+        },
+        {
+          "value": "writing"
+        },
+        {
+          "value": "pen"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

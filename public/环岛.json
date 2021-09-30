@@ -1,0 +1,32 @@
+{
+  "simplified": "环岛",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " huán dǎo",
+          "wade_giles_pinyin": "huan2 dao3"
+        }
+      ],
+      "simplified": "环岛",
+      "simplified_stroke_count": 0,
+      "traditional": "環島",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "roundabout (traffic island)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "around an island (trip etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

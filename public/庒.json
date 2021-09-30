@@ -1,0 +1,29 @@
+{
+  "simplified": "庒",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhuāng",
+          "wade_giles_pinyin": "zhuang1"
+        }
+      ],
+      "simplified": "庒",
+      "simplified_stroke_count": 7,
+      "traditional": "庒",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 莊|庄[zhuang1]",
+          "simplified": "莊",
+          "traditional": "庄",
+          "wade_giles_pinyin": "zhuang1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "simplified": "通行",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tōng xíng",
+          "wade_giles_pinyin": "tong1 xing2"
+        }
+      ],
+      "simplified": "通行",
+      "traditional": "通行",
+      "meanings": [
+        {
+          "value": "to go through"
+        },
+        {
+          "value": "to pass through"
+        },
+        {
+          "value": "to be in general use"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

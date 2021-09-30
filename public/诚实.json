@@ -1,0 +1,42 @@
+{
+  "simplified": "诚实",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chéng shí",
+          "wade_giles_pinyin": "cheng2 shi2"
+        }
+      ],
+      "simplified": "诚实",
+      "simplified_stroke_count": null,
+      "traditional": "誠實",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "honest"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "honesty"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "honorable"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "truthful"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

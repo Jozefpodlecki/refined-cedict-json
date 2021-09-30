@@ -1,0 +1,33 @@
+{
+  "simplified": "登出",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dēng chū",
+          "wade_giles_pinyin": "deng1 chu1"
+        }
+      ],
+      "simplified": "登出",
+      "traditional": "登出",
+      "meanings": [
+        {
+          "value": "to log out (computer)"
+        },
+        {
+          "value": "to publish"
+        },
+        {
+          "value": "to be published"
+        },
+        {
+          "value": "to appear (in a newspaper etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

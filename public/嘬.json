@@ -1,0 +1,45 @@
+{
+  "simplified": "嘬",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chuài",
+          "wade_giles_pinyin": "chuai4"
+        }
+      ],
+      "simplified": "嘬",
+      "simplified_stroke_count": 15,
+      "traditional": "嘬",
+      "traditional_stroke_count": 15,
+      "meanings": [],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zuō",
+          "wade_giles_pinyin": "zuo1"
+        }
+      ],
+      "simplified": "嘬",
+      "simplified_stroke_count": 15,
+      "traditional": "嘬",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "colloquial",
+          "value": "to suck"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

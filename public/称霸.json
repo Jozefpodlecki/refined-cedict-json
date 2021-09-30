@@ -1,0 +1,31 @@
+{
+  "simplified": "称霸",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chēng bà",
+          "wade_giles_pinyin": "cheng1 ba4"
+        }
+      ],
+      "simplified": "称霸",
+      "traditional": "稱霸",
+      "meanings": [
+        {
+          "context": "literature",
+          "value": "to proclaim oneself hegemon"
+        },
+        {
+          "value": "to take a leading role"
+        },
+        {
+          "value": "to build a personal fiefdom"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

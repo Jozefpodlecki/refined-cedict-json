@@ -1,0 +1,108 @@
+{
+  "simplified": "咽",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yān",
+          "wade_giles_pinyin": "yan1"
+        }
+      ],
+      "simplified": "咽",
+      "simplified_stroke_count": 9,
+      "traditional": "咽",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "narrow pass"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "throat"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "pharynx"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yàn",
+          "wade_giles_pinyin": "yan4"
+        }
+      ],
+      "simplified": "咽",
+      "simplified_stroke_count": 9,
+      "traditional": "咽",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "嚥|咽[yan4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yè",
+          "wade_giles_pinyin": "ye4"
+        }
+      ],
+      "simplified": "咽",
+      "simplified_stroke_count": 9,
+      "traditional": "咽",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to choke (in crying)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yàn",
+          "wade_giles_pinyin": "yan4"
+        }
+      ],
+      "simplified": "咽",
+      "simplified_stroke_count": 9,
+      "traditional": "嚥",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to swallow"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

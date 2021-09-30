@@ -1,0 +1,34 @@
+{
+  "simplified": "改嘴",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " gǎi zuǐ",
+          "wade_giles_pinyin": "gai3 zui3"
+        }
+      ],
+      "simplified": "改嘴",
+      "simplified_stroke_count": 0,
+      "traditional": "改嘴",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to deny"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to go back on one's word"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

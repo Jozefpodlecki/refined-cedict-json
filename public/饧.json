@@ -1,0 +1,45 @@
+{
+  "simplified": "饧",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xíng",
+          "wade_giles_pinyin": "xing2"
+        }
+      ],
+      "simplified": "饧",
+      "simplified_stroke_count": 6,
+      "traditional": "餳",
+      "traditional_stroke_count": 18,
+      "meanings": [
+        {
+          "value": "maltose syrup"
+        },
+        {
+          "value": "molasses"
+        },
+        {
+          "value": "heavy (eyelids)"
+        },
+        {
+          "value": "drowsy-eyed"
+        },
+        {
+          "value": "listless"
+        },
+        {
+          "value": "(of dough, candy etc) to soften"
+        },
+        {
+          "value": "to become soft and sticky"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

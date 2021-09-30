@@ -1,0 +1,32 @@
+{
+  "simplified": "嚆",
+  "simplified_stroke_count": 17,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hāo",
+          "wade_giles_pinyin": "hao1"
+        }
+      ],
+      "simplified": "嚆",
+      "simplified_stroke_count": 17,
+      "traditional": "嚆",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "sound"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "noise"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

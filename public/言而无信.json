@@ -1,0 +1,33 @@
+{
+  "simplified": "言而无信",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yán ér wú xìn",
+          "wade_giles_pinyin": "yan2 er2 wu2 xin4"
+        }
+      ],
+      "simplified": "言而无信",
+      "traditional": "言而無信",
+      "meanings": [
+        {
+          "value": "to go back on one's word"
+        },
+        {
+          "value": "to break one's promise"
+        },
+        {
+          "value": "to be unfaithful"
+        },
+        {
+          "value": "to be untrustworthy"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

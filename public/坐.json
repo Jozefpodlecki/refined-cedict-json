@@ -1,0 +1,48 @@
+{
+  "simplified": "坐",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zuò",
+          "wade_giles_pinyin": "Zuo4"
+        }
+      ],
+      "simplified": "坐",
+      "simplified_stroke_count": 0,
+      "traditional": "坐",
+      "traditional_stroke_count": 0,
+      "meanings": [],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zuò",
+          "wade_giles_pinyin": "zuo4"
+        }
+      ],
+      "simplified": "坐",
+      "simplified_stroke_count": 0,
+      "traditional": "坐",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 座[zuo4]",
+          "simplified": "座",
+          "traditional": "",
+          "wade_giles_pinyin": "zuo4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

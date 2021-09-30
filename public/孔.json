@@ -1,0 +1,42 @@
+{
+  "simplified": "孔",
+  "simplified_stroke_count": 4,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kǒng",
+          "wade_giles_pinyin": "Kong3"
+        }
+      ],
+      "simplified": "孔",
+      "simplified_stroke_count": 4,
+      "traditional": "孔",
+      "traditional_stroke_count": 4,
+      "meanings": [],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kǒng",
+          "wade_giles_pinyin": "kong3"
+        }
+      ],
+      "simplified": "孔",
+      "simplified_stroke_count": 4,
+      "traditional": "孔",
+      "traditional_stroke_count": 4,
+      "meanings": [],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "闰",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " rùn",
+          "wade_giles_pinyin": "run4"
+        }
+      ],
+      "simplified": "闰",
+      "simplified_stroke_count": 7,
+      "traditional": "閏",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "intercalary"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "an extra day or month inserted into the lunar or solar calendar (such as February 29)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

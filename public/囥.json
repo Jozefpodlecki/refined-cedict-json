@@ -1,0 +1,31 @@
+{
+  "simplified": "囥",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kàng",
+          "wade_giles_pinyin": "kang4"
+        }
+      ],
+      "simplified": "囥",
+      "simplified_stroke_count": 7,
+      "traditional": "囥",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": "dialect",
+          "value": "to hide"
+        },
+        {
+          "value": "to conceal"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

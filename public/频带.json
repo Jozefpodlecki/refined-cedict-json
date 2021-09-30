@@ -1,0 +1,32 @@
+{
+  "simplified": "频带",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " pín dài",
+          "wade_giles_pinyin": "pin2 dai4"
+        }
+      ],
+      "simplified": "频带",
+      "simplified_stroke_count": 0,
+      "traditional": "頻帶",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "frequency range"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "bandwidth"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

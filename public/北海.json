@@ -1,0 +1,34 @@
+{
+  "simplified": "北海",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "běi hǎi",
+          "wade_giles_pinyin": "Bei3 hai3"
+        }
+      ],
+      "simplified": "北海",
+      "traditional": "北海",
+      "meanings": [
+        {
+          "value": "Beihai, park in Beijing to the northwest of the Forbidden City"
+        },
+        {
+          "value": "the North Sea (Europe)"
+        },
+        {
+          "value": "Beihai prefecture-level city and seaport in Guangxi"
+        },
+        {
+          "value": "Bohai Sea"
+        },
+        {
+          "value": "Lake Baikal"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "simplified": "红眼",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " hóng yǎn",
+          "wade_giles_pinyin": "hong2 yan3"
+        }
+      ],
+      "simplified": "红眼",
+      "simplified_stroke_count": 0,
+      "traditional": "紅眼",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to become infuriated"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to see red"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "envious"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "jealous"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "covetous"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "pink eye (conjunctivitis)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "red-eye (flight)(photography) red eye"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

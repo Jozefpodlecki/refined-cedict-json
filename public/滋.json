@@ -1,0 +1,49 @@
+{
+  "simplified": "滋",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zī",
+          "wade_giles_pinyin": "zi1"
+        }
+      ],
+      "simplified": "滋",
+      "simplified_stroke_count": 12,
+      "traditional": "滋",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "to grow"
+        },
+        {
+          "value": "to nourish"
+        },
+        {
+          "value": "to increase"
+        },
+        {
+          "value": "to cause"
+        },
+        {
+          "value": "juice"
+        },
+        {
+          "value": "taste"
+        },
+        {
+          "context": "dialect",
+          "value": "to spout"
+        },
+        {
+          "value": "to spurt"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

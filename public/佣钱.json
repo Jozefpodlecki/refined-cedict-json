@@ -1,0 +1,25 @@
+{
+  "simplified": "佣钱",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yòng qian",
+          "wade_giles_pinyin": "yong4 qian5"
+        }
+      ],
+      "simplified": "佣钱",
+      "traditional": "佣錢",
+      "meanings": [
+        {
+          "value": "commission"
+        },
+        {
+          "value": "brokerage"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

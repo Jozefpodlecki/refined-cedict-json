@@ -1,0 +1,37 @@
+{
+  "simplified": "月径",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yuè jìng",
+          "wade_giles_pinyin": "yue4 jing4"
+        }
+      ],
+      "simplified": "月径",
+      "simplified_stroke_count": 0,
+      "traditional": "月徑",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "moonlit path"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "diameter of the moon"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "diameter of the moon's orbit"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "simplified": "残余",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " cán yú",
+          "wade_giles_pinyin": "can2 yu2"
+        }
+      ],
+      "simplified": "残余",
+      "simplified_stroke_count": 0,
+      "traditional": "殘餘",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "remnant"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "relic"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "residue"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "vestige"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "surplus"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to remain"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to leave surplus"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

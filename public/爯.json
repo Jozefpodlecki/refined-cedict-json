@@ -1,0 +1,52 @@
+{
+  "simplified": "爯",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chèn",
+          "wade_giles_pinyin": "chen4"
+        }
+      ],
+      "simplified": "爯",
+      "simplified_stroke_count": 9,
+      "traditional": "爯",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 稱|称[chen4]",
+          "simplified": "稱",
+          "traditional": "称",
+          "wade_giles_pinyin": "chen4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chēng",
+          "wade_giles_pinyin": "cheng1"
+        }
+      ],
+      "simplified": "爯",
+      "simplified_stroke_count": 9,
+      "traditional": "爯",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 稱|称[cheng1]",
+          "simplified": "稱",
+          "traditional": "称",
+          "wade_giles_pinyin": "cheng1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

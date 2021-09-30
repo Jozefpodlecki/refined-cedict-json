@@ -1,0 +1,32 @@
+{
+  "simplified": "经济",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jīng jì",
+          "wade_giles_pinyin": "jing1 ji4"
+        }
+      ],
+      "simplified": "经济",
+      "simplified_stroke_count": null,
+      "traditional": "經濟",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "economy"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "economic"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

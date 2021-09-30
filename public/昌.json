@@ -1,0 +1,53 @@
+{
+  "simplified": "昌",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chāng",
+          "wade_giles_pinyin": "Chang1"
+        }
+      ],
+      "simplified": "昌",
+      "simplified_stroke_count": 8,
+      "traditional": "昌",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "surname Chang"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chāng",
+          "wade_giles_pinyin": "chang1"
+        }
+      ],
+      "simplified": "昌",
+      "simplified_stroke_count": 8,
+      "traditional": "昌",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "prosperous"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "flourishing"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

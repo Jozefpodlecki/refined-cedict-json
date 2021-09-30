@@ -1,0 +1,39 @@
+{
+  "simplified": "错位",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cuò weì",
+          "wade_giles_pinyin": "cuo4 wei4"
+        }
+      ],
+      "simplified": "错位",
+      "traditional": "錯位",
+      "meanings": [
+        {
+          "value": "to misplace"
+        },
+        {
+          "value": "displacement (e.g. of broken bones)"
+        },
+        {
+          "value": "out of alignment"
+        },
+        {
+          "value": "faulty contact"
+        },
+        {
+          "value": "erroneous judgment"
+        },
+        {
+          "value": "inversion (medical, e.g. breach delivery)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

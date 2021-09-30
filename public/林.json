@@ -1,0 +1,47 @@
+{
+  "simplified": "林",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lín",
+          "wade_giles_pinyin": "Lin2"
+        }
+      ],
+      "simplified": "林",
+      "simplified_stroke_count": 8,
+      "traditional": "林",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "Japanese",
+          "value": "Japanese surname Hayashi"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lín",
+          "wade_giles_pinyin": "lin2"
+        }
+      ],
+      "simplified": "林",
+      "simplified_stroke_count": 8,
+      "traditional": "林",
+      "traditional_stroke_count": 8,
+      "meanings": [],
+      "classifiers": [
+        {
+          "simplified": "片",
+          "traditional": "",
+          "wade_giles_pinyin": "pian4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

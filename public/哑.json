@@ -1,0 +1,78 @@
+{
+  "simplified": "哑",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yā",
+          "wade_giles_pinyin": "ya1"
+        }
+      ],
+      "simplified": "哑",
+      "simplified_stroke_count": 9,
+      "traditional": "啞",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(onom.) sound of cawing"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "sound of infant learning to talk"
+        },
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "呀[ya1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yǎ",
+          "wade_giles_pinyin": "ya3"
+        }
+      ],
+      "simplified": "哑",
+      "simplified_stroke_count": 9,
+      "traditional": "啞",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "dumb"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "mute"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "hoarse"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "husky"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "unexploded (of artillery shell etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "simplified": "唤起",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huàn qǐ",
+          "wade_giles_pinyin": "huan4 qi3"
+        }
+      ],
+      "simplified": "唤起",
+      "traditional": "喚起",
+      "meanings": [
+        {
+          "value": "to waken (to action)"
+        },
+        {
+          "value": "to rouse (the masses)"
+        },
+        {
+          "value": "to evoke (attention, recollection etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

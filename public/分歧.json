@@ -1,0 +1,31 @@
+{
+  "simplified": "分歧",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fēn qí",
+          "wade_giles_pinyin": "fen1 qi2"
+        }
+      ],
+      "simplified": "分歧",
+      "traditional": "分歧",
+      "meanings": [
+        {
+          "value": "divergent"
+        },
+        {
+          "value": "difference (of opinion, position)"
+        },
+        {
+          "value": "disagreement"
+        },
+        {
+          "value": "bifurcation (math.)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

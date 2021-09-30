@@ -1,0 +1,27 @@
+{
+  "simplified": "保温",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǎo wēn",
+          "wade_giles_pinyin": "bao3 wen1"
+        }
+      ],
+      "simplified": "保温",
+      "traditional": "保溫",
+      "meanings": [
+        {
+          "value": "to keep hot"
+        },
+        {
+          "value": "heat preservation"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

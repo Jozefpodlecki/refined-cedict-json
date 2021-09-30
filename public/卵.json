@@ -1,0 +1,52 @@
+{
+  "simplified": "卵",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " luǎn",
+          "wade_giles_pinyin": "luan3"
+        }
+      ],
+      "simplified": "卵",
+      "simplified_stroke_count": 7,
+      "traditional": "卵",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "egg"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "ovum"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "spawn"
+        },
+        {
+          "context": "colloquial",
+          "lexical_item": "",
+          "value": "testicles"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(old) penis"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(expletive) fucking"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

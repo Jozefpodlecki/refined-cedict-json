@@ -1,0 +1,40 @@
+{
+  "simplified": "回合",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huí hé",
+          "wade_giles_pinyin": "hui2 he2"
+        }
+      ],
+      "simplified": "回合",
+      "traditional": "回合",
+      "meanings": [
+        {
+          "value": "one of a sequence of contests (or subdivisions of a contest) between the same two opponents"
+        },
+        {
+          "value": "round (boxing etc)"
+        },
+        {
+          "value": "rally (tennis etc)"
+        },
+        {
+          "value": "frame (billiards etc)"
+        },
+        {
+          "value": "inning"
+        },
+        {
+          "value": "(tennis, soccer etc) rubber or leg"
+        },
+        {
+          "value": "round (of negotiations)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

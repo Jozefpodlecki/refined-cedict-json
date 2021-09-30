@@ -1,0 +1,36 @@
+{
+  "simplified": "代办",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dài bàn",
+          "wade_giles_pinyin": "dai4 ban4"
+        }
+      ],
+      "simplified": "代办",
+      "traditional": "代辦",
+      "meanings": [
+        {
+          "value": "to act for sb else"
+        },
+        {
+          "value": "to act on sb's behalf"
+        },
+        {
+          "value": "an agent"
+        },
+        {
+          "value": "a diplomatic representative"
+        },
+        {
+          "value": "a chargé d'affaires"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

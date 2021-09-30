@@ -1,0 +1,39 @@
+{
+  "simplified": "主动",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhǔ dòng",
+          "wade_giles_pinyin": "zhu3 dong4"
+        }
+      ],
+      "simplified": "主动",
+      "traditional": "主動",
+      "meanings": [
+        {
+          "value": "to take the initiative"
+        },
+        {
+          "value": "to do sth of one's own accord"
+        },
+        {
+          "value": "spontaneous"
+        },
+        {
+          "value": "active"
+        },
+        {
+          "value": "opposite: passive 被動|被动[bei4 dong4]"
+        },
+        {
+          "value": "drive (of gears and shafts etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

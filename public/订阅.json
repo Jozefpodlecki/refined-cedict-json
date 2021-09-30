@@ -1,0 +1,34 @@
+{
+  "simplified": "订阅",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dìng yuè",
+          "wade_giles_pinyin": "ding4 yue4"
+        }
+      ],
+      "simplified": "订阅",
+      "simplified_stroke_count": 0,
+      "traditional": "訂閱",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "subscription"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to subscribe to"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

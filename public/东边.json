@@ -1,0 +1,33 @@
+{
+  "simplified": "东边",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dōng bian",
+          "wade_giles_pinyin": "dong1 bian5"
+        }
+      ],
+      "simplified": "东边",
+      "traditional": "東邊",
+      "meanings": [
+        {
+          "value": "east"
+        },
+        {
+          "value": "east side"
+        },
+        {
+          "value": "eastern part"
+        },
+        {
+          "value": "to the east of"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

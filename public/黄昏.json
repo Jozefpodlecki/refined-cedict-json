@@ -1,0 +1,28 @@
+{
+  "simplified": "黄昏",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huáng hūn",
+          "wade_giles_pinyin": "huang2 hun1"
+        }
+      ],
+      "simplified": "黄昏",
+      "traditional": "黃昏",
+      "meanings": [
+        {
+          "value": "dusk"
+        },
+        {
+          "value": "evening"
+        },
+        {
+          "value": "nightfall"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

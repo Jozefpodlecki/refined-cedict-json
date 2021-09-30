@@ -1,0 +1,34 @@
+{
+  "simplified": "折钱",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shé qián",
+          "wade_giles_pinyin": "she2 qian2"
+        }
+      ],
+      "simplified": "折钱",
+      "simplified_stroke_count": null,
+      "traditional": "折錢",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "a loss"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to lose money"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

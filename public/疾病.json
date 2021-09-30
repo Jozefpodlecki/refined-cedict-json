@@ -1,0 +1,28 @@
+{
+  "simplified": "疾病",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jí bìng",
+          "wade_giles_pinyin": "ji2 bing4"
+        }
+      ],
+      "simplified": "疾病",
+      "traditional": "疾病",
+      "meanings": [
+        {
+          "value": "disease"
+        },
+        {
+          "value": "sickness"
+        },
+        {
+          "value": "ailment"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "simplified": "牵",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiān",
+          "wade_giles_pinyin": "qian1"
+        }
+      ],
+      "simplified": "牵",
+      "simplified_stroke_count": 9,
+      "traditional": "牽",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "to lead along"
+        },
+        {
+          "value": "to pull (an animal on a tether)"
+        },
+        {
+          "value": "(bound form) to involve"
+        },
+        {
+          "value": "to draw in"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

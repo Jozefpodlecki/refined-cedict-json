@@ -1,0 +1,31 @@
+{
+  "simplified": "客栈",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kè zhàn",
+          "wade_giles_pinyin": "ke4 zhan4"
+        }
+      ],
+      "simplified": "客栈",
+      "traditional": "客棧",
+      "meanings": [
+        {
+          "value": "tavern"
+        },
+        {
+          "value": "guest house"
+        },
+        {
+          "value": "inn"
+        },
+        {
+          "value": "hotel"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

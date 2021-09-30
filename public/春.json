@@ -1,0 +1,85 @@
+{
+  "simplified": "春",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chūn",
+          "wade_giles_pinyin": "chun1"
+        }
+      ],
+      "simplified": "春",
+      "simplified_stroke_count": 9,
+      "traditional": "旾",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 春[chun1]",
+          "simplified": "春",
+          "traditional": "",
+          "wade_giles_pinyin": "chun1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chūn",
+          "wade_giles_pinyin": "Chun1"
+        }
+      ],
+      "simplified": "春",
+      "simplified_stroke_count": 9,
+      "traditional": "春",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "surname Chun"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chūn",
+          "wade_giles_pinyin": "chun1"
+        }
+      ],
+      "simplified": "春",
+      "simplified_stroke_count": 9,
+      "traditional": "春",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "spring (season)"
+        },
+        {
+          "value": "gay"
+        },
+        {
+          "value": "joyful"
+        },
+        {
+          "value": "youthful"
+        },
+        {
+          "value": "love"
+        },
+        {
+          "value": "lust"
+        },
+        {
+          "value": "life"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

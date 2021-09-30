@@ -1,0 +1,26 @@
+{
+  "simplified": "铁板",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tiě bǎn",
+          "wade_giles_pinyin": "tie3 ban3"
+        }
+      ],
+      "simplified": "铁板",
+      "traditional": "鐵板",
+      "meanings": [
+        {
+          "value": "iron panel"
+        },
+        {
+          "context": "Japanese",
+          "value": "hot iron plate for fast grilling (Japanese: teppan)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

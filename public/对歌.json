@@ -1,0 +1,27 @@
+{
+  "simplified": "对歌",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "duì gē",
+          "wade_giles_pinyin": "dui4 ge1"
+        }
+      ],
+      "simplified": "对歌",
+      "traditional": "對歌",
+      "meanings": [
+        {
+          "value": "answering phrase of duet"
+        },
+        {
+          "value": "to sing antiphonal answer"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

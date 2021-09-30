@@ -1,0 +1,69 @@
+{
+  "simplified": "蛋",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dàn",
+          "wade_giles_pinyin": "Dan4"
+        }
+      ],
+      "simplified": "蛋",
+      "simplified_stroke_count": 11,
+      "traditional": "蛋",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "蜑[Dan4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dàn",
+          "wade_giles_pinyin": "dan4"
+        }
+      ],
+      "simplified": "蛋",
+      "simplified_stroke_count": 11,
+      "traditional": "蛋",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "egg"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:個|个[ge4],打[da2]"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "oval-shaped thing"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        },
+        {
+          "simplified": "打",
+          "traditional": "",
+          "wade_giles_pinyin": "da2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

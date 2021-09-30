@@ -1,0 +1,31 @@
+{
+  "simplified": "概论",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gài lùn",
+          "wade_giles_pinyin": "gai4 lun4"
+        }
+      ],
+      "simplified": "概论",
+      "traditional": "概論",
+      "meanings": [
+        {
+          "value": "outline"
+        },
+        {
+          "value": "introduction"
+        },
+        {
+          "value": "survey"
+        },
+        {
+          "value": "general discussion"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "关乎",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guān hū",
+          "wade_giles_pinyin": "guan1 hu1"
+        }
+      ],
+      "simplified": "关乎",
+      "simplified_stroke_count": null,
+      "traditional": "關乎",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to relate to"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "concerning"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "about"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

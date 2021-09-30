@@ -1,0 +1,36 @@
+{
+  "simplified": "相关",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiāng guān",
+          "wade_giles_pinyin": "xiang1 guan1"
+        }
+      ],
+      "simplified": "相关",
+      "traditional": "相關",
+      "meanings": [
+        {
+          "value": "related"
+        },
+        {
+          "value": "relevant"
+        },
+        {
+          "value": "pertinent"
+        },
+        {
+          "value": "to be interrelated"
+        },
+        {
+          "value": "(statistics) correlation"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

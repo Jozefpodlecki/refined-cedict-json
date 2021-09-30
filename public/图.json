@@ -1,0 +1,60 @@
+{
+  "simplified": "图",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tú",
+          "wade_giles_pinyin": "tu2"
+        }
+      ],
+      "simplified": "图",
+      "simplified_stroke_count": 8,
+      "traditional": "圖",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "diagram"
+        },
+        {
+          "value": "picture"
+        },
+        {
+          "value": "drawing"
+        },
+        {
+          "value": "chart"
+        },
+        {
+          "value": "map"
+        },
+        {
+          "value": "to plan"
+        },
+        {
+          "value": "to scheme"
+        },
+        {
+          "value": "to attempt"
+        },
+        {
+          "value": "to pursue"
+        },
+        {
+          "value": "to seek"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "張",
+          "traditional": "张",
+          "wade_giles_pinyin": "zhang1"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

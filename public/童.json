@@ -1,0 +1,44 @@
+{
+  "simplified": "童",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tóng",
+          "wade_giles_pinyin": "Tong2"
+        }
+      ],
+      "simplified": "童",
+      "simplified_stroke_count": 12,
+      "traditional": "童",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "surname Tong"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tóng",
+          "wade_giles_pinyin": "tong2"
+        }
+      ],
+      "simplified": "童",
+      "simplified_stroke_count": 12,
+      "traditional": "童",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "child"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

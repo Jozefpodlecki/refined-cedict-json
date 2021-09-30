@@ -1,0 +1,50 @@
+{
+  "simplified": "热腾腾",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rè téng téng",
+          "wade_giles_pinyin": "re4 teng2 teng2"
+        },
+        {
+          "pinyin": "rè teng1 teng1",
+          "wade_giles_pinyin": "re4 teng1 teng1"
+        }
+      ],
+      "simplified": "热腾腾",
+      "traditional": "熱騰騰",
+      "meanings": [
+        {
+          "value": "steaming hot"
+        },
+        {
+          "context": "figuratively",
+          "value": "bustling"
+        },
+        {
+          "value": "hectic"
+        },
+        {
+          "context": "figuratively",
+          "value": "excited"
+        },
+        {
+          "value": "stirred up"
+        },
+        {
+          "context": "figuratively",
+          "value": "created only a short time before"
+        },
+        {
+          "value": "freshly minted"
+        },
+        {
+          "value": "hot off the press"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

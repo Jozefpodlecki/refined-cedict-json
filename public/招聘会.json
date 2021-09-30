@@ -1,0 +1,32 @@
+{
+  "simplified": "招聘会",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhāo pìn huì",
+          "wade_giles_pinyin": "zhao1 pin4 hui4"
+        }
+      ],
+      "simplified": "招聘会",
+      "simplified_stroke_count": 0,
+      "traditional": "招聘會",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "recruitment meeting"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "job fair"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

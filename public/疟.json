@@ -1,0 +1,44 @@
+{
+  "simplified": "疟",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nüè",
+          "wade_giles_pinyin": "nu:e4"
+        }
+      ],
+      "simplified": "疟",
+      "simplified_stroke_count": 8,
+      "traditional": "瘧",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "malaria"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yào",
+          "wade_giles_pinyin": "yao4"
+        }
+      ],
+      "simplified": "疟",
+      "simplified_stroke_count": 8,
+      "traditional": "瘧",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "see 瘧子|疟子[yao4 zi5]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

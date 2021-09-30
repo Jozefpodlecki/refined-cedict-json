@@ -1,0 +1,33 @@
+{
+  "simplified": "失策",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shī cè",
+          "wade_giles_pinyin": "shi1 ce4"
+        }
+      ],
+      "simplified": "失策",
+      "traditional": "失策",
+      "meanings": [
+        {
+          "value": "to blunder"
+        },
+        {
+          "value": "to miscalculate"
+        },
+        {
+          "value": "miscalculation"
+        },
+        {
+          "value": "unwise (move)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

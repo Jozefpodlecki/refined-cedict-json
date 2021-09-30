@@ -1,0 +1,34 @@
+{
+  "simplified": "棋子",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qí zǐ",
+          "wade_giles_pinyin": "qi2 zi3"
+        }
+      ],
+      "simplified": "棋子",
+      "traditional": "棋子",
+      "meanings": [
+        {
+          "context": "figuratively",
+          "value": "a pawn (used by others for their own purposes)"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        },
+        {
+          "simplified": "顆",
+          "traditional": "颗",
+          "wade_giles_pinyin": "ke1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

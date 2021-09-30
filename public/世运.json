@@ -1,0 +1,29 @@
+{
+  "simplified": "世运",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shì yùn",
+          "wade_giles_pinyin": "Shi4 Yun4"
+        }
+      ],
+      "simplified": "世运",
+      "traditional": "世運",
+      "meanings": [
+        {
+          "value": "World Games"
+        },
+        {
+          "context": "abbreviation",
+          "value": "世界運動會|世界运动会[Shi4 jie4 Yun4 dong4 hui4]",
+          "simplified": "世",
+          "traditional": "界運動會|世界运动会",
+          "wade_giles_pinyin": "Shi4 jie4 Yun4 dong4 hui4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

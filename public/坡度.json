@@ -1,0 +1,32 @@
+{
+  "simplified": "坡度",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " pō dù",
+          "wade_giles_pinyin": "po1 du4"
+        }
+      ],
+      "simplified": "坡度",
+      "simplified_stroke_count": 0,
+      "traditional": "坡度",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "gradient"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "slope"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

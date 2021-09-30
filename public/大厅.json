@@ -1,0 +1,25 @@
+{
+  "simplified": "大厅",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dà tīng",
+          "wade_giles_pinyin": "da4 ting1"
+        }
+      ],
+      "simplified": "大厅",
+      "traditional": "大廳",
+      "meanings": [
+        {
+          "value": "hall"
+        },
+        {
+          "value": "lounge"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

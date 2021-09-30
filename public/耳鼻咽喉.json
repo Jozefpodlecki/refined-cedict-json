@@ -1,0 +1,32 @@
+{
+  "simplified": "耳鼻咽喉",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " ěr bí yān hóu",
+          "wade_giles_pinyin": "er3 bi2 yan1 hou2"
+        }
+      ],
+      "simplified": "耳鼻咽喉",
+      "simplified_stroke_count": 0,
+      "traditional": "耳鼻咽喉",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "ear nose and throat"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "otolaryngology"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

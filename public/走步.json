@@ -1,0 +1,33 @@
+{
+  "simplified": "走步",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zǒu bù",
+          "wade_giles_pinyin": "zou3 bu4"
+        }
+      ],
+      "simplified": "走步",
+      "traditional": "走步",
+      "meanings": [
+        {
+          "value": "to walk"
+        },
+        {
+          "value": "to step"
+        },
+        {
+          "value": "pace"
+        },
+        {
+          "value": "traveling (walking with the ball, a foul in basketball)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

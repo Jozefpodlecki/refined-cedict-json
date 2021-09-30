@@ -1,0 +1,31 @@
+{
+  "simplified": "面壁",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "miàn bì",
+          "wade_giles_pinyin": "mian4 bi4"
+        }
+      ],
+      "simplified": "面壁",
+      "traditional": "面壁",
+      "meanings": [
+        {
+          "value": "to face the wall"
+        },
+        {
+          "value": "to sit facing the wall in meditation (Buddhism)"
+        },
+        {
+          "context": "figuratively",
+          "value": "to devote oneself to study, work etc"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

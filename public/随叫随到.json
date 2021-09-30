@@ -1,0 +1,27 @@
+{
+  "simplified": "随叫随到",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "suí jiào suí dào",
+          "wade_giles_pinyin": "sui2 jiao4 sui2 dao4"
+        }
+      ],
+      "simplified": "随叫随到",
+      "traditional": "隨叫隨到",
+      "meanings": [
+        {
+          "value": "to be available at any time"
+        },
+        {
+          "value": "to be on call"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

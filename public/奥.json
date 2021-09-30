@@ -1,0 +1,70 @@
+{
+  "simplified": "奥",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "aò",
+          "wade_giles_pinyin": "Ao4"
+        }
+      ],
+      "simplified": "奥",
+      "simplified_stroke_count": 12,
+      "traditional": "奧",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "Austria"
+        },
+        {
+          "value": "Austrian"
+        },
+        {
+          "context": "abbreviation",
+          "value": "奧地利|奥地利[Ao4 di4 li4]",
+          "simplified": "奧",
+          "traditional": "地利|奥地利",
+          "wade_giles_pinyin": "Ao4 di4 li4"
+        },
+        {
+          "value": "Olympic"
+        },
+        {
+          "value": "Olympics"
+        },
+        {
+          "context": "abbreviation",
+          "value": "奧林匹克|奥林匹克[Ao4 lin2 pi3 ke4]",
+          "simplified": "奧",
+          "traditional": "林匹克|奥林匹克",
+          "wade_giles_pinyin": "Ao4 lin2 pi3 ke4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "aò",
+          "wade_giles_pinyin": "ao4"
+        }
+      ],
+      "simplified": "奥",
+      "simplified_stroke_count": 12,
+      "traditional": "奧",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "obscure"
+        },
+        {
+          "value": "mysterious"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

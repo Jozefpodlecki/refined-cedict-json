@@ -1,0 +1,30 @@
+{
+  "simplified": "保固",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǎo gù",
+          "wade_giles_pinyin": "bao3 gu4"
+        }
+      ],
+      "simplified": "保固",
+      "traditional": "保固",
+      "meanings": [
+        {
+          "value": "to undertake to rectify any deficiencies in the quality of a building, product or service"
+        },
+        {
+          "value": "warranty"
+        },
+        {
+          "value": "guarantee"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

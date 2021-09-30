@@ -1,0 +1,60 @@
+{
+  "simplified": "妆",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhuāng",
+          "wade_giles_pinyin": "zhuang1"
+        }
+      ],
+      "simplified": "妆",
+      "simplified_stroke_count": 6,
+      "traditional": "妝",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "value": "(of a woman) to adorn oneself"
+        },
+        {
+          "value": "makeup"
+        },
+        {
+          "value": "adornment"
+        },
+        {
+          "value": "trousseau"
+        },
+        {
+          "value": "stage makeup and costume"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhuāng",
+          "wade_giles_pinyin": "zhuang1"
+        }
+      ],
+      "simplified": "妆",
+      "simplified_stroke_count": 6,
+      "traditional": "粧",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 妝|妆[zhuang1]",
+          "simplified": "妝",
+          "traditional": "妆",
+          "wade_giles_pinyin": "zhuang1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

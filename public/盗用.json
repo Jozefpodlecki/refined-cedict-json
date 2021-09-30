@@ -1,0 +1,30 @@
+{
+  "simplified": "盗用",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dào yòng",
+          "wade_giles_pinyin": "dao4 yong4"
+        }
+      ],
+      "simplified": "盗用",
+      "traditional": "盜用",
+      "meanings": [
+        {
+          "value": "to use illegitimately"
+        },
+        {
+          "value": "to misappropriate"
+        },
+        {
+          "value": "to embezzle"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

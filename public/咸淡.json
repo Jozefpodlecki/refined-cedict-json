@@ -1,0 +1,37 @@
+{
+  "simplified": "咸淡",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xián dàn",
+          "wade_giles_pinyin": "xian2 dan4"
+        }
+      ],
+      "simplified": "咸淡",
+      "simplified_stroke_count": 0,
+      "traditional": "鹹淡",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "salty and unsalty (flavors)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "degree of saltiness"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "brackish (water)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

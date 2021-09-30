@@ -1,0 +1,69 @@
+{
+  "simplified": "锁定",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " suǒ dìng",
+          "wade_giles_pinyin": "suo3 ding4"
+        }
+      ],
+      "simplified": "锁定",
+      "simplified_stroke_count": 0,
+      "traditional": "鎖定",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to lock (a door)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to close with a latch"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to lock into place"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "a lock"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "a latch"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to lock a computer file (to prevent it being overwritten)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to lock (denying access to a computer system or device or files, e.g. by password-protection)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to focus attention on"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to target"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

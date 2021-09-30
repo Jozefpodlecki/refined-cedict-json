@@ -1,0 +1,33 @@
+{
+  "simplified": "录音",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lù yīn",
+          "wade_giles_pinyin": "lu4 yin1"
+        }
+      ],
+      "simplified": "录音",
+      "traditional": "錄音",
+      "meanings": [
+        {
+          "value": "to record (sound)"
+        },
+        {
+          "value": "sound recording"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

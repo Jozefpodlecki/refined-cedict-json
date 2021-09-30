@@ -1,0 +1,103 @@
+{
+  "simplified": "板",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǎn",
+          "wade_giles_pinyin": "ban3"
+        }
+      ],
+      "simplified": "板",
+      "simplified_stroke_count": 8,
+      "traditional": "板",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "board"
+        },
+        {
+          "value": "plank"
+        },
+        {
+          "value": "plate"
+        },
+        {
+          "value": "shutter"
+        },
+        {
+          "value": "table tennis bat"
+        },
+        {
+          "value": "clappers (music)"
+        },
+        {
+          "value": "accented beat in Chinese music"
+        },
+        {
+          "value": "hard"
+        },
+        {
+          "value": "stiff"
+        },
+        {
+          "value": "to stop smiling or look serious"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "塊",
+          "traditional": "块",
+          "wade_giles_pinyin": "kuai4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǎn",
+          "wade_giles_pinyin": "ban3"
+        }
+      ],
+      "simplified": "板",
+      "simplified_stroke_count": 8,
+      "traditional": "闆",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "see 老闆|老板, boss"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pàn",
+          "wade_giles_pinyin": "pan4"
+        }
+      ],
+      "simplified": "板",
+      "simplified_stroke_count": 8,
+      "traditional": "闆",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "context": "old",
+          "value": "to catch sight of in a doorway"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

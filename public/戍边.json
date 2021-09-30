@@ -1,0 +1,39 @@
+{
+  "simplified": "戍边",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shù biān",
+          "wade_giles_pinyin": "shu4 bian1"
+        }
+      ],
+      "simplified": "戍边",
+      "simplified_stroke_count": 0,
+      "traditional": "戍邊",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to garrison the border"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to guard the frontier"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "exile to a border garrison post"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

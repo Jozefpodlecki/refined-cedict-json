@@ -1,0 +1,32 @@
+{
+  "simplified": "泛音",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fàn yīn",
+          "wade_giles_pinyin": "fan4 yin1"
+        }
+      ],
+      "simplified": "泛音",
+      "simplified_stroke_count": 0,
+      "traditional": "泛音",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "overtone"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "a harmonic"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

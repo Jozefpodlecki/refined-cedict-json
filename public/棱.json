@@ -1,0 +1,68 @@
+{
+  "simplified": "棱",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " léng",
+          "wade_giles_pinyin": "leng2"
+        }
+      ],
+      "simplified": "棱",
+      "simplified_stroke_count": 12,
+      "traditional": "棱",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "square beam"
+        },
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "稜|棱[leng2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " léng",
+          "wade_giles_pinyin": "leng2"
+        }
+      ],
+      "simplified": "棱",
+      "simplified_stroke_count": 12,
+      "traditional": "稜",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "corner"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "edge"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "arris (sharp ridge formed by two surfaces meeting at an edge)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "protrusion"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

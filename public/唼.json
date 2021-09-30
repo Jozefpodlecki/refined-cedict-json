@@ -1,0 +1,30 @@
+{
+  "simplified": "唼",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shǎ",
+          "wade_giles_pinyin": "sha3"
+        }
+      ],
+      "simplified": "唼",
+      "simplified_stroke_count": 11,
+      "traditional": "唼",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "to speak evil"
+        },
+        {
+          "value": "gobbling sound made by ducks"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

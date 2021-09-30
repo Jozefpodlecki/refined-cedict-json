@@ -1,0 +1,83 @@
+{
+  "simplified": "眉目",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " méi mù",
+          "wade_giles_pinyin": "mei2 mu4"
+        }
+      ],
+      "simplified": "眉目",
+      "simplified_stroke_count": 0,
+      "traditional": "眉目",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "general facial appearance"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "features"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "arrangement"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "sequence of ideas"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "logic (of writing)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "rough sketch or general idea of things"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " méi mu",
+          "wade_giles_pinyin": "mei2 mu5"
+        }
+      ],
+      "simplified": "眉目",
+      "simplified_stroke_count": 0,
+      "traditional": "眉目",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "progress"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "prospect of solution"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "sign of positive outcome"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

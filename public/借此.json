@@ -1,0 +1,32 @@
+{
+  "simplified": "借此",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiè cǐ",
+          "wade_giles_pinyin": "jie4 ci3"
+        }
+      ],
+      "simplified": "借此",
+      "simplified_stroke_count": null,
+      "traditional": "藉此",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "using this as a pretext"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "thereby"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

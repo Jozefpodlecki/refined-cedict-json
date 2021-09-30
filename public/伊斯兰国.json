@@ -1,0 +1,37 @@
+{
+  "simplified": "伊斯兰国",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yī sī lán guó",
+          "wade_giles_pinyin": "Yi1 si1 lan2 guo2"
+        }
+      ],
+      "simplified": "伊斯兰国",
+      "simplified_stroke_count": 0,
+      "traditional": "伊斯蘭國",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Muslim countries"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "caliphate"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Islamic State group (aka IS or ISIL or ISIS)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

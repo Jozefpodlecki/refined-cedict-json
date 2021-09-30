@@ -1,0 +1,39 @@
+{
+  "simplified": "谰言",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " lán yán",
+          "wade_giles_pinyin": "lan2 yan2"
+        }
+      ],
+      "simplified": "谰言",
+      "simplified_stroke_count": 0,
+      "traditional": "讕言",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "slander"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "calumny"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to accuse unjustly"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

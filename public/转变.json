@@ -1,0 +1,39 @@
+{
+  "simplified": "转变",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhuǎn biàn",
+          "wade_giles_pinyin": "zhuan3 bian4"
+        }
+      ],
+      "simplified": "转变",
+      "traditional": "轉變",
+      "meanings": [
+        {
+          "value": "to change"
+        },
+        {
+          "value": "to transform"
+        },
+        {
+          "value": "shift"
+        },
+        {
+          "value": "transformation"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

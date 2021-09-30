@@ -1,0 +1,48 @@
+{
+  "simplified": "圆",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yuán",
+          "wade_giles_pinyin": "yuan2"
+        }
+      ],
+      "simplified": "圆",
+      "simplified_stroke_count": 10,
+      "traditional": "圓",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "circle"
+        },
+        {
+          "value": "round"
+        },
+        {
+          "value": "circular"
+        },
+        {
+          "value": "spherical"
+        },
+        {
+          "value": "(of the moon) full"
+        },
+        {
+          "value": "unit of Chinese currency (yuan)"
+        },
+        {
+          "value": "tactful"
+        },
+        {
+          "value": "to make consistent and whole (the narrative of a dream or a lie)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

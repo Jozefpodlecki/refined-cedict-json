@@ -1,0 +1,31 @@
+{
+  "simplified": "灼伤",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhuó shāng",
+          "wade_giles_pinyin": "zhuo2 shang1"
+        }
+      ],
+      "simplified": "灼伤",
+      "traditional": "灼傷",
+      "meanings": [
+        {
+          "value": "a burn (tissue damage from heat, chemicals etc)"
+        },
+        {
+          "value": "to burn (the skin etc)"
+        },
+        {
+          "context": "figuratively",
+          "value": "(of anger, jealousy etc) to hurt (sb)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

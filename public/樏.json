@@ -1,0 +1,57 @@
+{
+  "simplified": "樏",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " léi",
+          "wade_giles_pinyin": "lei2"
+        },
+        {
+          "pinyin": " lěi",
+          "wade_giles_pinyin": "lei3"
+        }
+      ],
+      "simplified": "樏",
+      "simplified_stroke_count": 15,
+      "traditional": "樏",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(archaic) simple sedan chair for traveling in the mountains"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(archaic) platter with compartments for food (also pr. [lei3])"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " lěi",
+          "wade_giles_pinyin": "lei3"
+        }
+      ],
+      "simplified": "樏",
+      "simplified_stroke_count": 15,
+      "traditional": "樏",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "mountain-climbing shoes"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

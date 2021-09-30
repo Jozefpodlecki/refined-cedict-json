@@ -1,0 +1,34 @@
+{
+  "simplified": "斟",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhēn",
+          "wade_giles_pinyin": "zhen1"
+        }
+      ],
+      "simplified": "斟",
+      "simplified_stroke_count": 13,
+      "traditional": "斟",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to pour"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to deliberate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

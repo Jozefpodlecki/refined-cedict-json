@@ -1,0 +1,39 @@
+{
+  "simplified": "动摇",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dòng yáo",
+          "wade_giles_pinyin": "dong4 yao2"
+        }
+      ],
+      "simplified": "动摇",
+      "traditional": "動搖",
+      "meanings": [
+        {
+          "value": "to sway"
+        },
+        {
+          "value": "to waver"
+        },
+        {
+          "value": "to rock"
+        },
+        {
+          "value": "to rattle"
+        },
+        {
+          "value": "to destabilize"
+        },
+        {
+          "value": "to pose a challenge to"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

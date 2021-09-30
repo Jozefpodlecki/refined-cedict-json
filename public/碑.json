@@ -1,0 +1,32 @@
+{
+  "simplified": "碑",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bēi",
+          "wade_giles_pinyin": "bei1"
+        }
+      ],
+      "simplified": "碑",
+      "simplified_stroke_count": 13,
+      "traditional": "碑",
+      "traditional_stroke_count": 13,
+      "meanings": [],
+      "classifiers": [
+        {
+          "simplified": "塊",
+          "traditional": "块",
+          "wade_giles_pinyin": "kuai4"
+        },
+        {
+          "simplified": "面",
+          "traditional": "",
+          "wade_giles_pinyin": "mian4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

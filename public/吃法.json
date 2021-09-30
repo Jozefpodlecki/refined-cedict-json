@@ -1,0 +1,31 @@
+{
+  "simplified": "吃法",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chī fǎ",
+          "wade_giles_pinyin": "chi1 fa3"
+        }
+      ],
+      "simplified": "吃法",
+      "traditional": "吃法",
+      "meanings": [
+        {
+          "value": "way of eating"
+        },
+        {
+          "value": "how something is eaten"
+        },
+        {
+          "value": "how a dish is prepared"
+        },
+        {
+          "value": "the way a dish is to be cooked"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

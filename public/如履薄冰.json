@@ -1,0 +1,32 @@
+{
+  "simplified": "如履薄冰",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rú lǚ bó bīng",
+          "wade_giles_pinyin": "ru2 lu:3 bo2 bing1"
+        }
+      ],
+      "simplified": "如履薄冰",
+      "traditional": "如履薄冰",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "as if walking on thin ice"
+        },
+        {
+          "value": "fig. to be extremely cautious"
+        },
+        {
+          "value": "to be skating on thin ice"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

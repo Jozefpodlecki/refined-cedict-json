@@ -1,0 +1,69 @@
+{
+  "simplified": "繇",
+  "simplified_stroke_count": 17,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yáo",
+          "wade_giles_pinyin": "yao2"
+        }
+      ],
+      "simplified": "繇",
+      "simplified_stroke_count": 17,
+      "traditional": "繇",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "folk-song"
+        },
+        {
+          "value": "forced labor"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yóu",
+          "wade_giles_pinyin": "you2"
+        }
+      ],
+      "simplified": "繇",
+      "simplified_stroke_count": 17,
+      "traditional": "繇",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "cause"
+        },
+        {
+          "value": "means"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhòu",
+          "wade_giles_pinyin": "zhou4"
+        }
+      ],
+      "simplified": "繇",
+      "simplified_stroke_count": 17,
+      "traditional": "繇",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "interpretations of the trigrams"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

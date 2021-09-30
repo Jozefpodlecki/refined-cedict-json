@@ -1,0 +1,44 @@
+{
+  "simplified": "打通",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dǎ tōng",
+          "wade_giles_pinyin": "da3 tong1"
+        }
+      ],
+      "simplified": "打通",
+      "simplified_stroke_count": 0,
+      "traditional": "打通",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to open access"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to establish contact"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to remove a block"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to put through (a phone connection)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

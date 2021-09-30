@@ -1,0 +1,51 @@
+{
+  "simplified": "厚薄",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hòu báo",
+          "wade_giles_pinyin": "hou4 bao2"
+        },
+        {
+          "pinyin": "hòu bó",
+          "wade_giles_pinyin": "hou4 bo2"
+        }
+      ],
+      "simplified": "厚薄",
+      "traditional": "厚薄",
+      "meanings": [
+        {
+          "value": "thickness"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hòu bó",
+          "wade_giles_pinyin": "hou4 bo2"
+        }
+      ],
+      "simplified": "厚薄",
+      "traditional": "厚薄",
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "value": "to favor one and discriminate against the other ( 厚此薄彼[hou4 ci3 bo2 bi3])",
+          "simplified": "t",
+          "traditional": "o favor one and discriminate against the other ( 厚此薄彼",
+          "wade_giles_pinyin": "hou4 ci3 bo2 bi3"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

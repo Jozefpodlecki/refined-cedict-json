@@ -1,0 +1,33 @@
+{
+  "simplified": "预约",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yù yuē",
+          "wade_giles_pinyin": "yu4 yue1"
+        }
+      ],
+      "simplified": "预约",
+      "traditional": "預約",
+      "meanings": [
+        {
+          "value": "booking"
+        },
+        {
+          "value": "reservation"
+        },
+        {
+          "value": "to book"
+        },
+        {
+          "value": "to make an appointment"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

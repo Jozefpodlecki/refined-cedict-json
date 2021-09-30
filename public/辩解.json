@@ -1,0 +1,36 @@
+{
+  "simplified": "辩解",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "biàn jiě",
+          "wade_giles_pinyin": "bian4 jie3"
+        }
+      ],
+      "simplified": "辩解",
+      "traditional": "辯解",
+      "meanings": [
+        {
+          "value": "to explain"
+        },
+        {
+          "value": "to justify"
+        },
+        {
+          "value": "to defend (a point of view etc)"
+        },
+        {
+          "value": "to provide an explanation"
+        },
+        {
+          "value": "to try to defend oneself"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

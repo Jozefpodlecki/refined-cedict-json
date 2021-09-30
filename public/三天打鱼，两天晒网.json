@@ -1,0 +1,39 @@
+{
+  "simplified": "三天打鱼，两天晒网",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sān tiān dǎ yú , liǎng tiān shài wǎng",
+          "wade_giles_pinyin": "san1 tian1 da3 yu2 , liang3 tian1 shai4 wang3"
+        }
+      ],
+      "simplified": "三天打鱼，两天晒网",
+      "simplified_stroke_count": null,
+      "traditional": "三天打魚，兩天曬網",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": null,
+          "value": "to fish for three days and sun-dry the nets for two days (proverb)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "fig. not to persevere in doing sth"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to do sth by fits and starts"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

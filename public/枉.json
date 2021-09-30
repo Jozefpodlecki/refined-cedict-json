@@ -1,0 +1,36 @@
+{
+  "simplified": "枉",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wǎng",
+          "wade_giles_pinyin": "wang3"
+        }
+      ],
+      "simplified": "枉",
+      "simplified_stroke_count": 8,
+      "traditional": "枉",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "to twist"
+        },
+        {
+          "value": "crooked"
+        },
+        {
+          "value": "unjust"
+        },
+        {
+          "value": "in vain"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

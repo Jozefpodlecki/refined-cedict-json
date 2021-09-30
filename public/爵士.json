@@ -1,0 +1,29 @@
+{
+  "simplified": "爵士",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jué shì",
+          "wade_giles_pinyin": "jue2 shi4"
+        }
+      ],
+      "simplified": "爵士",
+      "traditional": "爵士",
+      "meanings": [
+        {
+          "value": "knight"
+        },
+        {
+          "value": "Sir"
+        },
+        {
+          "context": "loanword",
+          "value": "jazz"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

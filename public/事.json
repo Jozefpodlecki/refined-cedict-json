@@ -1,0 +1,68 @@
+{
+  "simplified": "事",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shì",
+          "wade_giles_pinyin": "shi4"
+        }
+      ],
+      "simplified": "事",
+      "simplified_stroke_count": 8,
+      "traditional": "事",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "matter"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "thing"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "item"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "work"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "affair"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "CL:件[jian4],樁|桩[zhuang1],回[hui2]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "件",
+          "traditional": "",
+          "wade_giles_pinyin": "jian4"
+        },
+        {
+          "simplified": "樁",
+          "traditional": "桩",
+          "wade_giles_pinyin": "zhuang1"
+        },
+        {
+          "simplified": "回",
+          "traditional": "",
+          "wade_giles_pinyin": "hui2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

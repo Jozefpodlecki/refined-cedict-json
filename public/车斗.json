@@ -1,0 +1,42 @@
+{
+  "simplified": "车斗",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chē dǒu",
+          "wade_giles_pinyin": "che1 dou3"
+        }
+      ],
+      "simplified": "车斗",
+      "simplified_stroke_count": 0,
+      "traditional": "車斗",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "open-topped container (mounted on a truck or cart) for carrying loads"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "dump box (of a dump truck)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "bucket (of a front loader)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "wheelbarrow"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

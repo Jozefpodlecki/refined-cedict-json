@@ -1,0 +1,32 @@
+{
+  "simplified": "课余",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " kè yú",
+          "wade_giles_pinyin": "ke4 yu2"
+        }
+      ],
+      "simplified": "课余",
+      "simplified_stroke_count": 0,
+      "traditional": "課餘",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "after school"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "extracurricular"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

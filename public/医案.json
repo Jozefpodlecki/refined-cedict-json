@@ -1,0 +1,25 @@
+{
+  "simplified": "医案",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yī àn",
+          "wade_giles_pinyin": "yi1 an4"
+        }
+      ],
+      "simplified": "医案",
+      "traditional": "醫案",
+      "meanings": [
+        {
+          "value": "case history (TCM)"
+        },
+        {
+          "value": "case record"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

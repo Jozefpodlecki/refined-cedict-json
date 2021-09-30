@@ -1,0 +1,30 @@
+{
+  "simplified": "征服",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhēng fú",
+          "wade_giles_pinyin": "zheng1 fu2"
+        }
+      ],
+      "simplified": "征服",
+      "traditional": "征服",
+      "meanings": [
+        {
+          "value": "to conquer"
+        },
+        {
+          "value": "to subdue"
+        },
+        {
+          "value": "to vanquish"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

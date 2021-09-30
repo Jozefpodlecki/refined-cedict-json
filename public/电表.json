@@ -1,0 +1,34 @@
+{
+  "simplified": "电表",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diàn biǎo",
+          "wade_giles_pinyin": "dian4 biao3"
+        }
+      ],
+      "simplified": "电表",
+      "traditional": "電表",
+      "meanings": [
+        {
+          "value": "power meter"
+        },
+        {
+          "value": "ammeter"
+        },
+        {
+          "value": "amperemeter"
+        },
+        {
+          "value": "wattmeter"
+        },
+        {
+          "value": "kilowatt-hour meter"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

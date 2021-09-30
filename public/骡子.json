@@ -1,0 +1,33 @@
+{
+  "simplified": "骡子",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "luó zi",
+          "wade_giles_pinyin": "luo2 zi5"
+        }
+      ],
+      "simplified": "骡子",
+      "traditional": "騾子",
+      "meanings": [
+        {
+          "value": "mule"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "匹",
+          "traditional": "",
+          "wade_giles_pinyin": "pi3"
+        },
+        {
+          "simplified": "頭",
+          "traditional": "头",
+          "wade_giles_pinyin": "tou2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "simplified": "炮击",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pào jī",
+          "wade_giles_pinyin": "pao4 ji1"
+        }
+      ],
+      "simplified": "炮击",
+      "traditional": "炮擊",
+      "meanings": [
+        {
+          "value": "to shell"
+        },
+        {
+          "value": "to bombard"
+        },
+        {
+          "value": "bombardment"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pào jī",
+          "wade_giles_pinyin": "pao4 ji1"
+        }
+      ],
+      "simplified": "炮击",
+      "traditional": "砲擊",
+      "meanings": [
+        {
+          "value": "to shell"
+        },
+        {
+          "value": "to bombard"
+        },
+        {
+          "value": "bombardment"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

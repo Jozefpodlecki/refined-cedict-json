@@ -1,0 +1,50 @@
+{
+  "simplified": "京",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jīng",
+          "wade_giles_pinyin": "Jing1"
+        }
+      ],
+      "simplified": "京",
+      "simplified_stroke_count": 8,
+      "traditional": "京",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "value": "Beijing"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jīng",
+          "wade_giles_pinyin": "jing1"
+        }
+      ],
+      "simplified": "京",
+      "simplified_stroke_count": 8,
+      "traditional": "京",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "old",
+          "value": "algebraic term for a large number"
+        },
+        {
+          "context": "old",
+          "value": "artificial mound"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

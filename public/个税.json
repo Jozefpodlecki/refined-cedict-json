@@ -1,0 +1,23 @@
+{
+  "simplified": "个税",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gè shuì",
+          "wade_giles_pinyin": "ge4 shui4"
+        }
+      ],
+      "simplified": "个税",
+      "traditional": "個稅",
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "value": "personal income tax ( 個人所得稅|个人所得税)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

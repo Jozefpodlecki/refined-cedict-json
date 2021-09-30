@@ -1,0 +1,28 @@
+{
+  "simplified": "公元",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gōng yuán",
+          "wade_giles_pinyin": "gong1 yuan2"
+        }
+      ],
+      "simplified": "公元",
+      "traditional": "公元",
+      "meanings": [
+        {
+          "value": "CE (Common Era)"
+        },
+        {
+          "value": "Christian Era"
+        },
+        {
+          "value": "AD (Anno Domini)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

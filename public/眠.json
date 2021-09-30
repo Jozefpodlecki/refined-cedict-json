@@ -1,0 +1,30 @@
+{
+  "simplified": "眠",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mián",
+          "wade_giles_pinyin": "mian2"
+        }
+      ],
+      "simplified": "眠",
+      "simplified_stroke_count": 10,
+      "traditional": "眠",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "to sleep"
+        },
+        {
+          "value": "to hibernate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

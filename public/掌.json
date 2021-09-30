@@ -1,0 +1,45 @@
+{
+  "simplified": "掌",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhǎng",
+          "wade_giles_pinyin": "zhang3"
+        }
+      ],
+      "simplified": "掌",
+      "simplified_stroke_count": 12,
+      "traditional": "掌",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "palm of the hand"
+        },
+        {
+          "value": "sole of the foot"
+        },
+        {
+          "value": "paw"
+        },
+        {
+          "value": "horseshoe"
+        },
+        {
+          "value": "to slap"
+        },
+        {
+          "value": "to hold in one's hand"
+        },
+        {
+          "value": "to wield"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

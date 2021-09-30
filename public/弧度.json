@@ -1,0 +1,31 @@
+{
+  "simplified": "弧度",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hú dù",
+          "wade_giles_pinyin": "hu2 du4"
+        }
+      ],
+      "simplified": "弧度",
+      "traditional": "弧度",
+      "meanings": [
+        {
+          "value": "radian"
+        },
+        {
+          "value": "arc"
+        },
+        {
+          "value": "curve"
+        },
+        {
+          "value": "curvature"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

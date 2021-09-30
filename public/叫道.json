@@ -1,0 +1,34 @@
+{
+  "simplified": "叫道",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jiào dào",
+          "wade_giles_pinyin": "jiao4 dao4"
+        }
+      ],
+      "simplified": "叫道",
+      "simplified_stroke_count": 0,
+      "traditional": "叫道",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to call"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to shout"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

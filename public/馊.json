@@ -1,0 +1,32 @@
+{
+  "simplified": "馊",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sōu",
+          "wade_giles_pinyin": "sou1"
+        }
+      ],
+      "simplified": "馊",
+      "simplified_stroke_count": 12,
+      "traditional": "餿",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "rancid"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "soured (as food)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "自言自语",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zì yán zì yǔ",
+          "wade_giles_pinyin": "zi4 yan2 zi4 yu3"
+        }
+      ],
+      "simplified": "自言自语",
+      "simplified_stroke_count": 0,
+      "traditional": "自言自語",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to talk to oneself"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to think aloud"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to soliloquize"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

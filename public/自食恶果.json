@@ -1,0 +1,32 @@
+{
+  "simplified": "自食恶果",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zì shí è guǒ",
+          "wade_giles_pinyin": "zi4 shi2 e4 guo3"
+        }
+      ],
+      "simplified": "自食恶果",
+      "traditional": "自食惡果",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "to eat one's own bitter fruit"
+        },
+        {
+          "value": "fig. to suffer the consequences of one's own actions"
+        },
+        {
+          "value": "to stew in one's own juice"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

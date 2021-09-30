@@ -1,0 +1,39 @@
+{
+  "simplified": "点穴",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " diǎn xué",
+          "wade_giles_pinyin": "dian3 xue2"
+        }
+      ],
+      "simplified": "点穴",
+      "simplified_stroke_count": 0,
+      "traditional": "點穴",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to hit a pressure point (martial arts)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "dim mak"
+        },
+        {
+          "context": "see also",
+          "lexical_item": "",
+          "value": "點脈|点脉[dian3 mai4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "跌幅",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diē fú",
+          "wade_giles_pinyin": "die1 fu2"
+        }
+      ],
+      "simplified": "跌幅",
+      "simplified_stroke_count": null,
+      "traditional": "跌幅",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "decline (in value)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "extent of a drop"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

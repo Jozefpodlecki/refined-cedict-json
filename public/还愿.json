@@ -1,0 +1,30 @@
+{
+  "simplified": "还愿",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huán yuàn",
+          "wade_giles_pinyin": "huan2 yuan4"
+        }
+      ],
+      "simplified": "还愿",
+      "traditional": "還願",
+      "meanings": [
+        {
+          "value": "to redeem a vow (to a deity)"
+        },
+        {
+          "value": "to fulfill a promise"
+        },
+        {
+          "value": "votive"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

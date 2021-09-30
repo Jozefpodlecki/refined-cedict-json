@@ -1,0 +1,61 @@
+{
+  "simplified": "窑",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yáo",
+          "wade_giles_pinyin": "yao2"
+        }
+      ],
+      "simplified": "窑",
+      "simplified_stroke_count": 11,
+      "traditional": "窯",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "kiln"
+        },
+        {
+          "value": "oven"
+        },
+        {
+          "value": "coal pit"
+        },
+        {
+          "value": "cave dwelling"
+        },
+        {
+          "context": "colloquial",
+          "value": "brothel"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yáo",
+          "wade_giles_pinyin": "yao2"
+        }
+      ],
+      "simplified": "窑",
+      "simplified_stroke_count": 11,
+      "traditional": "窰",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 窯|窑[yao2]",
+          "simplified": "窯",
+          "traditional": "窑",
+          "wade_giles_pinyin": "yao2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "翘辫子",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " qiào biàn zi",
+          "wade_giles_pinyin": "qiao4 bian4 zi5"
+        }
+      ],
+      "simplified": "翘辫子",
+      "simplified_stroke_count": 0,
+      "traditional": "翹辮子",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "colloquial",
+          "lexical_item": "",
+          "value": "to die"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to kick the bucket"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

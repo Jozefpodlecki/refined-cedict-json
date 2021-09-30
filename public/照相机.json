@@ -1,0 +1,44 @@
+{
+  "simplified": "照相机",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhào xiàng jī",
+          "wade_giles_pinyin": "zhao4 xiang4 ji1"
+        }
+      ],
+      "simplified": "照相机",
+      "traditional": "照相機",
+      "meanings": [],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        },
+        {
+          "simplified": "架",
+          "traditional": "",
+          "wade_giles_pinyin": "jia4"
+        },
+        {
+          "simplified": "部",
+          "traditional": "",
+          "wade_giles_pinyin": "bu4"
+        },
+        {
+          "simplified": "台",
+          "traditional": "",
+          "wade_giles_pinyin": "tai2"
+        },
+        {
+          "simplified": "隻",
+          "traditional": "只",
+          "wade_giles_pinyin": "zhi1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

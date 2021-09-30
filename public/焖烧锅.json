@@ -1,0 +1,33 @@
+{
+  "simplified": "焖烧锅",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mèn shāo guō",
+          "wade_giles_pinyin": "men4 shao1 guo1"
+        }
+      ],
+      "simplified": "焖烧锅",
+      "traditional": "燜燒鍋",
+      "meanings": [
+        {
+          "value": "to casserole"
+        },
+        {
+          "value": "to stew"
+        },
+        {
+          "value": "vacuum flask"
+        },
+        {
+          "value": "cooker"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

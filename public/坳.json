@@ -1,0 +1,44 @@
+{
+  "simplified": "坳",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "aò",
+          "wade_giles_pinyin": "ao4"
+        }
+      ],
+      "simplified": "坳",
+      "simplified_stroke_count": 8,
+      "traditional": "㘭",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 坳[ao4]",
+          "simplified": "坳",
+          "traditional": "",
+          "wade_giles_pinyin": "ao4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "aò",
+          "wade_giles_pinyin": "ao4"
+        }
+      ],
+      "simplified": "坳",
+      "simplified_stroke_count": 8,
+      "traditional": "坳",
+      "traditional_stroke_count": 8,
+      "meanings": [],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

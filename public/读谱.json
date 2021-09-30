@@ -1,0 +1,34 @@
+{
+  "simplified": "读谱",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dú pǔ",
+          "wade_giles_pinyin": "du2 pu3"
+        }
+      ],
+      "simplified": "读谱",
+      "simplified_stroke_count": 0,
+      "traditional": "讀譜",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to read a score"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to read music"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

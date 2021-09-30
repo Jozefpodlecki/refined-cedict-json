@@ -1,0 +1,44 @@
+{
+  "simplified": "献身",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xiàn shēn",
+          "wade_giles_pinyin": "xian4 shen1"
+        }
+      ],
+      "simplified": "献身",
+      "simplified_stroke_count": 0,
+      "traditional": "獻身",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to commit one's energy to"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to devote oneself to"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to sacrifice one's life for"
+        },
+        {
+          "context": "colloquial",
+          "lexical_item": "",
+          "value": "(of a woman) to give one's virginity to"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "今天",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jīn tiān",
+          "wade_giles_pinyin": "jin1 tian1"
+        }
+      ],
+      "simplified": "今天",
+      "traditional": "今天",
+      "meanings": [
+        {
+          "value": "today"
+        },
+        {
+          "value": "at the present"
+        },
+        {
+          "value": "now"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "Dates and days of week",
+        "adverb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "simplified": "专用集成电路",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhuān yòng jí chéng diàn lù",
+          "wade_giles_pinyin": "zhuan1 yong4 ji2 cheng2 dian4 lu4"
+        }
+      ],
+      "simplified": "专用集成电路",
+      "simplified_stroke_count": 0,
+      "traditional": "專用集成電路",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "application-specific integrated circuit (ASIC)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

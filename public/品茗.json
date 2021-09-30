@@ -1,0 +1,27 @@
+{
+  "simplified": "品茗",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pǐn míng",
+          "wade_giles_pinyin": "pin3 ming2"
+        }
+      ],
+      "simplified": "品茗",
+      "traditional": "品茗",
+      "meanings": [
+        {
+          "value": "to taste tea"
+        },
+        {
+          "value": "to sip tea"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

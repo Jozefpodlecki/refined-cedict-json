@@ -1,0 +1,33 @@
+{
+  "simplified": "挥洒",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huī sǎ",
+          "wade_giles_pinyin": "hui1 sa3"
+        }
+      ],
+      "simplified": "挥洒",
+      "traditional": "揮灑",
+      "meanings": [
+        {
+          "value": "to sprinkle"
+        },
+        {
+          "value": "to shed (tears, blood etc)"
+        },
+        {
+          "value": "fig. free, unconstrained"
+        },
+        {
+          "value": "to write in a free style"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

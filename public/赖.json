@@ -1,0 +1,97 @@
+{
+  "simplified": "赖",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lài",
+          "wade_giles_pinyin": "Lai4"
+        }
+      ],
+      "simplified": "赖",
+      "simplified_stroke_count": 13,
+      "traditional": "賴",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "surname Lai"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lài",
+          "wade_giles_pinyin": "lai4"
+        }
+      ],
+      "simplified": "赖",
+      "simplified_stroke_count": 13,
+      "traditional": "賴",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "to depend on"
+        },
+        {
+          "value": "to hang on in a place"
+        },
+        {
+          "value": "bad"
+        },
+        {
+          "value": "to renege (on promise)"
+        },
+        {
+          "value": "to disclaim"
+        },
+        {
+          "value": "to rat (on debts)"
+        },
+        {
+          "value": "rascally"
+        },
+        {
+          "value": "to blame"
+        },
+        {
+          "value": "to put the blame on"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lài",
+          "wade_giles_pinyin": "lai4"
+        }
+      ],
+      "simplified": "赖",
+      "simplified_stroke_count": 13,
+      "traditional": "頼",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 賴|赖[lai4]",
+          "simplified": "賴",
+          "traditional": "赖",
+          "wade_giles_pinyin": "lai4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

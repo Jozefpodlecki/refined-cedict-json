@@ -1,0 +1,42 @@
+{
+  "simplified": "宗室",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zōng shì",
+          "wade_giles_pinyin": "zong1 shi4"
+        }
+      ],
+      "simplified": "宗室",
+      "simplified_stroke_count": null,
+      "traditional": "宗室",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "imperial clan"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "member of the imperial clan"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "clansman"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "ancestral shrine"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

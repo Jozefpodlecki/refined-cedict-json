@@ -1,0 +1,55 @@
+{
+  "simplified": "支子",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhī zǐ",
+          "wade_giles_pinyin": "zhi1 zi3"
+        }
+      ],
+      "simplified": "支子",
+      "traditional": "支子",
+      "meanings": [
+        {
+          "value": "son of a concubine or son of the wife other than her first"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhī zi",
+          "wade_giles_pinyin": "zhi1 zi5"
+        }
+      ],
+      "simplified": "支子",
+      "traditional": "支子",
+      "meanings": [
+        {
+          "value": "support"
+        },
+        {
+          "value": "stand"
+        },
+        {
+          "value": "trivet"
+        },
+        {
+          "value": "(cooking utensil) gridiron"
+        },
+        {
+          "context": "variant",
+          "value": "(variant of 梔子|栀子[zhi1 zi5]) cape jasmine",
+          "simplified": "(",
+          "traditional": " 梔子|栀子",
+          "wade_giles_pinyin": "zhi1 zi5"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

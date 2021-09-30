@@ -1,0 +1,85 @@
+{
+  "simplified": "□",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "biang4",
+          "wade_giles_pinyin": "biang4"
+        }
+      ],
+      "simplified": "□",
+      "traditional": "□",
+      "meanings": [
+        {
+          "context": "taiwan",
+          "value": "(coll.) cool"
+        },
+        {
+          "value": "awesome"
+        },
+        {
+          "value": "(etymologically, a contracted form of 不一樣|不一样[bu4 yi1 yang4])"
+        },
+        {
+          "value": "often written as ㄅㄧㄤˋ"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "biu1",
+          "wade_giles_pinyin": "biu1"
+        },
+        {
+          "pinyin": "biu4",
+          "wade_giles_pinyin": "biu4"
+        }
+      ],
+      "simplified": "□",
+      "traditional": "□",
+      "meanings": [
+        {
+          "value": "(onom.) pew! (sound of a bullet fired from a gun)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ging1",
+          "wade_giles_pinyin": "ging1"
+        }
+      ],
+      "simplified": "□",
+      "traditional": "□",
+      "meanings": [
+        {
+          "value": "uptight"
+        },
+        {
+          "value": "obstinate"
+        },
+        {
+          "value": "to awkwardly force oneself to do sth"
+        },
+        {
+          "value": "(Taiwanese, Tai-lo pr. [king], often written as ㄍㄧㄥ, no generally accepted hanzi form)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

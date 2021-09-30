@@ -1,0 +1,35 @@
+{
+  "simplified": "遮羞布",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhē xiū bù",
+          "wade_giles_pinyin": "zhe1 xiu1 bu4"
+        }
+      ],
+      "simplified": "遮羞布",
+      "traditional": "遮羞布",
+      "meanings": [
+        {
+          "value": "loincloth"
+        },
+        {
+          "context": "figuratively",
+          "value": "fig leaf"
+        },
+        {
+          "value": "CL:塊|块[kuai4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "塊",
+          "traditional": "块",
+          "wade_giles_pinyin": "kuai4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

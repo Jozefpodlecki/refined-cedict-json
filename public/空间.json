@@ -1,0 +1,38 @@
+{
+  "simplified": "空间",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kōng jiān",
+          "wade_giles_pinyin": "kong1 jian1"
+        }
+      ],
+      "simplified": "空间",
+      "traditional": "空間",
+      "meanings": [
+        {
+          "value": "space"
+        },
+        {
+          "value": "room"
+        },
+        {
+          "context": "figuratively",
+          "value": "scope"
+        },
+        {
+          "value": "leeway"
+        },
+        {
+          "value": "(astronomy) outer space"
+        },
+        {
+          "value": "(physics, math.) space"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

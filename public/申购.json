@@ -1,0 +1,34 @@
+{
+  "simplified": "申购",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shēn gòu",
+          "wade_giles_pinyin": "shen1 gou4"
+        }
+      ],
+      "simplified": "申购",
+      "simplified_stroke_count": 0,
+      "traditional": "申購",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to ask to buy"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to bid for purchase"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

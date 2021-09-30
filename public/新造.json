@@ -1,0 +1,39 @@
+{
+  "simplified": "新造",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xīn zào",
+          "wade_giles_pinyin": "Xin1 zao4"
+        }
+      ],
+      "simplified": "新造",
+      "traditional": "新造",
+      "meanings": [
+        {
+          "value": "Xinzao town, Guangdong"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xīn zào",
+          "wade_giles_pinyin": "xin1 zao4"
+        }
+      ],
+      "simplified": "新造",
+      "traditional": "新造",
+      "meanings": [
+        {
+          "value": "newly made"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

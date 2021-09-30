@@ -1,0 +1,28 @@
+{
+  "simplified": "压力计",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yā lì jì",
+          "wade_giles_pinyin": "ya1 li4 ji4"
+        }
+      ],
+      "simplified": "压力计",
+      "traditional": "壓力計",
+      "meanings": [
+        {
+          "value": "pressure gauge"
+        },
+        {
+          "value": "manometer"
+        },
+        {
+          "value": "piezometer"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

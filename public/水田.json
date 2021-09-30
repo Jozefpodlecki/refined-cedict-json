@@ -1,0 +1,32 @@
+{
+  "simplified": "水田",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shuǐ tián",
+          "wade_giles_pinyin": "shui3 tian2"
+        }
+      ],
+      "simplified": "水田",
+      "simplified_stroke_count": 0,
+      "traditional": "水田",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "paddy field"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "rice paddy"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

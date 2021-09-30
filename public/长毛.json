@@ -1,0 +1,68 @@
+{
+  "simplified": "长毛",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cháng máo",
+          "wade_giles_pinyin": "Chang2 mao2"
+        }
+      ],
+      "simplified": "长毛",
+      "traditional": "長毛",
+      "meanings": [
+        {
+          "value": "(derog.) the Longhairs (Taiping rebels of the 19th century)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cháng máo",
+          "wade_giles_pinyin": "chang2 mao2"
+        }
+      ],
+      "simplified": "长毛",
+      "traditional": "長毛",
+      "meanings": [
+        {
+          "value": "long-wool (sheep etc)"
+        },
+        {
+          "value": "long-haired (dog etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhǎng máo",
+          "wade_giles_pinyin": "zhang3 mao2"
+        }
+      ],
+      "simplified": "长毛",
+      "traditional": "長毛",
+      "meanings": [
+        {
+          "value": "to grow hair"
+        },
+        {
+          "value": "to become mildewed"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

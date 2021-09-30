@@ -1,0 +1,51 @@
+{
+  "simplified": "窝",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wō",
+          "wade_giles_pinyin": "wo1"
+        }
+      ],
+      "simplified": "窝",
+      "simplified_stroke_count": 12,
+      "traditional": "窩",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "nest"
+        },
+        {
+          "value": "pit or hollow on the human body"
+        },
+        {
+          "value": "lair"
+        },
+        {
+          "value": "den"
+        },
+        {
+          "value": "place"
+        },
+        {
+          "value": "to harbor or shelter"
+        },
+        {
+          "value": "to hold in check"
+        },
+        {
+          "value": "to bend"
+        },
+        {
+          "value": "classifier for litters and broods"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

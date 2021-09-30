@@ -1,0 +1,73 @@
+{
+  "simplified": "春秋",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chūn qiū",
+          "wade_giles_pinyin": "Chun1 qiu1"
+        }
+      ],
+      "simplified": "春秋",
+      "simplified_stroke_count": 0,
+      "traditional": "春秋",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Spring and Autumn Period (770-476 BC)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Spring and Autumn Annals, chronicle of Lu State (722-481 BC)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chūn qiū",
+          "wade_giles_pinyin": "chun1 qiu1"
+        }
+      ],
+      "simplified": "春秋",
+      "simplified_stroke_count": 0,
+      "traditional": "春秋",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "spring and autumn"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "four seasons"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "year"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "a person's age"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "annals (used in book titles)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

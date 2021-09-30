@@ -1,0 +1,44 @@
+{
+  "simplified": "连带",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " lián dài",
+          "wade_giles_pinyin": "lian2 dai4"
+        }
+      ],
+      "simplified": "连带",
+      "simplified_stroke_count": 0,
+      "traditional": "連帶",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to be related"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to entail"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to involve"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "joint (liability etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "独断",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dú duàn",
+          "wade_giles_pinyin": "du2 duan4"
+        }
+      ],
+      "simplified": "独断",
+      "simplified_stroke_count": 0,
+      "traditional": "獨斷",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to decide alone without consultation"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "arbitrary"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "dictatorial"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "simplified": "大于",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dà yú",
+          "wade_giles_pinyin": "da4 yu2"
+        }
+      ],
+      "simplified": "大于",
+      "traditional": "大於",
+      "meanings": [
+        {
+          "value": "greater than"
+        },
+        {
+          "value": "bigger than"
+        },
+        {
+          "value": "more than, >"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "simplified": "口角",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kǒu jiǎo",
+          "wade_giles_pinyin": "kou3 jiao3"
+        }
+      ],
+      "simplified": "口角",
+      "traditional": "口角",
+      "meanings": [
+        {
+          "value": "corner of the mouth"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kǒu jué",
+          "wade_giles_pinyin": "kou3 jue2"
+        }
+      ],
+      "simplified": "口角",
+      "traditional": "口角",
+      "meanings": [
+        {
+          "value": "altercation"
+        },
+        {
+          "value": "wrangle"
+        },
+        {
+          "value": "angry argument"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

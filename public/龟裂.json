@@ -1,0 +1,36 @@
+{
+  "simplified": "龟裂",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jūn liè",
+          "wade_giles_pinyin": "jun1 lie4"
+        }
+      ],
+      "simplified": "龟裂",
+      "traditional": "龜裂",
+      "meanings": [
+        {
+          "value": "to crack"
+        },
+        {
+          "value": "cracked"
+        },
+        {
+          "value": "fissured"
+        },
+        {
+          "value": "creviced"
+        },
+        {
+          "value": "(of skin) chapped"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

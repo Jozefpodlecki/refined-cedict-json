@@ -1,0 +1,29 @@
+{
+  "simplified": "小妹",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiǎo mèi",
+          "wade_giles_pinyin": "xiao3 mei4"
+        }
+      ],
+      "simplified": "小妹",
+      "traditional": "小妹",
+      "meanings": [
+        {
+          "value": "little sister"
+        },
+        {
+          "value": "girl"
+        },
+        {
+          "context": "taiwan",
+          "value": "young female employee working in a low-level role dealing with the public (assistant, waitress, attendant etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "simplified": "蚹",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fù",
+          "wade_giles_pinyin": "fu4"
+        }
+      ],
+      "simplified": "蚹",
+      "simplified_stroke_count": 11,
+      "traditional": "蚹",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "scales on the belly of a snake, aiding locomotion"
+        },
+        {
+          "value": "snail"
+        },
+        {
+          "value": "to crawl"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

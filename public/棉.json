@@ -1,0 +1,31 @@
+{
+  "simplified": "棉",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mián",
+          "wade_giles_pinyin": "mian2"
+        }
+      ],
+      "simplified": "棉",
+      "simplified_stroke_count": 12,
+      "traditional": "棉",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "generic term for cotton or kapok"
+        },
+        {
+          "value": "cotton"
+        },
+        {
+          "value": "padded or quilted with cotton"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

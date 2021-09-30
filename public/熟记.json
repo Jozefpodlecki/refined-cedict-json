@@ -1,0 +1,34 @@
+{
+  "simplified": "熟记",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shú jì",
+          "wade_giles_pinyin": "shu2 ji4"
+        }
+      ],
+      "simplified": "熟记",
+      "simplified_stroke_count": null,
+      "traditional": "熟記",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to learn by heart"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to memorize"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

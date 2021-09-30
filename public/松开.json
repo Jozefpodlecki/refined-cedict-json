@@ -1,0 +1,36 @@
+{
+  "simplified": "松开",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sōng kāi",
+          "wade_giles_pinyin": "song1 kai1"
+        }
+      ],
+      "simplified": "松开",
+      "traditional": "鬆開",
+      "meanings": [
+        {
+          "value": "to release"
+        },
+        {
+          "value": "to let go"
+        },
+        {
+          "value": "to loosen"
+        },
+        {
+          "value": "to untie"
+        },
+        {
+          "value": "to come loose"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

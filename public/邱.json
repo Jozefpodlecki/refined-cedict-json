@@ -1,0 +1,44 @@
+{
+  "simplified": "邱",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiū",
+          "wade_giles_pinyin": "Qiu1"
+        }
+      ],
+      "simplified": "邱",
+      "simplified_stroke_count": 7,
+      "traditional": "邱",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "value": "surname Qiu"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiū",
+          "wade_giles_pinyin": "qiu1"
+        }
+      ],
+      "simplified": "邱",
+      "simplified_stroke_count": 7,
+      "traditional": "邱",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "value": "mound"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "便利",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "biàn lì",
+          "wade_giles_pinyin": "bian4 li4"
+        }
+      ],
+      "simplified": "便利",
+      "simplified_stroke_count": null,
+      "traditional": "便利",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "convenient"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "easy"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to facilitate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

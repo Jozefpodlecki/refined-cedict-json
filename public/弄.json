@@ -1,0 +1,138 @@
+{
+  "simplified": "弄",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lòng",
+          "wade_giles_pinyin": "long4"
+        }
+      ],
+      "simplified": "弄",
+      "simplified_stroke_count": 7,
+      "traditional": "弄",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "lane"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "alley"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nòng",
+          "wade_giles_pinyin": "nong4"
+        }
+      ],
+      "simplified": "弄",
+      "simplified_stroke_count": 7,
+      "traditional": "弄",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to do"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to manage"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to handle"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to play with"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to fool with"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to mess with"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to fix"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to toy with"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nòng",
+          "wade_giles_pinyin": "nong4"
+        }
+      ],
+      "simplified": "弄",
+      "simplified_stroke_count": 7,
+      "traditional": "挵",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "old variant",
+          "lexical_item": null,
+          "value": "弄[nong4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lòng",
+          "wade_giles_pinyin": "long4"
+        }
+      ],
+      "simplified": "弄",
+      "simplified_stroke_count": 7,
+      "traditional": "衖",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": null,
+          "value": "弄[long4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

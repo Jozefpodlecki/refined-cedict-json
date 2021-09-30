@@ -1,0 +1,37 @@
+{
+  "simplified": "发行商",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fā xíng shāng",
+          "wade_giles_pinyin": "fa1 xing2 shang1"
+        }
+      ],
+      "simplified": "发行商",
+      "simplified_stroke_count": 0,
+      "traditional": "發行商",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "publisher"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "distributor"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "issuer"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

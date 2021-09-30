@@ -1,0 +1,25 @@
+{
+  "simplified": "歌声",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gē shēng",
+          "wade_giles_pinyin": "ge1 sheng1"
+        }
+      ],
+      "simplified": "歌声",
+      "traditional": "歌聲",
+      "meanings": [
+        {
+          "value": "singing voice"
+        },
+        {
+          "value": "fig. original voice of a poet"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

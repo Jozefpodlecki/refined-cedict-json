@@ -1,0 +1,33 @@
+{
+  "simplified": "用人",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yòng rén",
+          "wade_giles_pinyin": "yong4 ren2"
+        }
+      ],
+      "simplified": "用人",
+      "traditional": "用人",
+      "meanings": [
+        {
+          "value": "servant"
+        },
+        {
+          "value": "to employ sb for a job"
+        },
+        {
+          "value": "to manage people"
+        },
+        {
+          "value": "to be in need of staff"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

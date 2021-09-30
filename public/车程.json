@@ -1,0 +1,32 @@
+{
+  "simplified": "车程",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chē chéng",
+          "wade_giles_pinyin": "che1 cheng2"
+        }
+      ],
+      "simplified": "车程",
+      "simplified_stroke_count": 0,
+      "traditional": "車程",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "travel time"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "expected time for a car journey"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

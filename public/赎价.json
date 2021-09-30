@@ -1,0 +1,37 @@
+{
+  "simplified": "赎价",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shú jià",
+          "wade_giles_pinyin": "shu2 jia4"
+        }
+      ],
+      "simplified": "赎价",
+      "simplified_stroke_count": 0,
+      "traditional": "贖價",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "price paid to redeem an object"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(religion) price paid to redeem sb"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "ransom"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "simplified": "错误",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cuò wù",
+          "wade_giles_pinyin": "cuo4 wu4"
+        }
+      ],
+      "simplified": "错误",
+      "simplified_stroke_count": null,
+      "traditional": "錯誤",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "error"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "mistake"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "CL:個|个[ge4]"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "mistaken"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "false"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "wrong"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

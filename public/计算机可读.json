@@ -1,0 +1,32 @@
+{
+  "simplified": "计算机可读",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jì suàn jī kě dú",
+          "wade_giles_pinyin": "ji4 suan4 ji1 ke3 du2"
+        }
+      ],
+      "simplified": "计算机可读",
+      "simplified_stroke_count": 0,
+      "traditional": "計算機可讀",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "computer-readable"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "machine-readable"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

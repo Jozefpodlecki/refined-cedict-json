@@ -1,0 +1,27 @@
+{
+  "simplified": "致词",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhì cí",
+          "wade_giles_pinyin": "zhi4 ci2"
+        }
+      ],
+      "simplified": "致词",
+      "traditional": "致詞",
+      "meanings": [
+        {
+          "value": "to make a speech"
+        },
+        {
+          "value": "to make some remarks"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

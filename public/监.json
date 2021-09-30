@@ -1,0 +1,40 @@
+{
+  "simplified": "监",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiān",
+          "wade_giles_pinyin": "jian1"
+        }
+      ],
+      "simplified": "监",
+      "simplified_stroke_count": 10,
+      "traditional": "監",
+      "traditional_stroke_count": 14,
+      "meanings": [],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiàn",
+          "wade_giles_pinyin": "jian4"
+        }
+      ],
+      "simplified": "监",
+      "simplified_stroke_count": 10,
+      "traditional": "監",
+      "traditional_stroke_count": 14,
+      "meanings": [],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

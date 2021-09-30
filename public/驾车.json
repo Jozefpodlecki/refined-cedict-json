@@ -1,0 +1,24 @@
+{
+  "simplified": "驾车",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jià chē",
+          "wade_giles_pinyin": "jia4 che1"
+        }
+      ],
+      "simplified": "驾车",
+      "traditional": "駕車",
+      "meanings": [
+        {
+          "value": "to drive a vehicle"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

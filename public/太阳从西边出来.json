@@ -1,0 +1,30 @@
+{
+  "simplified": "太阳从西边出来",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tài yáng cóng xī biān chū lái",
+          "wade_giles_pinyin": "tai4 yang2 cong2 xi1 bian1 chu1 lai2"
+        }
+      ],
+      "simplified": "太阳从西边出来",
+      "traditional": "太陽從西邊出來",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "the sun rises in the west"
+        },
+        {
+          "value": "fig. hell freezes over"
+        },
+        {
+          "value": "pigs can fly"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

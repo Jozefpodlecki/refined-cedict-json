@@ -1,0 +1,42 @@
+{
+  "simplified": "淡水",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dàn shuǐ",
+          "wade_giles_pinyin": "Dan4 shui3"
+        }
+      ],
+      "simplified": "淡水",
+      "traditional": "淡水",
+      "meanings": [
+        {
+          "value": "Tamsui or Danshui, district of New Taipei City 新北市[Xin1 bei3 shi4], Taiwan"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dàn shuǐ",
+          "wade_giles_pinyin": "dan4 shui3"
+        }
+      ],
+      "simplified": "淡水",
+      "traditional": "淡水",
+      "meanings": [
+        {
+          "value": "potable water (water with low salt content)"
+        },
+        {
+          "value": "fresh water"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

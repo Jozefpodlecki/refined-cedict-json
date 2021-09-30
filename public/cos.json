@@ -1,0 +1,39 @@
+{
+  "simplified": "cos",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " cos",
+          "wade_giles_pinyin": "c o s"
+        }
+      ],
+      "simplified": "cos",
+      "simplified_stroke_count": null,
+      "traditional": "cos",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "(Internet slang) cosplay"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to cosplay"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to dress up as"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

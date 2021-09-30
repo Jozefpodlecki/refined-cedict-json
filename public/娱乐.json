@@ -1,0 +1,64 @@
+{
+  "simplified": "娱乐",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yú lè",
+          "wade_giles_pinyin": "yu2 le4"
+        }
+      ],
+      "simplified": "娱乐",
+      "simplified_stroke_count": 0,
+      "traditional": "娛樂",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to entertain"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to amuse"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "entertainment"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "recreation"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "amusement"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "hobby"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "fun"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "joy"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

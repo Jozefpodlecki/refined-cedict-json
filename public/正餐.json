@@ -1,0 +1,28 @@
+{
+  "simplified": "正餐",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhèng cān",
+          "wade_giles_pinyin": "zheng4 can1"
+        }
+      ],
+      "simplified": "正餐",
+      "traditional": "正餐",
+      "meanings": [
+        {
+          "value": "(regular) meal"
+        },
+        {
+          "value": "full meal"
+        },
+        {
+          "value": "main course"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

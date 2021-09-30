@@ -1,0 +1,33 @@
+{
+  "simplified": "运转",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yùn zhuǎn",
+          "wade_giles_pinyin": "yun4 zhuan3"
+        }
+      ],
+      "simplified": "运转",
+      "traditional": "運轉",
+      "meanings": [
+        {
+          "value": "to work"
+        },
+        {
+          "value": "to operate"
+        },
+        {
+          "value": "to revolve"
+        },
+        {
+          "value": "to turn around"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

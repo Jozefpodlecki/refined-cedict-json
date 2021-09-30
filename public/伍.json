@@ -1,0 +1,62 @@
+{
+  "simplified": "伍",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " wǔ",
+          "wade_giles_pinyin": "Wu3"
+        }
+      ],
+      "simplified": "伍",
+      "simplified_stroke_count": 6,
+      "traditional": "伍",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "surname Wu"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " wǔ",
+          "wade_giles_pinyin": "wu3"
+        }
+      ],
+      "simplified": "伍",
+      "simplified_stroke_count": 6,
+      "traditional": "伍",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "squad of five soldiers"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to associate with"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "five (banker's anti-fraud numeral)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

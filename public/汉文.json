@@ -1,0 +1,25 @@
+{
+  "simplified": "汉文",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hàn wén",
+          "wade_giles_pinyin": "Han4 wen2"
+        }
+      ],
+      "simplified": "汉文",
+      "traditional": "漢文",
+      "meanings": [
+        {
+          "value": "Chinese written language"
+        },
+        {
+          "value": "Chinese literature esp. as taught abroad"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

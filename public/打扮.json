@@ -1,0 +1,39 @@
+{
+  "simplified": "打扮",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dǎ ban",
+          "wade_giles_pinyin": "da3 ban5"
+        }
+      ],
+      "simplified": "打扮",
+      "traditional": "打扮",
+      "meanings": [
+        {
+          "value": "to decorate"
+        },
+        {
+          "value": "to dress"
+        },
+        {
+          "value": "to make up"
+        },
+        {
+          "value": "to adorn"
+        },
+        {
+          "value": "manner of dressing"
+        },
+        {
+          "value": "style of dress"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

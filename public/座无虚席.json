@@ -1,0 +1,32 @@
+{
+  "simplified": "座无虚席",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zuò wú xū xí",
+          "wade_giles_pinyin": "zuo4 wu2 xu1 xi2"
+        }
+      ],
+      "simplified": "座无虚席",
+      "traditional": "座無虛席",
+      "meanings": [
+        {
+          "context": "literature",
+          "value": "a banquet with no empty seats"
+        },
+        {
+          "value": "full house"
+        },
+        {
+          "value": "capacity crowd"
+        },
+        {
+          "value": "standing room only"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

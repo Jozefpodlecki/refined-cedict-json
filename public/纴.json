@@ -1,0 +1,43 @@
+{
+  "simplified": "纴",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rèn",
+          "wade_giles_pinyin": "ren4"
+        }
+      ],
+      "simplified": "纴",
+      "simplified_stroke_count": 7,
+      "traditional": "紝",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "to weave"
+        },
+        {
+          "value": "to lay warp for weaving"
+        },
+        {
+          "value": "silk thread for weaving"
+        },
+        {
+          "context": "variant",
+          "value": "紉|纫, to sew"
+        },
+        {
+          "value": "to stitch"
+        },
+        {
+          "value": "thread"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

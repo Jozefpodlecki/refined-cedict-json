@@ -1,0 +1,34 @@
+{
+  "simplified": "释疑",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shì yí",
+          "wade_giles_pinyin": "shi4 yi2"
+        }
+      ],
+      "simplified": "释疑",
+      "simplified_stroke_count": null,
+      "traditional": "釋疑",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to dispel doubts"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to clear up difficulties"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

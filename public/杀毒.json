@@ -1,0 +1,27 @@
+{
+  "simplified": "杀毒",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shā dú",
+          "wade_giles_pinyin": "sha1 du2"
+        }
+      ],
+      "simplified": "杀毒",
+      "traditional": "殺毒",
+      "meanings": [
+        {
+          "value": "to disinfect"
+        },
+        {
+          "value": "(computing) to destroy a computer virus"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

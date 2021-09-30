@@ -1,0 +1,33 @@
+{
+  "simplified": "解雇",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiě gù",
+          "wade_giles_pinyin": "jie3 gu4"
+        }
+      ],
+      "simplified": "解雇",
+      "traditional": "解僱",
+      "meanings": [
+        {
+          "value": "to fire"
+        },
+        {
+          "value": "to sack"
+        },
+        {
+          "value": "to dismiss"
+        },
+        {
+          "value": "to terminate employment"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

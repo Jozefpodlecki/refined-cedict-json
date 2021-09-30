@@ -1,0 +1,46 @@
+{
+  "simplified": "耗",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hào",
+          "wade_giles_pinyin": "hao4"
+        }
+      ],
+      "simplified": "耗",
+      "simplified_stroke_count": 10,
+      "traditional": "耗",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "to waste"
+        },
+        {
+          "value": "to spend"
+        },
+        {
+          "value": "to consume"
+        },
+        {
+          "value": "to squander"
+        },
+        {
+          "value": "news"
+        },
+        {
+          "context": "colloquial",
+          "value": "to delay"
+        },
+        {
+          "value": "to dilly-dally"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

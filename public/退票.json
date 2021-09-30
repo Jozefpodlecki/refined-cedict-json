@@ -1,0 +1,30 @@
+{
+  "simplified": "退票",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tuì piào",
+          "wade_giles_pinyin": "tui4 piao4"
+        }
+      ],
+      "simplified": "退票",
+      "traditional": "退票",
+      "meanings": [
+        {
+          "value": "to bounce (a check)"
+        },
+        {
+          "value": "to return a ticket"
+        },
+        {
+          "value": "ticket refund"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

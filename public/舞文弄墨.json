@@ -1,0 +1,31 @@
+{
+  "simplified": "舞文弄墨",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wǔ wén nòng mò",
+          "wade_giles_pinyin": "wu3 wen2 nong4 mo4"
+        }
+      ],
+      "simplified": "舞文弄墨",
+      "traditional": "舞文弄墨",
+      "meanings": [
+        {
+          "lexical_item": "idiom",
+          "value": "to display one's facility with words"
+        },
+        {
+          "value": "to show off one's literary skills"
+        },
+        {
+          "value": "(original meaning) to pervert the law by playing with legal phraseology (墨[mo4] was a reference to 繩墨|绳墨[sheng2 mo4])"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

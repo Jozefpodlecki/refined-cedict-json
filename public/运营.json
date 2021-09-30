@@ -1,0 +1,49 @@
+{
+  "simplified": "运营",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yùn yíng",
+          "wade_giles_pinyin": "yun4 ying2"
+        }
+      ],
+      "simplified": "运营",
+      "simplified_stroke_count": 0,
+      "traditional": "運營",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to be in operation"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to do business"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(of train, bus etc) to be in service"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "operation"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "service"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

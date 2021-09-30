@@ -1,0 +1,26 @@
+{
+  "simplified": "芦鳗",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lú mán",
+          "wade_giles_pinyin": "lu2 man2"
+        }
+      ],
+      "simplified": "芦鳗",
+      "traditional": "蘆鰻",
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 鱸鰻|鲈鳗[lu2 man2], giant mottled eel (Anguilla marmorata)",
+          "simplified": "鱸",
+          "traditional": "鰻|鲈鳗",
+          "wade_giles_pinyin": "lu2 man2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

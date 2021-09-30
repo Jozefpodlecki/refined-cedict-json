@@ -1,0 +1,27 @@
+{
+  "simplified": "织造",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhī zào",
+          "wade_giles_pinyin": "zhi1 zao4"
+        }
+      ],
+      "simplified": "织造",
+      "traditional": "織造",
+      "meanings": [
+        {
+          "value": "to weave"
+        },
+        {
+          "value": "to manufacture by weaving"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

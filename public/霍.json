@@ -1,0 +1,48 @@
+{
+  "simplified": "霍",
+  "simplified_stroke_count": 16,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " huò",
+          "wade_giles_pinyin": "Huo4"
+        }
+      ],
+      "simplified": "霍",
+      "simplified_stroke_count": 16,
+      "traditional": "霍",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "surname Huo"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " huò",
+          "wade_giles_pinyin": "huo4"
+        }
+      ],
+      "simplified": "霍",
+      "simplified_stroke_count": 16,
+      "traditional": "霍",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "suddenly"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

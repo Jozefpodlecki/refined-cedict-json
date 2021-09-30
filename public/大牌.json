@@ -1,0 +1,42 @@
+{
+  "simplified": "大牌",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dà pái",
+          "wade_giles_pinyin": "da4 pai2"
+        }
+      ],
+      "simplified": "大牌",
+      "simplified_stroke_count": null,
+      "traditional": "大牌",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "strong card"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "honor card (card games)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "very popular or successful person"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "self-important"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

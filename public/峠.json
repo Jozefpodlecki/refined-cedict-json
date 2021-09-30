@@ -1,0 +1,33 @@
+{
+  "simplified": "峠",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xx",
+          "wade_giles_pinyin": "xx5"
+        }
+      ],
+      "simplified": "峠",
+      "simplified_stroke_count": 9,
+      "traditional": "峠",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "Japanese",
+          "value": "(Japanese kokuji) mountain pass"
+        },
+        {
+          "context": "figuratively",
+          "value": "crisis point"
+        },
+        {
+          "value": "pr. tōge"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

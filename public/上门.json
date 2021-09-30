@@ -1,0 +1,36 @@
+{
+  "simplified": "上门",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shàng mén",
+          "wade_giles_pinyin": "shang4 men2"
+        }
+      ],
+      "simplified": "上门",
+      "traditional": "上門",
+      "meanings": [
+        {
+          "value": "to drop in"
+        },
+        {
+          "value": "to visit"
+        },
+        {
+          "value": "to lock a door"
+        },
+        {
+          "value": "(of a shop) to close"
+        },
+        {
+          "value": "to go and live with one's wife's family, in effect becoming a member of her family"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

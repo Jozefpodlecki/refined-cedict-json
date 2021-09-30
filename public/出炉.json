@@ -1,0 +1,44 @@
+{
+  "simplified": "出炉",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chū lú",
+          "wade_giles_pinyin": "chu1 lu2"
+        }
+      ],
+      "simplified": "出炉",
+      "simplified_stroke_count": null,
+      "traditional": "出爐",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to take out of the furnace"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "fresh out of the oven"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "fig. newly announced"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "recently made available"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "K书",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " k shū",
+          "wade_giles_pinyin": "K shu1"
+        }
+      ],
+      "simplified": "K书",
+      "traditional": "K書",
+      "meanings": [
+        {
+          "context": "taiwan",
+          "value": "to cram (from Taiwanese 齧書, Tai-lo pr. [khè su], lit. to gnaw a book)"
+        },
+        {
+          "value": "to study"
+        },
+        {
+          "context": "see also",
+          "value": "啃書|啃书[ken3 shu1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

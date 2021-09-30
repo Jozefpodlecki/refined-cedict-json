@@ -1,0 +1,74 @@
+{
+  "simplified": "肴",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yáo",
+          "wade_giles_pinyin": "yao2"
+        }
+      ],
+      "simplified": "肴",
+      "simplified_stroke_count": 8,
+      "traditional": "殽",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 肴[yao2]",
+          "simplified": "肴",
+          "traditional": "",
+          "wade_giles_pinyin": "yao2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yáo",
+          "wade_giles_pinyin": "yao2"
+        }
+      ],
+      "simplified": "肴",
+      "simplified_stroke_count": 8,
+      "traditional": "肴",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "meat dishes"
+        },
+        {
+          "value": "mixed viands"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yáo",
+          "wade_giles_pinyin": "yao2"
+        }
+      ],
+      "simplified": "肴",
+      "simplified_stroke_count": 8,
+      "traditional": "餚",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 肴[yao2]",
+          "simplified": "肴",
+          "traditional": "",
+          "wade_giles_pinyin": "yao2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

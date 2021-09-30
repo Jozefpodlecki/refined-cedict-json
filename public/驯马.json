@@ -1,0 +1,27 @@
+{
+  "simplified": "驯马",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xùn mǎ",
+          "wade_giles_pinyin": "xun4 ma3"
+        }
+      ],
+      "simplified": "驯马",
+      "traditional": "馴馬",
+      "meanings": [
+        {
+          "value": "to break in a horse"
+        },
+        {
+          "value": "a trained saddle horse"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

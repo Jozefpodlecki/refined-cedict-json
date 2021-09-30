@@ -1,0 +1,45 @@
+{
+  "simplified": "尽快",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jǐn kuài",
+          "wade_giles_pinyin": "jin3 kuai4"
+        }
+      ],
+      "simplified": "尽快",
+      "traditional": "儘快",
+      "meanings": [
+        {
+          "value": "as quickly as possible"
+        },
+        {
+          "value": "as soon as possible"
+        },
+        {
+          "value": "with all speed"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jìn kuài",
+          "wade_giles_pinyin": "jin4 kuai4"
+        }
+      ],
+      "simplified": "尽快",
+      "traditional": "盡快",
+      "meanings": [
+        {
+          "value": "see 儘快|尽快[jin3 kuai4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

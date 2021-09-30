@@ -1,0 +1,57 @@
+{
+  "simplified": "意思",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yì si",
+          "wade_giles_pinyin": "yi4 si5"
+        }
+      ],
+      "simplified": "意思",
+      "traditional": "意思",
+      "meanings": [
+        {
+          "value": "idea"
+        },
+        {
+          "value": "opinion"
+        },
+        {
+          "value": "meaning"
+        },
+        {
+          "value": "wish"
+        },
+        {
+          "value": "desire"
+        },
+        {
+          "value": "interest"
+        },
+        {
+          "value": "fun"
+        },
+        {
+          "value": "token of appreciation, affection etc"
+        },
+        {
+          "value": "to give as a small token"
+        },
+        {
+          "value": "to do sth as a gesture of goodwill etc"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

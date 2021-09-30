@@ -1,0 +1,32 @@
+{
+  "simplified": "凉水",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " liáng shuǐ",
+          "wade_giles_pinyin": "liang2 shui3"
+        }
+      ],
+      "simplified": "凉水",
+      "simplified_stroke_count": 0,
+      "traditional": "涼水",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "cool water"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "unboiled water"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

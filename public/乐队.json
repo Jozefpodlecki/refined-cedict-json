@@ -1,0 +1,31 @@
+{
+  "simplified": "乐队",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yuè duì",
+          "wade_giles_pinyin": "yue4 dui4"
+        }
+      ],
+      "simplified": "乐队",
+      "traditional": "樂隊",
+      "meanings": [
+        {
+          "value": "band"
+        },
+        {
+          "value": "pop group"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "支",
+          "traditional": "",
+          "wade_giles_pinyin": "zhi1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

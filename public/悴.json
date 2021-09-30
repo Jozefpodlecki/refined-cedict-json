@@ -1,0 +1,57 @@
+{
+  "simplified": "悴",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cuì",
+          "wade_giles_pinyin": "cui4"
+        }
+      ],
+      "simplified": "悴",
+      "simplified_stroke_count": 11,
+      "traditional": "悴",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "haggard"
+        },
+        {
+          "value": "sad"
+        },
+        {
+          "value": "downcast"
+        },
+        {
+          "value": "distressed"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cuì",
+          "wade_giles_pinyin": "cui4"
+        }
+      ],
+      "simplified": "悴",
+      "simplified_stroke_count": 11,
+      "traditional": "顇",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 悴[cui4]",
+          "simplified": "悴",
+          "traditional": "",
+          "wade_giles_pinyin": "cui4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

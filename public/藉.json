@@ -1,0 +1,75 @@
+{
+  "simplified": "藉",
+  "simplified_stroke_count": 17,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jí",
+          "wade_giles_pinyin": "Ji2"
+        }
+      ],
+      "simplified": "藉",
+      "simplified_stroke_count": 17,
+      "traditional": "藉",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "surname Ji"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jí",
+          "wade_giles_pinyin": "ji2"
+        }
+      ],
+      "simplified": "藉",
+      "simplified_stroke_count": 17,
+      "traditional": "藉",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "to insult"
+        },
+        {
+          "value": "to walk all over (sb)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiè",
+          "wade_giles_pinyin": "jie4"
+        }
+      ],
+      "simplified": "藉",
+      "simplified_stroke_count": 17,
+      "traditional": "藉",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "sleeping mat"
+        },
+        {
+          "value": "to placate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

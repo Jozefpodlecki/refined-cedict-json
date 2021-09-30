@@ -1,0 +1,47 @@
+{
+  "simplified": "海王",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hǎi wáng",
+          "wade_giles_pinyin": "Hai3 wang2"
+        }
+      ],
+      "simplified": "海王",
+      "simplified_stroke_count": null,
+      "traditional": "海王",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "Poseidon, Greek god of the sea"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "Neptune, Roman god of the sea"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "Aquaman, DC comic book superhero"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "(slang) womanizer"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "player"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

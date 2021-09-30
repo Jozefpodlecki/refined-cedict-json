@@ -1,0 +1,33 @@
+{
+  "simplified": "收缩",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shōu suō",
+          "wade_giles_pinyin": "shou1 suo1"
+        }
+      ],
+      "simplified": "收缩",
+      "traditional": "收縮",
+      "meanings": [
+        {
+          "value": "to pull back"
+        },
+        {
+          "value": "to shrink"
+        },
+        {
+          "value": "to contract"
+        },
+        {
+          "value": "(physiology) systole"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

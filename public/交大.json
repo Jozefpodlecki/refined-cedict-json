@@ -1,0 +1,37 @@
+{
+  "simplified": "交大",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jiāo dà",
+          "wade_giles_pinyin": "Jiao1 da4"
+        }
+      ],
+      "simplified": "交大",
+      "simplified_stroke_count": 0,
+      "traditional": "交大",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Jiaotong University"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "University of Communications"
+        },
+        {
+          "context": "abbreviation",
+          "lexical_item": "",
+          "value": "abbr. of 交通大學|交通大学[Jiao1 tong1 Da4 xue2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

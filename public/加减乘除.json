@@ -1,0 +1,25 @@
+{
+  "simplified": "加减乘除",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiā jiǎn chéng chú",
+          "wade_giles_pinyin": "jia1 jian3 cheng2 chu2"
+        }
+      ],
+      "simplified": "加减乘除",
+      "traditional": "加減乘除",
+      "meanings": [
+        {
+          "value": "four rules of arithmetic"
+        },
+        {
+          "value": "addition, subtraction, multiplication and division"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

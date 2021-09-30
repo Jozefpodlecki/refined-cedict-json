@@ -1,0 +1,39 @@
+{
+  "simplified": "提前",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tí qián",
+          "wade_giles_pinyin": "ti2 qian2"
+        }
+      ],
+      "simplified": "提前",
+      "simplified_stroke_count": null,
+      "traditional": "提前",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to shift to an earlier date"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to do sth ahead of time"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "in advance"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "颂扬",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " sòng yáng",
+          "wade_giles_pinyin": "song4 yang2"
+        }
+      ],
+      "simplified": "颂扬",
+      "simplified_stroke_count": 0,
+      "traditional": "頌揚",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to eulogize"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to praise"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

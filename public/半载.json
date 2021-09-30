@@ -1,0 +1,48 @@
+{
+  "simplified": "半载",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bàn zǎi",
+          "wade_giles_pinyin": "ban4 zai3"
+        }
+      ],
+      "simplified": "半载",
+      "simplified_stroke_count": 0,
+      "traditional": "半載",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "half a year"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bàn zài",
+          "wade_giles_pinyin": "ban4 zai4"
+        }
+      ],
+      "simplified": "半载",
+      "simplified_stroke_count": 0,
+      "traditional": "半載",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "half load"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

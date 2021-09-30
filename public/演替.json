@@ -1,0 +1,32 @@
+{
+  "simplified": "演替",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǎn tì",
+          "wade_giles_pinyin": "yan3 ti4"
+        }
+      ],
+      "simplified": "演替",
+      "simplified_stroke_count": null,
+      "traditional": "演替",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "succession (of changes in an ecological community)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "naturally evolving sequence"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "simplified": "黄菊",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huáng jú",
+          "wade_giles_pinyin": "Huang2 Ju2"
+        }
+      ],
+      "simplified": "黄菊",
+      "simplified_stroke_count": null,
+      "traditional": "黃菊",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "Huang Ju (1938-2007), Chinese politician"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huáng jú",
+          "wade_giles_pinyin": "huang2 ju2"
+        }
+      ],
+      "simplified": "黄菊",
+      "simplified_stroke_count": null,
+      "traditional": "黃菊",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "yellow chrysanthemum"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "wine"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

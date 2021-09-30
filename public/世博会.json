@@ -1,0 +1,32 @@
+{
+  "simplified": "世博会",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shì bó huì",
+          "wade_giles_pinyin": "Shi4 bo2 hui4"
+        }
+      ],
+      "simplified": "世博会",
+      "simplified_stroke_count": 0,
+      "traditional": "世博會",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "World Exposition"
+        },
+        {
+          "context": "abbreviation",
+          "lexical_item": "",
+          "value": "世界博覽會|世界博览会[Shi4 jie4 Bo2 lan3 hui4], World Expo"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

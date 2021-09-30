@@ -1,0 +1,32 @@
+{
+  "simplified": "电烙铁",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diàn lào tie",
+          "wade_giles_pinyin": "dian4 lao4 tie5"
+        }
+      ],
+      "simplified": "电烙铁",
+      "simplified_stroke_count": null,
+      "traditional": "電烙鐵",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "electric iron"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "electric soldering iron"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

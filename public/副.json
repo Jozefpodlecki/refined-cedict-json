@@ -1,0 +1,44 @@
+{
+  "simplified": "副",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fù",
+          "wade_giles_pinyin": "fu4"
+        }
+      ],
+      "simplified": "副",
+      "simplified_stroke_count": 11,
+      "traditional": "副",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "secondary"
+        },
+        {
+          "value": "auxiliary"
+        },
+        {
+          "value": "deputy"
+        },
+        {
+          "value": "assistant"
+        },
+        {
+          "value": "vice-"
+        },
+        {
+          "context": "abbreviation",
+          "value": "副詞|副词 adverb"
+        },
+        {
+          "value": "classifier for pairs, sets of things & facial expressions"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

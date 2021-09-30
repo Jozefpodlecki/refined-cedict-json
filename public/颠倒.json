@@ -1,0 +1,39 @@
+{
+  "simplified": "颠倒",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diān dǎo",
+          "wade_giles_pinyin": "dian1 dao3"
+        }
+      ],
+      "simplified": "颠倒",
+      "traditional": "顛倒",
+      "meanings": [
+        {
+          "value": "to turn upside down"
+        },
+        {
+          "value": "to reverse"
+        },
+        {
+          "value": "back to front"
+        },
+        {
+          "value": "confused"
+        },
+        {
+          "value": "deranged"
+        },
+        {
+          "value": "crazy"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

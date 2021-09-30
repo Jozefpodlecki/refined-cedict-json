@@ -1,0 +1,34 @@
+{
+  "simplified": "诳",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " kuáng",
+          "wade_giles_pinyin": "kuang2"
+        }
+      ],
+      "simplified": "诳",
+      "simplified_stroke_count": 9,
+      "traditional": "誑",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to deceive"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "lies"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

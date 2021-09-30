@@ -1,0 +1,28 @@
+{
+  "simplified": "士兵",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shì bīng",
+          "wade_giles_pinyin": "shi4 bing1"
+        }
+      ],
+      "simplified": "士兵",
+      "traditional": "士兵",
+      "meanings": [
+        {
+          "value": "soldier"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

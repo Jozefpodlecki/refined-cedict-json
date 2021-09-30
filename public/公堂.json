@@ -1,0 +1,31 @@
+{
+  "simplified": "公堂",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gōng táng",
+          "wade_giles_pinyin": "gong1 tang2"
+        }
+      ],
+      "simplified": "公堂",
+      "traditional": "公堂",
+      "meanings": [
+        {
+          "value": "law court"
+        },
+        {
+          "value": "hall (in castle)"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "家",
+          "traditional": "",
+          "wade_giles_pinyin": "jia1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

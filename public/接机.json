@@ -1,0 +1,39 @@
+{
+  "simplified": "接机",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiē jī",
+          "wade_giles_pinyin": "jie1 ji1"
+        }
+      ],
+      "simplified": "接机",
+      "traditional": "接機",
+      "meanings": [
+        {
+          "value": "jointing machine"
+        },
+        {
+          "value": "riveter"
+        },
+        {
+          "value": "welder"
+        },
+        {
+          "value": "sealer"
+        },
+        {
+          "value": "to meet a plane (i.e. to meet sb at airport)"
+        },
+        {
+          "value": "to service a plane (of airport workers)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

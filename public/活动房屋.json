@@ -1,0 +1,34 @@
+{
+  "simplified": "活动房屋",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huó dòng fáng wū",
+          "wade_giles_pinyin": "huo2 dong4 fang2 wu1"
+        }
+      ],
+      "simplified": "活动房屋",
+      "traditional": "活動房屋",
+      "meanings": [
+        {
+          "value": "prefabricated building"
+        },
+        {
+          "value": "prefab"
+        },
+        {
+          "value": "mobile home"
+        },
+        {
+          "value": "caravan"
+        },
+        {
+          "value": "trailer"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

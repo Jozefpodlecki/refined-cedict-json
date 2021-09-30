@@ -1,0 +1,32 @@
+{
+  "simplified": "宪",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xiàn",
+          "wade_giles_pinyin": "xian4"
+        }
+      ],
+      "simplified": "宪",
+      "simplified_stroke_count": 9,
+      "traditional": "憲",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "statute"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "constitution"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

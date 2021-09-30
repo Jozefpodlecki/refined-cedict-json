@@ -1,0 +1,39 @@
+{
+  "simplified": "夺回",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "duó huí",
+          "wade_giles_pinyin": "duo2 hui2"
+        }
+      ],
+      "simplified": "夺回",
+      "simplified_stroke_count": null,
+      "traditional": "奪回",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to take back (forcibly)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to recapture"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to win back"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

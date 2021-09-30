@@ -1,0 +1,48 @@
+{
+  "simplified": "胭",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yān",
+          "wade_giles_pinyin": "yan1"
+        }
+      ],
+      "simplified": "胭",
+      "simplified_stroke_count": 10,
+      "traditional": "胭",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "rouge"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yān",
+          "wade_giles_pinyin": "yan1"
+        }
+      ],
+      "simplified": "胭",
+      "simplified_stroke_count": 10,
+      "traditional": "臙",
+      "traditional_stroke_count": 20,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 胭[yan1]",
+          "simplified": "胭",
+          "traditional": "",
+          "wade_giles_pinyin": "yan1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

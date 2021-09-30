@@ -1,0 +1,37 @@
+{
+  "simplified": "旧病复发",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiù bìng fù fā",
+          "wade_giles_pinyin": "jiu4 bing4 fu4 fa1"
+        }
+      ],
+      "simplified": "旧病复发",
+      "simplified_stroke_count": null,
+      "traditional": "舊病復發",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": "idiom",
+          "value": "old illness recurs ; a relapse"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "fig. to repeat an old error"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "the same old problem"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

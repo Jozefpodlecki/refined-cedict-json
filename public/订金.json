@@ -1,0 +1,28 @@
+{
+  "simplified": "订金",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dìng jīn",
+          "wade_giles_pinyin": "ding4 jin1"
+        }
+      ],
+      "simplified": "订金",
+      "traditional": "訂金",
+      "meanings": [
+        {
+          "value": "an initial payment"
+        },
+        {
+          "value": "earnest money"
+        },
+        {
+          "value": "deposit"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "simplified": "痴",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chī",
+          "wade_giles_pinyin": "chi1"
+        }
+      ],
+      "simplified": "痴",
+      "simplified_stroke_count": 13,
+      "traditional": "痴",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "imbecile"
+        },
+        {
+          "value": "sentimental"
+        },
+        {
+          "value": "stupid"
+        },
+        {
+          "value": "foolish"
+        },
+        {
+          "value": "silly"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chī",
+          "wade_giles_pinyin": "chi1"
+        }
+      ],
+      "simplified": "痴",
+      "simplified_stroke_count": 13,
+      "traditional": "癡",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 痴[chi1]",
+          "simplified": "痴",
+          "traditional": "",
+          "wade_giles_pinyin": "chi1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

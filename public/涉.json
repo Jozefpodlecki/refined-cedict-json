@@ -1,0 +1,39 @@
+{
+  "simplified": "涉",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shè",
+          "wade_giles_pinyin": "she4"
+        }
+      ],
+      "simplified": "涉",
+      "simplified_stroke_count": 10,
+      "traditional": "涉",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "(literary) to wade across a body of water"
+        },
+        {
+          "value": "(bound form) to experience"
+        },
+        {
+          "value": "to undergo"
+        },
+        {
+          "value": "to be involved"
+        },
+        {
+          "value": "to concern"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

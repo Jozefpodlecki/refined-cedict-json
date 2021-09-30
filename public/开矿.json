@@ -1,0 +1,34 @@
+{
+  "simplified": "开矿",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " kāi kuàng",
+          "wade_giles_pinyin": "kai1 kuang4"
+        }
+      ],
+      "simplified": "开矿",
+      "simplified_stroke_count": 0,
+      "traditional": "開礦",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to mine"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to open a seam"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

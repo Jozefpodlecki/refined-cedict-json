@@ -1,0 +1,32 @@
+{
+  "simplified": "劮",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yì",
+          "wade_giles_pinyin": "yi4"
+        }
+      ],
+      "simplified": "劮",
+      "simplified_stroke_count": 7,
+      "traditional": "劮",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 逸[yi4]",
+          "simplified": "逸",
+          "traditional": "",
+          "wade_giles_pinyin": "yi4"
+        },
+        {
+          "value": "leisurely"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

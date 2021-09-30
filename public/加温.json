@@ -1,0 +1,33 @@
+{
+  "simplified": "加温",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiā wēn",
+          "wade_giles_pinyin": "jia1 wen1"
+        }
+      ],
+      "simplified": "加温",
+      "traditional": "加溫",
+      "meanings": [
+        {
+          "value": "to heat"
+        },
+        {
+          "value": "to add warmth"
+        },
+        {
+          "value": "to raise temperature"
+        },
+        {
+          "value": "fig. to stimulate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "simplified": "集",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jí",
+          "wade_giles_pinyin": "ji2"
+        }
+      ],
+      "simplified": "集",
+      "simplified_stroke_count": 12,
+      "traditional": "集",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "to gather"
+        },
+        {
+          "value": "to collect"
+        },
+        {
+          "value": "collected works"
+        },
+        {
+          "value": "classifier for sections of a TV series etc: episode"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

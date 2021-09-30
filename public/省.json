@@ -1,0 +1,75 @@
+{
+  "simplified": "省",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shěng",
+          "wade_giles_pinyin": "sheng3"
+        }
+      ],
+      "simplified": "省",
+      "simplified_stroke_count": 9,
+      "traditional": "省",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "to save"
+        },
+        {
+          "value": "to economize"
+        },
+        {
+          "value": "to do without"
+        },
+        {
+          "value": "to omit"
+        },
+        {
+          "value": "to leave out"
+        },
+        {
+          "value": "province"
+        },
+        {
+          "value": "(archaic) central government department"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xǐng",
+          "wade_giles_pinyin": "xing3"
+        }
+      ],
+      "simplified": "省",
+      "simplified_stroke_count": 9,
+      "traditional": "省",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "to inspect"
+        },
+        {
+          "value": "to examine"
+        },
+        {
+          "value": "to be aware"
+        },
+        {
+          "value": "to pay a visit (to one's parents or elders)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

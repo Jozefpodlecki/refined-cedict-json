@@ -1,0 +1,68 @@
+{
+  "simplified": "活动",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huó dòng",
+          "wade_giles_pinyin": "huo2 dong4"
+        }
+      ],
+      "simplified": "活动",
+      "traditional": "活動",
+      "meanings": [
+        {
+          "value": "to exercise"
+        },
+        {
+          "value": "to move about"
+        },
+        {
+          "value": "to operate"
+        },
+        {
+          "value": "to use connections (personal influence)"
+        },
+        {
+          "value": "loose"
+        },
+        {
+          "value": "shaky"
+        },
+        {
+          "value": "active"
+        },
+        {
+          "value": "movable"
+        },
+        {
+          "value": "activity"
+        },
+        {
+          "value": "campaign"
+        },
+        {
+          "value": "maneuver"
+        },
+        {
+          "value": "behavior"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "項",
+          "traditional": "项",
+          "wade_giles_pinyin": "xiang4"
+        },
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

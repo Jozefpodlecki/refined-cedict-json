@@ -1,0 +1,23 @@
+{
+  "simplified": "德州扑克",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dé zhōu pū kè",
+          "wade_giles_pinyin": "De2 zhou1 pu1 ke4"
+        }
+      ],
+      "simplified": "德州扑克",
+      "traditional": "德州撲克",
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "Texas hold 'em (poker variant)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "植民",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhí mín",
+          "wade_giles_pinyin": "zhi2 min2"
+        }
+      ],
+      "simplified": "植民",
+      "simplified_stroke_count": 0,
+      "traditional": "植民",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "殖民"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "colony"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

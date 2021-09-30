@@ -1,0 +1,27 @@
+{
+  "simplified": "耕田",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gēng tián",
+          "wade_giles_pinyin": "geng1 tian2"
+        }
+      ],
+      "simplified": "耕田",
+      "traditional": "耕田",
+      "meanings": [
+        {
+          "value": "to cultivate soil"
+        },
+        {
+          "value": "to till fields"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

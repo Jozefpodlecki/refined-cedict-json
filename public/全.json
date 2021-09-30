@@ -1,0 +1,68 @@
+{
+  "simplified": "全",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " quán",
+          "wade_giles_pinyin": "Quan2"
+        }
+      ],
+      "simplified": "全",
+      "simplified_stroke_count": 6,
+      "traditional": "全",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "surname Quan"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " quán",
+          "wade_giles_pinyin": "quan2"
+        }
+      ],
+      "simplified": "全",
+      "simplified_stroke_count": 6,
+      "traditional": "全",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "all"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "whole"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "entire"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "every"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "complete"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

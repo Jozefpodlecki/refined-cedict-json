@@ -1,0 +1,34 @@
+{
+  "simplified": "焚砚",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fén yàn",
+          "wade_giles_pinyin": "fen2 yan4"
+        }
+      ],
+      "simplified": "焚砚",
+      "simplified_stroke_count": 0,
+      "traditional": "焚硯",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to destroy one's ink-slab"
+        },
+        {
+          "context": "",
+          "lexical_item": "idiom",
+          "value": "to write no more because others write so much better"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

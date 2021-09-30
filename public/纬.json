@@ -1,0 +1,31 @@
+{
+  "simplified": "纬",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wěi",
+          "wade_giles_pinyin": "wei3"
+        }
+      ],
+      "simplified": "纬",
+      "simplified_stroke_count": 7,
+      "traditional": "緯",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "latitude"
+        },
+        {
+          "value": "woof (horizontal thread in weaving)"
+        },
+        {
+          "value": "weft"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

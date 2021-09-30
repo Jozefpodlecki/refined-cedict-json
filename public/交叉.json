@@ -1,0 +1,39 @@
+{
+  "simplified": "交叉",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jiāo chā",
+          "wade_giles_pinyin": "jiao1 cha1"
+        }
+      ],
+      "simplified": "交叉",
+      "simplified_stroke_count": 0,
+      "traditional": "交叉",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to cross"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to intersect"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to overlap"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

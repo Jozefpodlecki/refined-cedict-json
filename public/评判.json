@@ -1,0 +1,27 @@
+{
+  "simplified": "评判",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "píng pàn",
+          "wade_giles_pinyin": "ping2 pan4"
+        }
+      ],
+      "simplified": "评判",
+      "traditional": "評判",
+      "meanings": [
+        {
+          "value": "to judge (a competition)"
+        },
+        {
+          "value": "to appraise"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

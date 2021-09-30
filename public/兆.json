@@ -1,0 +1,67 @@
+{
+  "simplified": "兆",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhào",
+          "wade_giles_pinyin": "Zhao4"
+        }
+      ],
+      "simplified": "兆",
+      "simplified_stroke_count": 6,
+      "traditional": "兆",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "value": "surname Zhao"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhào",
+          "wade_giles_pinyin": "zhao4"
+        }
+      ],
+      "simplified": "兆",
+      "simplified_stroke_count": 6,
+      "traditional": "兆",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "value": "omen"
+        },
+        {
+          "value": "to foretell"
+        },
+        {
+          "value": "million"
+        },
+        {
+          "value": "mega-"
+        },
+        {
+          "value": "trillion"
+        },
+        {
+          "value": "tera-"
+        },
+        {
+          "context": "old",
+          "value": "billion"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

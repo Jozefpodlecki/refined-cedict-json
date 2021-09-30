@@ -1,0 +1,29 @@
+{
+  "simplified": "俯仰",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fǔ yǎng",
+          "wade_giles_pinyin": "fu3 yang3"
+        }
+      ],
+      "simplified": "俯仰",
+      "traditional": "俯仰",
+      "meanings": [
+        {
+          "value": "lowering and raising of the head"
+        },
+        {
+          "context": "figuratively",
+          "value": "small move"
+        },
+        {
+          "value": "pitch (position angle)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "simplified": "睁着眼睛说瞎话",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhēng zhe yǎn jīng shuō xiā huà",
+          "wade_giles_pinyin": "zheng1 zhe5 yan3 jing1 shuo1 xia1 hua4"
+        }
+      ],
+      "simplified": "睁着眼睛说瞎话",
+      "traditional": "睜著眼睛說瞎話",
+      "meanings": [
+        {
+          "lexical_item": "idiom",
+          "value": "to lie through one's teeth"
+        },
+        {
+          "value": "to talk drivel"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

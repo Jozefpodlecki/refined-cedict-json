@@ -1,0 +1,28 @@
+{
+  "simplified": "年份",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nián fen",
+          "wade_giles_pinyin": "nian2 fen5"
+        }
+      ],
+      "simplified": "年份",
+      "traditional": "年份",
+      "meanings": [
+        {
+          "value": "particular year"
+        },
+        {
+          "value": "certain year"
+        },
+        {
+          "value": "given year"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

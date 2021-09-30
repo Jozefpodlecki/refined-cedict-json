@@ -1,0 +1,28 @@
+{
+  "simplified": "屋顶",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wū dǐng",
+          "wade_giles_pinyin": "wu1 ding3"
+        }
+      ],
+      "simplified": "屋顶",
+      "traditional": "屋頂",
+      "meanings": [
+        {
+          "value": "roof"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "开机",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " kāi jī",
+          "wade_giles_pinyin": "kai1 ji1"
+        }
+      ],
+      "simplified": "开机",
+      "simplified_stroke_count": 0,
+      "traditional": "開機",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to start an engine"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to boot up (a computer)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to press Ctrl-Alt-Delete"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to begin shooting a film or TV show"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

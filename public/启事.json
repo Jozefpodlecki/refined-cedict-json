@@ -1,0 +1,30 @@
+{
+  "simplified": "启事",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qǐ shì",
+          "wade_giles_pinyin": "qi3 shi4"
+        }
+      ],
+      "simplified": "启事",
+      "traditional": "啟事",
+      "meanings": [
+        {
+          "value": "announcement (written, on billboard, letter, newspaper or website)"
+        },
+        {
+          "value": "to post information"
+        },
+        {
+          "value": "a notice"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

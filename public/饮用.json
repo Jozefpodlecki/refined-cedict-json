@@ -1,0 +1,32 @@
+{
+  "simplified": "饮用",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yǐn yòng",
+          "wade_giles_pinyin": "yin3 yong4"
+        }
+      ],
+      "simplified": "饮用",
+      "simplified_stroke_count": 0,
+      "traditional": "飲用",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "drink"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "drinking or drinkable (water)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

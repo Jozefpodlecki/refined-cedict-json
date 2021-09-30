@@ -1,0 +1,30 @@
+{
+  "simplified": "遭",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zāo",
+          "wade_giles_pinyin": "zao1"
+        }
+      ],
+      "simplified": "遭",
+      "simplified_stroke_count": 15,
+      "traditional": "遭",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "to meet by chance (usually with misfortune)"
+        },
+        {
+          "value": "classifier for events: time, turn, incident"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

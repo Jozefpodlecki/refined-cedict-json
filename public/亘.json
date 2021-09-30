@@ -1,0 +1,32 @@
+{
+  "simplified": "亘",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gèn",
+          "wade_giles_pinyin": "gen4"
+        }
+      ],
+      "simplified": "亘",
+      "simplified_stroke_count": 6,
+      "traditional": "亙",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "extending all the way across"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "running all the way through"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

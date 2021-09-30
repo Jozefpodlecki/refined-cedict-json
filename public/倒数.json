@@ -1,0 +1,35 @@
+{
+  "simplified": "倒数",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dào shǔ",
+          "wade_giles_pinyin": "dao4 shu3"
+        }
+      ],
+      "simplified": "倒数",
+      "traditional": "倒數",
+      "meanings": [],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dào shù",
+          "wade_giles_pinyin": "dao4 shu4"
+        }
+      ],
+      "simplified": "倒数",
+      "traditional": "倒數",
+      "meanings": [],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

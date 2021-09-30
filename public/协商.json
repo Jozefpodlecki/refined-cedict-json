@@ -1,0 +1,39 @@
+{
+  "simplified": "协商",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xié shāng",
+          "wade_giles_pinyin": "xie2 shang1"
+        }
+      ],
+      "simplified": "协商",
+      "simplified_stroke_count": null,
+      "traditional": "協商",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to consult with"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to talk things over"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "agreement"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "simplified": "美容师",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "měi róng shī",
+          "wade_giles_pinyin": "mei3 rong2 shi1"
+        }
+      ],
+      "simplified": "美容师",
+      "traditional": "美容師",
+      "meanings": [
+        {
+          "value": "hairdresser"
+        },
+        {
+          "value": "beautician (male)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

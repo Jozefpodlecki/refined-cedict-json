@@ -1,0 +1,39 @@
+{
+  "simplified": "费用",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "feì yòng",
+          "wade_giles_pinyin": "fei4 yong4"
+        }
+      ],
+      "simplified": "费用",
+      "traditional": "費用",
+      "meanings": [
+        {
+          "value": "cost"
+        },
+        {
+          "value": "expenditure"
+        },
+        {
+          "value": "expense"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "筆",
+          "traditional": "笔",
+          "wade_giles_pinyin": "bi3"
+        },
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

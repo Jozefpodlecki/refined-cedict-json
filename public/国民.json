@@ -1,0 +1,37 @@
+{
+  "simplified": "国民",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " guó mín",
+          "wade_giles_pinyin": "guo2 min2"
+        }
+      ],
+      "simplified": "国民",
+      "simplified_stroke_count": 0,
+      "traditional": "國民",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "nationals"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "citizens"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "people of a nation"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "认",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " rèn",
+          "wade_giles_pinyin": "ren4"
+        }
+      ],
+      "simplified": "认",
+      "simplified_stroke_count": 0,
+      "traditional": "認",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to recognize"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to know"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to admit"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

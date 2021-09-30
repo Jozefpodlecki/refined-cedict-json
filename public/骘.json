@@ -1,0 +1,42 @@
+{
+  "simplified": "骘",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhì",
+          "wade_giles_pinyin": "zhi4"
+        }
+      ],
+      "simplified": "骘",
+      "simplified_stroke_count": 12,
+      "traditional": "騭",
+      "traditional_stroke_count": 20,
+      "meanings": [
+        {
+          "value": "a stallion"
+        },
+        {
+          "value": "to rise"
+        },
+        {
+          "value": "to arrange"
+        },
+        {
+          "value": "to stabilize"
+        },
+        {
+          "value": "to differentiate"
+        },
+        {
+          "value": "to judge"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "本末倒置",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "běn mò dào zhì",
+          "wade_giles_pinyin": "ben3 mo4 dao4 zhi4"
+        }
+      ],
+      "simplified": "本末倒置",
+      "traditional": "本末倒置",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "to invert root and branch ; fig. confusing cause and effect"
+        },
+        {
+          "value": "to stress the incidental over the fundamental"
+        },
+        {
+          "value": "to put the cart before the horse"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

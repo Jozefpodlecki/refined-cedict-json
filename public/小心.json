@@ -1,0 +1,34 @@
+{
+  "simplified": "小心",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xiǎo xīn",
+          "wade_giles_pinyin": "xiao3 xin1"
+        }
+      ],
+      "simplified": "小心",
+      "simplified_stroke_count": 0,
+      "traditional": "小心",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to be careful"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to take care"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

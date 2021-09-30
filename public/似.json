@@ -1,0 +1,91 @@
+{
+  "simplified": "似",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shì",
+          "wade_giles_pinyin": "shi4"
+        }
+      ],
+      "simplified": "似",
+      "simplified_stroke_count": 7,
+      "traditional": "似",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "value": "see 似的[shi4 de5]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sì",
+          "wade_giles_pinyin": "si4"
+        }
+      ],
+      "simplified": "似",
+      "simplified_stroke_count": 7,
+      "traditional": "似",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "value": "to seem"
+        },
+        {
+          "value": "to appear"
+        },
+        {
+          "value": "to resemble"
+        },
+        {
+          "value": "similar"
+        },
+        {
+          "value": "-like"
+        },
+        {
+          "value": "pseudo-"
+        },
+        {
+          "value": "(more) than"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sì",
+          "wade_giles_pinyin": "si4"
+        }
+      ],
+      "simplified": "似",
+      "simplified_stroke_count": 7,
+      "traditional": "佀",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 似[si4]",
+          "simplified": "似",
+          "traditional": "",
+          "wade_giles_pinyin": "si4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

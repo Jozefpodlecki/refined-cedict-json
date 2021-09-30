@@ -1,0 +1,32 @@
+{
+  "simplified": "饭圈",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fàn quān",
+          "wade_giles_pinyin": "fan4 quan1"
+        }
+      ],
+      "simplified": "饭圈",
+      "simplified_stroke_count": null,
+      "traditional": "飯圈",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "fan community"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "fandom"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

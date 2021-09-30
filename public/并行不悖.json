@@ -1,0 +1,30 @@
+{
+  "simplified": "并行不悖",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bìng xíng bù bèi",
+          "wade_giles_pinyin": "bing4 xing2 bu4 bei4"
+        }
+      ],
+      "simplified": "并行不悖",
+      "traditional": "並行不悖",
+      "meanings": [
+        {
+          "value": "to run in parallel without hindrance"
+        },
+        {
+          "value": "not mutually exclusive"
+        },
+        {
+          "value": "two processes can be implemented without conflict"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

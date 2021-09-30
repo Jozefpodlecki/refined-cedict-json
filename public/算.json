@@ -1,0 +1,36 @@
+{
+  "simplified": "算",
+  "simplified_stroke_count": 14,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "suàn",
+          "wade_giles_pinyin": "suan4"
+        }
+      ],
+      "simplified": "算",
+      "simplified_stroke_count": 14,
+      "traditional": "算",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "to regard as"
+        },
+        {
+          "value": "to figure"
+        },
+        {
+          "value": "to calculate"
+        },
+        {
+          "value": "to compute"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

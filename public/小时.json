@@ -1,0 +1,28 @@
+{
+  "simplified": "小时",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiǎo shí",
+          "wade_giles_pinyin": "xiao3 shi2"
+        }
+      ],
+      "simplified": "小时",
+      "traditional": "小時",
+      "meanings": [
+        {
+          "value": "hour"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

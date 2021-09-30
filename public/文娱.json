@@ -1,0 +1,32 @@
+{
+  "simplified": "文娱",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " wén yú",
+          "wade_giles_pinyin": "wen2 yu2"
+        }
+      ],
+      "simplified": "文娱",
+      "simplified_stroke_count": 0,
+      "traditional": "文娛",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "cultural recreation"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "entertainment"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

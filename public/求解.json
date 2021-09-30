@@ -1,0 +1,34 @@
+{
+  "simplified": "求解",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " qiú jiě",
+          "wade_giles_pinyin": "qiu2 jie3"
+        }
+      ],
+      "simplified": "求解",
+      "simplified_stroke_count": 0,
+      "traditional": "求解",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to require a solution"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to seek to solve (an equation)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

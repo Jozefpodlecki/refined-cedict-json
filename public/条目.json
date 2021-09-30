@@ -1,0 +1,32 @@
+{
+  "simplified": "条目",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tiáo mù",
+          "wade_giles_pinyin": "tiao2 mu4"
+        }
+      ],
+      "simplified": "条目",
+      "simplified_stroke_count": null,
+      "traditional": "條目",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "clauses and sub-clauses (in formal document)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "entry (in a dictionary, encyclopedia etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

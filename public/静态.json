@@ -1,0 +1,40 @@
+{
+  "simplified": "静态",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jìng tài",
+          "wade_giles_pinyin": "jing4 tai4"
+        }
+      ],
+      "simplified": "静态",
+      "traditional": "靜態",
+      "meanings": [
+        {
+          "value": "static"
+        },
+        {
+          "value": "sedate"
+        },
+        {
+          "value": "quiet"
+        },
+        {
+          "value": "passive"
+        },
+        {
+          "value": "(physics) static"
+        },
+        {
+          "value": "steady-state"
+        },
+        {
+          "value": "(electronics) quiescent"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

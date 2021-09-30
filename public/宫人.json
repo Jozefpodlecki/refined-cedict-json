@@ -1,0 +1,32 @@
+{
+  "simplified": "宫人",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gōng rén",
+          "wade_giles_pinyin": "gong1 ren2"
+        }
+      ],
+      "simplified": "宫人",
+      "simplified_stroke_count": null,
+      "traditional": "宮人",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "imperial concubine or palace maid"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "imperial secretary (old)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

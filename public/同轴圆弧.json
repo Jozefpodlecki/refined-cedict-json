@@ -1,0 +1,32 @@
+{
+  "simplified": "同轴圆弧",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " tóng zhóu yuán hú",
+          "wade_giles_pinyin": "tong2 zhou2 yuan2 hu2"
+        }
+      ],
+      "simplified": "同轴圆弧",
+      "simplified_stroke_count": 0,
+      "traditional": "同軸圓弧",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "coaxial circular arc"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "concentric arc (in spherical geometry)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

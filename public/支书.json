@@ -1,0 +1,29 @@
+{
+  "simplified": "支书",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhī shū",
+          "wade_giles_pinyin": "zhi1 shu1"
+        }
+      ],
+      "simplified": "支书",
+      "traditional": "支書",
+      "meanings": [
+        {
+          "value": "branch secretary"
+        },
+        {
+          "value": "secretary of a branch of the Communist Party or the Communist Youth League"
+        },
+        {
+          "context": "abbreviation",
+          "value": "支部書記|支部书记"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

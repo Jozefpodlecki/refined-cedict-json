@@ -1,0 +1,27 @@
+{
+  "simplified": "评定",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "píng dìng",
+          "wade_giles_pinyin": "ping2 ding4"
+        }
+      ],
+      "simplified": "评定",
+      "traditional": "評定",
+      "meanings": [
+        {
+          "value": "to evaluate"
+        },
+        {
+          "value": "to make one's judgment"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "simplified": "雾气",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " wù qì",
+          "wade_giles_pinyin": "wu4 qi4"
+        }
+      ],
+      "simplified": "雾气",
+      "simplified_stroke_count": 0,
+      "traditional": "霧氣",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "fog"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "mist"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "vapor"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

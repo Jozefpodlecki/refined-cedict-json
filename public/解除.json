@@ -1,0 +1,42 @@
+{
+  "simplified": "解除",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiě chú",
+          "wade_giles_pinyin": "jie3 chu2"
+        }
+      ],
+      "simplified": "解除",
+      "traditional": "解除",
+      "meanings": [
+        {
+          "value": "to remove"
+        },
+        {
+          "value": "to sack"
+        },
+        {
+          "value": "to get rid of"
+        },
+        {
+          "value": "to relieve (sb of their duties)"
+        },
+        {
+          "value": "to free"
+        },
+        {
+          "value": "to lift (an embargo)"
+        },
+        {
+          "value": "to rescind (an agreement)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

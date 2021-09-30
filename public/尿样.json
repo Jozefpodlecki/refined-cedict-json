@@ -1,0 +1,32 @@
+{
+  "simplified": "尿样",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " niào yàng",
+          "wade_giles_pinyin": "niao4 yang4"
+        }
+      ],
+      "simplified": "尿样",
+      "simplified_stroke_count": 0,
+      "traditional": "尿樣",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "urine"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "urine sample"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

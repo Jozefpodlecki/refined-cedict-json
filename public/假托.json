@@ -1,0 +1,58 @@
+{
+  "simplified": "假托",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiǎ tuō",
+          "wade_giles_pinyin": "jia3 tuo1"
+        }
+      ],
+      "simplified": "假托",
+      "traditional": "假托",
+      "meanings": [
+        {
+          "value": "to pretend"
+        },
+        {
+          "value": "to use a pretext"
+        },
+        {
+          "value": "to make sth up"
+        },
+        {
+          "value": "to pass oneself off as sb else"
+        },
+        {
+          "value": "to make use of"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiǎ tuō",
+          "wade_giles_pinyin": "jia3 tuo1"
+        }
+      ],
+      "simplified": "假托",
+      "traditional": "假託",
+      "meanings": [
+        {
+          "value": "to make sth up"
+        },
+        {
+          "value": "also written 假托[jia3 tuo1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

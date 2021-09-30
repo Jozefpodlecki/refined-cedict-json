@@ -1,0 +1,30 @@
+{
+  "simplified": "人喊马嘶",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rén hǎn mǎ sī",
+          "wade_giles_pinyin": "ren2 han3 ma3 si1"
+        }
+      ],
+      "simplified": "人喊马嘶",
+      "traditional": "人喊馬嘶",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "people shouting and horses neighing"
+        },
+        {
+          "value": "fig. tumultuous"
+        },
+        {
+          "value": "hubbub"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "simplified": "读数",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dú shù",
+          "wade_giles_pinyin": "du2 shu4"
+        }
+      ],
+      "simplified": "读数",
+      "traditional": "讀數",
+      "meanings": [
+        {
+          "value": "reading"
+        },
+        {
+          "value": "data from meter"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "simplified": "矩",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jǔ",
+          "wade_giles_pinyin": "ju3"
+        }
+      ],
+      "simplified": "矩",
+      "simplified_stroke_count": 10,
+      "traditional": "榘",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 矩[ju3]",
+          "simplified": "矩",
+          "traditional": "",
+          "wade_giles_pinyin": "ju3"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jǔ",
+          "wade_giles_pinyin": "ju3"
+        }
+      ],
+      "simplified": "矩",
+      "simplified_stroke_count": 10,
+      "traditional": "矩",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "carpenter's square"
+        },
+        {
+          "value": "rule"
+        },
+        {
+          "value": "regulation"
+        },
+        {
+          "value": "pattern"
+        },
+        {
+          "value": "to carve"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

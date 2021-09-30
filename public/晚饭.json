@@ -1,0 +1,49 @@
+{
+  "simplified": "晚饭",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wǎn fàn",
+          "wade_giles_pinyin": "wan3 fan4"
+        }
+      ],
+      "simplified": "晚饭",
+      "traditional": "晚飯",
+      "meanings": [
+        {
+          "value": "evening meal"
+        },
+        {
+          "value": "dinner"
+        },
+        {
+          "value": "supper"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "份",
+          "traditional": "",
+          "wade_giles_pinyin": "fen4"
+        },
+        {
+          "simplified": "頓",
+          "traditional": "顿",
+          "wade_giles_pinyin": "dun4"
+        },
+        {
+          "simplified": "次",
+          "traditional": "",
+          "wade_giles_pinyin": "ci4"
+        },
+        {
+          "simplified": "餐",
+          "traditional": "",
+          "wade_giles_pinyin": "can1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

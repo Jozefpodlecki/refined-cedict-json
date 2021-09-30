@@ -1,0 +1,33 @@
+{
+  "simplified": "唐人街",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "táng rén jiē",
+          "wade_giles_pinyin": "Tang2 ren2 Jie1"
+        }
+      ],
+      "simplified": "唐人街",
+      "traditional": "唐人街",
+      "meanings": [
+        {
+          "value": "Chinatown"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "條",
+          "traditional": "条",
+          "wade_giles_pinyin": "tiao2"
+        },
+        {
+          "simplified": "座",
+          "traditional": "",
+          "wade_giles_pinyin": "zuo4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "simplified": "足球赛",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zú qiú sài",
+          "wade_giles_pinyin": "zu2 qiu2 sai4"
+        }
+      ],
+      "simplified": "足球赛",
+      "traditional": "足球賽",
+      "meanings": [
+        {
+          "value": "soccer match"
+        },
+        {
+          "value": "soccer competition"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

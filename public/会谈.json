@@ -1,0 +1,43 @@
+{
+  "simplified": "会谈",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huì tán",
+          "wade_giles_pinyin": "hui4 tan2"
+        }
+      ],
+      "simplified": "会谈",
+      "simplified_stroke_count": null,
+      "traditional": "會談",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "talks"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "discussions"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "CL:次[ci4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "次",
+          "traditional": "",
+          "wade_giles_pinyin": "ci4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

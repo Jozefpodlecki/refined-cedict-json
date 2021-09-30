@@ -1,0 +1,31 @@
+{
+  "simplified": "文书",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wén shū",
+          "wade_giles_pinyin": "wen2 shu1"
+        }
+      ],
+      "simplified": "文书",
+      "traditional": "文書",
+      "meanings": [
+        {
+          "value": "document"
+        },
+        {
+          "value": "official correspondence"
+        },
+        {
+          "value": "secretary"
+        },
+        {
+          "value": "secretariat"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "simplified": "贼",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zéi",
+          "wade_giles_pinyin": "zei2"
+        }
+      ],
+      "simplified": "贼",
+      "simplified_stroke_count": 10,
+      "traditional": "賊",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "thief"
+        },
+        {
+          "value": "traitor"
+        },
+        {
+          "value": "wily"
+        },
+        {
+          "value": "deceitful"
+        },
+        {
+          "value": "evil"
+        },
+        {
+          "value": "extremely"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

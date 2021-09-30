@@ -1,0 +1,34 @@
+{
+  "simplified": "杜塞",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dù sè",
+          "wade_giles_pinyin": "du4 se4"
+        }
+      ],
+      "simplified": "杜塞",
+      "simplified_stroke_count": 0,
+      "traditional": "杜塞",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to stop"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to block"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

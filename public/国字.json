@@ -1,0 +1,25 @@
+{
+  "simplified": "国字",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guó zì",
+          "wade_giles_pinyin": "guo2 zi4"
+        }
+      ],
+      "simplified": "国字",
+      "traditional": "國字",
+      "meanings": [
+        {
+          "value": "Chinese character (Hanzi)"
+        },
+        {
+          "value": "the native script used to write a nation's language"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

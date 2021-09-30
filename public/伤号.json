@@ -1,0 +1,32 @@
+{
+  "simplified": "伤号",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shāng hào",
+          "wade_giles_pinyin": "shang1 hao4"
+        }
+      ],
+      "simplified": "伤号",
+      "simplified_stroke_count": 0,
+      "traditional": "傷號",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "casualties"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "wounded soldiers"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "simplified": "小屋",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiǎo wū",
+          "wade_giles_pinyin": "xiao3 wu1"
+        }
+      ],
+      "simplified": "小屋",
+      "traditional": "小屋",
+      "meanings": [
+        {
+          "value": "cabin"
+        },
+        {
+          "value": "lodge"
+        },
+        {
+          "value": "cottage"
+        },
+        {
+          "value": "chalet"
+        },
+        {
+          "value": "hut"
+        },
+        {
+          "value": "shed"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

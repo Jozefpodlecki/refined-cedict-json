@@ -1,0 +1,42 @@
+{
+  "simplified": "理学",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lǐ xué",
+          "wade_giles_pinyin": "Li3 xue2"
+        }
+      ],
+      "simplified": "理学",
+      "traditional": "理學",
+      "meanings": [
+        {
+          "value": "School of Principle"
+        },
+        {
+          "value": "Neo-Confucian Rationalistic School (from Song to mid-Qing times, c. 1000-1750, typified by the teachings of Cheng Hao 程顥|程颢[Cheng2 Hao4], Cheng Yi 程頤|程颐[Cheng2 Yi2] and Zhu Xi 朱熹[Zhu1 xi1])"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lǐ xué",
+          "wade_giles_pinyin": "li3 xue2"
+        }
+      ],
+      "simplified": "理学",
+      "traditional": "理學",
+      "meanings": [
+        {
+          "value": "science"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

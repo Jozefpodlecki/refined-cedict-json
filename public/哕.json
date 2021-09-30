@@ -1,0 +1,51 @@
+{
+  "simplified": "哕",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huì",
+          "wade_giles_pinyin": "hui4"
+        }
+      ],
+      "simplified": "哕",
+      "simplified_stroke_count": 9,
+      "traditional": "噦",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "see 噦噦|哕哕[hui4 hui4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yuě",
+          "wade_giles_pinyin": "yue3"
+        }
+      ],
+      "simplified": "哕",
+      "simplified_stroke_count": 9,
+      "traditional": "噦",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "to puke"
+        },
+        {
+          "value": "to hiccup"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

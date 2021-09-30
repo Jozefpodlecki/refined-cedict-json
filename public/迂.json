@@ -1,0 +1,37 @@
+{
+  "simplified": "迂",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yū",
+          "wade_giles_pinyin": "yu1"
+        }
+      ],
+      "simplified": "迂",
+      "simplified_stroke_count": 7,
+      "traditional": "迂",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "value": "literal-minded"
+        },
+        {
+          "value": "pedantic"
+        },
+        {
+          "value": "doctrinaire"
+        },
+        {
+          "value": "longwinded"
+        },
+        {
+          "value": "circuitous"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

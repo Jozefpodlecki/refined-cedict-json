@@ -1,0 +1,32 @@
+{
+  "simplified": "志趣",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhì qù",
+          "wade_giles_pinyin": "zhi4 qu4"
+        }
+      ],
+      "simplified": "志趣",
+      "simplified_stroke_count": null,
+      "traditional": "志趣",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "inclination"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "interest"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

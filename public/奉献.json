@@ -1,0 +1,33 @@
+{
+  "simplified": "奉献",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fèng xiàn",
+          "wade_giles_pinyin": "feng4 xian4"
+        }
+      ],
+      "simplified": "奉献",
+      "traditional": "奉獻",
+      "meanings": [
+        {
+          "value": "to offer respectfully"
+        },
+        {
+          "value": "to consecrate"
+        },
+        {
+          "value": "to dedicate"
+        },
+        {
+          "value": "to devote"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

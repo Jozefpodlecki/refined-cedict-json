@@ -1,0 +1,70 @@
+{
+  "simplified": "峒",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dòng",
+          "wade_giles_pinyin": "dong4"
+        }
+      ],
+      "simplified": "峒",
+      "simplified_stroke_count": 9,
+      "traditional": "峒",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "cave"
+        },
+        {
+          "value": "cavern"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tóng",
+          "wade_giles_pinyin": "tong2"
+        }
+      ],
+      "simplified": "峒",
+      "simplified_stroke_count": 9,
+      "traditional": "峒",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "name of a mountain"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tóng",
+          "wade_giles_pinyin": "tong2"
+        }
+      ],
+      "simplified": "峒",
+      "simplified_stroke_count": 9,
+      "traditional": "峝",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 峒[tong2]",
+          "simplified": "峒",
+          "traditional": "",
+          "wade_giles_pinyin": "tong2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

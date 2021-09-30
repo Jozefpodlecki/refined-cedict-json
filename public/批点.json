@@ -1,0 +1,28 @@
+{
+  "simplified": "批点",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pī diǎn",
+          "wade_giles_pinyin": "pi1 dian3"
+        }
+      ],
+      "simplified": "批点",
+      "traditional": "批點",
+      "meanings": [
+        {
+          "value": "to add critical marks or notes to a text"
+        },
+        {
+          "context": "figuratively",
+          "value": "to criticize"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

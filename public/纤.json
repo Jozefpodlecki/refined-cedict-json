@@ -1,0 +1,50 @@
+{
+  "simplified": "纤",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiàn",
+          "wade_giles_pinyin": "qian4"
+        }
+      ],
+      "simplified": "纤",
+      "simplified_stroke_count": 6,
+      "traditional": "縴",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "boatman's tow-rope"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiān",
+          "wade_giles_pinyin": "xian1"
+        }
+      ],
+      "simplified": "纤",
+      "simplified_stroke_count": 6,
+      "traditional": "纖",
+      "traditional_stroke_count": 23,
+      "meanings": [
+        {
+          "value": "fine"
+        },
+        {
+          "value": "delicate"
+        },
+        {
+          "value": "minute"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

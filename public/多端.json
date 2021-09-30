@@ -1,0 +1,37 @@
+{
+  "simplified": "多端",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "duō duān",
+          "wade_giles_pinyin": "duo1 duan1"
+        }
+      ],
+      "simplified": "多端",
+      "traditional": "多端",
+      "meanings": [
+        {
+          "value": "multifarious"
+        },
+        {
+          "value": "multifold"
+        },
+        {
+          "value": "many and varied"
+        },
+        {
+          "value": "multiport"
+        },
+        {
+          "value": "multistation"
+        },
+        {
+          "value": "multiterminal"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

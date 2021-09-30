@@ -1,0 +1,30 @@
+{
+  "simplified": "会诊",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huì zhěn",
+          "wade_giles_pinyin": "hui4 zhen3"
+        }
+      ],
+      "simplified": "会诊",
+      "traditional": "會診",
+      "meanings": [
+        {
+          "value": "consultation (medical)"
+        },
+        {
+          "value": "to meet for diagnosis"
+        },
+        {
+          "value": "(by extension) consultation of different specialists"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

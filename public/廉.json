@@ -1,0 +1,99 @@
+{
+  "simplified": "廉",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lián",
+          "wade_giles_pinyin": "lian2"
+        }
+      ],
+      "simplified": "廉",
+      "simplified_stroke_count": 13,
+      "traditional": "㢘",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 廉[lian2]",
+          "simplified": "廉",
+          "traditional": "",
+          "wade_giles_pinyin": "lian2"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lián",
+          "wade_giles_pinyin": "lian2"
+        }
+      ],
+      "simplified": "廉",
+      "simplified_stroke_count": 13,
+      "traditional": "亷",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 廉[lian2]",
+          "simplified": "廉",
+          "traditional": "",
+          "wade_giles_pinyin": "lian2"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lián",
+          "wade_giles_pinyin": "Lian2"
+        }
+      ],
+      "simplified": "廉",
+      "simplified_stroke_count": 13,
+      "traditional": "廉",
+      "traditional_stroke_count": 13,
+      "meanings": [],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lián",
+          "wade_giles_pinyin": "lian2"
+        }
+      ],
+      "simplified": "廉",
+      "simplified_stroke_count": 13,
+      "traditional": "廉",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "old",
+          "value": "to investigate"
+        },
+        {
+          "context": "old",
+          "value": "side wall of a traditional Chinese house"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

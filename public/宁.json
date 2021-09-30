@@ -1,0 +1,148 @@
+{
+  "simplified": "宁",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nìng",
+          "wade_giles_pinyin": "ning4"
+        }
+      ],
+      "simplified": "宁",
+      "simplified_stroke_count": 5,
+      "traditional": "寕",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 寧|宁[ning4]",
+          "simplified": "寧",
+          "traditional": "宁",
+          "wade_giles_pinyin": "ning4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "níng",
+          "wade_giles_pinyin": "Ning2"
+        }
+      ],
+      "simplified": "宁",
+      "simplified_stroke_count": 5,
+      "traditional": "寧",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "value": "Ningxia Hui Autonomous Region 寧夏回族自治區|宁夏回族自治区[Ning2 xia4 Hui2 zu2 Zi4 zhi4 qu1]",
+          "simplified": "N",
+          "traditional": "ingxia Hui Autonomous Region 寧夏回族自治區|宁夏回族自治区",
+          "wade_giles_pinyin": "Ning2 xia4 Hui2 zu2 Zi4 zhi4 qu1"
+        },
+        {
+          "context": "abbreviation",
+          "value": "Nanjing 南京[Nan2 jing1]",
+          "simplified": "N",
+          "traditional": "anjing 南京",
+          "wade_giles_pinyin": "Nan2 jing1"
+        },
+        {
+          "value": "surname Ning"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "níng",
+          "wade_giles_pinyin": "ning2"
+        }
+      ],
+      "simplified": "宁",
+      "simplified_stroke_count": 5,
+      "traditional": "寧",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "peaceful"
+        },
+        {
+          "value": "to pacify"
+        },
+        {
+          "value": "to visit (one's parents etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nìng",
+          "wade_giles_pinyin": "ning4"
+        }
+      ],
+      "simplified": "宁",
+      "simplified_stroke_count": 5,
+      "traditional": "寧",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "would rather"
+        },
+        {
+          "value": "to prefer"
+        },
+        {
+          "value": "how (emphatic)"
+        },
+        {
+          "value": "Taiwan pr. [ning2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "níng",
+          "wade_giles_pinyin": "ning2"
+        }
+      ],
+      "simplified": "宁",
+      "simplified_stroke_count": 5,
+      "traditional": "甯",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 寧|宁[ning2]",
+          "simplified": "寧",
+          "traditional": "宁",
+          "wade_giles_pinyin": "ning2"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

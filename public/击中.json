@@ -1,0 +1,27 @@
+{
+  "simplified": "击中",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jī zhòng",
+          "wade_giles_pinyin": "ji1 zhong4"
+        }
+      ],
+      "simplified": "击中",
+      "traditional": "擊中",
+      "meanings": [
+        {
+          "value": "to hit (a target etc)"
+        },
+        {
+          "value": "to strike"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

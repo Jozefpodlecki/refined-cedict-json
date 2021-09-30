@@ -1,0 +1,27 @@
+{
+  "simplified": "着火",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zháo huǒ",
+          "wade_giles_pinyin": "zhao2 huo3"
+        }
+      ],
+      "simplified": "着火",
+      "traditional": "著火",
+      "meanings": [
+        {
+          "value": "to ignite"
+        },
+        {
+          "value": "to burn"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

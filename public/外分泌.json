@@ -1,0 +1,32 @@
+{
+  "simplified": "外分泌",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wài fēn mì",
+          "wade_giles_pinyin": "wai4 fen1 mi4"
+        }
+      ],
+      "simplified": "外分泌",
+      "simplified_stroke_count": null,
+      "traditional": "外分泌",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "exocrine"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "external secretion (e.g. saliva)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

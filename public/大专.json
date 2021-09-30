@@ -1,0 +1,28 @@
+{
+  "simplified": "大专",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dà zhuān",
+          "wade_giles_pinyin": "da4 zhuan1"
+        }
+      ],
+      "simplified": "大专",
+      "traditional": "大專",
+      "meanings": [
+        {
+          "value": "three-year college"
+        },
+        {
+          "value": "junior college"
+        },
+        {
+          "value": "professional training college"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

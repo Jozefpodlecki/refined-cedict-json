@@ -1,0 +1,32 @@
+{
+  "simplified": "马大哈",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mǎ dà hā",
+          "wade_giles_pinyin": "ma3 da4 ha1"
+        }
+      ],
+      "simplified": "马大哈",
+      "traditional": "馬大哈",
+      "meanings": [
+        {
+          "value": "a careless person"
+        },
+        {
+          "value": "scatterbrain"
+        },
+        {
+          "value": "frivolous and forgetful"
+        },
+        {
+          "context": "abbreviation",
+          "value": "馬馬虎虎、大大咧咧、嘻嘻哈哈|马马虎虎、大大咧咧、嘻嘻哈哈"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

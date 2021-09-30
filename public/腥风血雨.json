@@ -1,0 +1,30 @@
+{
+  "simplified": "腥风血雨",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xīng fēng xuè yǔ",
+          "wade_giles_pinyin": "xing1 feng1 xue4 yu3"
+        }
+      ],
+      "simplified": "腥风血雨",
+      "traditional": "腥風血雨",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "foul wind and bloody rain"
+        },
+        {
+          "value": "fig. reign of terror"
+        },
+        {
+          "value": "carnage"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

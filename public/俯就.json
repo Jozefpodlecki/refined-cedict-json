@@ -1,0 +1,37 @@
+{
+  "simplified": "俯就",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fǔ jiù",
+          "wade_giles_pinyin": "fu3 jiu4"
+        }
+      ],
+      "simplified": "俯就",
+      "traditional": "俯就",
+      "meanings": [
+        {
+          "value": "to deign"
+        },
+        {
+          "value": "to condescend"
+        },
+        {
+          "value": "to yield to (entreaties)"
+        },
+        {
+          "value": "to submit to (sb)"
+        },
+        {
+          "context": "polite",
+          "value": "to deign to accept (a post)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "起居作息",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " qǐ jū zuò xī",
+          "wade_giles_pinyin": "qi3 ju1 zuo4 xi1"
+        }
+      ],
+      "simplified": "起居作息",
+      "simplified_stroke_count": 0,
+      "traditional": "起居作息",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "lit. rising and lying down, working and resting"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "fig. everyday life"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "daily routine"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to go about one's daily life"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "simplified": "持",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chí",
+          "wade_giles_pinyin": "chi2"
+        }
+      ],
+      "simplified": "持",
+      "simplified_stroke_count": 9,
+      "traditional": "持",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "to hold"
+        },
+        {
+          "value": "to grasp"
+        },
+        {
+          "value": "to support"
+        },
+        {
+          "value": "to maintain"
+        },
+        {
+          "value": "to persevere"
+        },
+        {
+          "value": "to manage"
+        },
+        {
+          "value": "to run (i.e. administer)"
+        },
+        {
+          "value": "to control"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

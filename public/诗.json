@@ -1,0 +1,60 @@
+{
+  "simplified": "诗",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shī",
+          "wade_giles_pinyin": "Shi1"
+        }
+      ],
+      "simplified": "诗",
+      "simplified_stroke_count": 8,
+      "traditional": "詩",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "value": "Shijing 詩經|诗经[Shi1 jing1], the Book of Songs",
+          "simplified": "S",
+          "traditional": "hijing 詩經|诗经",
+          "wade_giles_pinyin": "Shi1 jing1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shī",
+          "wade_giles_pinyin": "shi1"
+        }
+      ],
+      "simplified": "诗",
+      "simplified_stroke_count": 8,
+      "traditional": "詩",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "poem"
+        },
+        {
+          "value": "poetry"
+        },
+        {
+          "value": "verse"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "首",
+          "traditional": "",
+          "wade_giles_pinyin": "shou3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

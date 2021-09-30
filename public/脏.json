@@ -1,0 +1,57 @@
+{
+  "simplified": "脏",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zàng",
+          "wade_giles_pinyin": "zang4"
+        }
+      ],
+      "simplified": "脏",
+      "simplified_stroke_count": 10,
+      "traditional": "臟",
+      "traditional_stroke_count": 22,
+      "meanings": [
+        {
+          "value": "viscera"
+        },
+        {
+          "value": "(anatomy) organ"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zāng",
+          "wade_giles_pinyin": "zang1"
+        }
+      ],
+      "simplified": "脏",
+      "simplified_stroke_count": 10,
+      "traditional": "髒",
+      "traditional_stroke_count": 21,
+      "meanings": [
+        {
+          "value": "dirty"
+        },
+        {
+          "value": "filthy"
+        },
+        {
+          "value": "to get (sth) dirty"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

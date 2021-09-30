@@ -1,0 +1,59 @@
+{
+  "simplified": "驾驭",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jià yù",
+          "wade_giles_pinyin": "jia4 yu4"
+        }
+      ],
+      "simplified": "驾驭",
+      "simplified_stroke_count": 0,
+      "traditional": "駕馭",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to urge on (of horse)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to drive"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to steer"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to handle"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to manage"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to master"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to dominate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

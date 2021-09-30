@@ -1,0 +1,29 @@
+{
+  "simplified": "短兵相接",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "duǎn bīng xiāng jiē",
+          "wade_giles_pinyin": "duan3 bing1 xiang1 jie1"
+        }
+      ],
+      "simplified": "短兵相接",
+      "traditional": "短兵相接",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "short-weaponed soldiery fight one another ; fierce hand-to-hand infantry combat"
+        },
+        {
+          "value": "to fight at close quarters"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "simplified": "澹",
+  "simplified_stroke_count": 16,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " tán",
+          "wade_giles_pinyin": "Tan2"
+        }
+      ],
+      "simplified": "澹",
+      "simplified_stroke_count": 16,
+      "traditional": "澹",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "surname Tan"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dàn",
+          "wade_giles_pinyin": "dan4"
+        }
+      ],
+      "simplified": "澹",
+      "simplified_stroke_count": 16,
+      "traditional": "澹",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "tranquil"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "placid"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "quiet"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

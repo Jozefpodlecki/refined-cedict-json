@@ -1,0 +1,44 @@
+{
+  "simplified": "闵",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mǐn",
+          "wade_giles_pinyin": "Min3"
+        }
+      ],
+      "simplified": "闵",
+      "simplified_stroke_count": 7,
+      "traditional": "閔",
+      "traditional_stroke_count": 12,
+      "meanings": [],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mǐn",
+          "wade_giles_pinyin": "min3"
+        }
+      ],
+      "simplified": "闵",
+      "simplified_stroke_count": 7,
+      "traditional": "閔",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 憫|悯[min3]",
+          "simplified": "憫",
+          "traditional": "悯",
+          "wade_giles_pinyin": "min3"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

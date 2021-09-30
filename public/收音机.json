@@ -1,0 +1,38 @@
+{
+  "simplified": "收音机",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shōu yīn jī",
+          "wade_giles_pinyin": "shou1 yin1 ji1"
+        }
+      ],
+      "simplified": "收音机",
+      "simplified_stroke_count": null,
+      "traditional": "收音機",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "radio"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "CL:臺|台[tai2]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "臺",
+          "traditional": "台",
+          "wade_giles_pinyin": "tai2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

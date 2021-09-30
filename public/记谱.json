@@ -1,0 +1,27 @@
+{
+  "simplified": "记谱",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jì pǔ",
+          "wade_giles_pinyin": "ji4 pu3"
+        }
+      ],
+      "simplified": "记谱",
+      "traditional": "記譜",
+      "meanings": [
+        {
+          "value": "to notate music"
+        },
+        {
+          "value": "to write a score"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

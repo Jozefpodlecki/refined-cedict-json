@@ -1,0 +1,55 @@
+{
+  "simplified": "谟",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mó",
+          "wade_giles_pinyin": "mo2"
+        }
+      ],
+      "simplified": "谟",
+      "simplified_stroke_count": 12,
+      "traditional": "謨",
+      "traditional_stroke_count": 18,
+      "meanings": [
+        {
+          "value": "plan"
+        },
+        {
+          "value": "to practice"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mó",
+          "wade_giles_pinyin": "mo2"
+        }
+      ],
+      "simplified": "谟",
+      "simplified_stroke_count": 12,
+      "traditional": "謩",
+      "traditional_stroke_count": 18,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 謨|谟[mo2]",
+          "simplified": "謨",
+          "traditional": "谟",
+          "wade_giles_pinyin": "mo2"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

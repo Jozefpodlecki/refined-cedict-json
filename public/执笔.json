@@ -1,0 +1,34 @@
+{
+  "simplified": "执笔",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhí bǐ",
+          "wade_giles_pinyin": "zhi2 bi3"
+        }
+      ],
+      "simplified": "执笔",
+      "simplified_stroke_count": 0,
+      "traditional": "執筆",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to write"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to do the actual writing"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

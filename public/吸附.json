@@ -1,0 +1,38 @@
+{
+  "simplified": "吸附",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xī fù",
+          "wade_giles_pinyin": "xi1 fu4"
+        }
+      ],
+      "simplified": "吸附",
+      "traditional": "吸附",
+      "meanings": [
+        {
+          "value": "to adhere to a surface"
+        },
+        {
+          "value": "to absorb"
+        },
+        {
+          "value": "to draw in"
+        },
+        {
+          "context": "figuratively",
+          "value": "to attract"
+        },
+        {
+          "value": "(chemistry) adsorption"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "chemical elements",
+        "verb"
+      ]
+    }
+  ]
+}

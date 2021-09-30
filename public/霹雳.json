@@ -1,0 +1,51 @@
+{
+  "simplified": "霹雳",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pī lì",
+          "wade_giles_pinyin": "Pi1 li4"
+        }
+      ],
+      "simplified": "霹雳",
+      "traditional": "霹靂",
+      "meanings": [
+        {
+          "value": "Perak (state of Malaysia)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pī lì",
+          "wade_giles_pinyin": "pi1 li4"
+        }
+      ],
+      "simplified": "霹雳",
+      "traditional": "霹靂",
+      "meanings": [
+        {
+          "value": "clap of thunder"
+        },
+        {
+          "value": "thunderbolt"
+        },
+        {
+          "value": "(slang) awesome"
+        },
+        {
+          "value": "shocking"
+        },
+        {
+          "value": "terrifying"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

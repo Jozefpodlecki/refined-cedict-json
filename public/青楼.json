@@ -1,0 +1,32 @@
+{
+  "simplified": "青楼",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qīng lóu",
+          "wade_giles_pinyin": "qing1 lou2"
+        }
+      ],
+      "simplified": "青楼",
+      "simplified_stroke_count": null,
+      "traditional": "青樓",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "(literary) brothel"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "pleasure quarters"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

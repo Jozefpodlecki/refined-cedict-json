@@ -1,0 +1,84 @@
+{
+  "simplified": "冠",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guàn",
+          "wade_giles_pinyin": "Guan4"
+        }
+      ],
+      "simplified": "冠",
+      "simplified_stroke_count": 9,
+      "traditional": "冠",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "surname Guan"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guān",
+          "wade_giles_pinyin": "guan1"
+        }
+      ],
+      "simplified": "冠",
+      "simplified_stroke_count": 9,
+      "traditional": "冠",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "hat"
+        },
+        {
+          "value": "crown"
+        },
+        {
+          "value": "crest"
+        },
+        {
+          "value": "cap"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guàn",
+          "wade_giles_pinyin": "guan4"
+        }
+      ],
+      "simplified": "冠",
+      "simplified_stroke_count": 9,
+      "traditional": "冠",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "to put on a hat"
+        },
+        {
+          "value": "to be first"
+        },
+        {
+          "value": "to dub"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

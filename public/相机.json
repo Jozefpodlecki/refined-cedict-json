@@ -1,0 +1,32 @@
+{
+  "simplified": "相机",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiàng jī",
+          "wade_giles_pinyin": "xiang4 ji1"
+        }
+      ],
+      "simplified": "相机",
+      "traditional": "相機",
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "value": "camera ( 照相機|照相机[zhao4 xiang4 ji1])",
+          "simplified": "c",
+          "traditional": "amera ( 照相機|照相机",
+          "wade_giles_pinyin": "zhao4 xiang4 ji1"
+        },
+        {
+          "value": "at the opportune moment"
+        },
+        {
+          "value": "as the circumstances allow"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "simplified": "钣金",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǎn jīn",
+          "wade_giles_pinyin": "ban3 jin1"
+        }
+      ],
+      "simplified": "钣金",
+      "traditional": "鈑金",
+      "meanings": [
+        {
+          "value": "sheet metal working"
+        },
+        {
+          "value": "auto body repair work"
+        },
+        {
+          "value": "panel beating"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

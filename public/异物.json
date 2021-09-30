@@ -1,0 +1,43 @@
+{
+  "simplified": "异物",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yì wù",
+          "wade_giles_pinyin": "yi4 wu4"
+        }
+      ],
+      "simplified": "异物",
+      "traditional": "異物",
+      "meanings": [
+        {
+          "value": "rarity"
+        },
+        {
+          "value": "rare delicacy"
+        },
+        {
+          "value": "foreign matter"
+        },
+        {
+          "value": "alien body"
+        },
+        {
+          "value": "the dead"
+        },
+        {
+          "value": "ghost"
+        },
+        {
+          "value": "monstrosity"
+        },
+        {
+          "value": "alien life-form"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

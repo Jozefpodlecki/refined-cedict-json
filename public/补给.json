@@ -1,0 +1,30 @@
+{
+  "simplified": "补给",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǔ jǐ",
+          "wade_giles_pinyin": "bu3 ji3"
+        }
+      ],
+      "simplified": "补给",
+      "traditional": "補給",
+      "meanings": [
+        {
+          "value": "supply"
+        },
+        {
+          "value": "replenishment"
+        },
+        {
+          "value": "to replenish"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

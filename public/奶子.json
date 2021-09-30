@@ -1,0 +1,33 @@
+{
+  "simplified": "奶子",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nǎi zi",
+          "wade_giles_pinyin": "nai3 zi5"
+        }
+      ],
+      "simplified": "奶子",
+      "traditional": "奶子",
+      "meanings": [
+        {
+          "context": "colloquial",
+          "value": "milk"
+        },
+        {
+          "context": "colloquial",
+          "value": "breast"
+        },
+        {
+          "value": "booby"
+        },
+        {
+          "value": "tit"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

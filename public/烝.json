@@ -1,0 +1,59 @@
+{
+  "simplified": "烝",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhēng",
+          "wade_giles_pinyin": "zheng1"
+        }
+      ],
+      "simplified": "烝",
+      "simplified_stroke_count": 10,
+      "traditional": "烝",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "multitudinous"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "the masses"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to present (to sb)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to rise"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to advance"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to progress"
+        },
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "archaic  蒸[zheng1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "请",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qǐng",
+          "wade_giles_pinyin": "qing3"
+        }
+      ],
+      "simplified": "请",
+      "simplified_stroke_count": 10,
+      "traditional": "請",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "to ask"
+        },
+        {
+          "value": "to invite"
+        },
+        {
+          "value": "please (do sth)"
+        },
+        {
+          "value": "to treat (to a meal etc)"
+        },
+        {
+          "value": "to request"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

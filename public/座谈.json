@@ -1,0 +1,35 @@
+{
+  "simplified": "座谈",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zuò tán",
+          "wade_giles_pinyin": "zuo4 tan2"
+        }
+      ],
+      "simplified": "座谈",
+      "traditional": "座談",
+      "meanings": [
+        {
+          "value": "to have an informal discussion"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "次",
+          "traditional": "",
+          "wade_giles_pinyin": "ci4"
+        },
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

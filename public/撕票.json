@@ -1,0 +1,28 @@
+{
+  "simplified": "撕票",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sī piào",
+          "wade_giles_pinyin": "si1 piao4"
+        }
+      ],
+      "simplified": "撕票",
+      "traditional": "撕票",
+      "meanings": [
+        {
+          "context": "literature",
+          "value": "to tear the ticket"
+        },
+        {
+          "value": "to kill a hostage (usually held for ransom)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

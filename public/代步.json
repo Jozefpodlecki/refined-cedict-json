@@ -1,0 +1,30 @@
+{
+  "simplified": "代步",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dài bù",
+          "wade_giles_pinyin": "dai4 bu4"
+        }
+      ],
+      "simplified": "代步",
+      "traditional": "代步",
+      "meanings": [
+        {
+          "value": "to get around using a conveyance (car, bicycle, sedan chair etc)"
+        },
+        {
+          "value": "to ride (or drive)"
+        },
+        {
+          "value": "means of transportation"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

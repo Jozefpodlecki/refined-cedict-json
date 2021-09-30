@@ -1,0 +1,29 @@
+{
+  "simplified": "见风转舵",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiàn fēng zhuǎn duò",
+          "wade_giles_pinyin": "jian4 feng1 zhuan3 duo4"
+        }
+      ],
+      "simplified": "见风转舵",
+      "traditional": "見風轉舵",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "see the wind and set the helm ; fig. to act pragmatically"
+        },
+        {
+          "value": "to be flexible and take advantage of the situation"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

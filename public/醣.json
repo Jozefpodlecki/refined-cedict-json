@@ -1,0 +1,32 @@
+{
+  "simplified": "醣",
+  "simplified_stroke_count": 17,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " táng",
+          "wade_giles_pinyin": "tang2"
+        }
+      ],
+      "simplified": "醣",
+      "simplified_stroke_count": 17,
+      "traditional": "醣",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "carbohydrate"
+        },
+        {
+          "context": "old variant",
+          "lexical_item": "",
+          "value": "糖[tang2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "simplified": "树碑立传",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shù bēi lì zhuàn",
+          "wade_giles_pinyin": "shu4 bei1 li4 zhuan4"
+        }
+      ],
+      "simplified": "树碑立传",
+      "traditional": "樹碑立傳",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "to erect a stele and write a biography"
+        },
+        {
+          "value": "to monumentalize"
+        },
+        {
+          "value": "to glorify"
+        },
+        {
+          "value": "to sing the praises of"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

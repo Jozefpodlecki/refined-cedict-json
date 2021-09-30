@@ -1,0 +1,57 @@
+{
+  "simplified": "凌",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "líng",
+          "wade_giles_pinyin": "Ling2"
+        }
+      ],
+      "simplified": "凌",
+      "simplified_stroke_count": 10,
+      "traditional": "凌",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "surname Ling"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "líng",
+          "wade_giles_pinyin": "ling2"
+        }
+      ],
+      "simplified": "凌",
+      "simplified_stroke_count": 10,
+      "traditional": "凌",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "to approach"
+        },
+        {
+          "value": "to rise high"
+        },
+        {
+          "value": "thick ice"
+        },
+        {
+          "value": "to insult or maltreat"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "simplified": "出游",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chū yóu",
+          "wade_giles_pinyin": "chu1 you2"
+        }
+      ],
+      "simplified": "出游",
+      "traditional": "出遊",
+      "meanings": [
+        {
+          "value": "to go on a tour"
+        },
+        {
+          "value": "to have an outing"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

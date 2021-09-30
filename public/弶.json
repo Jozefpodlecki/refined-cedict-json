@@ -1,0 +1,30 @@
+{
+  "simplified": "弶",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiàng",
+          "wade_giles_pinyin": "jiang4"
+        }
+      ],
+      "simplified": "弶",
+      "simplified_stroke_count": 11,
+      "traditional": "弶",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "snare"
+        },
+        {
+          "value": "to snare"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

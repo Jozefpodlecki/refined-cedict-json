@@ -1,0 +1,30 @@
+{
+  "simplified": "敲开",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiāo kāi",
+          "wade_giles_pinyin": "qiao1 kai1"
+        }
+      ],
+      "simplified": "敲开",
+      "traditional": "敲開",
+      "meanings": [
+        {
+          "value": "to get sth open by tapping or striking it"
+        },
+        {
+          "value": "(figuratively, when followed by sth like ∼的大門|∼的大门[xx5 de5 da4 men2]) to open the door to ~"
+        },
+        {
+          "value": "to gain access to ~"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

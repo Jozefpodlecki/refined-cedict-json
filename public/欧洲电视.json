@@ -1,0 +1,32 @@
+{
+  "simplified": "欧洲电视",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ōu zhōu diàn shì",
+          "wade_giles_pinyin": "Ou1 zhou1 dian4 shi4"
+        }
+      ],
+      "simplified": "欧洲电视",
+      "simplified_stroke_count": null,
+      "traditional": "歐洲電視",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "European TV"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "Eurovision"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

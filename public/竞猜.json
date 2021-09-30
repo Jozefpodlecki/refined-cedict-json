@@ -1,0 +1,27 @@
+{
+  "simplified": "竞猜",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jìng cāi",
+          "wade_giles_pinyin": "jing4 cai1"
+        }
+      ],
+      "simplified": "竞猜",
+      "traditional": "競猜",
+      "meanings": [
+        {
+          "value": "to try to answer a question (in a quiz, guessing game, riddle etc)"
+        },
+        {
+          "value": "quiz game"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

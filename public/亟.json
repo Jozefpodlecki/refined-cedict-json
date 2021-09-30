@@ -1,0 +1,47 @@
+{
+  "simplified": "亟",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jí",
+          "wade_giles_pinyin": "ji2"
+        }
+      ],
+      "simplified": "亟",
+      "simplified_stroke_count": 8,
+      "traditional": "亟",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "urgent"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qì",
+          "wade_giles_pinyin": "qi4"
+        }
+      ],
+      "simplified": "亟",
+      "simplified_stroke_count": 8,
+      "traditional": "亟",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "repeatedly"
+        },
+        {
+          "value": "frequently"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

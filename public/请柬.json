@@ -1,0 +1,32 @@
+{
+  "simplified": "请柬",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qǐng jiǎn",
+          "wade_giles_pinyin": "qing3 jian3"
+        }
+      ],
+      "simplified": "请柬",
+      "simplified_stroke_count": null,
+      "traditional": "請柬",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "invitation card"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "written invitation"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

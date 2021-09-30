@@ -1,0 +1,28 @@
+{
+  "simplified": "喝道",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hè dào",
+          "wade_giles_pinyin": "he4 dao4"
+        }
+      ],
+      "simplified": "喝道",
+      "traditional": "喝道",
+      "meanings": [
+        {
+          "value": "to shout (i.e. to say in a loud voice) (usually followed by the words shouted)"
+        },
+        {
+          "context": "old",
+          "value": "(of yamen bailiffs etc) to walk ahead of an official, shouting at pedestrians to clear the way"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

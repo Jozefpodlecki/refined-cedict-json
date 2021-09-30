@@ -1,0 +1,39 @@
+{
+  "simplified": "当天",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dāng tiān",
+          "wade_giles_pinyin": "dang1 tian1"
+        }
+      ],
+      "simplified": "当天",
+      "traditional": "當天",
+      "meanings": [
+        {
+          "value": "on that day"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dàng tiān",
+          "wade_giles_pinyin": "dang4 tian1"
+        }
+      ],
+      "simplified": "当天",
+      "traditional": "當天",
+      "meanings": [
+        {
+          "value": "the same day"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

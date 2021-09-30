@@ -1,0 +1,28 @@
+{
+  "simplified": "麦子",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mài zi",
+          "wade_giles_pinyin": "mai4 zi5"
+        }
+      ],
+      "simplified": "麦子",
+      "traditional": "麥子",
+      "meanings": [
+        {
+          "value": "wheat"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "株",
+          "traditional": "",
+          "wade_giles_pinyin": "zhu1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

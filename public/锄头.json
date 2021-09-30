@@ -1,0 +1,38 @@
+{
+  "simplified": "锄头",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chú tou",
+          "wade_giles_pinyin": "chu2 tou5"
+        }
+      ],
+      "simplified": "锄头",
+      "simplified_stroke_count": 0,
+      "traditional": "鋤頭",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "hoe"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:把[ba3]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "把",
+          "traditional": "",
+          "wade_giles_pinyin": "ba3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

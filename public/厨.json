@@ -1,0 +1,48 @@
+{
+  "simplified": "厨",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chú",
+          "wade_giles_pinyin": "chu2"
+        }
+      ],
+      "simplified": "厨",
+      "simplified_stroke_count": 12,
+      "traditional": "㕑",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 廚|厨[chu2]",
+          "simplified": "廚",
+          "traditional": "厨",
+          "wade_giles_pinyin": "chu2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chú",
+          "wade_giles_pinyin": "chu2"
+        }
+      ],
+      "simplified": "厨",
+      "simplified_stroke_count": 12,
+      "traditional": "廚",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "kitchen"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "simplified": "谦辞",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiān cí",
+          "wade_giles_pinyin": "qian1 ci2"
+        }
+      ],
+      "simplified": "谦辞",
+      "traditional": "謙辭",
+      "meanings": [
+        {
+          "value": "humble words"
+        },
+        {
+          "value": "self-deprecatory expression"
+        },
+        {
+          "value": "to modestly decline"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "simplified": "医大",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yī dà",
+          "wade_giles_pinyin": "yi1 da4"
+        }
+      ],
+      "simplified": "医大",
+      "simplified_stroke_count": null,
+      "traditional": "醫大",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "lexical_item": null,
+          "value": "醫科大學|医科大学[yi1 ke1 da4 xue2], university of medicine"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

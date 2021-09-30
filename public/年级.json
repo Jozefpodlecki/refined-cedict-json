@@ -1,0 +1,31 @@
+{
+  "simplified": "年级",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nián jí",
+          "wade_giles_pinyin": "nian2 ji2"
+        }
+      ],
+      "simplified": "年级",
+      "traditional": "年級",
+      "meanings": [
+        {
+          "value": "grade"
+        },
+        {
+          "value": "year (in school, college etc)"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

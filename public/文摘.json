@@ -1,0 +1,30 @@
+{
+  "simplified": "文摘",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wén zhāi",
+          "wade_giles_pinyin": "wen2 zhai1"
+        }
+      ],
+      "simplified": "文摘",
+      "traditional": "文摘",
+      "meanings": [
+        {
+          "value": "digest (of literature)"
+        },
+        {
+          "value": "to make a digest (of data)"
+        },
+        {
+          "value": "summary"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

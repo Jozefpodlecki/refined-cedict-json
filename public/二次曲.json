@@ -1,0 +1,25 @@
+{
+  "simplified": "二次曲",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "èr cì qū",
+          "wade_giles_pinyin": "er4 ci4 qu1"
+        }
+      ],
+      "simplified": "二次曲",
+      "traditional": "二次曲",
+      "meanings": [
+        {
+          "value": "quadratic curve"
+        },
+        {
+          "value": "conic section (geometry)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

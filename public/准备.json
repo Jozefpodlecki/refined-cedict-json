@@ -1,0 +1,36 @@
+{
+  "simplified": "准备",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhǔn bèi",
+          "wade_giles_pinyin": "zhun3 bei4"
+        }
+      ],
+      "simplified": "准备",
+      "traditional": "準備",
+      "meanings": [
+        {
+          "value": "preparation"
+        },
+        {
+          "value": "to prepare"
+        },
+        {
+          "value": "to intend"
+        },
+        {
+          "value": "to be about to"
+        },
+        {
+          "value": "reserve (fund)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

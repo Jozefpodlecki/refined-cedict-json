@@ -1,0 +1,39 @@
+{
+  "simplified": "显",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiǎn",
+          "wade_giles_pinyin": "xian3"
+        }
+      ],
+      "simplified": "显",
+      "simplified_stroke_count": 9,
+      "traditional": "顯",
+      "traditional_stroke_count": 23,
+      "meanings": [
+        {
+          "value": "to make visible"
+        },
+        {
+          "value": "to reveal"
+        },
+        {
+          "value": "prominent"
+        },
+        {
+          "value": "conspicuous"
+        },
+        {
+          "value": "(prefix) phanero-"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

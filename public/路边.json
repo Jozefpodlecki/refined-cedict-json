@@ -1,0 +1,28 @@
+{
+  "simplified": "路边",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lù biān",
+          "wade_giles_pinyin": "lu4 bian1"
+        }
+      ],
+      "simplified": "路边",
+      "traditional": "路邊",
+      "meanings": [
+        {
+          "value": "curb"
+        },
+        {
+          "value": "roadside"
+        },
+        {
+          "value": "wayside"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

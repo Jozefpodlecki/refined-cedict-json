@@ -1,0 +1,36 @@
+{
+  "simplified": "凭借",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "píng jiè",
+          "wade_giles_pinyin": "ping2 jie4"
+        }
+      ],
+      "simplified": "凭借",
+      "traditional": "憑借",
+      "meanings": [
+        {
+          "value": "to rely on"
+        },
+        {
+          "value": "to depend on"
+        },
+        {
+          "value": "by means of"
+        },
+        {
+          "value": "thanks to"
+        },
+        {
+          "value": "sth that one relies on"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

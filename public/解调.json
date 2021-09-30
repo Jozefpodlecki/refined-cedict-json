@@ -1,0 +1,27 @@
+{
+  "simplified": "解调",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiě tiáo",
+          "wade_giles_pinyin": "jie3 tiao2"
+        }
+      ],
+      "simplified": "解调",
+      "traditional": "解調",
+      "meanings": [
+        {
+          "value": "demodulation"
+        },
+        {
+          "value": "to demodulate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

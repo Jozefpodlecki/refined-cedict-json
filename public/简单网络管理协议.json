@@ -1,0 +1,25 @@
+{
+  "simplified": "简单网络管理协议",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiǎn dān wǎng luò guǎn lǐ xié yì",
+          "wade_giles_pinyin": "jian3 dan1 wang3 luo4 guan3 li3 xie2 yi4"
+        }
+      ],
+      "simplified": "简单网络管理协议",
+      "traditional": "簡單網絡管理協議",
+      "meanings": [
+        {
+          "value": "Simple Network Management Protocol"
+        },
+        {
+          "value": "SNMP"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

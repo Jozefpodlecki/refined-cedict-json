@@ -1,0 +1,38 @@
+{
+  "simplified": "手表",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shǒu biǎo",
+          "wade_giles_pinyin": "shou3 biao3"
+        }
+      ],
+      "simplified": "手表",
+      "traditional": "手錶",
+      "meanings": [
+        {
+          "value": "wristwatch"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "塊",
+          "traditional": "块",
+          "wade_giles_pinyin": "kuai4"
+        },
+        {
+          "simplified": "隻",
+          "traditional": "只",
+          "wade_giles_pinyin": "zhi1"
+        },
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

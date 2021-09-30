@@ -1,0 +1,32 @@
+{
+  "simplified": "板块",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǎn kuài",
+          "wade_giles_pinyin": "ban3 kuai4"
+        }
+      ],
+      "simplified": "板块",
+      "traditional": "板塊",
+      "meanings": [
+        {
+          "value": "slab"
+        },
+        {
+          "value": "(geology) tectonic plate"
+        },
+        {
+          "context": "figuratively",
+          "value": "sector (of the stock market or of industry)"
+        },
+        {
+          "value": "(economic) bloc"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

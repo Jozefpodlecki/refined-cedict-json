@@ -1,0 +1,39 @@
+{
+  "simplified": "控制",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " kòng zhì",
+          "wade_giles_pinyin": "kong4 zhi4"
+        }
+      ],
+      "simplified": "控制",
+      "simplified_stroke_count": 0,
+      "traditional": "控制",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "control"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to exercise control over"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to contain"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

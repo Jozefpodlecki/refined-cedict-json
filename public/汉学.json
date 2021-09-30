@@ -1,0 +1,28 @@
+{
+  "simplified": "汉学",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hàn xué",
+          "wade_giles_pinyin": "Han4 xue2"
+        }
+      ],
+      "simplified": "汉学",
+      "traditional": "漢學",
+      "meanings": [
+        {
+          "value": "sinology"
+        },
+        {
+          "value": "Chinese studies (in foreign schools)"
+        },
+        {
+          "value": "Han Learning, a Qing dynasty movement aiming at a philological appraisal of the Classics"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

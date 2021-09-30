@@ -1,0 +1,32 @@
+{
+  "simplified": "飞机师",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fēi jī shī",
+          "wade_giles_pinyin": "fei1 ji1 shi1"
+        }
+      ],
+      "simplified": "飞机师",
+      "simplified_stroke_count": null,
+      "traditional": "飛機師",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "pilot"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "aviator"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

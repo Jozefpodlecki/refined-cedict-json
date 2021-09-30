@@ -1,0 +1,50 @@
+{
+  "simplified": "部长",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bù zhǎng",
+          "wade_giles_pinyin": "bu4 zhang3"
+        }
+      ],
+      "simplified": "部长",
+      "traditional": "部長",
+      "meanings": [
+        {
+          "value": "head of a (government etc) department"
+        },
+        {
+          "value": "section chief"
+        },
+        {
+          "value": "section head"
+        },
+        {
+          "value": "secretary"
+        },
+        {
+          "value": "minister"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        },
+        {
+          "simplified": "位",
+          "traditional": "",
+          "wade_giles_pinyin": "wei4"
+        },
+        {
+          "simplified": "名",
+          "traditional": "",
+          "wade_giles_pinyin": "ming2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

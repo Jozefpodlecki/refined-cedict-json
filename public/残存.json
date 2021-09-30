@@ -1,0 +1,34 @@
+{
+  "simplified": "残存",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " cán cún",
+          "wade_giles_pinyin": "can2 cun2"
+        }
+      ],
+      "simplified": "残存",
+      "simplified_stroke_count": 0,
+      "traditional": "殘存",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to survive"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "remnant"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

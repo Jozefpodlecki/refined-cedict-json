@@ -1,0 +1,37 @@
+{
+  "simplified": "柴门",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chái mén",
+          "wade_giles_pinyin": "chai2 men2"
+        }
+      ],
+      "simplified": "柴门",
+      "simplified_stroke_count": 0,
+      "traditional": "柴門",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "",
+          "value": "woodcutter's family"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "humble background"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "poor family background"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

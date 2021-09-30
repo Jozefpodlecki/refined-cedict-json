@@ -1,0 +1,32 @@
+{
+  "simplified": "别称",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bié chēng",
+          "wade_giles_pinyin": "bie2 cheng1"
+        }
+      ],
+      "simplified": "别称",
+      "simplified_stroke_count": 0,
+      "traditional": "別稱",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "another name"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "alternative name"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

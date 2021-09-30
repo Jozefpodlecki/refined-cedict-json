@@ -1,0 +1,32 @@
+{
+  "simplified": "特警",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tè jǐng",
+          "wade_giles_pinyin": "te4 jing3"
+        }
+      ],
+      "simplified": "特警",
+      "traditional": "特警",
+      "meanings": [
+        {
+          "value": "SWAT (Special Weapons And Tactics)"
+        },
+        {
+          "value": "riot police"
+        },
+        {
+          "context": "abbreviation",
+          "value": "特種警察|特种警察[te4 zhong3 jing3 cha2]",
+          "simplified": "特",
+          "traditional": "種警察|特种警察",
+          "wade_giles_pinyin": "te4 zhong3 jing3 cha2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "simplified": "展台",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhǎn tái",
+          "wade_giles_pinyin": "zhan3 tai2"
+        }
+      ],
+      "simplified": "展台",
+      "traditional": "展臺",
+      "meanings": [
+        {
+          "value": "display counter"
+        },
+        {
+          "value": "stand"
+        },
+        {
+          "value": "booth"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

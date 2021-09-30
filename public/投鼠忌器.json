@@ -1,0 +1,29 @@
+{
+  "simplified": "投鼠忌器",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tóu shǔ jì qì",
+          "wade_giles_pinyin": "tou2 shu3 ji4 qi4"
+        }
+      ],
+      "simplified": "投鼠忌器",
+      "traditional": "投鼠忌器",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "to refrain from shooting at the rat for fear of breaking the vases"
+        },
+        {
+          "value": "to not act against an evil so as to prevent harm to innocents"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

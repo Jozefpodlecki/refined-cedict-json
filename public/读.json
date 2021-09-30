@@ -1,0 +1,57 @@
+{
+  "simplified": "读",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dòu",
+          "wade_giles_pinyin": "dou4"
+        }
+      ],
+      "simplified": "读",
+      "simplified_stroke_count": 10,
+      "traditional": "讀",
+      "traditional_stroke_count": 22,
+      "meanings": [
+        {
+          "value": "comma"
+        },
+        {
+          "value": "phrase marked by pause"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dú",
+          "wade_giles_pinyin": "du2"
+        }
+      ],
+      "simplified": "读",
+      "simplified_stroke_count": 10,
+      "traditional": "讀",
+      "traditional_stroke_count": 22,
+      "meanings": [
+        {
+          "value": "to read"
+        },
+        {
+          "value": "to study"
+        },
+        {
+          "value": "reading of word (i.e. pronunciation), similar to 拼音[pin1 yin1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

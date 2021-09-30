@@ -1,0 +1,43 @@
+{
+  "simplified": "阿爸",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ā bà",
+          "wade_giles_pinyin": "A1 ba4"
+        }
+      ],
+      "simplified": "阿爸",
+      "traditional": "阿爸",
+      "meanings": [
+        {
+          "value": "Abba (Aramaic word father)"
+        },
+        {
+          "value": "by ext. God the Father in Christian gospel"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ā bà",
+          "wade_giles_pinyin": "a1 ba4"
+        }
+      ],
+      "simplified": "阿爸",
+      "traditional": "阿爸",
+      "meanings": [
+        {
+          "context": "dialect",
+          "value": "father"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

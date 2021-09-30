@@ -1,0 +1,29 @@
+{
+  "simplified": "歌功颂德",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " gē gōng sòng dé",
+          "wade_giles_pinyin": "ge1 gong1 song4 de2"
+        }
+      ],
+      "simplified": "歌功颂德",
+      "simplified_stroke_count": 0,
+      "traditional": "歌功頌德",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to sing sb's praises (mostly derogatory)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

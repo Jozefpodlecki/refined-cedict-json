@@ -1,0 +1,32 @@
+{
+  "simplified": "仿宋",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fǎng sòng",
+          "wade_giles_pinyin": "fang3 Song4"
+        }
+      ],
+      "simplified": "仿宋",
+      "simplified_stroke_count": 0,
+      "traditional": "仿宋",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "imitation Song dynasty typeface"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Fangsong font"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

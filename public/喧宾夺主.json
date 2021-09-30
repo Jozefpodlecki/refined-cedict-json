@@ -1,0 +1,33 @@
+{
+  "simplified": "喧宾夺主",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xuān bīn duó zhǔ",
+          "wade_giles_pinyin": "xuan1 bin1 duo2 zhu3"
+        }
+      ],
+      "simplified": "喧宾夺主",
+      "traditional": "喧賓奪主",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "the voice of the guest overwhelms that of the host"
+        },
+        {
+          "value": "fig. a minor player upstages the main attraction"
+        },
+        {
+          "value": "minor details obscure the main point"
+        },
+        {
+          "value": "the sauce is better than the fish"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

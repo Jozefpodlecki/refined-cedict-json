@@ -1,0 +1,29 @@
+{
+  "simplified": "做礼拜",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zuò lǐ bài",
+          "wade_giles_pinyin": "zuo4 li3 bai4"
+        }
+      ],
+      "simplified": "做礼拜",
+      "simplified_stroke_count": null,
+      "traditional": "做禮拜",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to go to church on Sunday (of Christians)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

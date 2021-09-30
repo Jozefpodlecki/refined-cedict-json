@@ -1,0 +1,34 @@
+{
+  "simplified": "渨",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wēi",
+          "wade_giles_pinyin": "wei1"
+        }
+      ],
+      "simplified": "渨",
+      "simplified_stroke_count": 12,
+      "traditional": "渨",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "cove"
+        },
+        {
+          "value": "bay"
+        },
+        {
+          "value": "a bend or nook in the hills"
+        },
+        {
+          "value": "the curve of a bow"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "simplified": "剩钱",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shèng qián",
+          "wade_giles_pinyin": "sheng4 qian2"
+        }
+      ],
+      "simplified": "剩钱",
+      "traditional": "剩錢",
+      "meanings": [
+        {
+          "value": "to have money left"
+        },
+        {
+          "value": "remaining money"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

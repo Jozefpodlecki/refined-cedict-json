@@ -1,0 +1,28 @@
+{
+  "simplified": "本文",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "běn wén",
+          "wade_giles_pinyin": "ben3 wen2"
+        }
+      ],
+      "simplified": "本文",
+      "traditional": "本文",
+      "meanings": [
+        {
+          "value": "this text"
+        },
+        {
+          "value": "article"
+        },
+        {
+          "value": "the main body of a book"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

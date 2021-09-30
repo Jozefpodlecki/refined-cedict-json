@@ -1,0 +1,33 @@
+{
+  "simplified": "巡视",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xún shì",
+          "wade_giles_pinyin": "xun2 shi4"
+        }
+      ],
+      "simplified": "巡视",
+      "traditional": "巡視",
+      "meanings": [
+        {
+          "value": "to patrol"
+        },
+        {
+          "value": "to make a tour"
+        },
+        {
+          "value": "to inspect"
+        },
+        {
+          "value": "to scan with one's eyes"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

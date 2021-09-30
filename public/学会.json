@@ -1,0 +1,36 @@
+{
+  "simplified": "学会",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xué huì",
+          "wade_giles_pinyin": "xue2 hui4"
+        }
+      ],
+      "simplified": "学会",
+      "traditional": "學會",
+      "meanings": [
+        {
+          "value": "to learn"
+        },
+        {
+          "value": "to master"
+        },
+        {
+          "value": "institute"
+        },
+        {
+          "value": "learned society"
+        },
+        {
+          "value": "(scholarly) association"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

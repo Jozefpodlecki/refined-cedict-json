@@ -1,0 +1,44 @@
+{
+  "simplified": "黎",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lí",
+          "wade_giles_pinyin": "Li2"
+        }
+      ],
+      "simplified": "黎",
+      "simplified_stroke_count": 15,
+      "traditional": "黎",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "value": "Lebanon 黎巴嫩[Li2 ba1 nen4]",
+          "simplified": "L",
+          "traditional": "ebanon 黎巴嫩",
+          "wade_giles_pinyin": "Li2 ba1 nen4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lí",
+          "wade_giles_pinyin": "li2"
+        }
+      ],
+      "simplified": "黎",
+      "simplified_stroke_count": 15,
+      "traditional": "黎",
+      "traditional_stroke_count": 15,
+      "meanings": [],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

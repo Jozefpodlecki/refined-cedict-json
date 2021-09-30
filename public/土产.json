@@ -1,0 +1,32 @@
+{
+  "simplified": "土产",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " tǔ chǎn",
+          "wade_giles_pinyin": "tu3 chan3"
+        }
+      ],
+      "simplified": "土产",
+      "simplified_stroke_count": 0,
+      "traditional": "土產",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "produced locally"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "local product (with distinctive native features)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

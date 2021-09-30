@@ -1,0 +1,34 @@
+{
+  "simplified": "散焦",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sàn jiāo",
+          "wade_giles_pinyin": "san4 jiao1"
+        }
+      ],
+      "simplified": "散焦",
+      "simplified_stroke_count": null,
+      "traditional": "散焦",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to defocus"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "bokeh"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

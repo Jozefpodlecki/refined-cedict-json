@@ -1,0 +1,33 @@
+{
+  "simplified": "补考",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǔ kǎo",
+          "wade_giles_pinyin": "bu3 kao3"
+        }
+      ],
+      "simplified": "补考",
+      "traditional": "補考",
+      "meanings": [
+        {
+          "value": "to sit for a makeup exam"
+        },
+        {
+          "value": "to resit an exam"
+        },
+        {
+          "value": "makeup exam"
+        },
+        {
+          "value": "resit"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

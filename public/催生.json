@@ -1,0 +1,44 @@
+{
+  "simplified": "催生",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cuī shēng",
+          "wade_giles_pinyin": "cui1 sheng1"
+        }
+      ],
+      "simplified": "催生",
+      "simplified_stroke_count": null,
+      "traditional": "催生",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to pressure a younger relative to hurry up and have a baby"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "(obstetrics) to induce labor"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to expedite childbirth"
+        },
+        {
+          "context": "figuratively",
+          "lexical_item": null,
+          "value": "to be a driving force in bringing sth into existence"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

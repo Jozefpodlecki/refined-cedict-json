@@ -1,0 +1,72 @@
+{
+  "simplified": "粘连",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " nián lián",
+          "wade_giles_pinyin": "nian2 lian2"
+        }
+      ],
+      "simplified": "粘连",
+      "simplified_stroke_count": 0,
+      "traditional": "粘連",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to adhere"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to stick together"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhān lián",
+          "wade_giles_pinyin": "zhan1 lian2"
+        }
+      ],
+      "simplified": "粘连",
+      "simplified_stroke_count": 0,
+      "traditional": "粘連",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "adhesion"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to adhere"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to cohere"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to stick"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

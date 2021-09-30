@@ -1,0 +1,34 @@
+{
+  "simplified": "弑",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shì",
+          "wade_giles_pinyin": "shi4"
+        }
+      ],
+      "simplified": "弑",
+      "simplified_stroke_count": 12,
+      "traditional": "弒",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to murder a superior"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to murder one's parent"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "simplified": "天气预报",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tiān qì yù bào",
+          "wade_giles_pinyin": "tian1 qi4 yu4 bao4"
+        }
+      ],
+      "simplified": "天气预报",
+      "traditional": "天氣預報",
+      "meanings": [
+        {
+          "value": "weather forecast"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

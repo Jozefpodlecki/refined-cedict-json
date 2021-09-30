@@ -1,0 +1,37 @@
+{
+  "simplified": "户口本",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " hù kǒu běn",
+          "wade_giles_pinyin": "hu4 kou3 ben3"
+        }
+      ],
+      "simplified": "户口本",
+      "simplified_stroke_count": 0,
+      "traditional": "戶口本",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "household register"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "household registration booklet"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "residence certificate"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

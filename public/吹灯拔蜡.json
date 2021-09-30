@@ -1,0 +1,35 @@
+{
+  "simplified": "吹灯拔蜡",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chuī dēng bá là",
+          "wade_giles_pinyin": "chui1 deng1 ba2 la4"
+        }
+      ],
+      "simplified": "吹灯拔蜡",
+      "traditional": "吹燈拔蠟",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "to blow out the lamp and put out the candle"
+        },
+        {
+          "value": "fig. to die"
+        },
+        {
+          "value": "to bite the dust"
+        },
+        {
+          "value": "to be over and done with"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

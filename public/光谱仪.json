@@ -1,0 +1,25 @@
+{
+  "simplified": "光谱仪",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guāng pǔ yí",
+          "wade_giles_pinyin": "guang1 pu3 yi2"
+        }
+      ],
+      "simplified": "光谱仪",
+      "traditional": "光譜儀",
+      "meanings": [
+        {
+          "value": "spectrometer"
+        },
+        {
+          "value": "spectrograph"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

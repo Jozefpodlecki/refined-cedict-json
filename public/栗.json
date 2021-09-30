@@ -1,0 +1,74 @@
+{
+  "simplified": "栗",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " lì",
+          "wade_giles_pinyin": "li4"
+        }
+      ],
+      "simplified": "栗",
+      "simplified_stroke_count": 10,
+      "traditional": "慄",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "afraid"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "trembling"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " lì",
+          "wade_giles_pinyin": "Li4"
+        }
+      ],
+      "simplified": "栗",
+      "simplified_stroke_count": 10,
+      "traditional": "栗",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "surname Li"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " lì",
+          "wade_giles_pinyin": "li4"
+        }
+      ],
+      "simplified": "栗",
+      "simplified_stroke_count": 10,
+      "traditional": "栗",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "chestnut"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

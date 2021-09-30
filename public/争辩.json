@@ -1,0 +1,34 @@
+{
+  "simplified": "争辩",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhēng biàn",
+          "wade_giles_pinyin": "zheng1 bian4"
+        }
+      ],
+      "simplified": "争辩",
+      "simplified_stroke_count": null,
+      "traditional": "爭辯",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "a dispute"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to wrangle"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "抄手",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chāo shǒu",
+          "wade_giles_pinyin": "chao1 shou3"
+        }
+      ],
+      "simplified": "抄手",
+      "simplified_stroke_count": null,
+      "traditional": "抄手",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to fold one's arms"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "copyist"
+        },
+        {
+          "context": "dialect",
+          "lexical_item": null,
+          "value": "wonton"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

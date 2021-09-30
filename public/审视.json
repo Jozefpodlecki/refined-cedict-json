@@ -1,0 +1,34 @@
+{
+  "simplified": "审视",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shěn shì",
+          "wade_giles_pinyin": "shen3 shi4"
+        }
+      ],
+      "simplified": "审视",
+      "simplified_stroke_count": 0,
+      "traditional": "審視",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to look closely at"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to examine"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

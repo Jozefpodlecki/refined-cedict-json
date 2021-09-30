@@ -1,0 +1,32 @@
+{
+  "simplified": "绞车",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jiǎo chē",
+          "wade_giles_pinyin": "jiao3 che1"
+        }
+      ],
+      "simplified": "绞车",
+      "simplified_stroke_count": 0,
+      "traditional": "絞車",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "winch"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "windlass"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

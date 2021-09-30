@@ -1,0 +1,39 @@
+{
+  "simplified": "谬",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "miù",
+          "wade_giles_pinyin": "miu4"
+        }
+      ],
+      "simplified": "谬",
+      "simplified_stroke_count": 13,
+      "traditional": "謬",
+      "traditional_stroke_count": 18,
+      "meanings": [
+        {
+          "value": "to deceive"
+        },
+        {
+          "value": "to confuse"
+        },
+        {
+          "value": "to cheat"
+        },
+        {
+          "value": "absurd"
+        },
+        {
+          "value": "erroneous"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

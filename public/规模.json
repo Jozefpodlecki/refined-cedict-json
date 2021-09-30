@@ -1,0 +1,48 @@
+{
+  "simplified": "规模",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guī mó",
+          "wade_giles_pinyin": "gui1 mo2"
+        }
+      ],
+      "simplified": "规模",
+      "simplified_stroke_count": null,
+      "traditional": "規模",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "scale"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "scope"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "extent"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "CL:個|个[ge4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "simplified": "有没有",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yǒu méi yǒu",
+          "wade_giles_pinyin": "you3 mei2 you3"
+        }
+      ],
+      "simplified": "有没有",
+      "simplified_stroke_count": 0,
+      "traditional": "有沒有",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(before a noun) Do (you, they etc) have ...?"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Is there a ...?"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(before a verb) Did (you, they etc) (verb, infinitive)?"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Have (you, they etc) (verb, past participle)?"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

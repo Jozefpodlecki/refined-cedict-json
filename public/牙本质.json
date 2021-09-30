@@ -1,0 +1,32 @@
+{
+  "simplified": "牙本质",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yá běn zhì",
+          "wade_giles_pinyin": "ya2 ben3 zhi4"
+        }
+      ],
+      "simplified": "牙本质",
+      "simplified_stroke_count": 0,
+      "traditional": "牙本質",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "dentin"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "dentine"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "肺",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "feì",
+          "wade_giles_pinyin": "fei4"
+        }
+      ],
+      "simplified": "肺",
+      "simplified_stroke_count": 8,
+      "traditional": "肺",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "lung"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

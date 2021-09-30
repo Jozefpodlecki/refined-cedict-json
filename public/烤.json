@@ -1,0 +1,33 @@
+{
+  "simplified": "烤",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kǎo",
+          "wade_giles_pinyin": "kao3"
+        }
+      ],
+      "simplified": "烤",
+      "simplified_stroke_count": 10,
+      "traditional": "烤",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "to roast"
+        },
+        {
+          "value": "to bake"
+        },
+        {
+          "value": "to broil"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

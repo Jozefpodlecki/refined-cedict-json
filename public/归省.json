@@ -1,0 +1,27 @@
+{
+  "simplified": "归省",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guī xǐng",
+          "wade_giles_pinyin": "gui1 xing3"
+        }
+      ],
+      "simplified": "归省",
+      "traditional": "歸省",
+      "meanings": [
+        {
+          "value": "to go home for a visit"
+        },
+        {
+          "value": "to return to one's parents' home to pay respects"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

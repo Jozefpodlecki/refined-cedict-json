@@ -1,0 +1,32 @@
+{
+  "simplified": "忧伤",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yōu shāng",
+          "wade_giles_pinyin": "you1 shang1"
+        }
+      ],
+      "simplified": "忧伤",
+      "simplified_stroke_count": null,
+      "traditional": "憂傷",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "distressed"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "laden with grief"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

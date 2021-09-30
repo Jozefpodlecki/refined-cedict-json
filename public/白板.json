@@ -1,0 +1,28 @@
+{
+  "simplified": "白板",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bái bǎn",
+          "wade_giles_pinyin": "bai2 ban3"
+        }
+      ],
+      "simplified": "白板",
+      "traditional": "白板",
+      "meanings": [
+        {
+          "value": "whiteboard"
+        },
+        {
+          "value": "tabula rasa"
+        },
+        {
+          "value": "blank slate"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

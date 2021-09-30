@@ -1,0 +1,25 @@
+{
+  "simplified": "降水量",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiàng shuǐ liàng",
+          "wade_giles_pinyin": "jiang4 shui3 liang4"
+        }
+      ],
+      "simplified": "降水量",
+      "traditional": "降水量",
+      "meanings": [
+        {
+          "value": "precipitation (meteorology)"
+        },
+        {
+          "value": "measured quantity of rain"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

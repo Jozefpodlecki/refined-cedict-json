@@ -1,0 +1,27 @@
+{
+  "simplified": "题诗",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tí shī",
+          "wade_giles_pinyin": "ti2 shi1"
+        }
+      ],
+      "simplified": "题诗",
+      "traditional": "題詩",
+      "meanings": [
+        {
+          "value": "to inscribe a poem (often, composed on the spot) on a painting, fan or ceramic bowl etc as a work of calligraphy"
+        },
+        {
+          "value": "an inscribed poem"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

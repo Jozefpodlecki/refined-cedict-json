@@ -1,0 +1,28 @@
+{
+  "simplified": "鱼缸",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yú gāng",
+          "wade_giles_pinyin": "yu2 gang1"
+        }
+      ],
+      "simplified": "鱼缸",
+      "traditional": "魚缸",
+      "meanings": [
+        {
+          "value": "fish tank"
+        },
+        {
+          "value": "fishbowl"
+        },
+        {
+          "value": "aquarium"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

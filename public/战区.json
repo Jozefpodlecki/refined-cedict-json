@@ -1,0 +1,28 @@
+{
+  "simplified": "战区",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhàn qū",
+          "wade_giles_pinyin": "zhan4 qu1"
+        }
+      ],
+      "simplified": "战区",
+      "traditional": "戰區",
+      "meanings": [
+        {
+          "value": "war zone"
+        },
+        {
+          "value": "combat zone"
+        },
+        {
+          "value": "(military) theater of operations"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

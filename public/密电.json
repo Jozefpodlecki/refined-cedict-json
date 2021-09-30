@@ -1,0 +1,32 @@
+{
+  "simplified": "密电",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " mì diàn",
+          "wade_giles_pinyin": "mi4 dian4"
+        }
+      ],
+      "simplified": "密电",
+      "simplified_stroke_count": 0,
+      "traditional": "密電",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "coded telegram"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "secret telegram"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

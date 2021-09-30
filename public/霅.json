@@ -1,0 +1,44 @@
+{
+  "simplified": "霅",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhá",
+          "wade_giles_pinyin": "Zha2"
+        }
+      ],
+      "simplified": "霅",
+      "simplified_stroke_count": 15,
+      "traditional": "霅",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "surname Zha"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhá",
+          "wade_giles_pinyin": "zha2"
+        }
+      ],
+      "simplified": "霅",
+      "simplified_stroke_count": 15,
+      "traditional": "霅",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "rain"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

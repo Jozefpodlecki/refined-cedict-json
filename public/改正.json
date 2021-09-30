@@ -1,0 +1,39 @@
+{
+  "simplified": "改正",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gǎi zhèng",
+          "wade_giles_pinyin": "gai3 zheng4"
+        }
+      ],
+      "simplified": "改正",
+      "traditional": "改正",
+      "meanings": [
+        {
+          "value": "to correct"
+        },
+        {
+          "value": "to amend"
+        },
+        {
+          "value": "to put right"
+        },
+        {
+          "value": "correction"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

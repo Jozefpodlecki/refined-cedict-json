@@ -1,0 +1,32 @@
+{
+  "simplified": "鳗鲡",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " mán lí",
+          "wade_giles_pinyin": "man2 li2"
+        }
+      ],
+      "simplified": "鳗鲡",
+      "simplified_stroke_count": 0,
+      "traditional": "鰻鱺",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "eel"
+        },
+        {
+          "context": "polite",
+          "lexical_item": "",
+          "value": "Japanese freshwater eel (Anguilla japonica)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "simplified": "起稿",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qǐ gǎo",
+          "wade_giles_pinyin": "qi3 gao3"
+        }
+      ],
+      "simplified": "起稿",
+      "traditional": "起稿",
+      "meanings": [
+        {
+          "value": "to make a draft"
+        },
+        {
+          "value": "to draft (a document)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

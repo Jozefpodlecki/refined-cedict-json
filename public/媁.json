@@ -1,0 +1,54 @@
+{
+  "simplified": "媁",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wéi",
+          "wade_giles_pinyin": "wei2"
+        }
+      ],
+      "simplified": "媁",
+      "simplified_stroke_count": 12,
+      "traditional": "媁",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "to appear displeased"
+        },
+        {
+          "value": "beautiful"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wěi",
+          "wade_giles_pinyin": "wei3"
+        }
+      ],
+      "simplified": "媁",
+      "simplified_stroke_count": 12,
+      "traditional": "媁",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "ugly"
+        },
+        {
+          "value": "to indulge oneself"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

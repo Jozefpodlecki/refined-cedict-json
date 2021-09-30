@@ -1,0 +1,29 @@
+{
+  "simplified": "鼄",
+  "simplified_stroke_count": 19,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhū",
+          "wade_giles_pinyin": "zhu1"
+        }
+      ],
+      "simplified": "鼄",
+      "simplified_stroke_count": 19,
+      "traditional": "鼄",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 蛛[zhu1]",
+          "simplified": "蛛",
+          "traditional": "",
+          "wade_giles_pinyin": "zhu1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

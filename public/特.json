@@ -1,0 +1,47 @@
+{
+  "simplified": "特",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tè",
+          "wade_giles_pinyin": "te4"
+        }
+      ],
+      "simplified": "特",
+      "simplified_stroke_count": 10,
+      "traditional": "特",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "special"
+        },
+        {
+          "value": "unique"
+        },
+        {
+          "value": "distinguished"
+        },
+        {
+          "value": "especially"
+        },
+        {
+          "value": "unusual"
+        },
+        {
+          "value": "very"
+        },
+        {
+          "context": "abbreviation",
+          "value": "特克斯[te4 ke4 si1], tex",
+          "simplified": "特",
+          "traditional": "克斯",
+          "wade_giles_pinyin": "te4 ke4 si1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

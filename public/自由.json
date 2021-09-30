@@ -1,0 +1,34 @@
+{
+  "simplified": "自由",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zì yóu",
+          "wade_giles_pinyin": "zi4 you2"
+        }
+      ],
+      "simplified": "自由",
+      "traditional": "自由",
+      "meanings": [
+        {
+          "value": "freedom"
+        },
+        {
+          "value": "free"
+        },
+        {
+          "value": "liberty"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

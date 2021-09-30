@@ -1,0 +1,34 @@
+{
+  "simplified": "苯",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " běn",
+          "wade_giles_pinyin": "ben3"
+        }
+      ],
+      "simplified": "苯",
+      "simplified_stroke_count": 11,
+      "traditional": "苯",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "benzene"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "benzol (chemistry)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "chemical elements"
+      ]
+    }
+  ]
+}

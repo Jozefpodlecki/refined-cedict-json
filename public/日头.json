@@ -1,0 +1,37 @@
+{
+  "simplified": "日头",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " rì tóu",
+          "wade_giles_pinyin": "ri4 tou2"
+        }
+      ],
+      "simplified": "日头",
+      "simplified_stroke_count": 0,
+      "traditional": "日頭",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "dialect",
+          "lexical_item": "",
+          "value": "sun"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "daytime"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "date"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

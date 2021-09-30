@@ -1,0 +1,29 @@
+{
+  "simplified": "对症发药",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "duì zhèng fā yào",
+          "wade_giles_pinyin": "dui4 zheng4 fa1 yao4"
+        }
+      ],
+      "simplified": "对症发药",
+      "traditional": "對症發藥",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "to prescribe the right medicine for an illness ; fig. to study a problem to find the right way to solve it"
+        },
+        {
+          "value": "to take appropriate steps"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

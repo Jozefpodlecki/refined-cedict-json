@@ -1,0 +1,32 @@
+{
+  "simplified": "贴士",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tiē shì",
+          "wade_giles_pinyin": "tie1 shi4"
+        }
+      ],
+      "simplified": "贴士",
+      "traditional": "貼士",
+      "meanings": [
+        {
+          "context": "loanword",
+          "value": "tip"
+        },
+        {
+          "value": "hint"
+        },
+        {
+          "value": "suggestion"
+        },
+        {
+          "value": "piece of advice"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

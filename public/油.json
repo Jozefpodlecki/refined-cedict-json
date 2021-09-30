@@ -1,0 +1,69 @@
+{
+  "simplified": "油",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yóu",
+          "wade_giles_pinyin": "you2"
+        }
+      ],
+      "simplified": "油",
+      "simplified_stroke_count": 8,
+      "traditional": "油",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "oil"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "fat"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "grease"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "petroleum"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to apply tung oil, paint or varnish"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "oily"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "greasy"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "glib"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "cunning"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "simplified": "斩",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhǎn",
+          "wade_giles_pinyin": "zhan3"
+        }
+      ],
+      "simplified": "斩",
+      "simplified_stroke_count": 8,
+      "traditional": "斬",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "to behead (as form of capital punishment)"
+        },
+        {
+          "value": "to chop"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

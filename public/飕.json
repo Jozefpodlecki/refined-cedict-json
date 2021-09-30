@@ -1,0 +1,33 @@
+{
+  "simplified": "飕",
+  "simplified_stroke_count": 14,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sōu",
+          "wade_giles_pinyin": "sou1"
+        }
+      ],
+      "simplified": "飕",
+      "simplified_stroke_count": 14,
+      "traditional": "颼",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "value": "to blow (as of wind)"
+        },
+        {
+          "value": "sound of wind"
+        },
+        {
+          "value": "sough"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

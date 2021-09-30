@@ -1,0 +1,32 @@
+{
+  "simplified": "本票",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " běn piào",
+          "wade_giles_pinyin": "ben3 piao4"
+        }
+      ],
+      "simplified": "本票",
+      "simplified_stroke_count": 0,
+      "traditional": "本票",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "cashier's check"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "promissory note"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

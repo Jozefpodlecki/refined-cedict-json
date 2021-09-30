@@ -1,0 +1,33 @@
+{
+  "simplified": "砣",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tuó",
+          "wade_giles_pinyin": "tuo2"
+        }
+      ],
+      "simplified": "砣",
+      "simplified_stroke_count": 10,
+      "traditional": "砣",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "steelyard weight"
+        },
+        {
+          "value": "stone roller"
+        },
+        {
+          "value": "to polish jade with an emery wheel"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

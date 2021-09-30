@@ -1,0 +1,39 @@
+{
+  "simplified": "太平",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tài píng",
+          "wade_giles_pinyin": "Tai4 ping2"
+        }
+      ],
+      "simplified": "太平",
+      "traditional": "太平",
+      "meanings": [
+        {
+          "value": "place name"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tài píng",
+          "wade_giles_pinyin": "tai4 ping2"
+        }
+      ],
+      "simplified": "太平",
+      "traditional": "太平",
+      "meanings": [
+        {
+          "value": "peace and security"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "simplified": "游泳圈",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yóu yǒng quān",
+          "wade_giles_pinyin": "you2 yong3 quan1"
+        }
+      ],
+      "simplified": "游泳圈",
+      "traditional": "游泳圈",
+      "meanings": [
+        {
+          "value": "swim ring"
+        },
+        {
+          "value": "swim tube"
+        },
+        {
+          "context": "colloquial",
+          "value": "(fig.)  spare tire (roll of fat around the waist)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

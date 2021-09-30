@@ -1,0 +1,34 @@
+{
+  "simplified": "害病",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " hài bìng",
+          "wade_giles_pinyin": "hai4 bing4"
+        }
+      ],
+      "simplified": "害病",
+      "simplified_stroke_count": 0,
+      "traditional": "害病",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to fall sick"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to contract an illness"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

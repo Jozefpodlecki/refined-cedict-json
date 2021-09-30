@@ -1,0 +1,32 @@
+{
+  "simplified": "拔出萝卜带出泥",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bá chū luó bo dài chū ní",
+          "wade_giles_pinyin": "ba2 chu1 luo2 bo5 dai4 chu1 ni2"
+        }
+      ],
+      "simplified": "拔出萝卜带出泥",
+      "traditional": "拔出蘿蔔帶出泥",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "when you pull a radish out of the ground, some dirt comes up with it"
+        },
+        {
+          "value": "fig. to uncover, during the investigation of a crime, evidence of other crimes"
+        },
+        {
+          "value": "to cause further problems while working on a problem"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

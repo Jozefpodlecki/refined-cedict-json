@@ -1,0 +1,42 @@
+{
+  "simplified": "写实",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiě shí",
+          "wade_giles_pinyin": "xie3 shi2"
+        }
+      ],
+      "simplified": "写实",
+      "simplified_stroke_count": null,
+      "traditional": "寫實",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "realism"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "realistic portrayal"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "realistic"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "true to life"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

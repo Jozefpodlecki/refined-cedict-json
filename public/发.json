@@ -1,0 +1,40 @@
+{
+  "simplified": "发",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fā",
+          "wade_giles_pinyin": "fa1"
+        }
+      ],
+      "simplified": "发",
+      "simplified_stroke_count": 5,
+      "traditional": "發",
+      "traditional_stroke_count": 12,
+      "meanings": [],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fà",
+          "wade_giles_pinyin": "fa4"
+        }
+      ],
+      "simplified": "发",
+      "simplified_stroke_count": 5,
+      "traditional": "髮",
+      "traditional_stroke_count": 15,
+      "meanings": [],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "simplified": "怀古",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huái gǔ",
+          "wade_giles_pinyin": "huai2 gu3"
+        }
+      ],
+      "simplified": "怀古",
+      "traditional": "懷古",
+      "meanings": [
+        {
+          "value": "to recall the past"
+        },
+        {
+          "value": "to cherish the memory of past events"
+        },
+        {
+          "value": "to reminisce"
+        },
+        {
+          "value": "nostalgic"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

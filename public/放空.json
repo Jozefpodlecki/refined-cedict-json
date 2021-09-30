@@ -1,0 +1,36 @@
+{
+  "simplified": "放空",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fàng kōng",
+          "wade_giles_pinyin": "fang4 kong1"
+        }
+      ],
+      "simplified": "放空",
+      "traditional": "放空",
+      "meanings": [
+        {
+          "value": "to relax completely"
+        },
+        {
+          "value": "to empty one's mind"
+        },
+        {
+          "value": "(finance) to sell short"
+        },
+        {
+          "value": "(of a commercial vehicle) to travel empty (no cargo or passengers)"
+        },
+        {
+          "value": "to deadhead"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

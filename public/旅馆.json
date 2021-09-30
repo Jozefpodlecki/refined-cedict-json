@@ -1,0 +1,38 @@
+{
+  "simplified": "旅馆",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " lǚ guǎn",
+          "wade_giles_pinyin": "lu:3 guan3"
+        }
+      ],
+      "simplified": "旅馆",
+      "simplified_stroke_count": 0,
+      "traditional": "旅館",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "hotel"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:家[jia1]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "家",
+          "traditional": "",
+          "wade_giles_pinyin": "jia1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

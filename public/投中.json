@@ -1,0 +1,34 @@
+{
+  "simplified": "投中",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " tóu zhòng",
+          "wade_giles_pinyin": "tou2 zhong4"
+        }
+      ],
+      "simplified": "投中",
+      "simplified_stroke_count": 0,
+      "traditional": "投中",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to hit the target with one's throw"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(basketball) to score"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

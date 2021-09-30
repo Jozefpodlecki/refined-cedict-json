@@ -1,0 +1,31 @@
+{
+  "simplified": "吃皇粮",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chī huáng liáng",
+          "wade_giles_pinyin": "chi1 huang2 liang2"
+        }
+      ],
+      "simplified": "吃皇粮",
+      "traditional": "吃皇糧",
+      "meanings": [
+        {
+          "context": "literature",
+          "value": "to eat from government coffers"
+        },
+        {
+          "value": "to serve as a government employee"
+        },
+        {
+          "value": "to live off government money"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

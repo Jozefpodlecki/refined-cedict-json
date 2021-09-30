@@ -1,0 +1,47 @@
+{
+  "simplified": "莫",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mò",
+          "wade_giles_pinyin": "Mo4"
+        }
+      ],
+      "simplified": "莫",
+      "simplified_stroke_count": 11,
+      "traditional": "莫",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "surname Mo"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mò",
+          "wade_giles_pinyin": "mo4"
+        }
+      ],
+      "simplified": "莫",
+      "simplified_stroke_count": 11,
+      "traditional": "莫",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "do not"
+        },
+        {
+          "value": "there is none who"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

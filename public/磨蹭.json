@@ -1,0 +1,39 @@
+{
+  "simplified": "磨蹭",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mó ceng",
+          "wade_giles_pinyin": "mo2 ceng5"
+        }
+      ],
+      "simplified": "磨蹭",
+      "traditional": "磨蹭",
+      "meanings": [
+        {
+          "value": "to rub lightly"
+        },
+        {
+          "value": "to move slowly"
+        },
+        {
+          "value": "to dawdle"
+        },
+        {
+          "value": "to dillydally"
+        },
+        {
+          "value": "to pester"
+        },
+        {
+          "value": "to nag"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "蕑",
+  "simplified_stroke_count": 18,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiān",
+          "wade_giles_pinyin": "Jian1"
+        }
+      ],
+      "simplified": "蕑",
+      "simplified_stroke_count": 18,
+      "traditional": "蕑",
+      "traditional_stroke_count": 18,
+      "meanings": [
+        {
+          "value": "surname Jian"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiān",
+          "wade_giles_pinyin": "jian1"
+        }
+      ],
+      "simplified": "蕑",
+      "simplified_stroke_count": 18,
+      "traditional": "蕑",
+      "traditional_stroke_count": 18,
+      "meanings": [
+        {
+          "value": "Eupatorium chinensis"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

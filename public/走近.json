@@ -1,0 +1,34 @@
+{
+  "simplified": "走近",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zǒu jìn",
+          "wade_giles_pinyin": "zou3 jin4"
+        }
+      ],
+      "simplified": "走近",
+      "simplified_stroke_count": null,
+      "traditional": "走近",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to approach"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to draw near to"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

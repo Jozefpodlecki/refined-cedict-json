@@ -1,0 +1,36 @@
+{
+  "simplified": "玫瑰",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "méi guī",
+          "wade_giles_pinyin": "mei2 gui1"
+        }
+      ],
+      "simplified": "玫瑰",
+      "traditional": "玫瑰",
+      "meanings": [
+        {
+          "value": "rugosa rose (shrub) (Rosa rugosa)"
+        },
+        {
+          "value": "rose flower"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "朵",
+          "traditional": "",
+          "wade_giles_pinyin": "duo3"
+        },
+        {
+          "simplified": "棵",
+          "traditional": "",
+          "wade_giles_pinyin": "ke1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

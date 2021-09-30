@@ -1,0 +1,44 @@
+{
+  "simplified": "夜",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yè",
+          "wade_giles_pinyin": "ye4"
+        }
+      ],
+      "simplified": "夜",
+      "simplified_stroke_count": 8,
+      "traditional": "亱",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 夜[ye4]",
+          "simplified": "夜",
+          "traditional": "",
+          "wade_giles_pinyin": "ye4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yè",
+          "wade_giles_pinyin": "ye4"
+        }
+      ],
+      "simplified": "夜",
+      "simplified_stroke_count": 8,
+      "traditional": "夜",
+      "traditional_stroke_count": 8,
+      "meanings": [],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

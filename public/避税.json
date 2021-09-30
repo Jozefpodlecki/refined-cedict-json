@@ -1,0 +1,27 @@
+{
+  "simplified": "避税",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bì shuì",
+          "wade_giles_pinyin": "bi4 shui4"
+        }
+      ],
+      "simplified": "避税",
+      "traditional": "避稅",
+      "meanings": [
+        {
+          "value": "to avoid taxation"
+        },
+        {
+          "value": "tax avoidance"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

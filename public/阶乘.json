@@ -1,0 +1,22 @@
+{
+  "simplified": "阶乘",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiē chéng",
+          "wade_giles_pinyin": "jie1 cheng2"
+        }
+      ],
+      "simplified": "阶乘",
+      "traditional": "階乘",
+      "meanings": [
+        {
+          "value": "the factorial of a number, e.g. 5! = 5.4.3.2.1 = 120"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "simplified": "答腔",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dā qiāng",
+          "wade_giles_pinyin": "da1 qiang1"
+        }
+      ],
+      "simplified": "答腔",
+      "traditional": "答腔",
+      "meanings": [
+        {
+          "value": "to answer"
+        },
+        {
+          "value": "to respond"
+        },
+        {
+          "value": "to converse"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

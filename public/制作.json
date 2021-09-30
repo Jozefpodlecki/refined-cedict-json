@@ -1,0 +1,34 @@
+{
+  "simplified": "制作",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhì zuò",
+          "wade_giles_pinyin": "zhi4 zuo4"
+        }
+      ],
+      "simplified": "制作",
+      "simplified_stroke_count": 0,
+      "traditional": "製作",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to make"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to manufacture"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

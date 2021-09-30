@@ -1,0 +1,28 @@
+{
+  "simplified": "鸽子",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gē zi",
+          "wade_giles_pinyin": "ge1 zi5"
+        }
+      ],
+      "simplified": "鸽子",
+      "traditional": "鴿子",
+      "meanings": [
+        {
+          "value": "pigeon"
+        },
+        {
+          "value": "dove"
+        },
+        {
+          "value": "various birds of the family Columbidae"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

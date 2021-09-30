@@ -1,0 +1,33 @@
+{
+  "simplified": "孵",
+  "simplified_stroke_count": 14,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fū",
+          "wade_giles_pinyin": "fu1"
+        }
+      ],
+      "simplified": "孵",
+      "simplified_stroke_count": 14,
+      "traditional": "孵",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "breeding"
+        },
+        {
+          "value": "to incubate"
+        },
+        {
+          "value": "to hatch"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "祛",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " qū",
+          "wade_giles_pinyin": "qu1"
+        }
+      ],
+      "simplified": "祛",
+      "simplified_stroke_count": 10,
+      "traditional": "祛",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "sacrifice to drive away calamity"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to dispel"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to drive away"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to remove"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

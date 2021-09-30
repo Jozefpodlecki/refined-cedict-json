@@ -1,0 +1,42 @@
+{
+  "simplified": "普及",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pǔ jí",
+          "wade_giles_pinyin": "pu3 ji2"
+        }
+      ],
+      "simplified": "普及",
+      "traditional": "普及",
+      "meanings": [
+        {
+          "value": "to spread extensively"
+        },
+        {
+          "value": "to generalize"
+        },
+        {
+          "value": "widespread"
+        },
+        {
+          "value": "popular"
+        },
+        {
+          "value": "universal"
+        },
+        {
+          "value": "ubiquitous"
+        },
+        {
+          "value": "pervasive"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

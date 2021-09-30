@@ -1,0 +1,27 @@
+{
+  "simplified": "烹调",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pēng tiáo",
+          "wade_giles_pinyin": "peng1 tiao2"
+        }
+      ],
+      "simplified": "烹调",
+      "traditional": "烹調",
+      "meanings": [
+        {
+          "value": "to cook"
+        },
+        {
+          "value": "cooking"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

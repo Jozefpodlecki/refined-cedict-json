@@ -1,0 +1,25 @@
+{
+  "simplified": "正号",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhèng hào",
+          "wade_giles_pinyin": "zheng4 hao4"
+        }
+      ],
+      "simplified": "正号",
+      "traditional": "正號",
+      "meanings": [
+        {
+          "value": "positive value sign + (math.)"
+        },
+        {
+          "value": "plus sign"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

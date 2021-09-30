@@ -1,0 +1,38 @@
+{
+  "simplified": "亲戚",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qīn qi",
+          "wade_giles_pinyin": "qin1 qi5"
+        }
+      ],
+      "simplified": "亲戚",
+      "traditional": "親戚",
+      "meanings": [
+        {
+          "value": "a relative (i.e. family relation)"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "門",
+          "traditional": "门",
+          "wade_giles_pinyin": "men2"
+        },
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        },
+        {
+          "simplified": "位",
+          "traditional": "",
+          "wade_giles_pinyin": "wei4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

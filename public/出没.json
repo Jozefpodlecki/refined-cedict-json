@@ -1,0 +1,49 @@
+{
+  "simplified": "出没",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chū mò",
+          "wade_giles_pinyin": "chu1 mo4"
+        }
+      ],
+      "simplified": "出没",
+      "simplified_stroke_count": 0,
+      "traditional": "出沒",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to come and go"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to roam about (mostly unseen)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(of a ghost) to haunt (a place)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(of a criminal) to stalk (the streets)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(of the sun) to rise and set"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

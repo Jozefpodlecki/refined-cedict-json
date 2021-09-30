@@ -1,0 +1,32 @@
+{
+  "simplified": "惟一",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wéi yī",
+          "wade_giles_pinyin": "wei2 yi1"
+        }
+      ],
+      "simplified": "惟一",
+      "traditional": "惟一",
+      "meanings": [
+        {
+          "value": "only"
+        },
+        {
+          "value": "sole"
+        },
+        {
+          "context": "variant",
+          "value": "variant of 唯一[wei2 yi1]",
+          "simplified": "唯",
+          "traditional": "一",
+          "wade_giles_pinyin": "wei2 yi1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

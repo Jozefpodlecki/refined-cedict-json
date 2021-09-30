@@ -1,0 +1,44 @@
+{
+  "simplified": "渐弱",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jiàn ruò",
+          "wade_giles_pinyin": "jian4 ruo4"
+        }
+      ],
+      "simplified": "渐弱",
+      "simplified_stroke_count": 0,
+      "traditional": "漸弱",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to fade out"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "gradually weakening"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "diminuendo"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "decrescendo"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

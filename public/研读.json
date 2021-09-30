@@ -1,0 +1,34 @@
+{
+  "simplified": "研读",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yán dú",
+          "wade_giles_pinyin": "yan2 du2"
+        }
+      ],
+      "simplified": "研读",
+      "simplified_stroke_count": 0,
+      "traditional": "研讀",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to study attentively (a book)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to delve into"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "simplified": "拗",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "aò",
+          "wade_giles_pinyin": "ao4"
+        }
+      ],
+      "simplified": "拗",
+      "simplified_stroke_count": 8,
+      "traditional": "抝",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 拗[ao4]",
+          "simplified": "拗",
+          "traditional": "",
+          "wade_giles_pinyin": "ao4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "aò",
+          "wade_giles_pinyin": "ao4"
+        },
+        {
+          "pinyin": "ǎo",
+          "wade_giles_pinyin": "ao3"
+        }
+      ],
+      "simplified": "拗",
+      "simplified_stroke_count": 8,
+      "traditional": "拗",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "to bend in two so as to break"
+        },
+        {
+          "value": "to defy"
+        },
+        {
+          "value": "to disobey"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "niù",
+          "wade_giles_pinyin": "niu4"
+        }
+      ],
+      "simplified": "拗",
+      "simplified_stroke_count": 8,
+      "traditional": "拗",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "stubborn"
+        },
+        {
+          "value": "obstinate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

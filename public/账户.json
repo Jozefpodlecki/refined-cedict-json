@@ -1,0 +1,25 @@
+{
+  "simplified": "账户",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhàng hù",
+          "wade_giles_pinyin": "zhang4 hu4"
+        }
+      ],
+      "simplified": "账户",
+      "traditional": "賬戶",
+      "meanings": [
+        {
+          "value": "bank account"
+        },
+        {
+          "value": "online account"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

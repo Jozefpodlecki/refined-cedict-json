@@ -1,0 +1,25 @@
+{
+  "simplified": "复数",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fù shù",
+          "wade_giles_pinyin": "fu4 shu4"
+        }
+      ],
+      "simplified": "复数",
+      "traditional": "複數",
+      "meanings": [
+        {
+          "value": "plural"
+        },
+        {
+          "value": "complex number (math.)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

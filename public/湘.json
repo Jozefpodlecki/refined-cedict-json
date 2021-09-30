@@ -1,0 +1,30 @@
+{
+  "simplified": "湘",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiāng",
+          "wade_giles_pinyin": "Xiang1"
+        }
+      ],
+      "simplified": "湘",
+      "simplified_stroke_count": 12,
+      "traditional": "湘",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "value": "Hunan 湖南 province in south central China"
+        },
+        {
+          "context": "abbreviation",
+          "value": "Xiangjiang river in Hunan province"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

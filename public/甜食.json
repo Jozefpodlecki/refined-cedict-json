@@ -1,0 +1,25 @@
+{
+  "simplified": "甜食",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tián shí",
+          "wade_giles_pinyin": "tian2 shi2"
+        }
+      ],
+      "simplified": "甜食",
+      "traditional": "甜食",
+      "meanings": [
+        {
+          "value": "dessert"
+        },
+        {
+          "value": "sweet"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

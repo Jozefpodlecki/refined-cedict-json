@@ -1,0 +1,36 @@
+{
+  "simplified": "啱",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yān",
+          "wade_giles_pinyin": "yan1"
+        }
+      ],
+      "simplified": "啱",
+      "simplified_stroke_count": 11,
+      "traditional": "啱",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "correct"
+        },
+        {
+          "value": "suitable"
+        },
+        {
+          "value": "to suit sb"
+        },
+        {
+          "value": "just now (Cantonese)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

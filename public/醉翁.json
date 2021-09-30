@@ -1,0 +1,31 @@
+{
+  "simplified": "醉翁",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zuì wēng",
+          "wade_giles_pinyin": "zui4 weng1"
+        }
+      ],
+      "simplified": "醉翁",
+      "traditional": "醉翁",
+      "meanings": [
+        {
+          "value": "wine-lover"
+        },
+        {
+          "value": "drinker"
+        },
+        {
+          "value": "toper"
+        },
+        {
+          "value": "drunkard"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

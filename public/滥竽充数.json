@@ -1,0 +1,39 @@
+{
+  "simplified": "滥竽充数",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "làn yú chōng shù",
+          "wade_giles_pinyin": "lan4 yu2 chong1 shu4"
+        }
+      ],
+      "simplified": "滥竽充数",
+      "simplified_stroke_count": null,
+      "traditional": "濫竽充數",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "lit. to play the yu 竽 mouth organ to make up numbers ; fig. to make up the numbers with inferior products"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to masquerade as having an ability"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "token member of a group"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "霜冻",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shuāng dòng",
+          "wade_giles_pinyin": "shuang1 dong4"
+        }
+      ],
+      "simplified": "霜冻",
+      "simplified_stroke_count": 0,
+      "traditional": "霜凍",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "frost"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "frost damage (to crop)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

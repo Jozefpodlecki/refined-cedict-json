@@ -1,0 +1,33 @@
+{
+  "simplified": "五毛",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wǔ máo",
+          "wade_giles_pinyin": "wu3 mao2"
+        }
+      ],
+      "simplified": "五毛",
+      "traditional": "五毛",
+      "meanings": [
+        {
+          "value": "fifty cents (0.5 RMB)"
+        },
+        {
+          "context": "figuratively",
+          "value": "paltry sum of money"
+        },
+        {
+          "context": "abbreviation",
+          "value": "( 五毛黨|五毛党[wu3 mao2 dang3]) hired Internet commenter",
+          "simplified": "(",
+          "traditional": " 五毛黨|五毛党",
+          "wade_giles_pinyin": "wu3 mao2 dang3"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

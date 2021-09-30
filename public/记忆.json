@@ -1,0 +1,36 @@
+{
+  "simplified": "记忆",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jì yì",
+          "wade_giles_pinyin": "ji4 yi4"
+        }
+      ],
+      "simplified": "记忆",
+      "traditional": "記憶",
+      "meanings": [
+        {
+          "value": "to remember"
+        },
+        {
+          "value": "to recall"
+        },
+        {
+          "value": "memory"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

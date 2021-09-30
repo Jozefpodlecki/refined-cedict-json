@@ -1,0 +1,48 @@
+{
+  "simplified": "袒",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tǎn",
+          "wade_giles_pinyin": "tan3"
+        }
+      ],
+      "simplified": "袒",
+      "simplified_stroke_count": 11,
+      "traditional": "袒",
+      "traditional_stroke_count": 11,
+      "meanings": [],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tǎn",
+          "wade_giles_pinyin": "tan3"
+        }
+      ],
+      "simplified": "袒",
+      "simplified_stroke_count": 11,
+      "traditional": "襢",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "袒[tan3]",
+          "simplified": "袒",
+          "traditional": "",
+          "wade_giles_pinyin": "tan3"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

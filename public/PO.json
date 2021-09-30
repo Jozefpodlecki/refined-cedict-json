@@ -1,0 +1,27 @@
+{
+  "simplified": "PO",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pō",
+          "wade_giles_pinyin": "po1"
+        },
+        {
+          "pinyin": "pōu",
+          "wade_giles_pinyin": "pou1"
+        }
+      ],
+      "simplified": "PO",
+      "traditional": "PO",
+      "meanings": [
+        {
+          "context": "taiwan",
+          "value": "(coll.) to post (online)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

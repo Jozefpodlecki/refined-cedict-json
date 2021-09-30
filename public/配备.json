@@ -1,0 +1,30 @@
+{
+  "simplified": "配备",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pèi bèi",
+          "wade_giles_pinyin": "pei4 bei4"
+        }
+      ],
+      "simplified": "配备",
+      "traditional": "配備",
+      "meanings": [
+        {
+          "value": "to allocate"
+        },
+        {
+          "value": "to provide"
+        },
+        {
+          "value": "to outfit with"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

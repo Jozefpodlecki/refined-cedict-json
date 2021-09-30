@@ -1,0 +1,66 @@
+{
+  "simplified": "帙",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhì",
+          "wade_giles_pinyin": "Zhi4"
+        }
+      ],
+      "simplified": "帙",
+      "simplified_stroke_count": 8,
+      "traditional": "帙",
+      "traditional_stroke_count": 8,
+      "meanings": [],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhì",
+          "wade_giles_pinyin": "zhi4"
+        }
+      ],
+      "simplified": "帙",
+      "simplified_stroke_count": 8,
+      "traditional": "帙",
+      "traditional_stroke_count": 8,
+      "meanings": [],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhì",
+          "wade_giles_pinyin": "zhi4"
+        }
+      ],
+      "simplified": "帙",
+      "simplified_stroke_count": 8,
+      "traditional": "袠",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 帙[zhi4]",
+          "simplified": "帙",
+          "traditional": "",
+          "wade_giles_pinyin": "zhi4"
+        },
+        {
+          "context": "variant",
+          "value": "variant of 秩[zhi4]",
+          "simplified": "秩",
+          "traditional": "",
+          "wade_giles_pinyin": "zhi4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

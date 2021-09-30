@@ -1,0 +1,48 @@
+{
+  "simplified": "埋",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mái",
+          "wade_giles_pinyin": "mai2"
+        }
+      ],
+      "simplified": "埋",
+      "simplified_stroke_count": 10,
+      "traditional": "埋",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "to bury"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mán",
+          "wade_giles_pinyin": "man2"
+        }
+      ],
+      "simplified": "埋",
+      "simplified_stroke_count": 10,
+      "traditional": "埋",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "to blame"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

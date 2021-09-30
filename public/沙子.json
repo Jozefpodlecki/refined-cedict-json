@@ -1,0 +1,36 @@
+{
+  "simplified": "沙子",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shā zi",
+          "wade_giles_pinyin": "sha1 zi5"
+        }
+      ],
+      "simplified": "沙子",
+      "traditional": "沙子",
+      "meanings": [
+        {
+          "value": "sand"
+        },
+        {
+          "value": "grit"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "粒",
+          "traditional": "",
+          "wade_giles_pinyin": "li4"
+        },
+        {
+          "simplified": "把",
+          "traditional": "",
+          "wade_giles_pinyin": "ba3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

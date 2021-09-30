@@ -590,6 +590,8 @@ zhong zhong5
 lǜ lv4
 lǚ lv3
 lǘ lv2
+lüè lve4
+nüè nve4
 rǎng rang3
 tǔ tu3
 niáng niang2
@@ -1460,6 +1462,7 @@ shǎ sha3
 fèn fen4
 néng neng2
 zhuī zhui1
+zhui zhui5
 chēng cheng1
 zǎ za3
 jié jie2

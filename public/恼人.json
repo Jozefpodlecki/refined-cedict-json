@@ -1,0 +1,30 @@
+{
+  "simplified": "恼人",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nǎo rén",
+          "wade_giles_pinyin": "nao3 ren2"
+        }
+      ],
+      "simplified": "恼人",
+      "traditional": "惱人",
+      "meanings": [
+        {
+          "value": "annoying"
+        },
+        {
+          "value": "irksome"
+        },
+        {
+          "value": "to irritate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

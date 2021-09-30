@@ -1,0 +1,30 @@
+{
+  "simplified": "挨饿",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ái è",
+          "wade_giles_pinyin": "ai2 e4"
+        }
+      ],
+      "simplified": "挨饿",
+      "traditional": "挨餓",
+      "meanings": [
+        {
+          "value": "to go hungry"
+        },
+        {
+          "value": "to endure starvation"
+        },
+        {
+          "value": "famished"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

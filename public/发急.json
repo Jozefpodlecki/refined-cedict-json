@@ -1,0 +1,30 @@
+{
+  "simplified": "发急",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fā jí",
+          "wade_giles_pinyin": "fa1 ji2"
+        }
+      ],
+      "simplified": "发急",
+      "traditional": "發急",
+      "meanings": [
+        {
+          "value": "to fret"
+        },
+        {
+          "value": "to get impatient"
+        },
+        {
+          "value": "to become anxious"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

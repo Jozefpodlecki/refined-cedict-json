@@ -1,0 +1,34 @@
+{
+  "simplified": "复审",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fù shěn",
+          "wade_giles_pinyin": "fu4 shen3"
+        }
+      ],
+      "simplified": "复审",
+      "simplified_stroke_count": 0,
+      "traditional": "復審",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to review a judicial case"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to reexamine"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

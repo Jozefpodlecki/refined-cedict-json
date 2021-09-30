@@ -1,0 +1,28 @@
+{
+  "simplified": "手续费",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shǒu xù feì",
+          "wade_giles_pinyin": "shou3 xu4 fei4"
+        }
+      ],
+      "simplified": "手续费",
+      "traditional": "手續費",
+      "meanings": [
+        {
+          "value": "service charge"
+        },
+        {
+          "value": "processing fee"
+        },
+        {
+          "value": "commission"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

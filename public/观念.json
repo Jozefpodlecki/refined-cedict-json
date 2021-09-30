@@ -1,0 +1,40 @@
+{
+  "simplified": "观念",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guān niàn",
+          "wade_giles_pinyin": "guan1 nian4"
+        }
+      ],
+      "simplified": "观念",
+      "traditional": "觀念",
+      "meanings": [
+        {
+          "value": "notion"
+        },
+        {
+          "value": "thought"
+        },
+        {
+          "value": "concept"
+        },
+        {
+          "value": "sense"
+        },
+        {
+          "value": "views"
+        },
+        {
+          "value": "ideology"
+        },
+        {
+          "value": "general impressions"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

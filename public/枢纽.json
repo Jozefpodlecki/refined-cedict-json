@@ -1,0 +1,42 @@
+{
+  "simplified": "枢纽",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shū niǔ",
+          "wade_giles_pinyin": "shu1 niu3"
+        }
+      ],
+      "simplified": "枢纽",
+      "simplified_stroke_count": null,
+      "traditional": "樞紐",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "hub (e.g. of traffic network)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "hinge"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "pivot"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "fulcrum"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

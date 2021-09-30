@@ -1,0 +1,29 @@
+{
+  "simplified": "口吐毒焰",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kǒu tǔ dú yàn",
+          "wade_giles_pinyin": "kou3 tu3 du2 yan4"
+        }
+      ],
+      "simplified": "口吐毒焰",
+      "traditional": "口吐毒焰",
+      "meanings": [
+        {
+          "context": "literature",
+          "value": "a mouth spitting with poisonous flames"
+        },
+        {
+          "lexical_item": "idiom",
+          "value": "to speak angrily to sb"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

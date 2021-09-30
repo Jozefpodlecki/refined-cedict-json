@@ -1,0 +1,39 @@
+{
+  "simplified": "铄",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shuò",
+          "wade_giles_pinyin": "shuo4"
+        }
+      ],
+      "simplified": "铄",
+      "simplified_stroke_count": 10,
+      "traditional": "鑠",
+      "traditional_stroke_count": 23,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "bright"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to melt"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to fuse"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "simplified": "离谱",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lí pǔ",
+          "wade_giles_pinyin": "li2 pu3"
+        }
+      ],
+      "simplified": "离谱",
+      "simplified_stroke_count": null,
+      "traditional": "離譜",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "excessive"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "beyond reasonable limits"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "irregular"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

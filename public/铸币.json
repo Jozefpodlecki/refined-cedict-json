@@ -1,0 +1,27 @@
+{
+  "simplified": "铸币",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhù bì",
+          "wade_giles_pinyin": "zhu4 bi4"
+        }
+      ],
+      "simplified": "铸币",
+      "traditional": "鑄幣",
+      "meanings": [
+        {
+          "value": "coin"
+        },
+        {
+          "value": "to mint (coins)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

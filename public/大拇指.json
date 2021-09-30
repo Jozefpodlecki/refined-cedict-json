@@ -1,0 +1,39 @@
+{
+  "simplified": "大拇指",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dà mu zhǐ",
+          "wade_giles_pinyin": "Da4 mu5 zhi3"
+        }
+      ],
+      "simplified": "大拇指",
+      "traditional": "大拇指",
+      "meanings": [
+        {
+          "value": "Tom Thumb (small person in folk tales)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dà mu zhǐ",
+          "wade_giles_pinyin": "da4 mu5 zhi3"
+        }
+      ],
+      "simplified": "大拇指",
+      "traditional": "大拇指",
+      "meanings": [
+        {
+          "value": "thumb"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

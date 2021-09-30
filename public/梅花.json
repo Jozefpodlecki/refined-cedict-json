@@ -1,0 +1,29 @@
+{
+  "simplified": "梅花",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "méi huā",
+          "wade_giles_pinyin": "mei2 hua1"
+        }
+      ],
+      "simplified": "梅花",
+      "traditional": "梅花",
+      "meanings": [
+        {
+          "value": "plum blossom"
+        },
+        {
+          "value": "clubs ♣ (a suit in card games)"
+        },
+        {
+          "context": "dialect",
+          "value": "wintersweet"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

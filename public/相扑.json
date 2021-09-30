@@ -1,0 +1,26 @@
+{
+  "simplified": "相扑",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiāng pū",
+          "wade_giles_pinyin": "xiang1 pu1"
+        },
+        {
+          "pinyin": "xiàng pū",
+          "wade_giles_pinyin": "xiang4 pu1"
+        }
+      ],
+      "simplified": "相扑",
+      "traditional": "相撲",
+      "meanings": [
+        {
+          "value": "sumo wrestling"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

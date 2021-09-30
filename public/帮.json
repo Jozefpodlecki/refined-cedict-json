@@ -1,0 +1,113 @@
+{
+  "simplified": "帮",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bāng",
+          "wade_giles_pinyin": "bang1"
+        }
+      ],
+      "simplified": "帮",
+      "simplified_stroke_count": 10,
+      "traditional": "幇",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 幫|帮[bang1]",
+          "simplified": "幫",
+          "traditional": "帮",
+          "wade_giles_pinyin": "bang1"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bāng",
+          "wade_giles_pinyin": "bang1"
+        }
+      ],
+      "simplified": "帮",
+      "simplified_stroke_count": 10,
+      "traditional": "幚",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 幫|帮[bang1]",
+          "simplified": "幫",
+          "traditional": "帮",
+          "wade_giles_pinyin": "bang1"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bāng",
+          "wade_giles_pinyin": "bang1"
+        }
+      ],
+      "simplified": "帮",
+      "simplified_stroke_count": 10,
+      "traditional": "幫",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "to help"
+        },
+        {
+          "value": "to assist"
+        },
+        {
+          "value": "to support"
+        },
+        {
+          "value": "for sb (i.e. as a help)"
+        },
+        {
+          "value": "hired (as worker)"
+        },
+        {
+          "value": "side (of pail, boat etc)"
+        },
+        {
+          "value": "outer layer"
+        },
+        {
+          "value": "upper (of a shoe)"
+        },
+        {
+          "value": "group"
+        },
+        {
+          "value": "gang"
+        },
+        {
+          "value": "clique"
+        },
+        {
+          "value": "party"
+        },
+        {
+          "value": "secret society"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

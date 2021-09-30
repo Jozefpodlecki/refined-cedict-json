@@ -1,0 +1,34 @@
+{
+  "simplified": "梳理",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shū lǐ",
+          "wade_giles_pinyin": "shu1 li3"
+        }
+      ],
+      "simplified": "梳理",
+      "simplified_stroke_count": null,
+      "traditional": "梳理",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to comb"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "fig. to sort out"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

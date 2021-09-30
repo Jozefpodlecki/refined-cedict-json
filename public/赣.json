@@ -1,0 +1,74 @@
+{
+  "simplified": "赣",
+  "simplified_stroke_count": 21,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " gàn",
+          "wade_giles_pinyin": "Gan4"
+        }
+      ],
+      "simplified": "赣",
+      "simplified_stroke_count": 21,
+      "traditional": "灨",
+      "traditional_stroke_count": 27,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "贛|赣[Gan4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " gàn",
+          "wade_giles_pinyin": "Gan4"
+        }
+      ],
+      "simplified": "赣",
+      "simplified_stroke_count": 21,
+      "traditional": "贑",
+      "traditional_stroke_count": 21,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "贛|赣[Gan4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " gàn",
+          "wade_giles_pinyin": "Gan4"
+        }
+      ],
+      "simplified": "赣",
+      "simplified_stroke_count": 21,
+      "traditional": "贛",
+      "traditional_stroke_count": 24,
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "lexical_item": "",
+          "value": "Jiangxi Province 江西省[Jiang1 xi1 Sheng3]"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Gan River in Jiangxi Province 江西省[Jiang1 xi1 Sheng3]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

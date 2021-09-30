@@ -1,0 +1,30 @@
+{
+  "simplified": "切片",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiē piàn",
+          "wade_giles_pinyin": "qie1 pian4"
+        }
+      ],
+      "simplified": "切片",
+      "traditional": "切片",
+      "meanings": [
+        {
+          "value": "to slice"
+        },
+        {
+          "value": "slice"
+        },
+        {
+          "value": "thin section of a specimen (for microscopic examination)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "simplified": "烦恼",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fán nǎo",
+          "wade_giles_pinyin": "fan2 nao3"
+        }
+      ],
+      "simplified": "烦恼",
+      "traditional": "煩惱",
+      "meanings": [
+        {
+          "value": "to be worried"
+        },
+        {
+          "value": "to be distressed"
+        },
+        {
+          "value": "worries"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

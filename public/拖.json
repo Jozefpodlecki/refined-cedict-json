@@ -1,0 +1,70 @@
+{
+  "simplified": "拖",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tuō",
+          "wade_giles_pinyin": "tuo1"
+        }
+      ],
+      "simplified": "拖",
+      "simplified_stroke_count": 8,
+      "traditional": "拕",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 拖[tuo1]",
+          "simplified": "拖",
+          "traditional": "",
+          "wade_giles_pinyin": "tuo1"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tuō",
+          "wade_giles_pinyin": "tuo1"
+        }
+      ],
+      "simplified": "拖",
+      "simplified_stroke_count": 8,
+      "traditional": "拖",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "to drag"
+        },
+        {
+          "value": "to tow"
+        },
+        {
+          "value": "to trail"
+        },
+        {
+          "value": "to hang down"
+        },
+        {
+          "value": "to mop (the floor)"
+        },
+        {
+          "value": "to delay"
+        },
+        {
+          "value": "to drag on"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

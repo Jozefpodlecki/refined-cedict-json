@@ -1,0 +1,32 @@
+{
+  "simplified": "富农",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fù nóng",
+          "wade_giles_pinyin": "fu4 nong2"
+        }
+      ],
+      "simplified": "富农",
+      "simplified_stroke_count": null,
+      "traditional": "富農",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "rich peasant"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "social class of people farming their own land, intermediate between land-owner class 地主[di4 zhu3] and poor peasant 貧農|贫农[pin2 nong2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

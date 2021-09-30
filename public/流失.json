@@ -1,0 +1,34 @@
+{
+  "simplified": "流失",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "liú shī",
+          "wade_giles_pinyin": "liu2 shi1"
+        }
+      ],
+      "simplified": "流失",
+      "traditional": "流失",
+      "meanings": [
+        {
+          "value": "(of soil etc) to wash away"
+        },
+        {
+          "value": "to be eroded"
+        },
+        {
+          "context": "figuratively",
+          "value": "(of talented staff, followers of a religious faith, investment funds etc) to go elsewhere"
+        },
+        {
+          "value": "to fail to be retained"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

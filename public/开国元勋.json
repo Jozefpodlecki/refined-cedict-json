@@ -1,0 +1,52 @@
+{
+  "simplified": "开国元勋",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kāi guó yuán xūn",
+          "wade_giles_pinyin": "kai1 guo2 yuan2 xun1"
+        }
+      ],
+      "simplified": "开国元勋",
+      "traditional": "開國元勛",
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "開國元勳|开国元勋, founding figure (of country or dynasty)"
+        },
+        {
+          "value": "founding father"
+        },
+        {
+          "value": "fig. also used of company, school etc"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kāi guó yuán xūn",
+          "wade_giles_pinyin": "kai1 guo2 yuan2 xun1"
+        }
+      ],
+      "simplified": "开国元勋",
+      "traditional": "開國元勳",
+      "meanings": [
+        {
+          "value": "founding figure (of a country or dynasty)"
+        },
+        {
+          "value": "founding father"
+        },
+        {
+          "value": "fig. also used of company or school etc"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

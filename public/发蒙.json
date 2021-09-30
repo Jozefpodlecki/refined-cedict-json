@@ -1,0 +1,40 @@
+{
+  "simplified": "发蒙",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fā mēng",
+          "wade_giles_pinyin": "fa1 meng1"
+        }
+      ],
+      "simplified": "发蒙",
+      "traditional": "發蒙",
+      "meanings": [],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fā méng",
+          "wade_giles_pinyin": "fa1 meng2"
+        }
+      ],
+      "simplified": "发蒙",
+      "traditional": "發蒙",
+      "meanings": [
+        {
+          "context": "old",
+          "value": "to instruct the young"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

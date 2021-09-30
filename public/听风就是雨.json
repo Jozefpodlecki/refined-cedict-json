@@ -1,0 +1,32 @@
+{
+  "simplified": "听风就是雨",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tīng fēng jiù shì yǔ",
+          "wade_giles_pinyin": "ting1 feng1 jiu4 shi4 yu3"
+        }
+      ],
+      "simplified": "听风就是雨",
+      "traditional": "聽風就是雨",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "to believe in the rain on hearing the wind"
+        },
+        {
+          "value": "to believe rumors"
+        },
+        {
+          "value": "to be credulous"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

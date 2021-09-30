@@ -1,0 +1,31 @@
+{
+  "simplified": "二元",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "èr yuán",
+          "wade_giles_pinyin": "er4 yuan2"
+        }
+      ],
+      "simplified": "二元",
+      "traditional": "二元",
+      "meanings": [
+        {
+          "value": "duality"
+        },
+        {
+          "value": "dual"
+        },
+        {
+          "value": "bipolar"
+        },
+        {
+          "value": "binary"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "死当",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sǐ dàng",
+          "wade_giles_pinyin": "si3 dang4"
+        }
+      ],
+      "simplified": "死当",
+      "traditional": "死當",
+      "meanings": [
+        {
+          "context": "taiwan",
+          "value": "to flunk"
+        },
+        {
+          "value": "(computing) to crash"
+        },
+        {
+          "value": "to stop working"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

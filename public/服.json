@@ -1,0 +1,84 @@
+{
+  "simplified": "服",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fú",
+          "wade_giles_pinyin": "fu2"
+        }
+      ],
+      "simplified": "服",
+      "simplified_stroke_count": 8,
+      "traditional": "服",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "clothes"
+        },
+        {
+          "value": "dress"
+        },
+        {
+          "value": "garment"
+        },
+        {
+          "value": "to serve (in the military, a prison sentence etc)"
+        },
+        {
+          "value": "to obey"
+        },
+        {
+          "value": "to be convinced (by an argument)"
+        },
+        {
+          "value": "to convince"
+        },
+        {
+          "value": "to admire"
+        },
+        {
+          "value": "to acclimatize"
+        },
+        {
+          "value": "to take (medicine)"
+        },
+        {
+          "value": "mourning clothes"
+        },
+        {
+          "value": "to wear mourning clothes"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fù",
+          "wade_giles_pinyin": "fu4"
+        }
+      ],
+      "simplified": "服",
+      "simplified_stroke_count": 8,
+      "traditional": "服",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "classifier for medicine: dose"
+        },
+        {
+          "value": "Taiwan pr. [fu2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

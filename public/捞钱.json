@@ -1,0 +1,39 @@
+{
+  "simplified": "捞钱",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lāo qián",
+          "wade_giles_pinyin": "lao1 qian2"
+        }
+      ],
+      "simplified": "捞钱",
+      "simplified_stroke_count": null,
+      "traditional": "撈錢",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": null,
+          "value": "to dredge for money"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to make money by reprehensible means"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to fish for a quick buck"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

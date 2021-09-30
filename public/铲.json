@@ -1,0 +1,60 @@
+{
+  "simplified": "铲",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chǎn",
+          "wade_giles_pinyin": "chan3"
+        }
+      ],
+      "simplified": "铲",
+      "simplified_stroke_count": 11,
+      "traditional": "剷",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "to level off"
+        },
+        {
+          "value": "to root up"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chǎn",
+          "wade_giles_pinyin": "chan3"
+        }
+      ],
+      "simplified": "铲",
+      "simplified_stroke_count": 11,
+      "traditional": "鏟",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "value": "to shovel"
+        },
+        {
+          "value": "to remove"
+        },
+        {
+          "value": "spade"
+        },
+        {
+          "value": "shovel"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

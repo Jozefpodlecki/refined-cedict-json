@@ -1,0 +1,34 @@
+{
+  "simplified": "偷鸡摸狗",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tōu jī mō gǒu",
+          "wade_giles_pinyin": "tou1 ji1 mo1 gou3"
+        }
+      ],
+      "simplified": "偷鸡摸狗",
+      "traditional": "偷雞摸狗",
+      "meanings": [
+        {
+          "lexical_item": "idiom",
+          "value": "to imitate the dog and steal chicken"
+        },
+        {
+          "value": "to pilfer"
+        },
+        {
+          "value": "to dally with women"
+        },
+        {
+          "value": "to have affairs"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

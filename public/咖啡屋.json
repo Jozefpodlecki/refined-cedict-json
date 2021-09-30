@@ -1,0 +1,43 @@
+{
+  "simplified": "咖啡屋",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " kā fēi wū",
+          "wade_giles_pinyin": "ka1 fei1 wu1"
+        }
+      ],
+      "simplified": "咖啡屋",
+      "simplified_stroke_count": 0,
+      "traditional": "咖啡屋",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "coffee house"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "café"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:家[jia1]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "家",
+          "traditional": "",
+          "wade_giles_pinyin": "jia1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

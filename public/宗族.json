@@ -1,0 +1,32 @@
+{
+  "simplified": "宗族",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zōng zú",
+          "wade_giles_pinyin": "zong1 zu2"
+        }
+      ],
+      "simplified": "宗族",
+      "simplified_stroke_count": 0,
+      "traditional": "宗族",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "clan"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "clansman"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

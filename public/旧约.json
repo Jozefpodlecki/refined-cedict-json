@@ -1,0 +1,42 @@
+{
+  "simplified": "旧约",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiù yuē",
+          "wade_giles_pinyin": "Jiu4 yue1"
+        }
+      ],
+      "simplified": "旧约",
+      "traditional": "舊約",
+      "meanings": [
+        {
+          "value": "Old Testament"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiù yuē",
+          "wade_giles_pinyin": "jiu4 yue1"
+        }
+      ],
+      "simplified": "旧约",
+      "traditional": "舊約",
+      "meanings": [
+        {
+          "value": "former agreement"
+        },
+        {
+          "value": "former contract"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

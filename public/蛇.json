@@ -1,0 +1,57 @@
+{
+  "simplified": "蛇",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shé",
+          "wade_giles_pinyin": "she2"
+        }
+      ],
+      "simplified": "蛇",
+      "simplified_stroke_count": 11,
+      "traditional": "虵",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 蛇[she2]",
+          "simplified": "蛇",
+          "traditional": "",
+          "wade_giles_pinyin": "she2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shé",
+          "wade_giles_pinyin": "she2"
+        }
+      ],
+      "simplified": "蛇",
+      "simplified_stroke_count": 11,
+      "traditional": "蛇",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "snake"
+        },
+        {
+          "value": "serpent"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "條",
+          "traditional": "条",
+          "wade_giles_pinyin": "tiao2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

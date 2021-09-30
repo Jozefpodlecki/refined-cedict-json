@@ -1,0 +1,25 @@
+{
+  "simplified": "航站",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "háng zhàn",
+          "wade_giles_pinyin": "hang2 zhan4"
+        }
+      ],
+      "simplified": "航站",
+      "traditional": "航站",
+      "meanings": [
+        {
+          "value": "airport"
+        },
+        {
+          "value": "(shipping) port"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

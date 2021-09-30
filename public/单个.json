@@ -1,0 +1,31 @@
+{
+  "simplified": "单个",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dān ge",
+          "wade_giles_pinyin": "dan1 ge5"
+        }
+      ],
+      "simplified": "单个",
+      "traditional": "單個",
+      "meanings": [
+        {
+          "value": "single"
+        },
+        {
+          "value": "alone"
+        },
+        {
+          "value": "individually"
+        },
+        {
+          "value": "an odd one"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

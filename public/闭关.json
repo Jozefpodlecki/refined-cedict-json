@@ -1,0 +1,30 @@
+{
+  "simplified": "闭关",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bì guān",
+          "wade_giles_pinyin": "bi4 guan1"
+        }
+      ],
+      "simplified": "闭关",
+      "traditional": "閉關",
+      "meanings": [
+        {
+          "value": "to close the passes"
+        },
+        {
+          "value": "to seal off the country"
+        },
+        {
+          "value": "seclusion (monastic practice, e.g. of Chan Buddhists)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

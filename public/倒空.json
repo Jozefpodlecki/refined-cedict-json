@@ -1,0 +1,39 @@
+{
+  "simplified": "倒空",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dào kōng",
+          "wade_giles_pinyin": "dao4 kong1"
+        }
+      ],
+      "simplified": "倒空",
+      "simplified_stroke_count": null,
+      "traditional": "倒空",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to empty (a bag)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to turn inside out"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to turn out"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "默祷",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " mò dǎo",
+          "wade_giles_pinyin": "mo4 dao3"
+        }
+      ],
+      "simplified": "默祷",
+      "simplified_stroke_count": 0,
+      "traditional": "默禱",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "silent prayer"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "pray in silence"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "simplified": "捏",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "niē",
+          "wade_giles_pinyin": "nie1"
+        }
+      ],
+      "simplified": "捏",
+      "simplified_stroke_count": 10,
+      "traditional": "捏",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "to hold between the thumb and fingers"
+        },
+        {
+          "value": "to pinch"
+        },
+        {
+          "value": "to mold (using the fingers)"
+        },
+        {
+          "context": "literature",
+          "value": "to hold ( in one's hand and fig.)"
+        },
+        {
+          "value": "to join together"
+        },
+        {
+          "value": "to fabricate (a story, a report, etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "niē",
+          "wade_giles_pinyin": "nie1"
+        }
+      ],
+      "simplified": "捏",
+      "simplified_stroke_count": 10,
+      "traditional": "揑",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 捏[nie1]",
+          "simplified": "捏",
+          "traditional": "",
+          "wade_giles_pinyin": "nie1"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

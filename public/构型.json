@@ -1,0 +1,33 @@
+{
+  "simplified": "构型",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gòu xíng",
+          "wade_giles_pinyin": "gou4 xing2"
+        }
+      ],
+      "simplified": "构型",
+      "traditional": "構型",
+      "meanings": [
+        {
+          "value": "structure"
+        },
+        {
+          "value": "(spatial) configuration"
+        },
+        {
+          "value": "arrangement"
+        },
+        {
+          "value": "(chemistry) configuration (molecular, electron etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "chemical elements"
+      ]
+    }
+  ]
+}

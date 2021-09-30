@@ -1,0 +1,37 @@
+{
+  "simplified": "生技",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shēng jì",
+          "wade_giles_pinyin": "sheng1 ji4"
+        }
+      ],
+      "simplified": "生技",
+      "simplified_stroke_count": 0,
+      "traditional": "生技",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "biotechnology"
+        },
+        {
+          "context": "abbreviation",
+          "lexical_item": "",
+          "value": "生物技術|生物技术"
+        },
+        {
+          "context": "abbreviation",
+          "lexical_item": "",
+          "value": "(Tw)  生物科技"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

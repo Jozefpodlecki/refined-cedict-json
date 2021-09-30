@@ -1,0 +1,29 @@
+{
+  "simplified": "港岛",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gǎng dǎo",
+          "wade_giles_pinyin": "Gang3 dao3"
+        }
+      ],
+      "simplified": "港岛",
+      "traditional": "港島",
+      "meanings": [
+        {
+          "value": "Hong Kong Island"
+        },
+        {
+          "context": "abbreviation",
+          "value": "香港島|香港岛[Xiang1 gang3 dao3]",
+          "simplified": "香",
+          "traditional": "港島|香港岛",
+          "wade_giles_pinyin": "Xiang1 gang3 dao3"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

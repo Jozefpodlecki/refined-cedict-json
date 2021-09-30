@@ -1,0 +1,115 @@
+{
+  "simplified": "称",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chèn",
+          "wade_giles_pinyin": "chen4"
+        }
+      ],
+      "simplified": "称",
+      "simplified_stroke_count": 10,
+      "traditional": "稱",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to fit"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "balanced"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "suitable"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chēng",
+          "wade_giles_pinyin": "cheng1"
+        }
+      ],
+      "simplified": "称",
+      "simplified_stroke_count": 10,
+      "traditional": "稱",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to weigh"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to state"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to name"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "name"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "appellation"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to praise"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chèng",
+          "wade_giles_pinyin": "cheng4"
+        }
+      ],
+      "simplified": "称",
+      "simplified_stroke_count": 10,
+      "traditional": "稱",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "秤[cheng4]"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "steelyard"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

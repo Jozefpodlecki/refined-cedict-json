@@ -1,0 +1,41 @@
+{
+  "simplified": "淋漓",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lín lí",
+          "wade_giles_pinyin": "lin2 li2"
+        }
+      ],
+      "simplified": "淋漓",
+      "traditional": "淋漓",
+      "meanings": [
+        {
+          "value": "dripping wet"
+        },
+        {
+          "value": "pouring"
+        },
+        {
+          "value": "saturated"
+        },
+        {
+          "context": "figuratively",
+          "value": "uninhibited"
+        },
+        {
+          "value": "fluid"
+        },
+        {
+          "value": "emotionally unrestrained"
+        },
+        {
+          "value": "extreme"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

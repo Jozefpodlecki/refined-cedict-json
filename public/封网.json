@@ -1,0 +1,34 @@
+{
+  "simplified": "封网",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fēng wǎng",
+          "wade_giles_pinyin": "feng1 wang3"
+        }
+      ],
+      "simplified": "封网",
+      "simplified_stroke_count": 0,
+      "traditional": "封網",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to intercept at the net (volleyball, tennis etc)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(computing) to seal off a network"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "戕",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " qiāng",
+          "wade_giles_pinyin": "qiang1"
+        }
+      ],
+      "simplified": "戕",
+      "simplified_stroke_count": 8,
+      "traditional": "戕",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to kill"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to injure"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Taiwan pr. [qiang2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

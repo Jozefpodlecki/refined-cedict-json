@@ -1,0 +1,39 @@
+{
+  "simplified": "中央银行",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhōng yāng yín háng",
+          "wade_giles_pinyin": "Zhong1 yang1 Yin2 hang2"
+        }
+      ],
+      "simplified": "中央银行",
+      "traditional": "中央銀行",
+      "meanings": [
+        {
+          "value": "Central Bank of the Republic of China (Taiwan)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhōng yāng yín háng",
+          "wade_giles_pinyin": "zhong1 yang1 yin2 hang2"
+        }
+      ],
+      "simplified": "中央银行",
+      "traditional": "中央銀行",
+      "meanings": [
+        {
+          "value": "central bank"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

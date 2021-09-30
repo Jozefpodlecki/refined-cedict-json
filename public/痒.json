@@ -1,0 +1,61 @@
+{
+  "simplified": "痒",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǎng",
+          "wade_giles_pinyin": "yang3"
+        }
+      ],
+      "simplified": "痒",
+      "simplified_stroke_count": 11,
+      "traditional": "痒",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 癢|痒[yang3]",
+          "simplified": "癢",
+          "traditional": "痒",
+          "wade_giles_pinyin": "yang3"
+        },
+        {
+          "value": "to itch"
+        },
+        {
+          "value": "to tickle"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǎng",
+          "wade_giles_pinyin": "yang3"
+        }
+      ],
+      "simplified": "痒",
+      "simplified_stroke_count": 11,
+      "traditional": "癢",
+      "traditional_stroke_count": 20,
+      "meanings": [
+        {
+          "value": "to itch"
+        },
+        {
+          "value": "to tickle"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "simplified": "心猿意马",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xīn yuán yì mǎ",
+          "wade_giles_pinyin": "xin1 yuan2 yi4 ma3"
+        }
+      ],
+      "simplified": "心猿意马",
+      "traditional": "心猿意馬",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "heart like a frisky monkey, mind like a cantering horse ; fig. capricious (derog.)"
+        },
+        {
+          "value": "to have ants in one's pants"
+        },
+        {
+          "value": "hyperactive"
+        },
+        {
+          "value": "adventurous and uncontrollable"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

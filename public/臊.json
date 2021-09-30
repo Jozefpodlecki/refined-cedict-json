@@ -1,0 +1,67 @@
+{
+  "simplified": "臊",
+  "simplified_stroke_count": 17,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sāo",
+          "wade_giles_pinyin": "sao1"
+        }
+      ],
+      "simplified": "臊",
+      "simplified_stroke_count": 17,
+      "traditional": "臊",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "smell of urine"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sào",
+          "wade_giles_pinyin": "sao4"
+        }
+      ],
+      "simplified": "臊",
+      "simplified_stroke_count": 17,
+      "traditional": "臊",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "shame"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "bashfulness"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to shame"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to humiliate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

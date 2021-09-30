@@ -1,0 +1,114 @@
+{
+  "simplified": "阴",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yīn",
+          "wade_giles_pinyin": "Yin1"
+        }
+      ],
+      "simplified": "阴",
+      "simplified_stroke_count": 7,
+      "traditional": "陰",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "surname Yin"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yīn",
+          "wade_giles_pinyin": "yin1"
+        }
+      ],
+      "simplified": "阴",
+      "simplified_stroke_count": 7,
+      "traditional": "陰",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "overcast (weather)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "cloudy"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "shady"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "Yin (the negative principle of Yin and Yang)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "negative (electric.)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "feminine"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "moon"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "implicit"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "hidden"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "genitalia"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yīn",
+          "wade_giles_pinyin": "yin1"
+        }
+      ],
+      "simplified": "阴",
+      "simplified_stroke_count": 7,
+      "traditional": "隂",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": null,
+          "value": "陰|阴[yin1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

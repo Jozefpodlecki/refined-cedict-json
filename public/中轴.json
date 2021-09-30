@@ -1,0 +1,32 @@
+{
+  "simplified": "中轴",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhōng zhóu",
+          "wade_giles_pinyin": "zhong1 zhou2"
+        }
+      ],
+      "simplified": "中轴",
+      "simplified_stroke_count": 0,
+      "traditional": "中軸",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "axis"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(bicycle) bottom bracket"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

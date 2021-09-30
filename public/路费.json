@@ -1,0 +1,37 @@
+{
+  "simplified": "路费",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " lù feì",
+          "wade_giles_pinyin": "lu4 fei4"
+        }
+      ],
+      "simplified": "路费",
+      "simplified_stroke_count": 0,
+      "traditional": "路費",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "travel expenses"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "money for a voyage"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "toll"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

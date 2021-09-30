@@ -1,0 +1,28 @@
+{
+  "simplified": "茶座",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chá zuò",
+          "wade_giles_pinyin": "cha2 zuo4"
+        }
+      ],
+      "simplified": "茶座",
+      "traditional": "茶座",
+      "meanings": [
+        {
+          "value": "teahouse"
+        },
+        {
+          "value": "tea-stall with seats"
+        },
+        {
+          "value": "tea-garden or teahouse seat"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "验证",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yàn zhèng",
+          "wade_giles_pinyin": "yan4 zheng4"
+        }
+      ],
+      "simplified": "验证",
+      "simplified_stroke_count": null,
+      "traditional": "驗證",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to inspect and verify"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "experimental verification"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to validate (a theory)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to authenticate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

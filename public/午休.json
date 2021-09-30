@@ -1,0 +1,37 @@
+{
+  "simplified": "午休",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " wǔ xiū",
+          "wade_giles_pinyin": "wu3 xiu1"
+        }
+      ],
+      "simplified": "午休",
+      "simplified_stroke_count": 0,
+      "traditional": "午休",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "noon break"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "lunch break"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "lunchtime nap"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

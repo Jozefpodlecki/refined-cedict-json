@@ -1,0 +1,26 @@
+{
+  "simplified": "出租车",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chū zū chē",
+          "wade_giles_pinyin": "chu1 zu1 che1"
+        }
+      ],
+      "simplified": "出租车",
+      "traditional": "出租車",
+      "meanings": [
+        {
+          "value": "taxi"
+        },
+        {
+          "context": "taiwan",
+          "value": "rental car"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

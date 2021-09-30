@@ -1,0 +1,31 @@
+{
+  "simplified": "橱",
+  "simplified_stroke_count": 16,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chú",
+          "wade_giles_pinyin": "chu2"
+        }
+      ],
+      "simplified": "橱",
+      "simplified_stroke_count": 16,
+      "traditional": "櫥",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "value": "wardrobe"
+        },
+        {
+          "value": "closet"
+        },
+        {
+          "value": "cabinet"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "simplified": "受访",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shòu fǎng",
+          "wade_giles_pinyin": "shou4 fang3"
+        }
+      ],
+      "simplified": "受访",
+      "traditional": "受訪",
+      "meanings": [
+        {
+          "value": "to give an interview"
+        },
+        {
+          "value": "to be interviewed"
+        },
+        {
+          "value": "to respond to (questions, a survey etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

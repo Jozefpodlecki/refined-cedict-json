@@ -1,0 +1,31 @@
+{
+  "simplified": "承销人",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chéng xiāo rén",
+          "wade_giles_pinyin": "cheng2 xiao1 ren2"
+        }
+      ],
+      "simplified": "承销人",
+      "traditional": "承銷人",
+      "meanings": [
+        {
+          "value": "sales agent"
+        },
+        {
+          "value": "salesman"
+        },
+        {
+          "value": "consignee"
+        },
+        {
+          "value": "underwriter"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

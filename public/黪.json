@@ -1,0 +1,42 @@
+{
+  "simplified": "黪",
+  "simplified_stroke_count": 20,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cǎn",
+          "wade_giles_pinyin": "can3"
+        }
+      ],
+      "simplified": "黪",
+      "simplified_stroke_count": 20,
+      "traditional": "黲",
+      "traditional_stroke_count": 23,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "dark"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "dim"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "gloomy"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "bleak"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

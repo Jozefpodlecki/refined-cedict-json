@@ -1,0 +1,29 @@
+{
+  "simplified": "霒",
+  "simplified_stroke_count": 16,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yīn",
+          "wade_giles_pinyin": "yin1"
+        }
+      ],
+      "simplified": "霒",
+      "simplified_stroke_count": 16,
+      "traditional": "霒",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 陰|阴[yin1]",
+          "simplified": "陰",
+          "traditional": "阴",
+          "wade_giles_pinyin": "yin1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

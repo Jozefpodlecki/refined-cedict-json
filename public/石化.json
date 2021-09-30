@@ -1,0 +1,34 @@
+{
+  "simplified": "石化",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shí huà",
+          "wade_giles_pinyin": "shi2 hua4"
+        }
+      ],
+      "simplified": "石化",
+      "simplified_stroke_count": 0,
+      "traditional": "石化",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to petrify"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "petrochemical industry"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "simplified": "花园",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huā yuán",
+          "wade_giles_pinyin": "hua1 yuan2"
+        }
+      ],
+      "simplified": "花园",
+      "traditional": "花園",
+      "meanings": [
+        {
+          "value": "garden"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "座",
+          "traditional": "",
+          "wade_giles_pinyin": "zuo4"
+        },
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

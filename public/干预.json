@@ -1,0 +1,30 @@
+{
+  "simplified": "干预",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gān yù",
+          "wade_giles_pinyin": "gan1 yu4"
+        }
+      ],
+      "simplified": "干预",
+      "traditional": "干預",
+      "meanings": [
+        {
+          "value": "to meddle"
+        },
+        {
+          "value": "to intervene"
+        },
+        {
+          "value": "intervention"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

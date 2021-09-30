@@ -1,0 +1,34 @@
+{
+  "simplified": "守门",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shǒu mén",
+          "wade_giles_pinyin": "shou3 men2"
+        }
+      ],
+      "simplified": "守门",
+      "simplified_stroke_count": 0,
+      "traditional": "守門",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to keep goal"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "on duty as gatekeeper"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

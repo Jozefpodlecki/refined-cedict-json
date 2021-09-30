@@ -1,0 +1,24 @@
+{
+  "simplified": "餐馆",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cān guǎn",
+          "wade_giles_pinyin": "can1 guan3"
+        }
+      ],
+      "simplified": "餐馆",
+      "traditional": "餐館",
+      "meanings": [],
+      "classifiers": [
+        {
+          "simplified": "家",
+          "traditional": "",
+          "wade_giles_pinyin": "jia1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

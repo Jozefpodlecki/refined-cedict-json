@@ -1,0 +1,31 @@
+{
+  "simplified": "哎哟",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "āi yō",
+          "wade_giles_pinyin": "ai1 yo1"
+        }
+      ],
+      "simplified": "哎哟",
+      "traditional": "哎喲",
+      "meanings": [
+        {
+          "value": "hey"
+        },
+        {
+          "value": "ow"
+        },
+        {
+          "value": "ouch"
+        },
+        {
+          "value": "interjection of pain or surprise"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

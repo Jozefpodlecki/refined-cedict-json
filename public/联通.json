@@ -1,0 +1,72 @@
+{
+  "simplified": "联通",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " lián tōng",
+          "wade_giles_pinyin": "Lian2 tong1"
+        }
+      ],
+      "simplified": "联通",
+      "simplified_stroke_count": 0,
+      "traditional": "聯通",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "China United Telecommunications Corporation"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "aka China Unicom or Unicom"
+        },
+        {
+          "context": "abbreviation",
+          "lexical_item": "",
+          "value": "中國聯通|中国联通"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " lián tōng",
+          "wade_giles_pinyin": "lian2 tong1"
+        }
+      ],
+      "simplified": "联通",
+      "simplified_stroke_count": 0,
+      "traditional": "聯通",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "connection"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "link"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to link together"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

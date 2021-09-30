@@ -1,0 +1,42 @@
+{
+  "simplified": "侦破",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhēn pò",
+          "wade_giles_pinyin": "zhen1 po4"
+        }
+      ],
+      "simplified": "侦破",
+      "traditional": "偵破",
+      "meanings": [
+        {
+          "value": "to investigate (as detective)"
+        },
+        {
+          "value": "to solve (crime)"
+        },
+        {
+          "value": "to uncover (a plot)"
+        },
+        {
+          "value": "to sniff out"
+        },
+        {
+          "value": "to break in and analyze"
+        },
+        {
+          "value": "detective work"
+        },
+        {
+          "value": "to scout"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

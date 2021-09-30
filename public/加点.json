@@ -1,0 +1,34 @@
+{
+  "simplified": "加点",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jiā diǎn",
+          "wade_giles_pinyin": "jia1 dian3"
+        }
+      ],
+      "simplified": "加点",
+      "simplified_stroke_count": 0,
+      "traditional": "加點",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to work extra hours"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to do overtime"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

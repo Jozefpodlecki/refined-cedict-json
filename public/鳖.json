@@ -1,0 +1,44 @@
+{
+  "simplified": "鳖",
+  "simplified_stroke_count": 19,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "biē",
+          "wade_giles_pinyin": "bie1"
+        }
+      ],
+      "simplified": "鳖",
+      "simplified_stroke_count": 19,
+      "traditional": "鱉",
+      "traditional_stroke_count": 23,
+      "meanings": [],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "biē",
+          "wade_giles_pinyin": "bie1"
+        }
+      ],
+      "simplified": "鳖",
+      "simplified_stroke_count": 19,
+      "traditional": "鼈",
+      "traditional_stroke_count": 25,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 鱉|鳖[bie1]",
+          "simplified": "鱉",
+          "traditional": "鳖",
+          "wade_giles_pinyin": "bie1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "裤子",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kù zi",
+          "wade_giles_pinyin": "ku4 zi5"
+        }
+      ],
+      "simplified": "裤子",
+      "traditional": "褲子",
+      "meanings": [
+        {
+          "value": "trousers"
+        },
+        {
+          "value": "pants"
+        },
+        {
+          "value": "CL:條|条[tiao2]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "條",
+          "traditional": "条",
+          "wade_giles_pinyin": "tiao2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

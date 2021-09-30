@@ -1,0 +1,39 @@
+{
+  "simplified": "开花",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kāi huā",
+          "wade_giles_pinyin": "kai1 hua1"
+        }
+      ],
+      "simplified": "开花",
+      "traditional": "開花",
+      "meanings": [
+        {
+          "value": "to bloom"
+        },
+        {
+          "value": "to blossom"
+        },
+        {
+          "value": "to flower"
+        },
+        {
+          "value": "fig. to burst open"
+        },
+        {
+          "value": "to feel happy or elated"
+        },
+        {
+          "value": "new development grows out"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

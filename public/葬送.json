@@ -1,0 +1,39 @@
+{
+  "simplified": "葬送",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zàng sòng",
+          "wade_giles_pinyin": "zang4 song4"
+        }
+      ],
+      "simplified": "葬送",
+      "simplified_stroke_count": 0,
+      "traditional": "葬送",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to hold a funeral procession and burial"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to give sb a final send-off"
+        },
+        {
+          "context": "figuratively",
+          "lexical_item": "",
+          "value": "to ruin (one's future prospects etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

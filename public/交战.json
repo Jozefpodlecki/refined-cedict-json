@@ -1,0 +1,34 @@
+{
+  "simplified": "交战",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiāo zhàn",
+          "wade_giles_pinyin": "jiao1 zhan4"
+        }
+      ],
+      "simplified": "交战",
+      "simplified_stroke_count": null,
+      "traditional": "交戰",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to fight"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to wage war"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

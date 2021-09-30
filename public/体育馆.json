@@ -1,0 +1,34 @@
+{
+  "simplified": "体育馆",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tǐ yù guǎn",
+          "wade_giles_pinyin": "ti3 yu4 guan3"
+        }
+      ],
+      "simplified": "体育馆",
+      "traditional": "體育館",
+      "meanings": [
+        {
+          "value": "gym"
+        },
+        {
+          "value": "gymnasium"
+        },
+        {
+          "value": "stadium"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

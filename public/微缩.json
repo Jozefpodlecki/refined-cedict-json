@@ -1,0 +1,44 @@
+{
+  "simplified": "微缩",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " wēi suō",
+          "wade_giles_pinyin": "wei1 suo1"
+        }
+      ],
+      "simplified": "微缩",
+      "simplified_stroke_count": 0,
+      "traditional": "微縮",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "compact"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "micro-"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "miniature"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to miniaturize"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

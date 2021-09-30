@@ -1,0 +1,37 @@
+{
+  "simplified": "彩",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cǎi",
+          "wade_giles_pinyin": "cai3"
+        }
+      ],
+      "simplified": "彩",
+      "simplified_stroke_count": 11,
+      "traditional": "彩",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "(bright) color"
+        },
+        {
+          "value": "variety"
+        },
+        {
+          "value": "applause"
+        },
+        {
+          "value": "applaud"
+        },
+        {
+          "value": "lottery prize"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

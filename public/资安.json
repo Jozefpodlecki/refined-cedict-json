@@ -1,0 +1,32 @@
+{
+  "simplified": "资安",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zī ān",
+          "wade_giles_pinyin": "zi1 an1"
+        }
+      ],
+      "simplified": "资安",
+      "simplified_stroke_count": null,
+      "traditional": "資安",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": "taiwan",
+          "lexical_item": null,
+          "value": "information security"
+        },
+        {
+          "context": "abbreviation",
+          "lexical_item": null,
+          "value": "資訊安全|资讯安全"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

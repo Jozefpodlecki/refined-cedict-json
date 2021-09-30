@@ -1,0 +1,28 @@
+{
+  "simplified": "商家",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shāng jiā",
+          "wade_giles_pinyin": "shang1 jia1"
+        }
+      ],
+      "simplified": "商家",
+      "traditional": "商家",
+      "meanings": [
+        {
+          "value": "merchant"
+        },
+        {
+          "value": "business"
+        },
+        {
+          "value": "enterprise"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

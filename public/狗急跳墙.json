@@ -1,0 +1,28 @@
+{
+  "simplified": "狗急跳墙",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gǒu jí tiào qiáng",
+          "wade_giles_pinyin": "gou3 ji2 tiao4 qiang2"
+        }
+      ],
+      "simplified": "狗急跳墙",
+      "traditional": "狗急跳牆",
+      "meanings": [
+        {
+          "lexical_item": "idiom",
+          "value": "a cornered dog will jump over the wall"
+        },
+        {
+          "value": "to be driven to desperate action"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

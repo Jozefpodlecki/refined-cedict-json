@@ -1,0 +1,28 @@
+{
+  "simplified": "刀片",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dāo piàn",
+          "wade_giles_pinyin": "dao1 pian4"
+        }
+      ],
+      "simplified": "刀片",
+      "traditional": "刀片",
+      "meanings": [
+        {
+          "value": "blade"
+        },
+        {
+          "value": "razor blade"
+        },
+        {
+          "value": "tool bit"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

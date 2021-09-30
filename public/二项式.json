@@ -1,0 +1,32 @@
+{
+  "simplified": "二项式",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " èr xiàng shì",
+          "wade_giles_pinyin": "er4 xiang4 shi4"
+        }
+      ],
+      "simplified": "二项式",
+      "simplified_stroke_count": 0,
+      "traditional": "二項式",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "two items"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "binomial (math.)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "排走",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pái zǒu",
+          "wade_giles_pinyin": "pai2 zou3"
+        }
+      ],
+      "simplified": "排走",
+      "simplified_stroke_count": null,
+      "traditional": "排走",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to drain away"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to vent out"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

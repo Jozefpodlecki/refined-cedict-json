@@ -1,0 +1,39 @@
+{
+  "simplified": "缩小",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " suō xiǎo",
+          "wade_giles_pinyin": "suo1 xiao3"
+        }
+      ],
+      "simplified": "缩小",
+      "simplified_stroke_count": 0,
+      "traditional": "縮小",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to reduce"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to decrease"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to shrink"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

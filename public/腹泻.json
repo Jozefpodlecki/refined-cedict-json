@@ -1,0 +1,34 @@
+{
+  "simplified": "腹泻",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fù xiè",
+          "wade_giles_pinyin": "fu4 xie4"
+        }
+      ],
+      "simplified": "腹泻",
+      "simplified_stroke_count": null,
+      "traditional": "腹瀉",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "diarrhea"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to have the runs"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

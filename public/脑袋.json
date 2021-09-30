@@ -1,0 +1,42 @@
+{
+  "simplified": "脑袋",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nǎo dai",
+          "wade_giles_pinyin": "nao3 dai5"
+        }
+      ],
+      "simplified": "脑袋",
+      "traditional": "腦袋",
+      "meanings": [
+        {
+          "value": "head"
+        },
+        {
+          "value": "skull"
+        },
+        {
+          "value": "brains"
+        },
+        {
+          "value": "mental capability"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "顆",
+          "traditional": "颗",
+          "wade_giles_pinyin": "ke1"
+        },
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

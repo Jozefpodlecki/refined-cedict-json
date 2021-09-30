@@ -1,0 +1,38 @@
+{
+  "simplified": "领袖",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lǐng xiù",
+          "wade_giles_pinyin": "ling3 xiu4"
+        }
+      ],
+      "simplified": "领袖",
+      "traditional": "領袖",
+      "meanings": [
+        {
+          "value": "leader"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        },
+        {
+          "simplified": "位",
+          "traditional": "",
+          "wade_giles_pinyin": "wei4"
+        },
+        {
+          "simplified": "名",
+          "traditional": "",
+          "wade_giles_pinyin": "ming2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

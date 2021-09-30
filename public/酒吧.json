@@ -1,0 +1,48 @@
+{
+  "simplified": "酒吧",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiǔ bā",
+          "wade_giles_pinyin": "jiu3 ba1"
+        }
+      ],
+      "simplified": "酒吧",
+      "simplified_stroke_count": null,
+      "traditional": "酒吧",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "bar"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "pub"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "saloon"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "CL:家[jia1]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "家",
+          "traditional": "",
+          "wade_giles_pinyin": "jia1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

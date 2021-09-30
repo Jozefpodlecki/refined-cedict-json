@@ -1,0 +1,58 @@
+{
+  "simplified": "小册子",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xiǎo cè zi",
+          "wade_giles_pinyin": "xiao3 ce4 zi5"
+        }
+      ],
+      "simplified": "小册子",
+      "simplified_stroke_count": 0,
+      "traditional": "小冊子",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "booklet"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "pamphlet"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "leaflet"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "information sheet"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "menu"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:本[ben3]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "本",
+          "traditional": "",
+          "wade_giles_pinyin": "ben3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

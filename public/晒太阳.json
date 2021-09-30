@@ -1,0 +1,27 @@
+{
+  "simplified": "晒太阳",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shài tài yáng",
+          "wade_giles_pinyin": "shai4 tai4 yang2"
+        }
+      ],
+      "simplified": "晒太阳",
+      "traditional": "曬太陽",
+      "meanings": [
+        {
+          "value": "to be in the sun (getting warm or sunbathing etc)"
+        },
+        {
+          "value": "to put sth in the sun (e.g. to dry it)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

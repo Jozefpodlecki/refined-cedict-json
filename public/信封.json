@@ -1,0 +1,28 @@
+{
+  "simplified": "信封",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xìn fēng",
+          "wade_giles_pinyin": "xin4 feng1"
+        }
+      ],
+      "simplified": "信封",
+      "traditional": "信封",
+      "meanings": [
+        {
+          "value": "envelope"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

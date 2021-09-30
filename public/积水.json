@@ -1,0 +1,49 @@
+{
+  "simplified": "积水",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jī shuǐ",
+          "wade_giles_pinyin": "ji1 shui3"
+        }
+      ],
+      "simplified": "积水",
+      "simplified_stroke_count": 0,
+      "traditional": "積水",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to collect water"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to be covered with water"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to pond"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "accumulated water"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "ponding"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

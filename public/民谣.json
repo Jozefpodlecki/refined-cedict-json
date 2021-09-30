@@ -1,0 +1,32 @@
+{
+  "simplified": "民谣",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " mín yáo",
+          "wade_giles_pinyin": "min2 yao2"
+        }
+      ],
+      "simplified": "民谣",
+      "simplified_stroke_count": 0,
+      "traditional": "民謠",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "ballad"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "folk song"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

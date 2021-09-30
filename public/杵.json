@@ -1,0 +1,34 @@
+{
+  "simplified": "杵",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chǔ",
+          "wade_giles_pinyin": "chu3"
+        }
+      ],
+      "simplified": "杵",
+      "simplified_stroke_count": 8,
+      "traditional": "杵",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "pestle"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to poke"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

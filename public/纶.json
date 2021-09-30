@@ -1,0 +1,33 @@
+{
+  "simplified": "纶",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lún",
+          "wade_giles_pinyin": "lun2"
+        }
+      ],
+      "simplified": "纶",
+      "simplified_stroke_count": 7,
+      "traditional": "綸",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "to classify"
+        },
+        {
+          "value": "to twist silk"
+        },
+        {
+          "value": "silk thread"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

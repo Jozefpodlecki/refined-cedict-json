@@ -1,0 +1,28 @@
+{
+  "simplified": "市区",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shì qū",
+          "wade_giles_pinyin": "shi4 qu1"
+        }
+      ],
+      "simplified": "市区",
+      "traditional": "市區",
+      "meanings": [
+        {
+          "value": "urban district"
+        },
+        {
+          "value": "downtown"
+        },
+        {
+          "value": "city center"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

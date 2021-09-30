@@ -1,0 +1,62 @@
+{
+  "simplified": "蹶",
+  "simplified_stroke_count": 19,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jué",
+          "wade_giles_pinyin": "jue2"
+        }
+      ],
+      "simplified": "蹶",
+      "simplified_stroke_count": 19,
+      "traditional": "蹶",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to stumble"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to trample"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to kick (of horse)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " juě",
+          "wade_giles_pinyin": "jue3"
+        }
+      ],
+      "simplified": "蹶",
+      "simplified_stroke_count": 19,
+      "traditional": "蹶",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "see 尥蹶子[liao4 jue3 zi5]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

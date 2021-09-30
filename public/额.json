@@ -1,0 +1,54 @@
+{
+  "simplified": "额",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "é",
+          "wade_giles_pinyin": "e2"
+        }
+      ],
+      "simplified": "额",
+      "simplified_stroke_count": 15,
+      "traditional": "頟",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 額|额[e2]",
+          "simplified": "額",
+          "traditional": "额",
+          "wade_giles_pinyin": "e2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "é",
+          "wade_giles_pinyin": "e2"
+        }
+      ],
+      "simplified": "额",
+      "simplified_stroke_count": 15,
+      "traditional": "額",
+      "traditional_stroke_count": 18,
+      "meanings": [
+        {
+          "value": "forehead"
+        },
+        {
+          "value": "horizontal tablet or inscribed board"
+        },
+        {
+          "value": "specified number or amount"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

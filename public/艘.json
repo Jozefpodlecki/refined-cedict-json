@@ -1,0 +1,32 @@
+{
+  "simplified": "艘",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " sōu",
+          "wade_giles_pinyin": "sou1"
+        }
+      ],
+      "simplified": "艘",
+      "simplified_stroke_count": 15,
+      "traditional": "艘",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "classifier for ships"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Taiwan pr. [sao1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

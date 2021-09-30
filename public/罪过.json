@@ -1,0 +1,32 @@
+{
+  "simplified": "罪过",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zuì guo",
+          "wade_giles_pinyin": "zui4 guo5"
+        }
+      ],
+      "simplified": "罪过",
+      "simplified_stroke_count": null,
+      "traditional": "罪過",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "sin"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "offense"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

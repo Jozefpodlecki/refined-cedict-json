@@ -1,0 +1,32 @@
+{
+  "simplified": "版次",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bǎn cì",
+          "wade_giles_pinyin": "ban3 ci4"
+        }
+      ],
+      "simplified": "版次",
+      "simplified_stroke_count": 0,
+      "traditional": "版次",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "edition (of a book etc)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "edition number"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

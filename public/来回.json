@@ -1,0 +1,36 @@
+{
+  "simplified": "来回",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lái huí",
+          "wade_giles_pinyin": "lai2 hui2"
+        }
+      ],
+      "simplified": "来回",
+      "traditional": "來回",
+      "meanings": [
+        {
+          "value": "to make a round trip"
+        },
+        {
+          "value": "return journey"
+        },
+        {
+          "value": "back and forth"
+        },
+        {
+          "value": "to and fro"
+        },
+        {
+          "value": "repeatedly"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

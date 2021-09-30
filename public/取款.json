@@ -1,0 +1,29 @@
+{
+  "simplified": "取款",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " qǔ kuǎn",
+          "wade_giles_pinyin": "qu3 kuan3"
+        }
+      ],
+      "simplified": "取款",
+      "simplified_stroke_count": 0,
+      "traditional": "取款",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to withdraw money from a bank"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

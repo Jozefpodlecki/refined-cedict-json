@@ -1,0 +1,28 @@
+{
+  "simplified": "选民",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xuǎn mín",
+          "wade_giles_pinyin": "xuan3 min2"
+        }
+      ],
+      "simplified": "选民",
+      "traditional": "選民",
+      "meanings": [
+        {
+          "value": "voter"
+        },
+        {
+          "value": "constituency"
+        },
+        {
+          "value": "electorate"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

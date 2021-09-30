@@ -1,0 +1,45 @@
+{
+  "simplified": "天桥",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tiān qiáo",
+          "wade_giles_pinyin": "Tian1 qiao2"
+        }
+      ],
+      "simplified": "天桥",
+      "traditional": "天橋",
+      "meanings": [
+        {
+          "value": "Tianqiao district of Jinan city 濟南市|济南市[Ji3 nan2 shi4], Shandong"
+        },
+        {
+          "value": "Tianqiao district in Beijing, formerly a center of folk culture"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tiān qiáo",
+          "wade_giles_pinyin": "tian1 qiao2"
+        }
+      ],
+      "simplified": "天桥",
+      "traditional": "天橋",
+      "meanings": [
+        {
+          "value": "overhead walkway"
+        },
+        {
+          "value": "pedestrian bridge"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

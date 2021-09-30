@@ -1,0 +1,29 @@
+{
+  "simplified": "譱",
+  "simplified_stroke_count": 20,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shàn",
+          "wade_giles_pinyin": "shan4"
+        }
+      ],
+      "simplified": "譱",
+      "simplified_stroke_count": 20,
+      "traditional": "譱",
+      "traditional_stroke_count": 20,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "archaic variant of 善[shan4]",
+          "simplified": "a",
+          "traditional": "rchaic  善",
+          "wade_giles_pinyin": "shan4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

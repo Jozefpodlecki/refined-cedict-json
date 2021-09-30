@@ -1,0 +1,27 @@
+{
+  "simplified": "抽验",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chōu yàn",
+          "wade_giles_pinyin": "chou1 yan4"
+        }
+      ],
+      "simplified": "抽验",
+      "traditional": "抽驗",
+      "meanings": [
+        {
+          "value": "to test a random sample"
+        },
+        {
+          "value": "to spot-check"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

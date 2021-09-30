@@ -1,0 +1,44 @@
+{
+  "simplified": "居住",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jū zhù",
+          "wade_giles_pinyin": "ju1 zhu4"
+        }
+      ],
+      "simplified": "居住",
+      "simplified_stroke_count": 0,
+      "traditional": "居住",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to reside"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to dwell"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to live in a place"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "resident in"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

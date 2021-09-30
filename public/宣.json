@@ -1,0 +1,51 @@
+{
+  "simplified": "宣",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xuān",
+          "wade_giles_pinyin": "Xuan1"
+        }
+      ],
+      "simplified": "宣",
+      "simplified_stroke_count": 9,
+      "traditional": "宣",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "surname Xuan"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xuān",
+          "wade_giles_pinyin": "xuan1"
+        }
+      ],
+      "simplified": "宣",
+      "simplified_stroke_count": 9,
+      "traditional": "宣",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "to declare (publicly)"
+        },
+        {
+          "value": "to announce"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

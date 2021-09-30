@@ -1,0 +1,151 @@
+{
+  "simplified": "扎",
+  "simplified_stroke_count": 4,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhā",
+          "wade_giles_pinyin": "zha1"
+        }
+      ],
+      "simplified": "扎",
+      "simplified_stroke_count": 4,
+      "traditional": "扎",
+      "traditional_stroke_count": 4,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to prick"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to run or stick (a needle etc) into"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "jug (a classifier for liquids such as beer)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhá",
+          "wade_giles_pinyin": "zha2"
+        }
+      ],
+      "simplified": "扎",
+      "simplified_stroke_count": 4,
+      "traditional": "扎",
+      "traditional_stroke_count": 4,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "penetrating (as of cold)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "struggle"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zā",
+          "wade_giles_pinyin": "za1"
+        }
+      ],
+      "simplified": "扎",
+      "simplified_stroke_count": 4,
+      "traditional": "紥",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "紮|扎[za1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhā",
+          "wade_giles_pinyin": "zha1"
+        }
+      ],
+      "simplified": "扎",
+      "simplified_stroke_count": 4,
+      "traditional": "紥",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "紮|扎[zha1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zā",
+          "wade_giles_pinyin": "za1"
+        }
+      ],
+      "simplified": "扎",
+      "simplified_stroke_count": 4,
+      "traditional": "紮",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to tie"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to bind"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "classifier for flowers, banknotes etc: bundle"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Taiwan pr. [zha2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

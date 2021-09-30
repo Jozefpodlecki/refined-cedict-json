@@ -1,0 +1,45 @@
+{
+  "simplified": "乐天",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lè tiān",
+          "wade_giles_pinyin": "Le4 tian1"
+        }
+      ],
+      "simplified": "乐天",
+      "traditional": "樂天",
+      "meanings": [
+        {
+          "value": "Lotte (South Korean conglomerate)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lè tiān",
+          "wade_giles_pinyin": "le4 tian1"
+        }
+      ],
+      "simplified": "乐天",
+      "traditional": "樂天",
+      "meanings": [
+        {
+          "value": "carefree"
+        },
+        {
+          "value": "happy-go-lucky"
+        },
+        {
+          "value": "optimistic"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

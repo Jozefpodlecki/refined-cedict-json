@@ -1,0 +1,34 @@
+{
+  "simplified": "寓目",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yù mù",
+          "wade_giles_pinyin": "yu4 mu4"
+        }
+      ],
+      "simplified": "寓目",
+      "simplified_stroke_count": null,
+      "traditional": "寓目",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "(literary) to look over"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to view"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

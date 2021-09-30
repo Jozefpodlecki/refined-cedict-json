@@ -1,0 +1,32 @@
+{
+  "simplified": "总编",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zǒng biān",
+          "wade_giles_pinyin": "zong3 bian1"
+        }
+      ],
+      "simplified": "总编",
+      "simplified_stroke_count": 0,
+      "traditional": "總編",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "chief editor (of newspaper)"
+        },
+        {
+          "context": "abbreviation",
+          "lexical_item": "",
+          "value": "總編輯|总编辑"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

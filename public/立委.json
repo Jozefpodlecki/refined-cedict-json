@@ -1,0 +1,33 @@
+{
+  "simplified": "立委",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lì wěi",
+          "wade_giles_pinyin": "li4 wei3"
+        }
+      ],
+      "simplified": "立委",
+      "traditional": "立委",
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "value": "立法委員會|立法委员会[li4 fa3 wei3 yuan2 hui4]",
+          "simplified": "立",
+          "traditional": "法委員會|立法委员会",
+          "wade_giles_pinyin": "li4 fa3 wei3 yuan2 hui4"
+        },
+        {
+          "context": "abbreviation",
+          "value": "立法委員|立法委员[li4 fa3 wei3 yuan2]",
+          "simplified": "立",
+          "traditional": "法委員|立法委员",
+          "wade_giles_pinyin": "li4 fa3 wei3 yuan2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

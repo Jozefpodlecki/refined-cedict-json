@@ -1,0 +1,39 @@
+{
+  "simplified": "应验",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yìng yàn",
+          "wade_giles_pinyin": "ying4 yan4"
+        }
+      ],
+      "simplified": "应验",
+      "simplified_stroke_count": null,
+      "traditional": "應驗",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to come true"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to come about as predicted"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to be fulfilled"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

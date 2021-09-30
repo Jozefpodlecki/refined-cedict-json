@@ -1,0 +1,28 @@
+{
+  "simplified": "比例尺",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǐ lì chǐ",
+          "wade_giles_pinyin": "bi3 li4 chi3"
+        }
+      ],
+      "simplified": "比例尺",
+      "traditional": "比例尺",
+      "meanings": [
+        {
+          "value": "scale"
+        },
+        {
+          "value": "architect's scale"
+        },
+        {
+          "value": "engineer's scale"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

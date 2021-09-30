@@ -1,0 +1,95 @@
+{
+  "simplified": "叠",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dié",
+          "wade_giles_pinyin": "die2"
+        }
+      ],
+      "simplified": "叠",
+      "simplified_stroke_count": 13,
+      "traditional": "曡",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 疊|叠[die2]",
+          "simplified": "疊",
+          "traditional": "叠",
+          "wade_giles_pinyin": "die2"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dié",
+          "wade_giles_pinyin": "die2"
+        }
+      ],
+      "simplified": "叠",
+      "simplified_stroke_count": 13,
+      "traditional": "疉",
+      "traditional_stroke_count": 20,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 疊|叠[die2]",
+          "simplified": "疊",
+          "traditional": "叠",
+          "wade_giles_pinyin": "die2"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dié",
+          "wade_giles_pinyin": "die2"
+        }
+      ],
+      "simplified": "叠",
+      "simplified_stroke_count": 13,
+      "traditional": "疊",
+      "traditional_stroke_count": 22,
+      "meanings": [
+        {
+          "value": "to fold"
+        },
+        {
+          "value": "to fold over in layers"
+        },
+        {
+          "value": "to furl"
+        },
+        {
+          "value": "to layer"
+        },
+        {
+          "value": "to pile up"
+        },
+        {
+          "value": "to repeat"
+        },
+        {
+          "value": "to duplicate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "simplified": "语文",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǔ wén",
+          "wade_giles_pinyin": "yu3 wen2"
+        }
+      ],
+      "simplified": "语文",
+      "traditional": "語文",
+      "meanings": [
+        {
+          "value": "literature and language"
+        },
+        {
+          "value": "(PRC) Chinese (as a school subject)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

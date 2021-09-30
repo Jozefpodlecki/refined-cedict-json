@@ -1,0 +1,39 @@
+{
+  "simplified": "障",
+  "simplified_stroke_count": 14,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhàng",
+          "wade_giles_pinyin": "zhang4"
+        }
+      ],
+      "simplified": "障",
+      "simplified_stroke_count": 14,
+      "traditional": "障",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to block"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to hinder"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to obstruct"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

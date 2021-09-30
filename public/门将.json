@@ -1,0 +1,32 @@
+{
+  "simplified": "门将",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mén jiàng",
+          "wade_giles_pinyin": "men2 jiang4"
+        }
+      ],
+      "simplified": "门将",
+      "simplified_stroke_count": null,
+      "traditional": "門將",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "official gatekeeper"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "goalkeeper (soccer, hockey etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

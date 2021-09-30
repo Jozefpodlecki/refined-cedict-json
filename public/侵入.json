@@ -1,0 +1,36 @@
+{
+  "simplified": "侵入",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qīn rù",
+          "wade_giles_pinyin": "qin1 ru4"
+        }
+      ],
+      "simplified": "侵入",
+      "traditional": "侵入",
+      "meanings": [
+        {
+          "value": "to make (military) incursions"
+        },
+        {
+          "value": "to invade"
+        },
+        {
+          "value": "to intrude into"
+        },
+        {
+          "value": "to trespass"
+        },
+        {
+          "value": "to gain unauthorized access (computing)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

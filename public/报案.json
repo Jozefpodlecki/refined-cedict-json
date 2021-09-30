@@ -1,0 +1,24 @@
+{
+  "simplified": "报案",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bào àn",
+          "wade_giles_pinyin": "bao4 an4"
+        }
+      ],
+      "simplified": "报案",
+      "traditional": "報案",
+      "meanings": [
+        {
+          "value": "to report a case to the authorities"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

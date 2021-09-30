@@ -1,0 +1,31 @@
+{
+  "simplified": "头巾",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tóu jīn",
+          "wade_giles_pinyin": "tou2 jin1"
+        }
+      ],
+      "simplified": "头巾",
+      "traditional": "頭巾",
+      "meanings": [
+        {
+          "value": "cloth head covering worn by men in ancient times"
+        },
+        {
+          "value": "headscarf (typically worn by women)"
+        },
+        {
+          "value": "kerchief"
+        },
+        {
+          "value": "turban"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "正职",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhèng zhí",
+          "wade_giles_pinyin": "zheng4 zhi2"
+        }
+      ],
+      "simplified": "正职",
+      "traditional": "正職",
+      "meanings": [
+        {
+          "value": "main job"
+        },
+        {
+          "value": "day job"
+        },
+        {
+          "value": "steady full-time job (as opposed to temporary or casual)"
+        },
+        {
+          "value": "chief or principal post (as opposed to deputy)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

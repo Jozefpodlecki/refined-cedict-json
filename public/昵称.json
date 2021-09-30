@@ -1,0 +1,44 @@
+{
+  "simplified": "昵称",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " nì chēng",
+          "wade_giles_pinyin": "ni4 cheng1"
+        }
+      ],
+      "simplified": "昵称",
+      "simplified_stroke_count": 0,
+      "traditional": "暱稱",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "nickname"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "diminutive"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "term of endearment"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to nickname"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

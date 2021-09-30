@@ -1,0 +1,34 @@
+{
+  "simplified": "嫉",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jí",
+          "wade_giles_pinyin": "ji2"
+        }
+      ],
+      "simplified": "嫉",
+      "simplified_stroke_count": 13,
+      "traditional": "嫉",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "jealousy"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to be jealous of"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

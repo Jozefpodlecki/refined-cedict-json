@@ -1,0 +1,34 @@
+{
+  "simplified": "辨析",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " biàn xī",
+          "wade_giles_pinyin": "bian4 xi1"
+        }
+      ],
+      "simplified": "辨析",
+      "simplified_stroke_count": 0,
+      "traditional": "辨析",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to differentiate and analyze"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to discriminate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

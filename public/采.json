@@ -1,0 +1,120 @@
+{
+  "simplified": "采",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " cǎi",
+          "wade_giles_pinyin": "cai3"
+        }
+      ],
+      "simplified": "采",
+      "simplified_stroke_count": 8,
+      "traditional": "採",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to pick"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to pluck"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to collect"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to select"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to choose"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to gather"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " cǎi",
+          "wade_giles_pinyin": "cai3"
+        }
+      ],
+      "simplified": "采",
+      "simplified_stroke_count": 8,
+      "traditional": "采",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "color"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "complexion"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "looks"
+        },
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "彩[cai3]"
+        },
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "採|采[cai3]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " cài",
+          "wade_giles_pinyin": "cai4"
+        }
+      ],
+      "simplified": "采",
+      "simplified_stroke_count": 8,
+      "traditional": "采",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "allotment to a feudal noble"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

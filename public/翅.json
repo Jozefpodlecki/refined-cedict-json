@@ -1,0 +1,48 @@
+{
+  "simplified": "翅",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chì",
+          "wade_giles_pinyin": "chi4"
+        }
+      ],
+      "simplified": "翅",
+      "simplified_stroke_count": 10,
+      "traditional": "翄",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 翅[chi4]",
+          "simplified": "翅",
+          "traditional": "",
+          "wade_giles_pinyin": "chi4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chì",
+          "wade_giles_pinyin": "chi4"
+        }
+      ],
+      "simplified": "翅",
+      "simplified_stroke_count": 10,
+      "traditional": "翅",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "wing (of a bird or insect) (bound form)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

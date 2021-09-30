@@ -1,0 +1,34 @@
+{
+  "simplified": "咀",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jǔ",
+          "wade_giles_pinyin": "ju3"
+        }
+      ],
+      "simplified": "咀",
+      "simplified_stroke_count": 8,
+      "traditional": "咀",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to chew"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to masticate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

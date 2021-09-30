@@ -1,0 +1,27 @@
+{
+  "simplified": "退市",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tuì shì",
+          "wade_giles_pinyin": "tui4 shi4"
+        }
+      ],
+      "simplified": "退市",
+      "traditional": "退市",
+      "meanings": [
+        {
+          "value": "to be delisted (of a listed stock)"
+        },
+        {
+          "value": "to exit the market"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

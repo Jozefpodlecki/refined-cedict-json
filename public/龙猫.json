@@ -1,0 +1,32 @@
+{
+  "simplified": "龙猫",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lóng māo",
+          "wade_giles_pinyin": "long2 mao1"
+        }
+      ],
+      "simplified": "龙猫",
+      "simplified_stroke_count": null,
+      "traditional": "龍貓",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "chinchilla"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "Totoro (anime character)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

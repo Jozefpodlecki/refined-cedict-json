@@ -1,0 +1,34 @@
+{
+  "simplified": "翻身",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fān shēn",
+          "wade_giles_pinyin": "fan1 shen1"
+        }
+      ],
+      "simplified": "翻身",
+      "traditional": "翻身",
+      "meanings": [
+        {
+          "value": "to turn over (when lying)"
+        },
+        {
+          "context": "figuratively",
+          "value": "to free oneself"
+        },
+        {
+          "value": "to emancipate oneself"
+        },
+        {
+          "value": "to bring about a change of one's fortunes"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

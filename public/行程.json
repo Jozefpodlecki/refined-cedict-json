@@ -1,0 +1,47 @@
+{
+  "simplified": "行程",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xíng chéng",
+          "wade_giles_pinyin": "xing2 cheng2"
+        }
+      ],
+      "simplified": "行程",
+      "traditional": "行程",
+      "meanings": [
+        {
+          "value": "journey"
+        },
+        {
+          "value": "course of a journey"
+        },
+        {
+          "value": "distance traveled"
+        },
+        {
+          "value": "trajectory"
+        },
+        {
+          "value": "itinerary"
+        },
+        {
+          "value": "route"
+        },
+        {
+          "value": "course (of history)"
+        },
+        {
+          "value": "stroke (of a piston)"
+        },
+        {
+          "context": "taiwan",
+          "value": "(computing) process"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

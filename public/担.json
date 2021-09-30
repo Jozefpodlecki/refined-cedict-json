@@ -1,0 +1,66 @@
+{
+  "simplified": "担",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dān",
+          "wade_giles_pinyin": "dan1"
+        }
+      ],
+      "simplified": "担",
+      "simplified_stroke_count": 8,
+      "traditional": "擔",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "to undertake"
+        },
+        {
+          "value": "to carry"
+        },
+        {
+          "value": "to shoulder"
+        },
+        {
+          "value": "to take responsibility"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dàn",
+          "wade_giles_pinyin": "dan4"
+        }
+      ],
+      "simplified": "担",
+      "simplified_stroke_count": 8,
+      "traditional": "擔",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "picul (100 catties, 50 kg)"
+        },
+        {
+          "value": "two buckets full"
+        },
+        {
+          "value": "carrying pole and its load"
+        },
+        {
+          "value": "classifier for loads carried on a shoulder pole"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "simplified": "年鉴",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nián jiàn",
+          "wade_giles_pinyin": "nian2 jian4"
+        }
+      ],
+      "simplified": "年鉴",
+      "traditional": "年鑑",
+      "meanings": [
+        {
+          "value": "annual report"
+        },
+        {
+          "value": "yearbook"
+        },
+        {
+          "value": "almanac"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

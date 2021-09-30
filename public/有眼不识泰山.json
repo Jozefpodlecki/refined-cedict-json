@@ -1,0 +1,32 @@
+{
+  "simplified": "有眼不识泰山",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǒu yǎn bù shí tài shān",
+          "wade_giles_pinyin": "you3 yan3 bu4 shi2 Tai4 Shan1"
+        }
+      ],
+      "simplified": "有眼不识泰山",
+      "traditional": "有眼不識泰山",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "to have eyes but fail to recognize Mt Tai"
+        },
+        {
+          "value": "fig. to fail to recognize sb important or sb's great talent"
+        },
+        {
+          "value": "to be blind to the fact"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

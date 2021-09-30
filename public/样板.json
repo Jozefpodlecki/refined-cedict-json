@@ -1,0 +1,31 @@
+{
+  "simplified": "样板",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yàng bǎn",
+          "wade_giles_pinyin": "yang4 ban3"
+        }
+      ],
+      "simplified": "样板",
+      "traditional": "樣板",
+      "meanings": [
+        {
+          "value": "template"
+        },
+        {
+          "value": "prototype"
+        },
+        {
+          "value": "model"
+        },
+        {
+          "value": "example"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

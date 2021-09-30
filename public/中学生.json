@@ -1,0 +1,25 @@
+{
+  "simplified": "中学生",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhōng xué shēng",
+          "wade_giles_pinyin": "zhong1 xue2 sheng1"
+        }
+      ],
+      "simplified": "中学生",
+      "traditional": "中學生",
+      "meanings": [
+        {
+          "value": "middle-school student"
+        },
+        {
+          "value": "high school student"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "到头",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dào tóu",
+          "wade_giles_pinyin": "dao4 tou2"
+        }
+      ],
+      "simplified": "到头",
+      "simplified_stroke_count": null,
+      "traditional": "到頭",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to the end (of)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "at the end of"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "in the end"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to come to an end"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

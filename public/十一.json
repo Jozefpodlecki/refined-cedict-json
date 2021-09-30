@@ -1,0 +1,42 @@
+{
+  "simplified": "十一",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shí yī",
+          "wade_giles_pinyin": "Shi2 Yi1"
+        }
+      ],
+      "simplified": "十一",
+      "traditional": "十一",
+      "meanings": [
+        {
+          "value": "PRC National Day (October 1st)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shí yī",
+          "wade_giles_pinyin": "shi2 yi1"
+        }
+      ],
+      "simplified": "十一",
+      "traditional": "十一",
+      "meanings": [
+        {
+          "value": "eleven"
+        },
+        {
+          "value": "11"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

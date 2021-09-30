@@ -1,0 +1,182 @@
+{
+  "simplified": "斗",
+  "simplified_stroke_count": 4,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dǒu",
+          "wade_giles_pinyin": "Dou3"
+        }
+      ],
+      "simplified": "斗",
+      "simplified_stroke_count": 4,
+      "traditional": "斗",
+      "traditional_stroke_count": 4,
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "value": "the Big Dipper constellation 北斗星[Bei3 dou3 xing1]",
+          "simplified": "t",
+          "traditional": "he Big Dipper constellation 北斗星",
+          "wade_giles_pinyin": "Bei3 dou3 xing1"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dǒu",
+          "wade_giles_pinyin": "dou3"
+        }
+      ],
+      "simplified": "斗",
+      "simplified_stroke_count": 4,
+      "traditional": "斗",
+      "traditional_stroke_count": 4,
+      "meanings": [
+        {
+          "value": "dry measure for grain equal to ten 升[sheng1] or one-tenth of a 石[dan4]"
+        },
+        {
+          "value": "decaliter"
+        },
+        {
+          "value": "peck"
+        },
+        {
+          "value": "cup or dipper shaped object"
+        },
+        {
+          "context": "old variant",
+          "value": "old variant of 陡[dou3]",
+          "simplified": "陡",
+          "traditional": "",
+          "wade_giles_pinyin": "dou3"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dòu",
+          "wade_giles_pinyin": "dou4"
+        }
+      ],
+      "simplified": "斗",
+      "simplified_stroke_count": 4,
+      "traditional": "鬥",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "to fight"
+        },
+        {
+          "value": "to struggle"
+        },
+        {
+          "value": "to condemn"
+        },
+        {
+          "value": "to censure"
+        },
+        {
+          "value": "to contend"
+        },
+        {
+          "value": "to put together"
+        },
+        {
+          "value": "coming together"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dòu",
+          "wade_giles_pinyin": "dou4"
+        }
+      ],
+      "simplified": "斗",
+      "simplified_stroke_count": 4,
+      "traditional": "鬦",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 鬭|斗[dou4]",
+          "simplified": "鬭",
+          "traditional": "斗",
+          "wade_giles_pinyin": "dou4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dòu",
+          "wade_giles_pinyin": "dou4"
+        }
+      ],
+      "simplified": "斗",
+      "simplified_stroke_count": 4,
+      "traditional": "鬪",
+      "traditional_stroke_count": 20,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 鬥|斗[dou4]",
+          "simplified": "鬥",
+          "traditional": "斗",
+          "wade_giles_pinyin": "dou4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dòu",
+          "wade_giles_pinyin": "dou4"
+        }
+      ],
+      "simplified": "斗",
+      "simplified_stroke_count": 4,
+      "traditional": "鬭",
+      "traditional_stroke_count": 24,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 鬥|斗[dou4]",
+          "simplified": "鬥",
+          "traditional": "斗",
+          "wade_giles_pinyin": "dou4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

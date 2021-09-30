@@ -1,0 +1,45 @@
+{
+  "simplified": "摘",
+  "simplified_stroke_count": 14,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhāi",
+          "wade_giles_pinyin": "zhai1"
+        }
+      ],
+      "simplified": "摘",
+      "simplified_stroke_count": 14,
+      "traditional": "摘",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "to take"
+        },
+        {
+          "value": "to borrow"
+        },
+        {
+          "value": "to pick (flowers, fruit etc)"
+        },
+        {
+          "value": "to pluck"
+        },
+        {
+          "value": "to select"
+        },
+        {
+          "value": "to remove"
+        },
+        {
+          "value": "to take off (glasses, hat etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

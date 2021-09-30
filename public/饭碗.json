@@ -1,0 +1,42 @@
+{
+  "simplified": "饭碗",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fàn wǎn",
+          "wade_giles_pinyin": "fan4 wan3"
+        }
+      ],
+      "simplified": "饭碗",
+      "simplified_stroke_count": null,
+      "traditional": "飯碗",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "rice bowl"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "fig. livelihood"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "job"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "way of making a living"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

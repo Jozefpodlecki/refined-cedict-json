@@ -1,0 +1,34 @@
+{
+  "simplified": "判别",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pàn bié",
+          "wade_giles_pinyin": "pan4 bie2"
+        }
+      ],
+      "simplified": "判别",
+      "simplified_stroke_count": null,
+      "traditional": "判別",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to differentiate"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to discriminate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

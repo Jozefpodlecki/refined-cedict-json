@@ -1,0 +1,39 @@
+{
+  "simplified": "疼",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " téng",
+          "wade_giles_pinyin": "teng2"
+        }
+      ],
+      "simplified": "疼",
+      "simplified_stroke_count": 10,
+      "traditional": "疼",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(it) hurts"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "sore"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to love dearly"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

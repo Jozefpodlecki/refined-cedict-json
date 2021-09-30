@@ -1,0 +1,42 @@
+{
+  "simplified": "爱",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ài",
+          "wade_giles_pinyin": "ai4"
+        }
+      ],
+      "simplified": "爱",
+      "simplified_stroke_count": 10,
+      "traditional": "愛",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "to love"
+        },
+        {
+          "value": "to be fond of"
+        },
+        {
+          "value": "to like"
+        },
+        {
+          "value": "affection"
+        },
+        {
+          "value": "to be inclined (to do sth)"
+        },
+        {
+          "value": "to tend to (happen)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

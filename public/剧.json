@@ -1,0 +1,34 @@
+{
+  "simplified": "剧",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jù",
+          "wade_giles_pinyin": "ju4"
+        }
+      ],
+      "simplified": "剧",
+      "simplified_stroke_count": 10,
+      "traditional": "劇",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "theatrical work (play, opera, TV series etc)"
+        },
+        {
+          "value": "dramatic (change, increase etc)"
+        },
+        {
+          "value": "acute"
+        },
+        {
+          "value": "severe"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "助剂",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhù jì",
+          "wade_giles_pinyin": "zhu4 ji4"
+        }
+      ],
+      "simplified": "助剂",
+      "simplified_stroke_count": 0,
+      "traditional": "助劑",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "additive"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "reagent"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

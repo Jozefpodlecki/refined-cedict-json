@@ -1,0 +1,40 @@
+{
+  "simplified": "机构",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jī gòu",
+          "wade_giles_pinyin": "ji1 gou4"
+        }
+      ],
+      "simplified": "机构",
+      "traditional": "機構",
+      "meanings": [
+        {
+          "value": "mechanism"
+        },
+        {
+          "value": "structure"
+        },
+        {
+          "value": "organization"
+        },
+        {
+          "value": "agency"
+        },
+        {
+          "value": "institution"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "所",
+          "traditional": "",
+          "wade_giles_pinyin": "suo3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

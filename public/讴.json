@@ -1,0 +1,33 @@
+{
+  "simplified": "讴",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ōu",
+          "wade_giles_pinyin": "ou1"
+        }
+      ],
+      "simplified": "讴",
+      "simplified_stroke_count": 6,
+      "traditional": "謳",
+      "traditional_stroke_count": 18,
+      "meanings": [
+        {
+          "value": "to sing"
+        },
+        {
+          "value": "ballad"
+        },
+        {
+          "value": "folk song"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "simplified": "息",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xī",
+          "wade_giles_pinyin": "xi1"
+        }
+      ],
+      "simplified": "息",
+      "simplified_stroke_count": 10,
+      "traditional": "息",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "breath"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "news"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "interest (on an investment or loan)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to cease"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to stop"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to rest"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Taiwan pr. [xi2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

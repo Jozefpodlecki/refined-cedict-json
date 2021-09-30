@@ -1,0 +1,48 @@
+{
+  "simplified": "胶卷",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiāo juǎn",
+          "wade_giles_pinyin": "jiao1 juan3"
+        }
+      ],
+      "simplified": "胶卷",
+      "traditional": "膠卷",
+      "meanings": [
+        {
+          "value": "film"
+        },
+        {
+          "value": "roll of film"
+        },
+        {
+          "value": "also written 膠捲|胶卷"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiāo juǎn",
+          "wade_giles_pinyin": "jiao1 juan3"
+        }
+      ],
+      "simplified": "胶卷",
+      "traditional": "膠捲",
+      "meanings": [
+        {
+          "value": "film"
+        },
+        {
+          "value": "roll of film"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

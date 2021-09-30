@@ -1,0 +1,54 @@
+{
+  "simplified": "付",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fù",
+          "wade_giles_pinyin": "Fu4"
+        }
+      ],
+      "simplified": "付",
+      "simplified_stroke_count": 5,
+      "traditional": "付",
+      "traditional_stroke_count": 5,
+      "meanings": [
+        {
+          "value": "surname Fu"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fù",
+          "wade_giles_pinyin": "fu4"
+        }
+      ],
+      "simplified": "付",
+      "simplified_stroke_count": 5,
+      "traditional": "付",
+      "traditional_stroke_count": 5,
+      "meanings": [
+        {
+          "value": "to pay"
+        },
+        {
+          "value": "to hand over to"
+        },
+        {
+          "value": "classifier for pairs or sets of things"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

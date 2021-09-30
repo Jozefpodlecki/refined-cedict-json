@@ -1,0 +1,111 @@
+{
+  "simplified": "落",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "là",
+          "wade_giles_pinyin": "la4"
+        }
+      ],
+      "simplified": "落",
+      "simplified_stroke_count": 13,
+      "traditional": "落",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "to leave out"
+        },
+        {
+          "value": "to be missing"
+        },
+        {
+          "value": "to leave behind or forget to bring"
+        },
+        {
+          "value": "to lag or fall behind"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lào",
+          "wade_giles_pinyin": "lao4"
+        }
+      ],
+      "simplified": "落",
+      "simplified_stroke_count": 13,
+      "traditional": "落",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "colloquial reading for 落[luo4] in certain compounds"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "luò",
+          "wade_giles_pinyin": "luo4"
+        }
+      ],
+      "simplified": "落",
+      "simplified_stroke_count": 13,
+      "traditional": "落",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "to fall or drop"
+        },
+        {
+          "value": "(of the sun) to set"
+        },
+        {
+          "value": "(of a tide) to go out"
+        },
+        {
+          "value": "to lower"
+        },
+        {
+          "value": "to decline or sink"
+        },
+        {
+          "value": "to lag or fall behind"
+        },
+        {
+          "value": "to fall onto"
+        },
+        {
+          "value": "to rest with"
+        },
+        {
+          "value": "to get or receive"
+        },
+        {
+          "value": "to write down"
+        },
+        {
+          "value": "whereabouts"
+        },
+        {
+          "value": "settlement"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

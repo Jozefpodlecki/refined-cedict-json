@@ -1,0 +1,31 @@
+{
+  "simplified": "国会",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guó huì",
+          "wade_giles_pinyin": "Guo2 hui4"
+        }
+      ],
+      "simplified": "国会",
+      "traditional": "國會",
+      "meanings": [
+        {
+          "value": "Parliament (UK)"
+        },
+        {
+          "value": "Congress (US)"
+        },
+        {
+          "value": "Diet (Japan)"
+        },
+        {
+          "value": "Legislative Yuan (Taiwan)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

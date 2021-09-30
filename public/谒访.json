@@ -1,0 +1,34 @@
+{
+  "simplified": "谒访",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yè fǎng",
+          "wade_giles_pinyin": "ye4 fang3"
+        }
+      ],
+      "simplified": "谒访",
+      "simplified_stroke_count": 0,
+      "traditional": "謁訪",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to pay one's respects"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to visit (ancestral grave)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

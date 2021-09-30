@@ -1,0 +1,44 @@
+{
+  "simplified": "边儿",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "biān r",
+          "wade_giles_pinyin": "bian1 r5"
+        }
+      ],
+      "simplified": "边儿",
+      "traditional": "邊兒",
+      "meanings": [
+        {
+          "value": "side"
+        },
+        {
+          "value": "edge"
+        },
+        {
+          "value": "margin"
+        },
+        {
+          "value": "border"
+        },
+        {
+          "value": "boundary"
+        },
+        {
+          "value": "proximity"
+        },
+        {
+          "value": "thread (of ideas, plots etc)"
+        },
+        {
+          "context": "see also",
+          "value": "邊|边[bian1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

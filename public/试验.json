@@ -1,0 +1,60 @@
+{
+  "simplified": "试验",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shì yàn",
+          "wade_giles_pinyin": "shi4 yan4"
+        }
+      ],
+      "simplified": "试验",
+      "simplified_stroke_count": 0,
+      "traditional": "試驗",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "experiment"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "test"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:次[ci4],個|个[ge4]"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to experiment"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "experimental"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "次",
+          "traditional": "",
+          "wade_giles_pinyin": "ci4"
+        },
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

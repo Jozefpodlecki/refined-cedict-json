@@ -1,0 +1,30 @@
+{
+  "simplified": "辊",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gǔn",
+          "wade_giles_pinyin": "gun3"
+        }
+      ],
+      "simplified": "辊",
+      "simplified_stroke_count": 12,
+      "traditional": "輥",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "to revolve"
+        },
+        {
+          "value": "stone roller"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

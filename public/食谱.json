@@ -1,0 +1,39 @@
+{
+  "simplified": "食谱",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shí pǔ",
+          "wade_giles_pinyin": "shi2 pu3"
+        }
+      ],
+      "simplified": "食谱",
+      "traditional": "食譜",
+      "meanings": [
+        {
+          "value": "cookbook"
+        },
+        {
+          "value": "recipe"
+        },
+        {
+          "value": "diet"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "份",
+          "traditional": "",
+          "wade_giles_pinyin": "fen4"
+        },
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

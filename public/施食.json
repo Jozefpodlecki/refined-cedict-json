@@ -1,0 +1,34 @@
+{
+  "simplified": "施食",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shī shí",
+          "wade_giles_pinyin": "shi1 shi2"
+        }
+      ],
+      "simplified": "施食",
+      "simplified_stroke_count": 0,
+      "traditional": "施食",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to give food (as a charity)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "\"feeding the hungry ghosts\" (Buddhist ceremony)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

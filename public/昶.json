@@ -1,0 +1,32 @@
+{
+  "simplified": "昶",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chǎng",
+          "wade_giles_pinyin": "chang3"
+        }
+      ],
+      "simplified": "昶",
+      "simplified_stroke_count": 9,
+      "traditional": "昶",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "(of the day) long"
+        },
+        {
+          "context": "old variant",
+          "value": "old variant of 暢|畅[chang4]",
+          "simplified": "暢",
+          "traditional": "畅",
+          "wade_giles_pinyin": "chang4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

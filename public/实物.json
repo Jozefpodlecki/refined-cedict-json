@@ -1,0 +1,43 @@
+{
+  "simplified": "实物",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shí wù",
+          "wade_giles_pinyin": "shi2 wu4"
+        }
+      ],
+      "simplified": "实物",
+      "traditional": "實物",
+      "meanings": [
+        {
+          "value": "material object"
+        },
+        {
+          "value": "concrete object"
+        },
+        {
+          "value": "original object"
+        },
+        {
+          "value": "in kind"
+        },
+        {
+          "value": "object for practical use"
+        },
+        {
+          "value": "definite thing"
+        },
+        {
+          "value": "reality"
+        },
+        {
+          "value": "matter (physics)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

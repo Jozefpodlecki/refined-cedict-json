@@ -1,0 +1,39 @@
+{
+  "simplified": "撤职",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chè zhí",
+          "wade_giles_pinyin": "che4 zhi2"
+        }
+      ],
+      "simplified": "撤职",
+      "simplified_stroke_count": null,
+      "traditional": "撤職",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to eliminate"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to sack"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to remove from office"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

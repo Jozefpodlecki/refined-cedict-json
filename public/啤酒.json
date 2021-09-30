@@ -1,0 +1,49 @@
+{
+  "simplified": "啤酒",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pí jiǔ",
+          "wade_giles_pinyin": "pi2 jiu3"
+        }
+      ],
+      "simplified": "啤酒",
+      "traditional": "啤酒",
+      "meanings": [
+        {
+          "context": "loanword",
+          "value": "beer"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "杯",
+          "traditional": "",
+          "wade_giles_pinyin": "bei1"
+        },
+        {
+          "simplified": "瓶",
+          "traditional": "",
+          "wade_giles_pinyin": "ping2"
+        },
+        {
+          "simplified": "罐",
+          "traditional": "",
+          "wade_giles_pinyin": "guan4"
+        },
+        {
+          "simplified": "桶",
+          "traditional": "",
+          "wade_giles_pinyin": "tong3"
+        },
+        {
+          "simplified": "缸",
+          "traditional": "",
+          "wade_giles_pinyin": "gang1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

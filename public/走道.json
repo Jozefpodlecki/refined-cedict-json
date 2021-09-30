@@ -1,0 +1,37 @@
+{
+  "simplified": "走道",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zǒu dào",
+          "wade_giles_pinyin": "zou3 dao4"
+        }
+      ],
+      "simplified": "走道",
+      "traditional": "走道",
+      "meanings": [
+        {
+          "value": "pavement"
+        },
+        {
+          "value": "sidewalk"
+        },
+        {
+          "value": "path"
+        },
+        {
+          "value": "walk"
+        },
+        {
+          "value": "footpath"
+        },
+        {
+          "value": "aisle"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

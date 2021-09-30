@@ -1,0 +1,32 @@
+{
+  "simplified": "楼子",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " lóu zi",
+          "wade_giles_pinyin": "lou2 zi5"
+        }
+      ],
+      "simplified": "楼子",
+      "simplified_stroke_count": 0,
+      "traditional": "樓子",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "pavilion"
+        },
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "婁子|娄子[lou2 zi5]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

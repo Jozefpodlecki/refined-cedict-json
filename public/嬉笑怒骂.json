@@ -1,0 +1,38 @@
+{
+  "simplified": "嬉笑怒骂",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xī xiào nù mà",
+          "wade_giles_pinyin": "xi1 xiao4 nu4 ma4"
+        }
+      ],
+      "simplified": "嬉笑怒骂",
+      "traditional": "嬉笑怒罵",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "laughs, jeers, anger and invective"
+        },
+        {
+          "value": "fig. all kinds of emotions"
+        },
+        {
+          "value": "to mock and scold"
+        },
+        {
+          "value": "(of writing) freely roving"
+        },
+        {
+          "value": "following the author's fancy"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

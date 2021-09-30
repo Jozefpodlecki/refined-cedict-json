@@ -1,0 +1,37 @@
+{
+  "simplified": "定钱",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dìng qian",
+          "wade_giles_pinyin": "ding4 qian5"
+        }
+      ],
+      "simplified": "定钱",
+      "simplified_stroke_count": 0,
+      "traditional": "定錢",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "security deposit"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "earnest money (real estate)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "good-faith deposit"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

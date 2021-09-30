@@ -1,0 +1,27 @@
+{
+  "simplified": "订购",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dìng gòu",
+          "wade_giles_pinyin": "ding4 gou4"
+        }
+      ],
+      "simplified": "订购",
+      "traditional": "訂購",
+      "meanings": [
+        {
+          "value": "to place an order"
+        },
+        {
+          "value": "to subscribe"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

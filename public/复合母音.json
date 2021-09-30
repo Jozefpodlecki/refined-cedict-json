@@ -1,0 +1,25 @@
+{
+  "simplified": "复合母音",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fù hé mǔ yīn",
+          "wade_giles_pinyin": "fu4 he2 mu3 yin1"
+        }
+      ],
+      "simplified": "复合母音",
+      "traditional": "複合母音",
+      "meanings": [
+        {
+          "value": "diphthong"
+        },
+        {
+          "value": "compound vowel"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

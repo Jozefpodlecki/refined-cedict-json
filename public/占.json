@@ -1,0 +1,82 @@
+{
+  "simplified": "占",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhàn",
+          "wade_giles_pinyin": "zhan4"
+        }
+      ],
+      "simplified": "占",
+      "simplified_stroke_count": 5,
+      "traditional": "佔",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 占[zhan4]",
+          "simplified": "占",
+          "traditional": "",
+          "wade_giles_pinyin": "zhan4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhān",
+          "wade_giles_pinyin": "zhan1"
+        }
+      ],
+      "simplified": "占",
+      "simplified_stroke_count": 5,
+      "traditional": "占",
+      "traditional_stroke_count": 5,
+      "meanings": [
+        {
+          "value": "to observe"
+        },
+        {
+          "value": "to divine"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhàn",
+          "wade_giles_pinyin": "zhan4"
+        }
+      ],
+      "simplified": "占",
+      "simplified_stroke_count": 5,
+      "traditional": "占",
+      "traditional_stroke_count": 5,
+      "meanings": [
+        {
+          "value": "to take possession of"
+        },
+        {
+          "value": "to occupy"
+        },
+        {
+          "value": "to take up"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

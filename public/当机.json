@@ -1,0 +1,39 @@
+{
+  "simplified": "当机",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dàng jī",
+          "wade_giles_pinyin": "dang4 ji1"
+        }
+      ],
+      "simplified": "当机",
+      "simplified_stroke_count": 0,
+      "traditional": "當機",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to crash (of a computer)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to stop working"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(loanword from English \"down\")"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

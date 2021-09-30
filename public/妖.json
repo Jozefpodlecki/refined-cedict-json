@@ -1,0 +1,46 @@
+{
+  "simplified": "妖",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yāo",
+          "wade_giles_pinyin": "yao1"
+        }
+      ],
+      "simplified": "妖",
+      "simplified_stroke_count": 7,
+      "traditional": "妖",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "value": "goblin"
+        },
+        {
+          "value": "witch"
+        },
+        {
+          "value": "devil"
+        },
+        {
+          "value": "bewitching"
+        },
+        {
+          "value": "enchanting"
+        },
+        {
+          "value": "monster"
+        },
+        {
+          "value": "phantom"
+        },
+        {
+          "value": "demon"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

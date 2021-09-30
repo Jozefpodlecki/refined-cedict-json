@@ -1,0 +1,35 @@
+{
+  "simplified": "花名",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huā míng",
+          "wade_giles_pinyin": "hua1 ming2"
+        }
+      ],
+      "simplified": "花名",
+      "traditional": "花名",
+      "meanings": [
+        {
+          "context": "old",
+          "value": "name of a person on the household register"
+        },
+        {
+          "value": "name on a roster"
+        },
+        {
+          "value": "professional name of a prostitute"
+        },
+        {
+          "value": "pseudonym"
+        },
+        {
+          "value": "nickname"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

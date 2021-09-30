@@ -1,0 +1,50 @@
+{
+  "simplified": "楷",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiē",
+          "wade_giles_pinyin": "jie1"
+        }
+      ],
+      "simplified": "楷",
+      "simplified_stroke_count": 13,
+      "traditional": "楷",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "Chinese pistachio tree (Pistacia chinensis)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kǎi",
+          "wade_giles_pinyin": "kai3"
+        }
+      ],
+      "simplified": "楷",
+      "simplified_stroke_count": 13,
+      "traditional": "楷",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "model"
+        },
+        {
+          "value": "pattern"
+        },
+        {
+          "value": "regular script (calligraphic style)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

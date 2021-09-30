@@ -1,0 +1,27 @@
+{
+  "simplified": "铂",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bó",
+          "wade_giles_pinyin": "bo2"
+        }
+      ],
+      "simplified": "铂",
+      "simplified_stroke_count": 10,
+      "traditional": "鉑",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "platinum (chemistry)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "chemical elements"
+      ]
+    }
+  ]
+}

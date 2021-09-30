@@ -1,0 +1,32 @@
+{
+  "simplified": "抓饭",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhuā fàn",
+          "wade_giles_pinyin": "zhua1 fan4"
+        }
+      ],
+      "simplified": "抓饭",
+      "simplified_stroke_count": null,
+      "traditional": "抓飯",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "pilaf (rice dish popular in many parts of the world, including Xinjiang)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "pilau"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

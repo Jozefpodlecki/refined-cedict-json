@@ -1,0 +1,33 @@
+{
+  "simplified": "辱骂",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rǔ mà",
+          "wade_giles_pinyin": "ru3 ma4"
+        }
+      ],
+      "simplified": "辱骂",
+      "traditional": "辱罵",
+      "meanings": [
+        {
+          "value": "to insult"
+        },
+        {
+          "value": "to revile"
+        },
+        {
+          "value": "abuse"
+        },
+        {
+          "value": "vituperation"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

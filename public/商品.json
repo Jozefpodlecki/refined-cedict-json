@@ -1,0 +1,34 @@
+{
+  "simplified": "商品",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shāng pǐn",
+          "wade_giles_pinyin": "shang1 pin3"
+        }
+      ],
+      "simplified": "商品",
+      "traditional": "商品",
+      "meanings": [
+        {
+          "value": "commodity"
+        },
+        {
+          "value": "goods"
+        },
+        {
+          "value": "merchandise"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

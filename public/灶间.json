@@ -1,0 +1,29 @@
+{
+  "simplified": "灶间",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zào jiān",
+          "wade_giles_pinyin": "zao4 jian1"
+        }
+      ],
+      "simplified": "灶间",
+      "traditional": "灶間",
+      "meanings": [
+        {
+          "context": "dialect",
+          "value": "kitchen"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "間",
+          "traditional": "间",
+          "wade_giles_pinyin": "jian1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

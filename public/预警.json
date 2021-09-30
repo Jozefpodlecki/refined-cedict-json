@@ -1,0 +1,32 @@
+{
+  "simplified": "预警",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yù jǐng",
+          "wade_giles_pinyin": "yu4 jing3"
+        }
+      ],
+      "simplified": "预警",
+      "simplified_stroke_count": 0,
+      "traditional": "預警",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "warning"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "early warning"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

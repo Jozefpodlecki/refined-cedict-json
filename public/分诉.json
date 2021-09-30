@@ -1,0 +1,30 @@
+{
+  "simplified": "分诉",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fēn sù",
+          "wade_giles_pinyin": "fen1 su4"
+        }
+      ],
+      "simplified": "分诉",
+      "traditional": "分訴",
+      "meanings": [
+        {
+          "value": "to narrate"
+        },
+        {
+          "value": "to explain"
+        },
+        {
+          "value": "to justify oneself"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

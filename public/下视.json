@@ -1,0 +1,31 @@
+{
+  "simplified": "下视",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xià shì",
+          "wade_giles_pinyin": "xia4 shi4"
+        }
+      ],
+      "simplified": "下视",
+      "traditional": "下視",
+      "meanings": [
+        {
+          "value": "to look down from above"
+        },
+        {
+          "context": "figuratively",
+          "value": "to look down on"
+        },
+        {
+          "value": "to despise"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

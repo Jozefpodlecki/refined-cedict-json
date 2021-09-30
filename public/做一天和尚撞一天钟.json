@@ -1,0 +1,39 @@
+{
+  "simplified": "做一天和尚撞一天钟",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zuò yī tiān hé shang zhuàng yī tiān zhōng",
+          "wade_giles_pinyin": "zuo4 yi1 tian1 he2 shang5 zhuang4 yi1 tian1 zhong1"
+        }
+      ],
+      "simplified": "做一天和尚撞一天钟",
+      "simplified_stroke_count": 0,
+      "traditional": "做一天和尚撞一天鐘",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "lit. as a monk for today, toll today's bell"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "fig. to do one's job mechanically"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to hold a position passively"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

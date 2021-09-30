@@ -1,0 +1,25 @@
+{
+  "simplified": "法医",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fǎ yī",
+          "wade_giles_pinyin": "fa3 yi1"
+        }
+      ],
+      "simplified": "法医",
+      "traditional": "法醫",
+      "meanings": [
+        {
+          "value": "forensic investigator"
+        },
+        {
+          "value": "forensic detective"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

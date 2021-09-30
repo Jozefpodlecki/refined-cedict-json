@@ -1,0 +1,30 @@
+{
+  "simplified": "钳制",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qián zhì",
+          "wade_giles_pinyin": "qian2 zhi4"
+        }
+      ],
+      "simplified": "钳制",
+      "traditional": "鉗制",
+      "meanings": [
+        {
+          "value": "to suppress"
+        },
+        {
+          "value": "to muzzle"
+        },
+        {
+          "value": "to gag"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

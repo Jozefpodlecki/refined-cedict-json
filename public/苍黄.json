@@ -1,0 +1,32 @@
+{
+  "simplified": "苍黄",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cāng huáng",
+          "wade_giles_pinyin": "cang1 huang2"
+        }
+      ],
+      "simplified": "苍黄",
+      "traditional": "蒼黃",
+      "meanings": [
+        {
+          "value": "greenish yellow"
+        },
+        {
+          "value": "sallow (pale or yellow complexion)"
+        },
+        {
+          "context": "variant",
+          "value": "variant of 倉皇|仓皇[cang1 huang2]",
+          "simplified": "倉",
+          "traditional": "皇|仓皇",
+          "wade_giles_pinyin": "cang1 huang2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

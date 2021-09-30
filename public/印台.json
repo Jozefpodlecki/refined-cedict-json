@@ -1,0 +1,53 @@
+{
+  "simplified": "印台",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yìn tái",
+          "wade_giles_pinyin": "Yin4 tai2"
+        }
+      ],
+      "simplified": "印台",
+      "simplified_stroke_count": 0,
+      "traditional": "印臺",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Yintai District of Tongchuan City 銅川市|铜川市[Tong2 chuan1 Shi4], Shaanxi"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yìn tái",
+          "wade_giles_pinyin": "yin4 tai2"
+        }
+      ],
+      "simplified": "印台",
+      "simplified_stroke_count": 0,
+      "traditional": "印臺",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "ink pad"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "stamp pad"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

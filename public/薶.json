@@ -1,0 +1,57 @@
+{
+  "simplified": "薶",
+  "simplified_stroke_count": 20,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " mái",
+          "wade_giles_pinyin": "mai2"
+        }
+      ],
+      "simplified": "薶",
+      "simplified_stroke_count": 20,
+      "traditional": "薶",
+      "traditional_stroke_count": 20,
+      "meanings": [
+        {
+          "context": "old variant",
+          "lexical_item": "",
+          "value": "埋[mai2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " wō",
+          "wade_giles_pinyin": "wo1"
+        }
+      ],
+      "simplified": "薶",
+      "simplified_stroke_count": 20,
+      "traditional": "薶",
+      "traditional_stroke_count": 20,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to make dirty"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to soil"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

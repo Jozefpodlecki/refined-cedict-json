@@ -1,0 +1,48 @@
+{
+  "simplified": "柿",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shì",
+          "wade_giles_pinyin": "shi4"
+        }
+      ],
+      "simplified": "柿",
+      "simplified_stroke_count": 9,
+      "traditional": "柹",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "old variant",
+          "lexical_item": "",
+          "value": "柿[shi4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shì",
+          "wade_giles_pinyin": "shi4"
+        }
+      ],
+      "simplified": "柿",
+      "simplified_stroke_count": 9,
+      "traditional": "柿",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "persimmon"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

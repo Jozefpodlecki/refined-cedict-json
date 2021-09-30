@@ -1,0 +1,28 @@
+{
+  "simplified": "国书",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guó shū",
+          "wade_giles_pinyin": "guo2 shu1"
+        }
+      ],
+      "simplified": "国书",
+      "traditional": "國書",
+      "meanings": [
+        {
+          "value": "credentials (of a diplomat)"
+        },
+        {
+          "value": "documents exchanged between nations"
+        },
+        {
+          "value": "national or dynastic history book"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

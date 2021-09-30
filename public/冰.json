@@ -1,0 +1,54 @@
+{
+  "simplified": "冰",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bīng",
+          "wade_giles_pinyin": "bing1"
+        }
+      ],
+      "simplified": "冰",
+      "simplified_stroke_count": 6,
+      "traditional": "冰",
+      "traditional_stroke_count": 6,
+      "meanings": [],
+      "classifiers": [
+        {
+          "simplified": "塊",
+          "traditional": "块",
+          "wade_giles_pinyin": "kuai4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bīng",
+          "wade_giles_pinyin": "bing1"
+        }
+      ],
+      "simplified": "冰",
+      "simplified_stroke_count": 6,
+      "traditional": "氷",
+      "traditional_stroke_count": 5,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 冰[bing1]",
+          "simplified": "冰",
+          "traditional": "",
+          "wade_giles_pinyin": "bing1"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

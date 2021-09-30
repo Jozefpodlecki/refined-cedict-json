@@ -1,0 +1,37 @@
+{
+  "simplified": "漏油",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " lòu yóu",
+          "wade_giles_pinyin": "lou4 you2"
+        }
+      ],
+      "simplified": "漏油",
+      "simplified_stroke_count": 0,
+      "traditional": "漏油",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "oil spill"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "oil leak"
+        },
+        {
+          "context": "figuratively",
+          "lexical_item": "",
+          "value": "boo! (opposite of 加油[jia1 you2])"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

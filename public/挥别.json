@@ -1,0 +1,31 @@
+{
+  "simplified": "挥别",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huī bié",
+          "wade_giles_pinyin": "hui1 bie2"
+        }
+      ],
+      "simplified": "挥别",
+      "traditional": "揮別",
+      "meanings": [
+        {
+          "value": "to wave goodbye"
+        },
+        {
+          "context": "figuratively",
+          "value": "to say goodbye to"
+        },
+        {
+          "value": "to bid farewell to"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "simplified": "岩",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yán",
+          "wade_giles_pinyin": "yan2"
+        }
+      ],
+      "simplified": "岩",
+      "simplified_stroke_count": 8,
+      "traditional": "岩",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "cliff"
+        },
+        {
+          "value": "rock"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yán",
+          "wade_giles_pinyin": "yan2"
+        }
+      ],
+      "simplified": "岩",
+      "simplified_stroke_count": 8,
+      "traditional": "嵒",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 巖|岩[yan2]",
+          "simplified": "巖",
+          "traditional": "岩",
+          "wade_giles_pinyin": "yan2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yán",
+          "wade_giles_pinyin": "yan2"
+        }
+      ],
+      "simplified": "岩",
+      "simplified_stroke_count": 8,
+      "traditional": "巖",
+      "traditional_stroke_count": 23,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 岩[yan2]",
+          "simplified": "岩",
+          "traditional": "",
+          "wade_giles_pinyin": "yan2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yán",
+          "wade_giles_pinyin": "yan2"
+        }
+      ],
+      "simplified": "岩",
+      "simplified_stroke_count": 8,
+      "traditional": "巗",
+      "traditional_stroke_count": 22,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 巖|岩[yan2]",
+          "simplified": "巖",
+          "traditional": "岩",
+          "wade_giles_pinyin": "yan2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

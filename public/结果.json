@@ -1,0 +1,67 @@
+{
+  "simplified": "结果",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiē guǒ",
+          "wade_giles_pinyin": "jie1 guo3"
+        }
+      ],
+      "simplified": "结果",
+      "traditional": "結果",
+      "meanings": [
+        {
+          "value": "to bear fruit"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jié guǒ",
+          "wade_giles_pinyin": "jie2 guo3"
+        }
+      ],
+      "simplified": "结果",
+      "traditional": "結果",
+      "meanings": [
+        {
+          "value": "outcome"
+        },
+        {
+          "value": "result"
+        },
+        {
+          "value": "conclusion"
+        },
+        {
+          "value": "in the end"
+        },
+        {
+          "value": "as a result"
+        },
+        {
+          "value": "to kill"
+        },
+        {
+          "value": "to dispatch"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

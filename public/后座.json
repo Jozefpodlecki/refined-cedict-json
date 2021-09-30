@@ -1,0 +1,46 @@
+{
+  "simplified": "后座",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hòu zuò",
+          "wade_giles_pinyin": "hou4 zuo4"
+        }
+      ],
+      "simplified": "后座",
+      "traditional": "后座",
+      "meanings": [
+        {
+          "value": "empress's throne"
+        },
+        {
+          "context": "figuratively",
+          "value": "first place in a feminine competition"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hòu zuò",
+          "wade_giles_pinyin": "hou4 zuo4"
+        }
+      ],
+      "simplified": "后座",
+      "traditional": "後座",
+      "meanings": [
+        {
+          "value": "back seat"
+        },
+        {
+          "value": "pillion"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

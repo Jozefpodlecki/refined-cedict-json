@@ -1,0 +1,32 @@
+{
+  "simplified": "鸡冠花",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jī guān huā",
+          "wade_giles_pinyin": "ji1 guan1 hua1"
+        }
+      ],
+      "simplified": "鸡冠花",
+      "simplified_stroke_count": null,
+      "traditional": "雞冠花",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "cockscomb flower"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "Celosia cristata"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

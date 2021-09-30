@@ -1,0 +1,28 @@
+{
+  "simplified": "用词",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yòng cí",
+          "wade_giles_pinyin": "yong4 ci2"
+        }
+      ],
+      "simplified": "用词",
+      "traditional": "用詞",
+      "meanings": [
+        {
+          "value": "usage (of a term)"
+        },
+        {
+          "value": "wording"
+        },
+        {
+          "value": "phrasing"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

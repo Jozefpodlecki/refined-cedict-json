@@ -1,0 +1,36 @@
+{
+  "simplified": "譹",
+  "simplified_stroke_count": 21,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "háo",
+          "wade_giles_pinyin": "hao2"
+        }
+      ],
+      "simplified": "譹",
+      "simplified_stroke_count": 21,
+      "traditional": "譹",
+      "traditional_stroke_count": 21,
+      "meanings": [
+        {
+          "value": "to shout"
+        },
+        {
+          "value": "to roar"
+        },
+        {
+          "value": "to terrify"
+        },
+        {
+          "value": "swiftly"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

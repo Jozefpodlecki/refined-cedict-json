@@ -1,0 +1,27 @@
+{
+  "simplified": "交流道",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiāo liú dào",
+          "wade_giles_pinyin": "jiao1 liu2 dao4"
+        }
+      ],
+      "simplified": "交流道",
+      "traditional": "交流道",
+      "meanings": [
+        {
+          "context": "taiwan",
+          "value": "highway interchange"
+        },
+        {
+          "context": "figuratively",
+          "value": "channel of communication"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

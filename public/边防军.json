@@ -1,0 +1,32 @@
+{
+  "simplified": "边防军",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "biān fáng jūn",
+          "wade_giles_pinyin": "bian1 fang2 jun1"
+        }
+      ],
+      "simplified": "边防军",
+      "simplified_stroke_count": null,
+      "traditional": "邊防軍",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "border guard"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "frontier army"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

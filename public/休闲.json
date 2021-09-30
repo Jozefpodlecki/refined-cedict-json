@@ -1,0 +1,39 @@
+{
+  "simplified": "休闲",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiū xián",
+          "wade_giles_pinyin": "xiu1 xian2"
+        }
+      ],
+      "simplified": "休闲",
+      "traditional": "休閒",
+      "meanings": [
+        {
+          "value": "leisure"
+        },
+        {
+          "value": "relaxation"
+        },
+        {
+          "value": "not working"
+        },
+        {
+          "value": "idle"
+        },
+        {
+          "value": "to enjoy leisure"
+        },
+        {
+          "value": "to lie fallow"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "多面体",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " duō miàn tǐ",
+          "wade_giles_pinyin": "duo1 mian4 ti3"
+        }
+      ],
+      "simplified": "多面体",
+      "simplified_stroke_count": 0,
+      "traditional": "多面體",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "polyhedron"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "polytope"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "simplified": "激",
+  "simplified_stroke_count": 16,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jī",
+          "wade_giles_pinyin": "ji1"
+        }
+      ],
+      "simplified": "激",
+      "simplified_stroke_count": 16,
+      "traditional": "激",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "to arouse"
+        },
+        {
+          "value": "to incite"
+        },
+        {
+          "value": "to excite"
+        },
+        {
+          "value": "to stimulate"
+        },
+        {
+          "value": "sharp"
+        },
+        {
+          "value": "fierce"
+        },
+        {
+          "value": "violent"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

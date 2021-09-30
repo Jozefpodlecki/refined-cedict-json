@@ -1,0 +1,34 @@
+{
+  "simplified": "规诲",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guī huì",
+          "wade_giles_pinyin": "gui1 hui4"
+        }
+      ],
+      "simplified": "规诲",
+      "simplified_stroke_count": null,
+      "traditional": "規誨",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to admonish"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to instruct"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

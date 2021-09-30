@@ -1,0 +1,39 @@
+{
+  "simplified": "涂油",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " tú yóu",
+          "wade_giles_pinyin": "tu2 you2"
+        }
+      ],
+      "simplified": "涂油",
+      "simplified_stroke_count": 0,
+      "traditional": "塗油",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to grease"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to oil"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to baste (cookery)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

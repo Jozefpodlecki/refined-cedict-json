@@ -1,0 +1,143 @@
+{
+  "simplified": "苏",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sū",
+          "wade_giles_pinyin": "su1"
+        }
+      ],
+      "simplified": "苏",
+      "simplified_stroke_count": 7,
+      "traditional": "囌",
+      "traditional_stroke_count": 23,
+      "meanings": [
+        {
+          "value": "see 囉囌|啰苏[luo1 su1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sū",
+          "wade_giles_pinyin": "su1"
+        }
+      ],
+      "simplified": "苏",
+      "simplified_stroke_count": 7,
+      "traditional": "甦",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 蘇|苏[su1]",
+          "simplified": "蘇",
+          "traditional": "苏",
+          "wade_giles_pinyin": "su1"
+        },
+        {
+          "value": "to revive"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sū",
+          "wade_giles_pinyin": "Su1"
+        }
+      ],
+      "simplified": "苏",
+      "simplified_stroke_count": 7,
+      "traditional": "蘇",
+      "traditional_stroke_count": 22,
+      "meanings": [
+        {
+          "value": "surname Su"
+        },
+        {
+          "context": "abbreviation",
+          "value": "Soviet Union 蘇維埃|苏维埃 or 蘇聯|苏联"
+        },
+        {
+          "context": "abbreviation",
+          "value": "Jiangsu province 江蘇|江苏"
+        },
+        {
+          "context": "abbreviation",
+          "value": "Suzhou city 蘇州|苏州"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sū",
+          "wade_giles_pinyin": "su1"
+        }
+      ],
+      "simplified": "苏",
+      "simplified_stroke_count": 7,
+      "traditional": "蘇",
+      "traditional_stroke_count": 22,
+      "meanings": [
+        {
+          "value": "Perilla frutescens (Chinese basil or wild red basil)"
+        },
+        {
+          "value": "place name"
+        },
+        {
+          "value": "to revive"
+        },
+        {
+          "value": "used as phonetic in transliteration"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sū",
+          "wade_giles_pinyin": "su1"
+        }
+      ],
+      "simplified": "苏",
+      "simplified_stroke_count": 7,
+      "traditional": "蘓",
+      "traditional_stroke_count": 22,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 蘇|苏[su1]",
+          "simplified": "蘇",
+          "traditional": "苏",
+          "wade_giles_pinyin": "su1"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

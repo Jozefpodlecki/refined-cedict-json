@@ -1,0 +1,78 @@
+{
+  "simplified": "道",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dào",
+          "wade_giles_pinyin": "dao4"
+        }
+      ],
+      "simplified": "道",
+      "simplified_stroke_count": 12,
+      "traditional": "道",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "road"
+        },
+        {
+          "value": "path"
+        },
+        {
+          "value": "principle"
+        },
+        {
+          "value": "truth"
+        },
+        {
+          "value": "morality"
+        },
+        {
+          "value": "reason"
+        },
+        {
+          "value": "skill"
+        },
+        {
+          "value": "method"
+        },
+        {
+          "value": "Dao (of Daoism)"
+        },
+        {
+          "value": "to say"
+        },
+        {
+          "value": "to speak"
+        },
+        {
+          "value": "to talk"
+        },
+        {
+          "value": "classifier for long thin things (rivers, cracks etc), barriers (walls, doors etc), questions (in an exam etc), commands, courses in a meal, steps in a process"
+        },
+        {
+          "context": "old",
+          "value": "circuit (administrative division)"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "條",
+          "traditional": "条",
+          "wade_giles_pinyin": "tiao2"
+        },
+        {
+          "simplified": "股",
+          "traditional": "",
+          "wade_giles_pinyin": "gu3"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

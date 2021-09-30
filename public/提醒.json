@@ -1,0 +1,39 @@
+{
+  "simplified": "提醒",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " tí xǐng",
+          "wade_giles_pinyin": "ti2 xing3"
+        }
+      ],
+      "simplified": "提醒",
+      "simplified_stroke_count": 0,
+      "traditional": "提醒",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to remind"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to call attention to"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to warn of"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

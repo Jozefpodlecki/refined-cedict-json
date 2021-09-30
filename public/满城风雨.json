@@ -1,0 +1,33 @@
+{
+  "simplified": "满城风雨",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mǎn chéng fēng yǔ",
+          "wade_giles_pinyin": "man3 cheng2 feng1 yu3"
+        }
+      ],
+      "simplified": "满城风雨",
+      "traditional": "滿城風雨",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "wind and rain sweeping through the town"
+        },
+        {
+          "value": "fig. a big scandal"
+        },
+        {
+          "value": "an uproar"
+        },
+        {
+          "value": "the talk of the town"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

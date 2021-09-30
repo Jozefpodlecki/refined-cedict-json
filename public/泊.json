@@ -1,0 +1,57 @@
+{
+  "simplified": "泊",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bó",
+          "wade_giles_pinyin": "bo2"
+        }
+      ],
+      "simplified": "泊",
+      "simplified_stroke_count": 8,
+      "traditional": "泊",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "to anchor"
+        },
+        {
+          "value": "touch at"
+        },
+        {
+          "value": "to moor"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pō",
+          "wade_giles_pinyin": "po1"
+        }
+      ],
+      "simplified": "泊",
+      "simplified_stroke_count": 8,
+      "traditional": "泊",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "lake"
+        },
+        {
+          "value": "Taiwan pr. [bo2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

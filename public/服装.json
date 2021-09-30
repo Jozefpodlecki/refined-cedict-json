@@ -1,0 +1,37 @@
+{
+  "simplified": "服装",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fú zhuāng",
+          "wade_giles_pinyin": "fu2 zhuang1"
+        }
+      ],
+      "simplified": "服装",
+      "traditional": "服裝",
+      "meanings": [
+        {
+          "value": "dress"
+        },
+        {
+          "value": "clothing"
+        },
+        {
+          "value": "costume"
+        },
+        {
+          "value": "clothes"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "身",
+          "traditional": "",
+          "wade_giles_pinyin": "shen1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

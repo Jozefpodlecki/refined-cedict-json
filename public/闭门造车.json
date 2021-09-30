@@ -1,0 +1,27 @@
+{
+  "simplified": "闭门造车",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bì mén zào chē",
+          "wade_giles_pinyin": "bi4 men2 zao4 che1"
+        }
+      ],
+      "simplified": "闭门造车",
+      "traditional": "閉門造車",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "to shut oneself away and build a cart"
+        },
+        {
+          "value": "fig. to work on a project in isolation, without caring for outside realities"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "simplified": "归国",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guī guó",
+          "wade_giles_pinyin": "gui1 guo2"
+        }
+      ],
+      "simplified": "归国",
+      "traditional": "歸國",
+      "meanings": [
+        {
+          "value": "to go home (to one's native country)"
+        },
+        {
+          "value": "to return from abroad"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

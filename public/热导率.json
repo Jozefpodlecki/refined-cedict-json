@@ -1,0 +1,25 @@
+{
+  "simplified": "热导率",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rè dǎo lǜ",
+          "wade_giles_pinyin": "re4 dao3 lu:4"
+        }
+      ],
+      "simplified": "热导率",
+      "traditional": "熱導率",
+      "meanings": [
+        {
+          "value": "thermal conductivity"
+        },
+        {
+          "value": "heat conductivity"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

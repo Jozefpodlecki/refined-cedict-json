@@ -1,0 +1,32 @@
+{
+  "simplified": "赞成票",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zàn chéng piào",
+          "wade_giles_pinyin": "zan4 cheng2 piao4"
+        }
+      ],
+      "simplified": "赞成票",
+      "simplified_stroke_count": 0,
+      "traditional": "贊成票",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "approval"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "affirmative vote"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

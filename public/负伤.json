@@ -1,0 +1,27 @@
+{
+  "simplified": "负伤",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fù shāng",
+          "wade_giles_pinyin": "fu4 shang1"
+        }
+      ],
+      "simplified": "负伤",
+      "traditional": "負傷",
+      "meanings": [
+        {
+          "value": "to be wounded"
+        },
+        {
+          "value": "to sustain an injury"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

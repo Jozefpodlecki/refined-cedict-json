@@ -1,0 +1,28 @@
+{
+  "simplified": "唱红脸",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chàng hóng liǎn",
+          "wade_giles_pinyin": "chang4 hong2 lian3"
+        }
+      ],
+      "simplified": "唱红脸",
+      "traditional": "唱紅臉",
+      "meanings": [
+        {
+          "lexical_item": "idiom",
+          "value": "to play the role of the hero"
+        },
+        {
+          "value": "to play the good cop"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

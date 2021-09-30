@@ -1,0 +1,32 @@
+{
+  "simplified": "弩兵",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " nǚ bīng",
+          "wade_giles_pinyin": "nu3 bing1"
+        }
+      ],
+      "simplified": "弩兵",
+      "simplified_stroke_count": 0,
+      "traditional": "弩兵",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "archer"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "infantry armed with crossbow"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

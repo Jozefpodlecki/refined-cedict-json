@@ -1,0 +1,42 @@
+{
+  "simplified": "空地",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kōng dì",
+          "wade_giles_pinyin": "kong1 di4"
+        }
+      ],
+      "simplified": "空地",
+      "traditional": "空地",
+      "meanings": [
+        {
+          "value": "air-to-surface (missile)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kòng dì",
+          "wade_giles_pinyin": "kong4 di4"
+        }
+      ],
+      "simplified": "空地",
+      "traditional": "空地",
+      "meanings": [
+        {
+          "value": "vacant land"
+        },
+        {
+          "value": "open space"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

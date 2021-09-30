@@ -1,0 +1,50 @@
+{
+  "simplified": "吊唁",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diào yàn",
+          "wade_giles_pinyin": "diao4 yan4"
+        }
+      ],
+      "simplified": "吊唁",
+      "traditional": "吊唁",
+      "meanings": [
+        {
+          "value": "to offer condolences (for the deceased)"
+        },
+        {
+          "value": "to condole"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diào yàn",
+          "wade_giles_pinyin": "diao4 yan4"
+        }
+      ],
+      "simplified": "吊唁",
+      "traditional": "弔唁",
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 吊唁[diao4 yan4]",
+          "simplified": "吊",
+          "traditional": "唁",
+          "wade_giles_pinyin": "diao4 yan4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

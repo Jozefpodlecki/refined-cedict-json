@@ -1,0 +1,32 @@
+{
+  "simplified": "辈子",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bèi zi",
+          "wade_giles_pinyin": "bei4 zi5"
+        }
+      ],
+      "simplified": "辈子",
+      "simplified_stroke_count": 0,
+      "traditional": "輩子",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "all one's life"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "lifetime"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

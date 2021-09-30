@@ -1,0 +1,34 @@
+{
+  "simplified": "中场",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhōng chǎng",
+          "wade_giles_pinyin": "zhong1 chang3"
+        }
+      ],
+      "simplified": "中场",
+      "traditional": "中場",
+      "meanings": [
+        {
+          "value": "middle period of a tripartite provincial exam (in former times)"
+        },
+        {
+          "value": "midfield"
+        },
+        {
+          "value": "mid-court (in sports)"
+        },
+        {
+          "value": "half-time"
+        },
+        {
+          "value": "intermission half-way through a performance"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

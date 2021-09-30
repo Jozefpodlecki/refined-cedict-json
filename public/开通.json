@@ -1,0 +1,43 @@
+{
+  "simplified": "开通",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kāi tōng",
+          "wade_giles_pinyin": "kai1 tong1"
+        }
+      ],
+      "simplified": "开通",
+      "traditional": "開通",
+      "meanings": [
+        {
+          "value": "to open up (windows for air, ideas for discussion, transportation routes etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kāi tong",
+          "wade_giles_pinyin": "kai1 tong5"
+        }
+      ],
+      "simplified": "开通",
+      "traditional": "開通",
+      "meanings": [
+        {
+          "value": "open-minded"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

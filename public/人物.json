@@ -1,0 +1,34 @@
+{
+  "simplified": "人物",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rén wù",
+          "wade_giles_pinyin": "ren2 wu4"
+        }
+      ],
+      "simplified": "人物",
+      "traditional": "人物",
+      "meanings": [
+        {
+          "value": "person"
+        },
+        {
+          "value": "character (in a play, novel etc)"
+        },
+        {
+          "value": "protagonist"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

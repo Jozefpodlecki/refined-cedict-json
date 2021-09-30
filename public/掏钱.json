@@ -1,0 +1,39 @@
+{
+  "simplified": "掏钱",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " tāo qián",
+          "wade_giles_pinyin": "tao1 qian2"
+        }
+      ],
+      "simplified": "掏钱",
+      "simplified_stroke_count": 0,
+      "traditional": "掏錢",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to pay"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to spend money"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to fork out"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

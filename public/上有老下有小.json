@@ -1,0 +1,37 @@
+{
+  "simplified": "上有老下有小",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shàng yǒu lǎo xià yǒu xiǎo",
+          "wade_giles_pinyin": "shang4 you3 lao3 xia4 you3 xiao3"
+        }
+      ],
+      "simplified": "上有老下有小",
+      "simplified_stroke_count": null,
+      "traditional": "上有老下有小",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "lit. above are the elderly, below are the young"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "fig. to have to take care of both one's aging parents and one's children"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "sandwich generation"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

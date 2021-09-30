@@ -1,0 +1,34 @@
+{
+  "simplified": "病倒",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bìng dǎo",
+          "wade_giles_pinyin": "bing4 dao3"
+        }
+      ],
+      "simplified": "病倒",
+      "simplified_stroke_count": 0,
+      "traditional": "病倒",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to fall ill"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to be stricken with an illness"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

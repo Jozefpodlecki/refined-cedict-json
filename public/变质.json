@@ -1,0 +1,36 @@
+{
+  "simplified": "变质",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "biàn zhì",
+          "wade_giles_pinyin": "bian4 zhi4"
+        }
+      ],
+      "simplified": "变质",
+      "traditional": "變質",
+      "meanings": [
+        {
+          "value": "to degenerate"
+        },
+        {
+          "value": "to deteriorate"
+        },
+        {
+          "value": "(of food) to go bad"
+        },
+        {
+          "value": "to go off"
+        },
+        {
+          "value": "(geology) metamorphism"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

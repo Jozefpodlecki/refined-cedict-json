@@ -1,0 +1,53 @@
+{
+  "simplified": "书包",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shū bāo",
+          "wade_giles_pinyin": "shu1 bao1"
+        }
+      ],
+      "simplified": "书包",
+      "simplified_stroke_count": 0,
+      "traditional": "書包",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "schoolbag"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "satchel"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "bookbag"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:個|个[ge4],隻|只[zhi1]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        },
+        {
+          "simplified": "隻",
+          "traditional": "只",
+          "wade_giles_pinyin": "zhi1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

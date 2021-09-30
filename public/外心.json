@@ -1,0 +1,37 @@
+{
+  "simplified": "外心",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wài xīn",
+          "wade_giles_pinyin": "wai4 xin1"
+        }
+      ],
+      "simplified": "外心",
+      "simplified_stroke_count": null,
+      "traditional": "外心",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "(of a married person) interest in a third person"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "(old) (of a minister etc) disloyal disposition"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "(math.) circumcenter (of a polygon)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

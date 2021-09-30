@@ -1,0 +1,28 @@
+{
+  "simplified": "表音",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "biǎo yīn",
+          "wade_giles_pinyin": "biao3 yin1"
+        }
+      ],
+      "simplified": "表音",
+      "traditional": "表音",
+      "meanings": [
+        {
+          "value": "phonetic"
+        },
+        {
+          "value": "phonological"
+        },
+        {
+          "value": "transliteration"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

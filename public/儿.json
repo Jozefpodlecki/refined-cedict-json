@@ -1,0 +1,76 @@
+{
+  "simplified": "儿",
+  "simplified_stroke_count": 2,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rén",
+          "wade_giles_pinyin": "ren2"
+        }
+      ],
+      "simplified": "儿",
+      "simplified_stroke_count": 2,
+      "traditional": "儿",
+      "traditional_stroke_count": 2,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 人[ren2]",
+          "simplified": "人",
+          "traditional": "",
+          "wade_giles_pinyin": "ren2"
+        },
+        {
+          "value": "\"person\" radical in Chinese characters (Kangxi radical 10), occurring in 兒, 兀, 兄 etc"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ér",
+          "wade_giles_pinyin": "er2"
+        }
+      ],
+      "simplified": "儿",
+      "simplified_stroke_count": 2,
+      "traditional": "兒",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "child"
+        },
+        {
+          "value": "son"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "r",
+          "wade_giles_pinyin": "r5"
+        }
+      ],
+      "simplified": "儿",
+      "simplified_stroke_count": 2,
+      "traditional": "兒",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "non-syllabic diminutive suffix"
+        },
+        {
+          "value": "retroflex final"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

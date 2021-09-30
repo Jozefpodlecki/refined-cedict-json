@@ -1,0 +1,62 @@
+{
+  "simplified": "当当",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dāng dāng",
+          "wade_giles_pinyin": "dang1 dang1"
+        }
+      ],
+      "simplified": "当当",
+      "traditional": "噹噹",
+      "meanings": [
+        {
+          "value": "(onom.) ding dong"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dāng dāng",
+          "wade_giles_pinyin": "Dang1 dang1"
+        }
+      ],
+      "simplified": "当当",
+      "traditional": "當當",
+      "meanings": [
+        {
+          "value": "Dangdang (online retailer)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dàng dàng",
+          "wade_giles_pinyin": "dang4 dang4"
+        }
+      ],
+      "simplified": "当当",
+      "traditional": "當當",
+      "meanings": [
+        {
+          "value": "to pawn"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

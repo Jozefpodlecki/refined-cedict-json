@@ -1,0 +1,32 @@
+{
+  "simplified": "杴",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiān",
+          "wade_giles_pinyin": "xian1"
+        }
+      ],
+      "simplified": "杴",
+      "simplified_stroke_count": 8,
+      "traditional": "杴",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "shovel"
+        },
+        {
+          "context": "variant",
+          "value": "variant of 鍁|锨[xian1]",
+          "simplified": "鍁",
+          "traditional": "锨",
+          "wade_giles_pinyin": "xian1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

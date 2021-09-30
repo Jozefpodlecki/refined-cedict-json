@@ -1,0 +1,42 @@
+{
+  "simplified": "家用",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jiā yòng",
+          "wade_giles_pinyin": "jia1 yong4"
+        }
+      ],
+      "simplified": "家用",
+      "simplified_stroke_count": 0,
+      "traditional": "家用",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "home-use"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "domestic"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "family expenses"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "housekeeping money"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

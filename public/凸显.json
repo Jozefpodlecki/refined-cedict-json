@@ -1,0 +1,44 @@
+{
+  "simplified": "凸显",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tū xiǎn",
+          "wade_giles_pinyin": "tu1 xian3"
+        }
+      ],
+      "simplified": "凸显",
+      "simplified_stroke_count": null,
+      "traditional": "凸顯",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to present clearly"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to give prominence to"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to magnify"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "clear and obvious"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

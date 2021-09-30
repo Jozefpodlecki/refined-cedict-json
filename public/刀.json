@@ -1,0 +1,69 @@
+{
+  "simplified": "刀",
+  "simplified_stroke_count": 2,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dāo",
+          "wade_giles_pinyin": "Dao1"
+        }
+      ],
+      "simplified": "刀",
+      "simplified_stroke_count": 2,
+      "traditional": "刀",
+      "traditional_stroke_count": 2,
+      "meanings": [
+        {
+          "value": "surname Dao"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dāo",
+          "wade_giles_pinyin": "dao1"
+        }
+      ],
+      "simplified": "刀",
+      "simplified_stroke_count": 2,
+      "traditional": "刀",
+      "traditional_stroke_count": 2,
+      "meanings": [
+        {
+          "value": "knife"
+        },
+        {
+          "value": "blade"
+        },
+        {
+          "value": "single-edged sword"
+        },
+        {
+          "value": "cutlass"
+        },
+        {
+          "context": "loanword",
+          "value": "(slang) dollar"
+        },
+        {
+          "value": "classifier for sets of one hundred sheets (of paper)"
+        },
+        {
+          "value": "classifier for knife cuts or stabs"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "把",
+          "traditional": "",
+          "wade_giles_pinyin": "ba3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

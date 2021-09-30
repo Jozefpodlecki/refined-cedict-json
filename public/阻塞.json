@@ -1,0 +1,34 @@
+{
+  "simplified": "阻塞",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zǔ sè",
+          "wade_giles_pinyin": "zu3 se4"
+        }
+      ],
+      "simplified": "阻塞",
+      "simplified_stroke_count": 0,
+      "traditional": "阻塞",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to block"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to clog"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

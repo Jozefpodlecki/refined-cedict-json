@@ -1,0 +1,116 @@
+{
+  "simplified": "数",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shǔ",
+          "wade_giles_pinyin": "shu3"
+        }
+      ],
+      "simplified": "数",
+      "simplified_stroke_count": 13,
+      "traditional": "數",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to count"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to count as"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to regard as"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to enumerate (sb's shortcomings)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shù",
+          "wade_giles_pinyin": "shu4"
+        }
+      ],
+      "simplified": "数",
+      "simplified_stroke_count": 13,
+      "traditional": "數",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "number"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "figure"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "several"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:個|个[ge4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shuò",
+          "wade_giles_pinyin": "shuo4"
+        }
+      ],
+      "simplified": "数",
+      "simplified_stroke_count": 13,
+      "traditional": "數",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "frequently"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "repeatedly"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "simplified": "印章",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yìn zhāng",
+          "wade_giles_pinyin": "yin4 zhang1"
+        }
+      ],
+      "simplified": "印章",
+      "simplified_stroke_count": 0,
+      "traditional": "印章",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "seal"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "signet"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "chop"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "stamp"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:方[fang1]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "方",
+          "traditional": "",
+          "wade_giles_pinyin": "fang1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

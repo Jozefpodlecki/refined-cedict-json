@@ -1,0 +1,42 @@
+{
+  "simplified": "无常",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wú cháng",
+          "wade_giles_pinyin": "wu2 chang2"
+        }
+      ],
+      "simplified": "无常",
+      "traditional": "無常",
+      "meanings": [
+        {
+          "value": "variable"
+        },
+        {
+          "value": "changeable"
+        },
+        {
+          "value": "fickle"
+        },
+        {
+          "value": "impermanence (Sanskrit: anitya)"
+        },
+        {
+          "value": "ghost taking away the soul after death"
+        },
+        {
+          "value": "to pass away"
+        },
+        {
+          "value": "to die"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

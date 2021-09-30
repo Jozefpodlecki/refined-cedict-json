@@ -1,0 +1,58 @@
+{
+  "simplified": "门道",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " mén dào",
+          "wade_giles_pinyin": "men2 dao4"
+        }
+      ],
+      "simplified": "门道",
+      "simplified_stroke_count": 0,
+      "traditional": "門道",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "doorway"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "gateway"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " mén dao",
+          "wade_giles_pinyin": "men2 dao5"
+        }
+      ],
+      "simplified": "门道",
+      "simplified_stroke_count": 0,
+      "traditional": "門道",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "the way to do sth"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "knack"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

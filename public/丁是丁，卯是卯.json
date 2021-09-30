@@ -1,0 +1,33 @@
+{
+  "simplified": "丁是丁，卯是卯",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dīng shì dīng , mǎo shì mǎo",
+          "wade_giles_pinyin": "ding1 shi4 ding1 , mao3 shi4 mao3"
+        }
+      ],
+      "simplified": "丁是丁，卯是卯",
+      "traditional": "丁是丁，卯是卯",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "to keep ding (the fourth heavenly stem) distinct from mao (the fourth earthly branch)"
+        },
+        {
+          "value": "fig. meticulous"
+        },
+        {
+          "value": "conscientious"
+        },
+        {
+          "value": "unambiguous"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

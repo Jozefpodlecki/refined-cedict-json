@@ -1,0 +1,36 @@
+{
+  "simplified": "忍",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rěn",
+          "wade_giles_pinyin": "ren3"
+        }
+      ],
+      "simplified": "忍",
+      "simplified_stroke_count": 7,
+      "traditional": "忍",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "value": "to bear"
+        },
+        {
+          "value": "to endure"
+        },
+        {
+          "value": "to tolerate"
+        },
+        {
+          "value": "to restrain oneself"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

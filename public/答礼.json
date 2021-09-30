@@ -1,0 +1,27 @@
+{
+  "simplified": "答礼",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dá lǐ",
+          "wade_giles_pinyin": "da2 li3"
+        }
+      ],
+      "simplified": "答礼",
+      "traditional": "答禮",
+      "meanings": [
+        {
+          "value": "to return a courtesy"
+        },
+        {
+          "value": "return gift"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

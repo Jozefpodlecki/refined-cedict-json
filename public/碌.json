@@ -1,0 +1,69 @@
+{
+  "simplified": "碌",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "liù",
+          "wade_giles_pinyin": "liu4"
+        }
+      ],
+      "simplified": "碌",
+      "simplified_stroke_count": 13,
+      "traditional": "碌",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "see 碌碡[liu4 zhou5]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lù",
+          "wade_giles_pinyin": "lu4"
+        }
+      ],
+      "simplified": "碌",
+      "simplified_stroke_count": 13,
+      "traditional": "碌",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "(bound form used in 忙碌[mang2 lu4], 勞碌|劳碌[lao2 lu4], 庸碌[yong1 lu4] etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "liù",
+          "wade_giles_pinyin": "liu4"
+        }
+      ],
+      "simplified": "碌",
+      "simplified_stroke_count": 13,
+      "traditional": "磟",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": null,
+          "value": "碌[liu4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

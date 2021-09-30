@@ -1,0 +1,34 @@
+{
+  "simplified": "豦",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qú",
+          "wade_giles_pinyin": "qu2"
+        }
+      ],
+      "simplified": "豦",
+      "simplified_stroke_count": 13,
+      "traditional": "豦",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "a wild boar"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to fight"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

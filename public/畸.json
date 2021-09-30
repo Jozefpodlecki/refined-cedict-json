@@ -1,0 +1,37 @@
+{
+  "simplified": "畸",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jī",
+          "wade_giles_pinyin": "ji1"
+        }
+      ],
+      "simplified": "畸",
+      "simplified_stroke_count": 13,
+      "traditional": "畸",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "lopsided"
+        },
+        {
+          "value": "unbalanced"
+        },
+        {
+          "value": "abnormal"
+        },
+        {
+          "value": "irregular"
+        },
+        {
+          "value": "odd fractional remnant"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

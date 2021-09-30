@@ -1,0 +1,30 @@
+{
+  "simplified": "有关联",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǒu guān lián",
+          "wade_giles_pinyin": "you3 guan1 lian2"
+        }
+      ],
+      "simplified": "有关联",
+      "traditional": "有關聯",
+      "meanings": [
+        {
+          "value": "related to"
+        },
+        {
+          "value": "concerning"
+        },
+        {
+          "value": "to be correlated"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

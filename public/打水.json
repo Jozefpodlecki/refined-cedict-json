@@ -1,0 +1,27 @@
+{
+  "simplified": "打水",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dǎ shuǐ",
+          "wade_giles_pinyin": "da3 shui3"
+        }
+      ],
+      "simplified": "打水",
+      "traditional": "打水",
+      "meanings": [
+        {
+          "value": "to draw water"
+        },
+        {
+          "value": "to splash water"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

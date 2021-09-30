@@ -1,0 +1,108 @@
+{
+  "simplified": "还",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huán",
+          "wade_giles_pinyin": "Huan2"
+        }
+      ],
+      "simplified": "还",
+      "simplified_stroke_count": 7,
+      "traditional": "還",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "surname Huan"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "adverb",
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hái",
+          "wade_giles_pinyin": "hai2"
+        }
+      ],
+      "simplified": "还",
+      "simplified_stroke_count": 7,
+      "traditional": "還",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "still"
+        },
+        {
+          "value": "still in progress"
+        },
+        {
+          "value": "still more"
+        },
+        {
+          "value": "yet"
+        },
+        {
+          "value": "even more"
+        },
+        {
+          "value": "in addition"
+        },
+        {
+          "value": "fairly"
+        },
+        {
+          "value": "passably (good)"
+        },
+        {
+          "value": "as early as"
+        },
+        {
+          "value": "even"
+        },
+        {
+          "value": "also"
+        },
+        {
+          "value": "else"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "adverb",
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huán",
+          "wade_giles_pinyin": "huan2"
+        }
+      ],
+      "simplified": "还",
+      "simplified_stroke_count": 7,
+      "traditional": "還",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "to pay back"
+        },
+        {
+          "value": "to return"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "adverb",
+        "verb"
+      ]
+    }
+  ]
+}

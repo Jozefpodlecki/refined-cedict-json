@@ -1,0 +1,35 @@
+{
+  "simplified": "文案",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wén àn",
+          "wade_giles_pinyin": "wen2 an4"
+        }
+      ],
+      "simplified": "文案",
+      "traditional": "文案",
+      "meanings": [
+        {
+          "value": "(newspapers etc) copy"
+        },
+        {
+          "value": "copywriter"
+        },
+        {
+          "value": "(office etc) paperwork"
+        },
+        {
+          "context": "old",
+          "value": "secretary"
+        },
+        {
+          "value": "clerk"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

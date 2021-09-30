@@ -1,0 +1,34 @@
+{
+  "simplified": "掐算",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiā suàn",
+          "wade_giles_pinyin": "qia1 suan4"
+        }
+      ],
+      "simplified": "掐算",
+      "simplified_stroke_count": null,
+      "traditional": "掐算",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to count with one's fingers"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "on the spot calculation"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

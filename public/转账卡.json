@@ -1,0 +1,27 @@
+{
+  "simplified": "转账卡",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhuǎn zhàng kǎ",
+          "wade_giles_pinyin": "zhuan3 zhang4 ka3"
+        }
+      ],
+      "simplified": "转账卡",
+      "simplified_stroke_count": null,
+      "traditional": "轉賬卡",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "debit card"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "simplified": "俗语",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " sú yǔ",
+          "wade_giles_pinyin": "su2 yu3"
+        }
+      ],
+      "simplified": "俗语",
+      "simplified_stroke_count": 0,
+      "traditional": "俗語",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "common saying"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "proverb"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "colloquial speech"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

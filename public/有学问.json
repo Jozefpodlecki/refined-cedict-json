@@ -1,0 +1,31 @@
+{
+  "simplified": "有学问",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǒu xué wèn",
+          "wade_giles_pinyin": "you3 xue2 wen4"
+        }
+      ],
+      "simplified": "有学问",
+      "traditional": "有學問",
+      "meanings": [
+        {
+          "value": "erudite"
+        },
+        {
+          "value": "learned"
+        },
+        {
+          "value": "informed"
+        },
+        {
+          "value": "scholarly"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

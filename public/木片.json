@@ -1,0 +1,36 @@
+{
+  "simplified": "木片",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mù piàn",
+          "wade_giles_pinyin": "mu4 pian4"
+        }
+      ],
+      "simplified": "木片",
+      "traditional": "木片",
+      "meanings": [
+        {
+          "value": "flat piece of wood"
+        },
+        {
+          "value": "wood chip"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "塊",
+          "traditional": "块",
+          "wade_giles_pinyin": "kuai4"
+        },
+        {
+          "simplified": "片",
+          "traditional": "",
+          "wade_giles_pinyin": "pian4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "simplified": "泠",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " líng",
+          "wade_giles_pinyin": "Ling2"
+        }
+      ],
+      "simplified": "泠",
+      "simplified_stroke_count": 8,
+      "traditional": "泠",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "surname Ling"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " líng",
+          "wade_giles_pinyin": "ling2"
+        }
+      ],
+      "simplified": "泠",
+      "simplified_stroke_count": 8,
+      "traditional": "泠",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "sound of water flowing"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "simplified": "笨",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bèn",
+          "wade_giles_pinyin": "ben4"
+        }
+      ],
+      "simplified": "笨",
+      "simplified_stroke_count": 11,
+      "traditional": "笨",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "stupid"
+        },
+        {
+          "value": "foolish"
+        },
+        {
+          "value": "silly"
+        },
+        {
+          "value": "slow-witted"
+        },
+        {
+          "value": "clumsy"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

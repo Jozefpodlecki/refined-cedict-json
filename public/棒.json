@@ -1,0 +1,46 @@
+{
+  "simplified": "棒",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bàng",
+          "wade_giles_pinyin": "bang4"
+        }
+      ],
+      "simplified": "棒",
+      "simplified_stroke_count": 12,
+      "traditional": "棒",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "stick"
+        },
+        {
+          "value": "club"
+        },
+        {
+          "value": "cudgel"
+        },
+        {
+          "value": "smart"
+        },
+        {
+          "value": "capable"
+        },
+        {
+          "value": "strong"
+        },
+        {
+          "value": "wonderful"
+        },
+        {
+          "value": "classifier for legs of a relay race"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

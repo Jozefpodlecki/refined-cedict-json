@@ -1,0 +1,34 @@
+{
+  "simplified": "缓征",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " huǎn zhēng",
+          "wade_giles_pinyin": "huan3 zheng1"
+        }
+      ],
+      "simplified": "缓征",
+      "simplified_stroke_count": 0,
+      "traditional": "緩徵",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to suspend taxes momentarily"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to postpone military draft"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "simplified": "旋子",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xuán zi",
+          "wade_giles_pinyin": "xuan2 zi5"
+        }
+      ],
+      "simplified": "旋子",
+      "traditional": "旋子",
+      "meanings": [
+        {
+          "value": "torsor (math.)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xuàn zi",
+          "wade_giles_pinyin": "xuan4 zi5"
+        }
+      ],
+      "simplified": "旋子",
+      "traditional": "旋子",
+      "meanings": [
+        {
+          "value": "whirlwind somersault (in gymnastics or martial arts)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xuàn zi",
+          "wade_giles_pinyin": "xuan4 zi5"
+        }
+      ],
+      "simplified": "旋子",
+      "traditional": "鏇子",
+      "meanings": [
+        {
+          "value": "large metal plate for making bean curd"
+        },
+        {
+          "value": "metal pot for warming wine"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

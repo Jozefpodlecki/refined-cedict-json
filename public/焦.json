@@ -1,0 +1,66 @@
+{
+  "simplified": "焦",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiāo",
+          "wade_giles_pinyin": "Jiao1"
+        }
+      ],
+      "simplified": "焦",
+      "simplified_stroke_count": 12,
+      "traditional": "焦",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "surname Jiao"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiāo",
+          "wade_giles_pinyin": "jiao1"
+        }
+      ],
+      "simplified": "焦",
+      "simplified_stroke_count": 12,
+      "traditional": "焦",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "burnt"
+        },
+        {
+          "value": "scorched"
+        },
+        {
+          "value": "charred"
+        },
+        {
+          "value": "worried"
+        },
+        {
+          "value": "anxious"
+        },
+        {
+          "value": "coke"
+        },
+        {
+          "context": "abbreviation",
+          "value": "joule ( 焦耳[jiao1 er3])",
+          "simplified": "j",
+          "traditional": "oule ( 焦耳",
+          "wade_giles_pinyin": "jiao1 er3"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

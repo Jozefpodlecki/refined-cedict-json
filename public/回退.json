@@ -1,0 +1,27 @@
+{
+  "simplified": "回退",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huí tuì",
+          "wade_giles_pinyin": "hui2 tui4"
+        }
+      ],
+      "simplified": "回退",
+      "traditional": "回退",
+      "meanings": [
+        {
+          "value": "to revert (computing)"
+        },
+        {
+          "value": "to return (a package or letter) to the sender"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "simplified": "文书处理",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wén shū chǔ lǐ",
+          "wade_giles_pinyin": "wen2 shu1 chu3 li3"
+        }
+      ],
+      "simplified": "文书处理",
+      "traditional": "文書處理",
+      "meanings": [
+        {
+          "value": "dealing with red tape"
+        },
+        {
+          "value": "paperwork"
+        },
+        {
+          "context": "taiwan",
+          "value": "word processing"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

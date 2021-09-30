@@ -1,0 +1,59 @@
+{
+  "simplified": "党",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dǎng",
+          "wade_giles_pinyin": "Dang3"
+        }
+      ],
+      "simplified": "党",
+      "simplified_stroke_count": 10,
+      "traditional": "黨",
+      "traditional_stroke_count": 20,
+      "meanings": [
+        {
+          "value": "surname Dang"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dǎng",
+          "wade_giles_pinyin": "dang3"
+        }
+      ],
+      "simplified": "党",
+      "simplified_stroke_count": 10,
+      "traditional": "黨",
+      "traditional_stroke_count": 20,
+      "meanings": [
+        {
+          "value": "party"
+        },
+        {
+          "value": "association"
+        },
+        {
+          "value": "club"
+        },
+        {
+          "value": "society"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

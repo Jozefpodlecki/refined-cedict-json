@@ -1,0 +1,30 @@
+{
+  "simplified": "除外",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chú wài",
+          "wade_giles_pinyin": "chu2 wai4"
+        }
+      ],
+      "simplified": "除外",
+      "traditional": "除外",
+      "meanings": [
+        {
+          "value": "to exclude"
+        },
+        {
+          "value": "not including sth (when counting or listing)"
+        },
+        {
+          "value": "except for"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

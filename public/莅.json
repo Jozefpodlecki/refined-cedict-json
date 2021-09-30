@@ -1,0 +1,90 @@
+{
+  "simplified": "莅",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " lì",
+          "wade_giles_pinyin": "Li4"
+        }
+      ],
+      "simplified": "莅",
+      "simplified_stroke_count": 13,
+      "traditional": "涖",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "river in Hebei"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " lì",
+          "wade_giles_pinyin": "li4"
+        }
+      ],
+      "simplified": "莅",
+      "simplified_stroke_count": 13,
+      "traditional": "涖",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "蒞|莅[li4], to attend"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " lì",
+          "wade_giles_pinyin": "li4"
+        }
+      ],
+      "simplified": "莅",
+      "simplified_stroke_count": 13,
+      "traditional": "蒞",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to attend (an official function)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to be present"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to administer"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to approach (esp. as administrator)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

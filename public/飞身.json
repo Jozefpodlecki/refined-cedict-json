@@ -1,0 +1,30 @@
+{
+  "simplified": "飞身",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fēi shēn",
+          "wade_giles_pinyin": "fei1 shen1"
+        }
+      ],
+      "simplified": "飞身",
+      "traditional": "飛身",
+      "meanings": [
+        {
+          "value": "to move quickly"
+        },
+        {
+          "value": "to vault"
+        },
+        {
+          "value": "flying tackle"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

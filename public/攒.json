@@ -1,0 +1,57 @@
+{
+  "simplified": "攒",
+  "simplified_stroke_count": 19,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cuán",
+          "wade_giles_pinyin": "cuan2"
+        }
+      ],
+      "simplified": "攒",
+      "simplified_stroke_count": 19,
+      "traditional": "攢",
+      "traditional_stroke_count": 22,
+      "meanings": [
+        {
+          "value": "to bring together"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zǎn",
+          "wade_giles_pinyin": "zan3"
+        }
+      ],
+      "simplified": "攒",
+      "simplified_stroke_count": 19,
+      "traditional": "攢",
+      "traditional_stroke_count": 22,
+      "meanings": [
+        {
+          "value": "to collect"
+        },
+        {
+          "value": "to hoard"
+        },
+        {
+          "value": "to accumulate"
+        },
+        {
+          "value": "to save"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

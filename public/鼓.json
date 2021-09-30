@@ -1,0 +1,59 @@
+{
+  "simplified": "鼓",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gǔ",
+          "wade_giles_pinyin": "gu3"
+        }
+      ],
+      "simplified": "鼓",
+      "simplified_stroke_count": 13,
+      "traditional": "皷",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "鼓[gu3]",
+          "simplified": "鼓",
+          "traditional": "",
+          "wade_giles_pinyin": "gu3"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gǔ",
+          "wade_giles_pinyin": "gu3"
+        }
+      ],
+      "simplified": "鼓",
+      "simplified_stroke_count": 13,
+      "traditional": "鼓",
+      "traditional_stroke_count": 13,
+      "meanings": [],
+      "classifiers": [
+        {
+          "simplified": "通",
+          "traditional": "",
+          "wade_giles_pinyin": "tong4"
+        },
+        {
+          "simplified": "面",
+          "traditional": "",
+          "wade_giles_pinyin": "mian4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

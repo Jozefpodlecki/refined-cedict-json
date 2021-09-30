@@ -1,0 +1,30 @@
+{
+  "simplified": "驱逐",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qū zhú",
+          "wade_giles_pinyin": "qu1 zhu2"
+        }
+      ],
+      "simplified": "驱逐",
+      "traditional": "驅逐",
+      "meanings": [
+        {
+          "value": "to expel"
+        },
+        {
+          "value": "to deport"
+        },
+        {
+          "value": "banishment"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

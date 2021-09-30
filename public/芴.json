@@ -1,0 +1,52 @@
+{
+  "simplified": "芴",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hū",
+          "wade_giles_pinyin": "hu1"
+        }
+      ],
+      "simplified": "芴",
+      "simplified_stroke_count": 10,
+      "traditional": "芴",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "old",
+          "value": "vaguely"
+        },
+        {
+          "value": "suddenly"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wù",
+          "wade_giles_pinyin": "wu4"
+        }
+      ],
+      "simplified": "芴",
+      "simplified_stroke_count": 10,
+      "traditional": "芴",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "fluorene C13H10"
+        },
+        {
+          "context": "old",
+          "value": "name of an edible wild plant"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

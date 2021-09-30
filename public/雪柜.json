@@ -1,0 +1,32 @@
+{
+  "simplified": "雪柜",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xuě guì",
+          "wade_giles_pinyin": "xue3 gui4"
+        }
+      ],
+      "simplified": "雪柜",
+      "simplified_stroke_count": 0,
+      "traditional": "雪櫃",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "icebox"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "refrigerator (Hong Kong usage)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "解码",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jiě mǎ",
+          "wade_giles_pinyin": "jie3 ma3"
+        }
+      ],
+      "simplified": "解码",
+      "simplified_stroke_count": 0,
+      "traditional": "解碼",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to decode"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to decipher"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "simplified": "钴",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gǔ",
+          "wade_giles_pinyin": "gu3"
+        }
+      ],
+      "simplified": "钴",
+      "simplified_stroke_count": 10,
+      "traditional": "鈷",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "cobalt (chemistry)"
+        },
+        {
+          "value": "Taiwan pr. [gu1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "chemical elements"
+      ]
+    }
+  ]
+}

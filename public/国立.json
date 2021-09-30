@@ -1,0 +1,28 @@
+{
+  "simplified": "国立",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guó lì",
+          "wade_giles_pinyin": "guo2 li4"
+        }
+      ],
+      "simplified": "国立",
+      "traditional": "國立",
+      "meanings": [
+        {
+          "value": "national"
+        },
+        {
+          "value": "state-run"
+        },
+        {
+          "value": "public"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "复活",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fù huó",
+          "wade_giles_pinyin": "fu4 huo2"
+        }
+      ],
+      "simplified": "复活",
+      "simplified_stroke_count": 0,
+      "traditional": "復活",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to revive"
+        },
+        {
+          "context": "literature",
+          "lexical_item": "",
+          "value": "to come back to life"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(religion) resurrection"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

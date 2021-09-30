@@ -1,0 +1,29 @@
+{
+  "simplified": "伯爵",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bó jué",
+          "wade_giles_pinyin": "bo2 jue2"
+        }
+      ],
+      "simplified": "伯爵",
+      "traditional": "伯爵",
+      "meanings": [
+        {
+          "value": "earl"
+        },
+        {
+          "value": "count"
+        },
+        {
+          "context": "old",
+          "value": "earldom or countship"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "包房",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bāo fáng",
+          "wade_giles_pinyin": "bao1 fang2"
+        }
+      ],
+      "simplified": "包房",
+      "traditional": "包房",
+      "meanings": [
+        {
+          "value": "compartment (of train, ship etc)"
+        },
+        {
+          "value": "private room at restaurant"
+        },
+        {
+          "value": "rented room for karaoke"
+        },
+        {
+          "value": "hotel room rented by the hour"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

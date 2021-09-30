@@ -1,0 +1,25 @@
+{
+  "simplified": "电话线",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diàn huà xiàn",
+          "wade_giles_pinyin": "dian4 hua4 xian4"
+        }
+      ],
+      "simplified": "电话线",
+      "traditional": "電話線",
+      "meanings": [
+        {
+          "value": "telephone line"
+        },
+        {
+          "value": "telephone wire"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

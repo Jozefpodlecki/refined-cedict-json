@@ -1,0 +1,38 @@
+{
+  "simplified": "两",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "liǎng",
+          "wade_giles_pinyin": "liang3"
+        }
+      ],
+      "simplified": "两",
+      "simplified_stroke_count": 7,
+      "traditional": "兩",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "two"
+        },
+        {
+          "value": "both"
+        },
+        {
+          "value": "some"
+        },
+        {
+          "value": "a few"
+        },
+        {
+          "context": "old",
+          "value": "tael, unit of weight equal to 50 grams (modern) or 1⁄16 of a catty 斤[jin1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

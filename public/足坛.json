@@ -1,0 +1,32 @@
+{
+  "simplified": "足坛",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zú tán",
+          "wade_giles_pinyin": "zu2 tan2"
+        }
+      ],
+      "simplified": "足坛",
+      "simplified_stroke_count": 0,
+      "traditional": "足壇",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "soccer circles"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "soccer world"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

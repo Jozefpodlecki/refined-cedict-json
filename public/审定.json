@@ -1,0 +1,44 @@
+{
+  "simplified": "审定",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shěn dìng",
+          "wade_giles_pinyin": "shen3 ding4"
+        }
+      ],
+      "simplified": "审定",
+      "simplified_stroke_count": null,
+      "traditional": "審定",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to examine sth and make a decision"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to screen"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to evaluate"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to approve"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

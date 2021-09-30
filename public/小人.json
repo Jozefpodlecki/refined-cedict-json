@@ -1,0 +1,32 @@
+{
+  "simplified": "小人",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiǎo rén",
+          "wade_giles_pinyin": "xiao3 ren2"
+        }
+      ],
+      "simplified": "小人",
+      "traditional": "小人",
+      "meanings": [
+        {
+          "context": "old",
+          "value": "person of low social status"
+        },
+        {
+          "value": "I, me (used to refer humbly to oneself)"
+        },
+        {
+          "value": "nasty person"
+        },
+        {
+          "value": "vile character"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "simplified": "大炮",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dà pào",
+          "wade_giles_pinyin": "da4 pao4"
+        }
+      ],
+      "simplified": "大炮",
+      "traditional": "大砲",
+      "meanings": [
+        {
+          "value": "big gun"
+        },
+        {
+          "value": "cannon"
+        },
+        {
+          "value": "artillery"
+        },
+        {
+          "value": "one who talks big"
+        },
+        {
+          "value": "trad. form 大炮 also used"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "門",
+          "traditional": "门",
+          "wade_giles_pinyin": "men2"
+        },
+        {
+          "simplified": "尊",
+          "traditional": "",
+          "wade_giles_pinyin": "zun1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

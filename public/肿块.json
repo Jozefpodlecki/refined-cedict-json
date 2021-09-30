@@ -1,0 +1,31 @@
+{
+  "simplified": "肿块",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhǒng kuài",
+          "wade_giles_pinyin": "zhong3 kuai4"
+        }
+      ],
+      "simplified": "肿块",
+      "traditional": "腫塊",
+      "meanings": [
+        {
+          "value": "swelling"
+        },
+        {
+          "value": "growth"
+        },
+        {
+          "value": "tumor"
+        },
+        {
+          "value": "lump"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

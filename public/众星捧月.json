@@ -1,0 +1,31 @@
+{
+  "simplified": "众星捧月",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhòng xīng pěng yuè",
+          "wade_giles_pinyin": "zhong4 xing1 peng3 yue4"
+        }
+      ],
+      "simplified": "众星捧月",
+      "traditional": "眾星捧月",
+      "meanings": [
+        {
+          "context": "literature",
+          "value": "all the stars cup themselves around the moon (idiom, from Analects); fig. to view sb as core figure"
+        },
+        {
+          "value": "to group around a revered leader"
+        },
+        {
+          "value": "to revolve around sb"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

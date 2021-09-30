@@ -1,0 +1,40 @@
+{
+  "simplified": "牧师",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mù shī",
+          "wade_giles_pinyin": "mu4 shi1"
+        }
+      ],
+      "simplified": "牧师",
+      "traditional": "牧師",
+      "meanings": [
+        {
+          "value": "chaplain"
+        },
+        {
+          "value": "churchman"
+        },
+        {
+          "value": "clergyman"
+        },
+        {
+          "value": "parson"
+        },
+        {
+          "value": "pastor"
+        },
+        {
+          "value": "priest"
+        },
+        {
+          "value": "rector"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "simplified": "专业",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhuān yè",
+          "wade_giles_pinyin": "zhuan1 ye4"
+        }
+      ],
+      "simplified": "专业",
+      "simplified_stroke_count": 0,
+      "traditional": "專業",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "specialty"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "specialized field"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "main field of study (at university)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "major"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:門|门[men2],個|个[ge4]"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "professional"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "門",
+          "traditional": "门",
+          "wade_giles_pinyin": "men2"
+        },
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

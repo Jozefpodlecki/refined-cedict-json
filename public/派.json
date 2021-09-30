@@ -1,0 +1,58 @@
+{
+  "simplified": "派",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pài",
+          "wade_giles_pinyin": "pai4"
+        }
+      ],
+      "simplified": "派",
+      "simplified_stroke_count": 9,
+      "traditional": "派",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "clique"
+        },
+        {
+          "value": "school"
+        },
+        {
+          "value": "group"
+        },
+        {
+          "value": "faction"
+        },
+        {
+          "value": "to dispatch"
+        },
+        {
+          "value": "to send"
+        },
+        {
+          "value": "to assign"
+        },
+        {
+          "value": "to appoint"
+        },
+        {
+          "value": "pi (Greek letter Ππ)"
+        },
+        {
+          "value": "the circular ratio pi = 3.1415926"
+        },
+        {
+          "context": "loanword",
+          "value": "pie"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

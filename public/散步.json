@@ -1,0 +1,27 @@
+{
+  "simplified": "散步",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sàn bù",
+          "wade_giles_pinyin": "san4 bu4"
+        }
+      ],
+      "simplified": "散步",
+      "traditional": "散步",
+      "meanings": [
+        {
+          "value": "to take a walk"
+        },
+        {
+          "value": "to go for a walk"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

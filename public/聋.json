@@ -1,0 +1,25 @@
+{
+  "simplified": "聋",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lóng",
+          "wade_giles_pinyin": "long2"
+        }
+      ],
+      "simplified": "聋",
+      "simplified_stroke_count": 11,
+      "traditional": "聾",
+      "traditional_stroke_count": 22,
+      "meanings": [
+        {
+          "value": "deaf"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

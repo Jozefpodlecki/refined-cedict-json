@@ -1,0 +1,32 @@
+{
+  "simplified": "医学专家",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yī xué zhuān jiā",
+          "wade_giles_pinyin": "yi1 xue2 zhuan1 jia1"
+        }
+      ],
+      "simplified": "医学专家",
+      "simplified_stroke_count": 0,
+      "traditional": "醫學專家",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "medical expert"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "medical specialist"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "simplified": "百",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǎi",
+          "wade_giles_pinyin": "Bai3"
+        }
+      ],
+      "simplified": "百",
+      "simplified_stroke_count": 6,
+      "traditional": "百",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "value": "surname Bai"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǎi",
+          "wade_giles_pinyin": "bai3"
+        }
+      ],
+      "simplified": "百",
+      "simplified_stroke_count": 6,
+      "traditional": "百",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "value": "hundred"
+        },
+        {
+          "value": "numerous"
+        },
+        {
+          "value": "all kinds of"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

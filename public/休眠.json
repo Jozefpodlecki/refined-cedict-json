@@ -1,0 +1,39 @@
+{
+  "simplified": "休眠",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xiū mián",
+          "wade_giles_pinyin": "xiu1 mian2"
+        }
+      ],
+      "simplified": "休眠",
+      "simplified_stroke_count": 0,
+      "traditional": "休眠",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to be dormant (biology)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "inactive (volcano)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to hibernate (computing)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

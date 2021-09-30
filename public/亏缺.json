@@ -1,0 +1,49 @@
+{
+  "simplified": "亏缺",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kuī quē",
+          "wade_giles_pinyin": "kui1 que1"
+        }
+      ],
+      "simplified": "亏缺",
+      "simplified_stroke_count": null,
+      "traditional": "虧缺",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to be lacking"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to fall short of"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to wane"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "deficit"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "deficient"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

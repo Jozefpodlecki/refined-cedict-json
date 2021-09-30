@@ -1,0 +1,30 @@
+{
+  "simplified": "降压",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiàng yā",
+          "wade_giles_pinyin": "jiang4 ya1"
+        }
+      ],
+      "simplified": "降压",
+      "traditional": "降壓",
+      "meanings": [
+        {
+          "value": "to reduce the pressure (of a fluid)"
+        },
+        {
+          "value": "to lower one's blood pressure"
+        },
+        {
+          "value": "to lower (or step down) the voltage"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

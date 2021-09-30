@@ -1,0 +1,37 @@
+{
+  "simplified": "封地",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fēng dì",
+          "wade_giles_pinyin": "feng1 di4"
+        }
+      ],
+      "simplified": "封地",
+      "simplified_stroke_count": 0,
+      "traditional": "封地",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "feudal fiefdom"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "land held as a vassal in feudal society"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "enfeoffment"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "simplified": "需求",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xū qiú",
+          "wade_giles_pinyin": "xu1 qiu2"
+        }
+      ],
+      "simplified": "需求",
+      "traditional": "需求",
+      "meanings": [
+        {
+          "value": "requirement"
+        },
+        {
+          "value": "to require"
+        },
+        {
+          "value": "(economics) demand"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

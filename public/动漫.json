@@ -1,0 +1,42 @@
+{
+  "simplified": "动漫",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dòng màn",
+          "wade_giles_pinyin": "dong4 man4"
+        }
+      ],
+      "simplified": "动漫",
+      "simplified_stroke_count": 0,
+      "traditional": "動漫",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "cartoons and comics"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "animes and mangas"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "cartoon (animated movie)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "anime"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

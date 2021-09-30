@@ -1,0 +1,31 @@
+{
+  "simplified": "晾",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "liàng",
+          "wade_giles_pinyin": "liang4"
+        }
+      ],
+      "simplified": "晾",
+      "simplified_stroke_count": 12,
+      "traditional": "晾",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "to dry in the air"
+        },
+        {
+          "context": "figuratively",
+          "value": "to cold-shoulder"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

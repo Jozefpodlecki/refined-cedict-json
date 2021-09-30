@@ -1,0 +1,59 @@
+{
+  "simplified": "骡",
+  "simplified_stroke_count": 14,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "luó",
+          "wade_giles_pinyin": "luo2"
+        }
+      ],
+      "simplified": "骡",
+      "simplified_stroke_count": 14,
+      "traditional": "騾",
+      "traditional_stroke_count": 21,
+      "meanings": [
+        {
+          "value": "mule"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "匹",
+          "traditional": "",
+          "wade_giles_pinyin": "pi3"
+        },
+        {
+          "simplified": "頭",
+          "traditional": "头",
+          "wade_giles_pinyin": "tou2"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "luó",
+          "wade_giles_pinyin": "luo2"
+        }
+      ],
+      "simplified": "骡",
+      "simplified_stroke_count": 14,
+      "traditional": "驘",
+      "traditional_stroke_count": 23,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 騾|骡[luo2]",
+          "simplified": "騾",
+          "traditional": "骡",
+          "wade_giles_pinyin": "luo2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

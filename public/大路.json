@@ -1,0 +1,28 @@
+{
+  "simplified": "大路",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dà lù",
+          "wade_giles_pinyin": "da4 lu4"
+        }
+      ],
+      "simplified": "大路",
+      "traditional": "大路",
+      "meanings": [
+        {
+          "value": "avenue"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "條",
+          "traditional": "条",
+          "wade_giles_pinyin": "tiao2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

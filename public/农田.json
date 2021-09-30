@@ -1,0 +1,25 @@
+{
+  "simplified": "农田",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nóng tián",
+          "wade_giles_pinyin": "nong2 tian2"
+        }
+      ],
+      "simplified": "农田",
+      "traditional": "農田",
+      "meanings": [
+        {
+          "value": "farmland"
+        },
+        {
+          "value": "cultivated land"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

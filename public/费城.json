@@ -1,0 +1,29 @@
+{
+  "simplified": "费城",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "feì chéng",
+          "wade_giles_pinyin": "Fei4 cheng2"
+        }
+      ],
+      "simplified": "费城",
+      "traditional": "費城",
+      "meanings": [
+        {
+          "value": "Philadelphia, Pennsylvania"
+        },
+        {
+          "context": "abbreviation",
+          "value": "費拉德爾菲亞|费拉德尔菲亚[Fei4 la1 de2 er3 fei1 ya4]",
+          "simplified": "費",
+          "traditional": "拉德爾菲亞|费拉德尔菲亚",
+          "wade_giles_pinyin": "Fei4 la1 de2 er3 fei1 ya4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

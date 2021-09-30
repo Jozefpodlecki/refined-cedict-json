@@ -1,0 +1,48 @@
+{
+  "simplified": "卪",
+  "simplified_stroke_count": 3,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jié",
+          "wade_giles_pinyin": "jie2"
+        }
+      ],
+      "simplified": "卪",
+      "simplified_stroke_count": 3,
+      "traditional": "卪",
+      "traditional_stroke_count": 3,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": null,
+          "value": "archaic  節|节[jie2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xx",
+          "wade_giles_pinyin": "xx5"
+        }
+      ],
+      "simplified": "卪",
+      "simplified_stroke_count": 3,
+      "traditional": "卪",
+      "traditional_stroke_count": 3,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "one of the characters used in kwukyel, an ancient Korean writing system"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

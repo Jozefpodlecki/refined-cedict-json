@@ -1,0 +1,33 @@
+{
+  "simplified": "波霸奶茶",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bō bà nǎi chá",
+          "wade_giles_pinyin": "bo1 ba4 nai3 cha2"
+        }
+      ],
+      "simplified": "波霸奶茶",
+      "traditional": "波霸奶茶",
+      "meanings": [
+        {
+          "context": "taiwan",
+          "value": "bubble milk tea"
+        },
+        {
+          "value": "Boba milk tea"
+        },
+        {
+          "value": "tapioca milk tea"
+        },
+        {
+          "context": "see also",
+          "value": "珍珠奶茶[zhen1 zhu1 nai3 cha2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

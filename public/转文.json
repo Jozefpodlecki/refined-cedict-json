@@ -1,0 +1,47 @@
+{
+  "simplified": "转文",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhuǎi wén",
+          "wade_giles_pinyin": "zhuai3 wen2"
+        }
+      ],
+      "simplified": "转文",
+      "traditional": "轉文",
+      "meanings": [
+        {
+          "value": "to parade by interspersing one's speech or writing with literary allusions"
+        },
+        {
+          "value": "Taiwan pr. [zhuan3 wen2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhuǎn wén",
+          "wade_giles_pinyin": "zhuan3 wen2"
+        }
+      ],
+      "simplified": "转文",
+      "traditional": "轉文",
+      "meanings": [
+        {
+          "context": "taiwan",
+          "value": "(Internet) to repost"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

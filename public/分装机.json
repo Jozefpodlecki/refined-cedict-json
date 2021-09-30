@@ -1,0 +1,32 @@
+{
+  "simplified": "分装机",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fēn zhuāng jī",
+          "wade_giles_pinyin": "fen1 zhuang1 ji1"
+        }
+      ],
+      "simplified": "分装机",
+      "simplified_stroke_count": 0,
+      "traditional": "分裝機",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "racking machine"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "filling machine"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

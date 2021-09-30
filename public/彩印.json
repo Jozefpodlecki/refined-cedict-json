@@ -1,0 +1,29 @@
+{
+  "simplified": "彩印",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cǎi yìn",
+          "wade_giles_pinyin": "cai3 yin4"
+        }
+      ],
+      "simplified": "彩印",
+      "traditional": "彩印",
+      "meanings": [
+        {
+          "value": "color printing"
+        },
+        {
+          "context": "abbreviation",
+          "value": "彩色印刷[cai3 se4 yin4 shua1]",
+          "simplified": "彩",
+          "traditional": "色印刷",
+          "wade_giles_pinyin": "cai3 se4 yin4 shua1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

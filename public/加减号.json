@@ -1,0 +1,25 @@
+{
+  "simplified": "加减号",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiā jiǎn hào",
+          "wade_giles_pinyin": "jia1 jian3 hao4"
+        }
+      ],
+      "simplified": "加减号",
+      "traditional": "加減號",
+      "meanings": [
+        {
+          "value": "plus-minus sign (±)"
+        },
+        {
+          "value": "plus and minus signs (+ and -)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "simplified": "分部",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fēn bù",
+          "wade_giles_pinyin": "fen1 bu4"
+        }
+      ],
+      "simplified": "分部",
+      "traditional": "分部",
+      "meanings": [
+        {
+          "value": "branch"
+        },
+        {
+          "value": "subsection"
+        },
+        {
+          "value": "to subdivide"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

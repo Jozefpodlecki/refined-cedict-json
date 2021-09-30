@@ -1,0 +1,31 @@
+{
+  "simplified": "烹饪法",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pēng rèn fǎ",
+          "wade_giles_pinyin": "peng1 ren4 fa3"
+        }
+      ],
+      "simplified": "烹饪法",
+      "traditional": "烹飪法",
+      "meanings": [
+        {
+          "value": "cuisine"
+        },
+        {
+          "value": "culinary art"
+        },
+        {
+          "value": "cookery"
+        },
+        {
+          "value": "recipe"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

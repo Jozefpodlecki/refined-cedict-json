@@ -1,0 +1,29 @@
+{
+  "simplified": "本位货币",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "běn weì huò bì",
+          "wade_giles_pinyin": "ben3 wei4 huo4 bi4"
+        }
+      ],
+      "simplified": "本位货币",
+      "traditional": "本位貨幣",
+      "meanings": [
+        {
+          "value": "local currency"
+        },
+        {
+          "value": "our own currency"
+        },
+        {
+          "context": "abbreviation",
+          "value": "abbr. to 本幣|本币"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

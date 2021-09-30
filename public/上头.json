@@ -1,0 +1,52 @@
+{
+  "simplified": "上头",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shàng tóu",
+          "wade_giles_pinyin": "shang4 tou2"
+        }
+      ],
+      "simplified": "上头",
+      "traditional": "上頭",
+      "meanings": [
+        {
+          "value": "(of alcohol) to go to one's head"
+        },
+        {
+          "context": "old",
+          "value": "(of a bride-to-be) to bind one's hair into a bun"
+        },
+        {
+          "value": "(of a prostitute) to receive a patron for the first time"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shàng tou",
+          "wade_giles_pinyin": "shang4 tou5"
+        }
+      ],
+      "simplified": "上头",
+      "traditional": "上頭",
+      "meanings": [
+        {
+          "value": "above"
+        },
+        {
+          "value": "on top of"
+        },
+        {
+          "value": "on the surface of"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

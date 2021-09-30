@@ -1,0 +1,36 @@
+{
+  "simplified": "出产",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chū chǎn",
+          "wade_giles_pinyin": "chu1 chan3"
+        }
+      ],
+      "simplified": "出产",
+      "traditional": "出產",
+      "meanings": [
+        {
+          "value": "to produce (by natural growth, or by manufacture, mining etc)"
+        },
+        {
+          "value": "to yield"
+        },
+        {
+          "value": "to turn out"
+        },
+        {
+          "value": "produce"
+        },
+        {
+          "value": "products"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

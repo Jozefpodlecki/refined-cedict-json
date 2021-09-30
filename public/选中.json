@@ -1,0 +1,49 @@
+{
+  "simplified": "选中",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xuǎn zhòng",
+          "wade_giles_pinyin": "xuan3 zhong4"
+        }
+      ],
+      "simplified": "选中",
+      "simplified_stroke_count": 0,
+      "traditional": "選中",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to choose"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to pick"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to settle upon"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to decide upon a candidate"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to be selected for some role"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

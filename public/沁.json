@@ -1,0 +1,30 @@
+{
+  "simplified": "沁",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qìn",
+          "wade_giles_pinyin": "qin4"
+        }
+      ],
+      "simplified": "沁",
+      "simplified_stroke_count": 7,
+      "traditional": "沁",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "value": "to seep"
+        },
+        {
+          "value": "to percolate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

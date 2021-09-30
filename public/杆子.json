@@ -1,0 +1,48 @@
+{
+  "simplified": "杆子",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gān zi",
+          "wade_giles_pinyin": "gan1 zi5"
+        }
+      ],
+      "simplified": "杆子",
+      "traditional": "杆子",
+      "meanings": [
+        {
+          "value": "pole"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gǎn zi",
+          "wade_giles_pinyin": "gan3 zi5"
+        }
+      ],
+      "simplified": "杆子",
+      "traditional": "桿子",
+      "meanings": [
+        {
+          "value": "pole"
+        },
+        {
+          "value": "stick"
+        },
+        {
+          "value": "club"
+        },
+        {
+          "value": "gang of bandits"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

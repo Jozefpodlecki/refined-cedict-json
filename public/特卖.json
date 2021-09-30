@@ -1,0 +1,27 @@
+{
+  "simplified": "特卖",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tè mài",
+          "wade_giles_pinyin": "te4 mai4"
+        }
+      ],
+      "simplified": "特卖",
+      "traditional": "特賣",
+      "meanings": [
+        {
+          "value": "to have a sale"
+        },
+        {
+          "value": "sale"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

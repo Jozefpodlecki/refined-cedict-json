@@ -1,0 +1,36 @@
+{
+  "simplified": "骋",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chěng",
+          "wade_giles_pinyin": "cheng3"
+        }
+      ],
+      "simplified": "骋",
+      "simplified_stroke_count": 10,
+      "traditional": "騁",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "to hasten"
+        },
+        {
+          "value": "to run"
+        },
+        {
+          "value": "to open up"
+        },
+        {
+          "value": "to gallop"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

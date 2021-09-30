@@ -1,0 +1,31 @@
+{
+  "simplified": "不厌其烦",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bù yàn qí fán",
+          "wade_giles_pinyin": "bu4 yan4 qi2 fan2"
+        }
+      ],
+      "simplified": "不厌其烦",
+      "traditional": "不厭其煩",
+      "meanings": [
+        {
+          "lexical_item": "idiom",
+          "value": "not to mind taking all the trouble"
+        },
+        {
+          "value": "to take great pains"
+        },
+        {
+          "value": "to be very patient"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "simplified": "唱念",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chàng niàn",
+          "wade_giles_pinyin": "chang4 nian4"
+        }
+      ],
+      "simplified": "唱念",
+      "traditional": "唱念",
+      "meanings": [
+        {
+          "value": "to recite loudly"
+        },
+        {
+          "value": "to sing out"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

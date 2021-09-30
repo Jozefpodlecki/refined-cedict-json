@@ -1,0 +1,43 @@
+{
+  "simplified": "大蒜",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dà suàn",
+          "wade_giles_pinyin": "da4 suan4"
+        }
+      ],
+      "simplified": "大蒜",
+      "simplified_stroke_count": 0,
+      "traditional": "大蒜",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "garlic"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:瓣[ban4],頭|头[tou2]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "瓣",
+          "traditional": "",
+          "wade_giles_pinyin": "ban4"
+        },
+        {
+          "simplified": "頭",
+          "traditional": "头",
+          "wade_giles_pinyin": "tou2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

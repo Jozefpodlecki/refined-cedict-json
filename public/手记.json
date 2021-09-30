@@ -1,0 +1,27 @@
+{
+  "simplified": "手记",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shǒu jì",
+          "wade_giles_pinyin": "shou3 ji4"
+        }
+      ],
+      "simplified": "手记",
+      "traditional": "手記",
+      "meanings": [
+        {
+          "value": "to take notes"
+        },
+        {
+          "value": "one's notes"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

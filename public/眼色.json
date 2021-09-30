@@ -1,0 +1,32 @@
+{
+  "simplified": "眼色",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǎn sè",
+          "wade_giles_pinyin": "yan3 se4"
+        }
+      ],
+      "simplified": "眼色",
+      "simplified_stroke_count": null,
+      "traditional": "眼色",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "signal made with one's eyes"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "meaningful glance"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

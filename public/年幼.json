@@ -1,0 +1,32 @@
+{
+  "simplified": "年幼",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nián yòu",
+          "wade_giles_pinyin": "nian2 you4"
+        }
+      ],
+      "simplified": "年幼",
+      "simplified_stroke_count": null,
+      "traditional": "年幼",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "young"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "underage"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

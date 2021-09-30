@@ -1,0 +1,73 @@
+{
+  "simplified": "羌",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiāng",
+          "wade_giles_pinyin": "Qiang1"
+        }
+      ],
+      "simplified": "羌",
+      "simplified_stroke_count": 8,
+      "traditional": "羌",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "Qiang ethnic group of northwestern Sichuan"
+        },
+        {
+          "value": "surname Qiang"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiāng",
+          "wade_giles_pinyin": "qiang1"
+        }
+      ],
+      "simplified": "羌",
+      "simplified_stroke_count": 8,
+      "traditional": "羌",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "muntjac"
+        },
+        {
+          "value": "grammar particle indicating nonsense (classical)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiāng",
+          "wade_giles_pinyin": "qiang1"
+        }
+      ],
+      "simplified": "羌",
+      "simplified_stroke_count": 8,
+      "traditional": "羗",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 羌[qiang1]",
+          "simplified": "羌",
+          "traditional": "",
+          "wade_giles_pinyin": "qiang1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "simplified": "雪梨",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xuě lí",
+          "wade_giles_pinyin": "Xue3 li2"
+        }
+      ],
+      "simplified": "雪梨",
+      "simplified_stroke_count": 0,
+      "traditional": "雪梨",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "taiwan",
+          "lexical_item": "",
+          "value": "Sydney, capital of New South Wales, Australia"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xuě lí",
+          "wade_giles_pinyin": "xue3 li2"
+        }
+      ],
+      "simplified": "雪梨",
+      "simplified_stroke_count": 0,
+      "traditional": "雪梨",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "snow pear (pyrus nivalis)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

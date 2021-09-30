@@ -1,0 +1,62 @@
+{
+  "simplified": "晟",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chéng",
+          "wade_giles_pinyin": "Cheng2"
+        }
+      ],
+      "simplified": "晟",
+      "simplified_stroke_count": 11,
+      "traditional": "晟",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "surname Cheng"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shèng",
+          "wade_giles_pinyin": "sheng4"
+        },
+        {
+          "pinyin": " chéng",
+          "wade_giles_pinyin": "cheng2"
+        }
+      ],
+      "simplified": "晟",
+      "simplified_stroke_count": 11,
+      "traditional": "晟",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "brightness of sun"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "splendor"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "also pr. [cheng2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "simplified": "方策",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fāng cè",
+          "wade_giles_pinyin": "fang1 ce4"
+        }
+      ],
+      "simplified": "方策",
+      "traditional": "方策",
+      "meanings": [
+        {
+          "value": "strategy"
+        },
+        {
+          "value": "policy"
+        },
+        {
+          "value": "general plan"
+        },
+        {
+          "context": "variant",
+          "value": "variant of 方冊|方册[fang1 ce4]",
+          "simplified": "方",
+          "traditional": "冊|方册",
+          "wade_giles_pinyin": "fang1 ce4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

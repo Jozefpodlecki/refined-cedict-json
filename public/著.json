@@ -1,0 +1,42 @@
+{
+  "simplified": "著",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhù",
+          "wade_giles_pinyin": "zhu4"
+        }
+      ],
+      "simplified": "著",
+      "simplified_stroke_count": 12,
+      "traditional": "著",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "to make known"
+        },
+        {
+          "value": "to show"
+        },
+        {
+          "value": "to prove"
+        },
+        {
+          "value": "to write"
+        },
+        {
+          "value": "book"
+        },
+        {
+          "value": "outstanding"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

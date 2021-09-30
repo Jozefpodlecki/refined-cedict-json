@@ -1,0 +1,36 @@
+{
+  "simplified": "烩",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huì",
+          "wade_giles_pinyin": "hui4"
+        }
+      ],
+      "simplified": "烩",
+      "simplified_stroke_count": 10,
+      "traditional": "燴",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "to braise"
+        },
+        {
+          "value": "to cook in soy and vinegar"
+        },
+        {
+          "value": "braised"
+        },
+        {
+          "value": "cooked in soy and vinegar"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

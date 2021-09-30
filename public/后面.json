@@ -1,0 +1,38 @@
+{
+  "simplified": "后面",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hòu miàn",
+          "wade_giles_pinyin": "hou4 mian4"
+        },
+        {
+          "pinyin": "hòu mian",
+          "wade_giles_pinyin": "hou4 mian5"
+        }
+      ],
+      "simplified": "后面",
+      "traditional": "後面",
+      "meanings": [
+        {
+          "value": "rear"
+        },
+        {
+          "value": "back"
+        },
+        {
+          "value": "behind"
+        },
+        {
+          "value": "later"
+        },
+        {
+          "value": "afterwards"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

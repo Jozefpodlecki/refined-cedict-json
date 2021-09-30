@@ -1,0 +1,39 @@
+{
+  "simplified": "查点",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chá diǎn",
+          "wade_giles_pinyin": "cha2 dian3"
+        }
+      ],
+      "simplified": "查点",
+      "simplified_stroke_count": 0,
+      "traditional": "查點",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to check"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to tally"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to inventory"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

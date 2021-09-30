@@ -1,0 +1,34 @@
+{
+  "simplified": "称誉",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chēng yù",
+          "wade_giles_pinyin": "cheng1 yu4"
+        }
+      ],
+      "simplified": "称誉",
+      "simplified_stroke_count": 0,
+      "traditional": "稱譽",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to acclaim"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to sing the praises of"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

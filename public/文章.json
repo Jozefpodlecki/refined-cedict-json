@@ -1,0 +1,50 @@
+{
+  "simplified": "文章",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wén zhāng",
+          "wade_giles_pinyin": "wen2 zhang1"
+        }
+      ],
+      "simplified": "文章",
+      "traditional": "文章",
+      "meanings": [
+        {
+          "value": "article"
+        },
+        {
+          "value": "essay"
+        },
+        {
+          "value": "literary works"
+        },
+        {
+          "value": "writings"
+        },
+        {
+          "value": "hidden meaning"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "篇",
+          "traditional": "",
+          "wade_giles_pinyin": "pian1"
+        },
+        {
+          "simplified": "段",
+          "traditional": "",
+          "wade_giles_pinyin": "duan4"
+        },
+        {
+          "simplified": "頁",
+          "traditional": "页",
+          "wade_giles_pinyin": "ye4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "只字不提",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhī zì bù tí",
+          "wade_giles_pinyin": "zhi1 zi4 bu4 ti2"
+        }
+      ],
+      "simplified": "只字不提",
+      "simplified_stroke_count": null,
+      "traditional": "隻字不提",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": "idiom",
+          "value": "not to mention ; to say not one word"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "fig. to omit mention (of a non-person or embarrassing topic)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to censor"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

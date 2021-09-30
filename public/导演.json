@@ -1,0 +1,34 @@
+{
+  "simplified": "导演",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dǎo yǎn",
+          "wade_giles_pinyin": "dao3 yan3"
+        }
+      ],
+      "simplified": "导演",
+      "simplified_stroke_count": 0,
+      "traditional": "導演",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to direct"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "director (film etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

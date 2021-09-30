@@ -1,0 +1,30 @@
+{
+  "simplified": "猜测",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cāi cè",
+          "wade_giles_pinyin": "cai1 ce4"
+        }
+      ],
+      "simplified": "猜测",
+      "traditional": "猜測",
+      "meanings": [
+        {
+          "value": "to guess"
+        },
+        {
+          "value": "to conjecture"
+        },
+        {
+          "value": "to surmise"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

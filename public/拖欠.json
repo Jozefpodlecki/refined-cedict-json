@@ -1,0 +1,39 @@
+{
+  "simplified": "拖欠",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tuō qiàn",
+          "wade_giles_pinyin": "tuo1 qian4"
+        }
+      ],
+      "simplified": "拖欠",
+      "simplified_stroke_count": null,
+      "traditional": "拖欠",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "in arrears"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "behind in payments"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to default on one's debts"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

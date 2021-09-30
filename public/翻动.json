@@ -1,0 +1,39 @@
+{
+  "simplified": "翻动",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fān dòng",
+          "wade_giles_pinyin": "fan1 dong4"
+        }
+      ],
+      "simplified": "翻动",
+      "traditional": "翻動",
+      "meanings": [
+        {
+          "value": "to flip over"
+        },
+        {
+          "value": "to turn (a page)"
+        },
+        {
+          "value": "to scroll (an electronic document)"
+        },
+        {
+          "value": "to stir (food in a pot etc)"
+        },
+        {
+          "value": "to move things about"
+        },
+        {
+          "value": "to rummage"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

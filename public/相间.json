@@ -1,0 +1,34 @@
+{
+  "simplified": "相间",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiāng jiàn",
+          "wade_giles_pinyin": "xiang1 jian4"
+        }
+      ],
+      "simplified": "相间",
+      "simplified_stroke_count": null,
+      "traditional": "相間",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to alternate"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to follow one another"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

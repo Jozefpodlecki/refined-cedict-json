@@ -1,0 +1,37 @@
+{
+  "simplified": "原点",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yuán diǎn",
+          "wade_giles_pinyin": "yuan2 dian3"
+        }
+      ],
+      "simplified": "原点",
+      "simplified_stroke_count": 0,
+      "traditional": "原點",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "starting point"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "square one"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(coordinate geometry) origin"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

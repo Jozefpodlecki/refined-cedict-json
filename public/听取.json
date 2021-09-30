@@ -1,0 +1,27 @@
+{
+  "simplified": "听取",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tīng qǔ",
+          "wade_giles_pinyin": "ting1 qu3"
+        }
+      ],
+      "simplified": "听取",
+      "traditional": "聽取",
+      "meanings": [
+        {
+          "value": "to hear (news)"
+        },
+        {
+          "value": "to listen to"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

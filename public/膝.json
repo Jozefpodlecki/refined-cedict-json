@@ -1,0 +1,48 @@
+{
+  "simplified": "膝",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xī",
+          "wade_giles_pinyin": "xi1"
+        }
+      ],
+      "simplified": "膝",
+      "simplified_stroke_count": 15,
+      "traditional": "厀",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "old variant",
+          "lexical_item": "",
+          "value": "膝[xi1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xī",
+          "wade_giles_pinyin": "xi1"
+        }
+      ],
+      "simplified": "膝",
+      "simplified_stroke_count": 15,
+      "traditional": "膝",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "knee"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

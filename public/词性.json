@@ -1,0 +1,25 @@
+{
+  "simplified": "词性",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cí xìng",
+          "wade_giles_pinyin": "ci2 xing4"
+        }
+      ],
+      "simplified": "词性",
+      "traditional": "詞性",
+      "meanings": [
+        {
+          "value": "part of speech (noun, verb, adjective etc)"
+        },
+        {
+          "value": "lexical category"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

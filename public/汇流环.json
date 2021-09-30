@@ -1,0 +1,28 @@
+{
+  "simplified": "汇流环",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huì liú huán",
+          "wade_giles_pinyin": "hui4 liu2 huan2"
+        }
+      ],
+      "simplified": "汇流环",
+      "traditional": "匯流環",
+      "meanings": [
+        {
+          "value": "slip-ring"
+        },
+        {
+          "value": "rotary electrical interface"
+        },
+        {
+          "value": "collector ring"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

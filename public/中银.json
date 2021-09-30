@@ -1,0 +1,29 @@
+{
+  "simplified": "中银",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhōng yín",
+          "wade_giles_pinyin": "Zhong1 Yin2"
+        }
+      ],
+      "simplified": "中银",
+      "traditional": "中銀",
+      "meanings": [
+        {
+          "value": "Bank of China"
+        },
+        {
+          "context": "abbreviation",
+          "value": "中國銀行|中国银行[Zhong1 guo2 Yin2 hang2]",
+          "simplified": "中",
+          "traditional": "國銀行|中国银行",
+          "wade_giles_pinyin": "Zhong1 guo2 Yin2 hang2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

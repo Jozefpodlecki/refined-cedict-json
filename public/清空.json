@@ -1,0 +1,34 @@
+{
+  "simplified": "清空",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " qīng kōng",
+          "wade_giles_pinyin": "qing1 kong1"
+        }
+      ],
+      "simplified": "清空",
+      "simplified_stroke_count": 0,
+      "traditional": "清空",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to clear"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to empty"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

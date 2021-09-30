@@ -1,0 +1,53 @@
+{
+  "simplified": "谌",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chén",
+          "wade_giles_pinyin": "Chen2"
+        }
+      ],
+      "simplified": "谌",
+      "simplified_stroke_count": 11,
+      "traditional": "諶",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "surname Chen"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chén",
+          "wade_giles_pinyin": "chen2"
+        }
+      ],
+      "simplified": "谌",
+      "simplified_stroke_count": 11,
+      "traditional": "諶",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "faithful"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "sincere"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

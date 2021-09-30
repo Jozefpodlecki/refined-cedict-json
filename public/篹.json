@@ -1,0 +1,67 @@
+{
+  "simplified": "篹",
+  "simplified_stroke_count": 17,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "suǎn",
+          "wade_giles_pinyin": "suan3"
+        }
+      ],
+      "simplified": "篹",
+      "simplified_stroke_count": 17,
+      "traditional": "篹",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "ancient bamboo basket for food"
+        },
+        {
+          "context": "variant",
+          "value": "variant of 匴[suan3]",
+          "simplified": "匴",
+          "traditional": "",
+          "wade_giles_pinyin": "suan3"
+        },
+        {
+          "value": "bamboo container for hats"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhuàn",
+          "wade_giles_pinyin": "zhuan4"
+        }
+      ],
+      "simplified": "篹",
+      "simplified_stroke_count": 17,
+      "traditional": "篹",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "to compose"
+        },
+        {
+          "value": "to compile"
+        },
+        {
+          "value": "food"
+        },
+        {
+          "value": "delicacies"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

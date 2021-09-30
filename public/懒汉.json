@@ -1,0 +1,32 @@
+{
+  "simplified": "懒汉",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lǎn hàn",
+          "wade_giles_pinyin": "lan3 han4"
+        }
+      ],
+      "simplified": "懒汉",
+      "simplified_stroke_count": null,
+      "traditional": "懶漢",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "idle fellow"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "lazybones"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "simplified": "实付",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shí fù",
+          "wade_giles_pinyin": "shi2 fu4"
+        }
+      ],
+      "simplified": "实付",
+      "traditional": "實付",
+      "meanings": [
+        {
+          "value": "actually paid"
+        },
+        {
+          "value": "net (payment)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

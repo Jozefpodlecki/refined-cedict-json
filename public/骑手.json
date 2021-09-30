@@ -1,0 +1,31 @@
+{
+  "simplified": "骑手",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qí shǒu",
+          "wade_giles_pinyin": "qi2 shou3"
+        }
+      ],
+      "simplified": "骑手",
+      "traditional": "騎手",
+      "meanings": [
+        {
+          "value": "horse rider"
+        },
+        {
+          "value": "equestrian"
+        },
+        {
+          "value": "jockey"
+        },
+        {
+          "value": "bike rider"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "爆破",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bào pò",
+          "wade_giles_pinyin": "bao4 po4"
+        }
+      ],
+      "simplified": "爆破",
+      "simplified_stroke_count": 0,
+      "traditional": "爆破",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to blow up"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to demolish (using explosives)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "dynamite"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "blast"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

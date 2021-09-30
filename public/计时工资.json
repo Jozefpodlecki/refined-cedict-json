@@ -1,0 +1,37 @@
+{
+  "simplified": "计时工资",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jì shí gōng zī",
+          "wade_giles_pinyin": "ji4 shi2 gong1 zi1"
+        }
+      ],
+      "simplified": "计时工资",
+      "simplified_stroke_count": null,
+      "traditional": "計時工資",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "time rate wage"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "remuneration based on one's time and skill"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "opposite: piece rate wage 計件工資|计件工资[ji4 jian4 gong1 zi1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

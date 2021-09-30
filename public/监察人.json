@@ -1,0 +1,37 @@
+{
+  "simplified": "监察人",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiān chá rén",
+          "wade_giles_pinyin": "jian1 cha2 ren2"
+        }
+      ],
+      "simplified": "监察人",
+      "simplified_stroke_count": null,
+      "traditional": "監察人",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "supervisor"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "monitor"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "watchdog"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

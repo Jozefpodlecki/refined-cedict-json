@@ -1,0 +1,32 @@
+{
+  "simplified": "卽",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jí",
+          "wade_giles_pinyin": "ji2"
+        }
+      ],
+      "simplified": "卽",
+      "simplified_stroke_count": 9,
+      "traditional": "卽",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 即[ji2]",
+          "simplified": "即",
+          "traditional": "",
+          "wade_giles_pinyin": "ji2"
+        },
+        {
+          "value": "promptly"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

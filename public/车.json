@@ -1,0 +1,93 @@
+{
+  "simplified": "车",
+  "simplified_stroke_count": 4,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chē",
+          "wade_giles_pinyin": "Che1"
+        }
+      ],
+      "simplified": "车",
+      "simplified_stroke_count": 4,
+      "traditional": "車",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "value": "surname Che"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chē",
+          "wade_giles_pinyin": "che1"
+        }
+      ],
+      "simplified": "车",
+      "simplified_stroke_count": 4,
+      "traditional": "車",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "value": "car"
+        },
+        {
+          "value": "vehicle"
+        },
+        {
+          "value": "machine"
+        },
+        {
+          "value": "to shape with a lathe"
+        },
+        {
+          "value": "Kangxi radical 159"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "輛",
+          "traditional": "辆",
+          "wade_giles_pinyin": "liang4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jū",
+          "wade_giles_pinyin": "ju1"
+        }
+      ],
+      "simplified": "车",
+      "simplified_stroke_count": 4,
+      "traditional": "車",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "value": "war chariot (archaic)"
+        },
+        {
+          "value": "rook (in Chinese chess)"
+        },
+        {
+          "value": "rook (in chess)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

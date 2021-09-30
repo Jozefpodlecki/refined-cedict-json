@@ -1,0 +1,32 @@
+{
+  "simplified": "居处",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jū chù",
+          "wade_giles_pinyin": "ju1 chu4"
+        }
+      ],
+      "simplified": "居处",
+      "simplified_stroke_count": 0,
+      "traditional": "居處",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "dwelling place"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "home"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

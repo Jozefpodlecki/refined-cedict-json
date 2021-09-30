@@ -1,0 +1,32 @@
+{
+  "simplified": "指桑骂槐",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhǐ sāng mà huái",
+          "wade_giles_pinyin": "zhi3 sang1 ma4 huai2"
+        }
+      ],
+      "simplified": "指桑骂槐",
+      "traditional": "指桑罵槐",
+      "meanings": [
+        {
+          "context": "literature",
+          "value": "to point at the mulberry tree and curse the locust tree"
+        },
+        {
+          "value": "fig. to scold sb indirectly"
+        },
+        {
+          "lexical_item": "idiom",
+          "value": "to make oblique accusations"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

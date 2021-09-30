@@ -1,0 +1,29 @@
+{
+  "simplified": "吉他",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jí tā",
+          "wade_giles_pinyin": "ji2 ta1"
+        }
+      ],
+      "simplified": "吉他",
+      "traditional": "吉他",
+      "meanings": [
+        {
+          "context": "loanword",
+          "value": "guitar"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "把",
+          "traditional": "",
+          "wade_giles_pinyin": "ba3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

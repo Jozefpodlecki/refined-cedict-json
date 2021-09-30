@@ -1,0 +1,28 @@
+{
+  "simplified": "花色",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huā sè",
+          "wade_giles_pinyin": "hua1 se4"
+        }
+      ],
+      "simplified": "花色",
+      "traditional": "花色",
+      "meanings": [
+        {
+          "value": "variety"
+        },
+        {
+          "value": "design and color"
+        },
+        {
+          "value": "suit (cards)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

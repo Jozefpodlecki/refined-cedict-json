@@ -1,0 +1,93 @@
+{
+  "simplified": "咱",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zán",
+          "wade_giles_pinyin": "zan2"
+        }
+      ],
+      "simplified": "咱",
+      "simplified_stroke_count": 9,
+      "traditional": "偺",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 咱[zan2]",
+          "simplified": "咱",
+          "traditional": "",
+          "wade_giles_pinyin": "zan2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zá",
+          "wade_giles_pinyin": "za2"
+        }
+      ],
+      "simplified": "咱",
+      "simplified_stroke_count": 9,
+      "traditional": "咱",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "see 咱[zan2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zán",
+          "wade_giles_pinyin": "zan2"
+        }
+      ],
+      "simplified": "咱",
+      "simplified_stroke_count": 9,
+      "traditional": "咱",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "I or me"
+        },
+        {
+          "value": "we (including both the speaker and the person spoken to)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zán",
+          "wade_giles_pinyin": "zan2"
+        }
+      ],
+      "simplified": "咱",
+      "simplified_stroke_count": 9,
+      "traditional": "喒",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 咱[zan2]",
+          "simplified": "咱",
+          "traditional": "",
+          "wade_giles_pinyin": "zan2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "simplified": "中转",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhōng zhuǎn",
+          "wade_giles_pinyin": "zhong1 zhuan3"
+        }
+      ],
+      "simplified": "中转",
+      "traditional": "中轉",
+      "meanings": [
+        {
+          "value": "to change (train or plane)"
+        },
+        {
+          "value": "transfer"
+        },
+        {
+          "value": "correspondence"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

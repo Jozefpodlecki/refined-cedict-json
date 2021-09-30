@@ -1,0 +1,37 @@
+{
+  "simplified": "醉翁之意不在酒",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zuì wēng zhī yì bù zài jiǔ",
+          "wade_giles_pinyin": "zui4 weng1 zhi1 yi4 bu4 zai4 jiu3"
+        }
+      ],
+      "simplified": "醉翁之意不在酒",
+      "traditional": "醉翁之意不在酒",
+      "meanings": [
+        {
+          "lexical_item": "idiom",
+          "value": "wine-lover's heart is not in the cup ; a drinker not really interested in alcohol"
+        },
+        {
+          "value": "having an ulterior motive"
+        },
+        {
+          "value": "to have other things in mind"
+        },
+        {
+          "value": "with an ax to grind"
+        },
+        {
+          "value": "accomplishing something besides what one set out to do"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

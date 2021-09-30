@@ -1,0 +1,33 @@
+{
+  "simplified": "劳心劳力",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "láo xīn láo lì",
+          "wade_giles_pinyin": "lao2 xin1 lao2 li4"
+        }
+      ],
+      "simplified": "劳心劳力",
+      "traditional": "勞心勞力",
+      "meanings": [
+        {
+          "value": "to tax one's mind and body"
+        },
+        {
+          "value": "demanding (work)"
+        },
+        {
+          "value": "dedicated (worker)"
+        },
+        {
+          "value": "hard-working"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

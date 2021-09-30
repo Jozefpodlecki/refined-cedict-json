@@ -1,0 +1,32 @@
+{
+  "simplified": "尾缀",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wěi zhuì",
+          "wade_giles_pinyin": "wei3 zhui4"
+        }
+      ],
+      "simplified": "尾缀",
+      "traditional": "尾綴",
+      "meanings": [
+        {
+          "context": "literature",
+          "value": "to follow sb"
+        },
+        {
+          "value": "(linguistics) suffix"
+        },
+        {
+          "value": "ending"
+        },
+        {
+          "value": "(computing) file name extension"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

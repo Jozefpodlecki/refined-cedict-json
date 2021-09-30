@@ -1,0 +1,45 @@
+{
+  "simplified": "电杆",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diàn gān",
+          "wade_giles_pinyin": "dian4 gan1"
+        }
+      ],
+      "simplified": "电杆",
+      "traditional": "電杆",
+      "meanings": [
+        {
+          "value": "electric pole"
+        },
+        {
+          "value": "telephone pole"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diàn gǎn",
+          "wade_giles_pinyin": "dian4 gan3"
+        }
+      ],
+      "simplified": "电杆",
+      "traditional": "電桿",
+      "meanings": [
+        {
+          "value": "electric pole"
+        },
+        {
+          "value": "telegraph pole"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

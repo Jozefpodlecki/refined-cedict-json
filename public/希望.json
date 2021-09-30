@@ -1,0 +1,50 @@
+{
+  "simplified": "希望",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xī wàng",
+          "wade_giles_pinyin": "xi1 wang4"
+        }
+      ],
+      "simplified": "希望",
+      "simplified_stroke_count": null,
+      "traditional": "希望",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to wish for"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to desire"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "hope"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "CL:個|个[ge4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

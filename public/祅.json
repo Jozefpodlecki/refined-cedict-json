@@ -1,0 +1,47 @@
+{
+  "simplified": "祅",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yāo",
+          "wade_giles_pinyin": "yao1"
+        }
+      ],
+      "simplified": "祅",
+      "simplified_stroke_count": 9,
+      "traditional": "祅",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "evil spirit"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "goblin"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "witchcraft"
+        },
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "妖[yao1]"
+        },
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "common erroneous  祆[Xian1] Ormazda"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

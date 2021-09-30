@@ -1,0 +1,32 @@
+{
+  "simplified": "牌局",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " pái jú",
+          "wade_giles_pinyin": "pai2 ju2"
+        }
+      ],
+      "simplified": "牌局",
+      "simplified_stroke_count": 0,
+      "traditional": "牌局",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "gambling get-together"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "game of cards, mahjong etc"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "simplified": "蔬菜",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shū cài",
+          "wade_giles_pinyin": "shu1 cai4"
+        }
+      ],
+      "simplified": "蔬菜",
+      "traditional": "蔬菜",
+      "meanings": [
+        {
+          "value": "vegetables"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "種",
+          "traditional": "种",
+          "wade_giles_pinyin": "zhong3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "simplified": "冻",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dòng",
+          "wade_giles_pinyin": "dong4"
+        }
+      ],
+      "simplified": "冻",
+      "simplified_stroke_count": 7,
+      "traditional": "凍",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "to freeze"
+        },
+        {
+          "value": "to feel very cold"
+        },
+        {
+          "value": "aspic or jelly"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

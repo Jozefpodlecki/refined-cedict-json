@@ -1,0 +1,82 @@
+{
+  "simplified": "意",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yì",
+          "wade_giles_pinyin": "Yi4"
+        }
+      ],
+      "simplified": "意",
+      "simplified_stroke_count": 13,
+      "traditional": "意",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "Italy"
+        },
+        {
+          "value": "Italian"
+        },
+        {
+          "context": "abbreviation",
+          "value": "意大利[Yi4 da4 li4]",
+          "simplified": "意",
+          "traditional": "大利",
+          "wade_giles_pinyin": "Yi4 da4 li4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yì",
+          "wade_giles_pinyin": "yi4"
+        }
+      ],
+      "simplified": "意",
+      "simplified_stroke_count": 13,
+      "traditional": "意",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "idea"
+        },
+        {
+          "value": "meaning"
+        },
+        {
+          "value": "thought"
+        },
+        {
+          "value": "to think"
+        },
+        {
+          "value": "wish"
+        },
+        {
+          "value": "desire"
+        },
+        {
+          "value": "intention"
+        },
+        {
+          "value": "to expect"
+        },
+        {
+          "value": "to anticipate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

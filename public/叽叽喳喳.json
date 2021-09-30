@@ -1,0 +1,33 @@
+{
+  "simplified": "叽叽喳喳",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jī jī zhā zhā",
+          "wade_giles_pinyin": "ji1 ji1 zha1 zha1"
+        }
+      ],
+      "simplified": "叽叽喳喳",
+      "traditional": "嘰嘰喳喳",
+      "meanings": [
+        {
+          "value": "(onom.) chirp"
+        },
+        {
+          "value": "twitter"
+        },
+        {
+          "value": "buzzing"
+        },
+        {
+          "value": "to chatter continuously"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

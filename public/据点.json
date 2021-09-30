@@ -1,0 +1,37 @@
+{
+  "simplified": "据点",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jù diǎn",
+          "wade_giles_pinyin": "ju4 dian3"
+        }
+      ],
+      "simplified": "据点",
+      "traditional": "據點",
+      "meanings": [
+        {
+          "value": "stronghold"
+        },
+        {
+          "value": "defended military base"
+        },
+        {
+          "value": "base for operations"
+        },
+        {
+          "value": "strategic point"
+        },
+        {
+          "value": "foothold"
+        },
+        {
+          "value": "(market) presence"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

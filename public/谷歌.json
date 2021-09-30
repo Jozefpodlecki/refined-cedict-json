@@ -1,0 +1,43 @@
+{
+  "simplified": "谷歌",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gǔ gē",
+          "wade_giles_pinyin": "Gu3 ge1"
+        }
+      ],
+      "simplified": "谷歌",
+      "traditional": "穀歌",
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 谷歌[Gu3 ge1]",
+          "simplified": "谷",
+          "traditional": "歌",
+          "wade_giles_pinyin": "Gu3 ge1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gǔ gē",
+          "wade_giles_pinyin": "Gu3 ge1"
+        }
+      ],
+      "simplified": "谷歌",
+      "traditional": "谷歌",
+      "meanings": [
+        {
+          "value": "Google, Internet company and search engine"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

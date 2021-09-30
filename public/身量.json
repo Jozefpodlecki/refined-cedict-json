@@ -1,0 +1,31 @@
+{
+  "simplified": "身量",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shēn liang",
+          "wade_giles_pinyin": "shen1 liang5"
+        }
+      ],
+      "simplified": "身量",
+      "traditional": "身量",
+      "meanings": [
+        {
+          "value": "height (of a person)"
+        },
+        {
+          "value": "stature"
+        },
+        {
+          "value": "fig. reputation"
+        },
+        {
+          "value": "standing"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

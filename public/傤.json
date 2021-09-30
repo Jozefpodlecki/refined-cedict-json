@@ -1,0 +1,59 @@
+{
+  "simplified": "傤",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zài",
+          "wade_giles_pinyin": "zai4"
+        }
+      ],
+      "simplified": "傤",
+      "simplified_stroke_count": 12,
+      "traditional": "儎",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "load"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "cargo"
+        },
+        {
+          "context": "old variant",
+          "lexical_item": null,
+          "value": "載|载[zai4]"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to transport"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to deliver"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to bear"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to support"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "simplified": "饮水机",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǐn shuǐ jī",
+          "wade_giles_pinyin": "yin3 shui3 ji1"
+        }
+      ],
+      "simplified": "饮水机",
+      "traditional": "飲水機",
+      "meanings": [
+        {
+          "value": "water dispenser"
+        },
+        {
+          "value": "water cooler"
+        },
+        {
+          "value": "drinking fountain"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

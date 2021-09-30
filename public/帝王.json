@@ -1,0 +1,32 @@
+{
+  "simplified": "帝王",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dì wáng",
+          "wade_giles_pinyin": "di4 wang2"
+        }
+      ],
+      "simplified": "帝王",
+      "simplified_stroke_count": null,
+      "traditional": "帝王",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "regent"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "monarch"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

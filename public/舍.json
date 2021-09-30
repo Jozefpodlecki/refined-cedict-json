@@ -1,0 +1,108 @@
+{
+  "simplified": "舍",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shě",
+          "wade_giles_pinyin": "she3"
+        }
+      ],
+      "simplified": "舍",
+      "simplified_stroke_count": 8,
+      "traditional": "捨",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to give up"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to abandon"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to give alms"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shè",
+          "wade_giles_pinyin": "She4"
+        }
+      ],
+      "simplified": "舍",
+      "simplified_stroke_count": 8,
+      "traditional": "舍",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "surname She"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shě",
+          "wade_giles_pinyin": "she3"
+        }
+      ],
+      "simplified": "舍",
+      "simplified_stroke_count": 8,
+      "traditional": "舍",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "old variant",
+          "lexical_item": "",
+          "value": "捨|舍[she3]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shè",
+          "wade_giles_pinyin": "she4"
+        }
+      ],
+      "simplified": "舍",
+      "simplified_stroke_count": 8,
+      "traditional": "舍",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "residence"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

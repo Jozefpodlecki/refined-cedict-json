@@ -1,0 +1,33 @@
+{
+  "simplified": "登峰",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dēng fēng",
+          "wade_giles_pinyin": "deng1 feng1"
+        }
+      ],
+      "simplified": "登峰",
+      "traditional": "登峰",
+      "meanings": [
+        {
+          "value": "to climb a mountain"
+        },
+        {
+          "value": "to scale a peak"
+        },
+        {
+          "value": "mountain climbing"
+        },
+        {
+          "value": "mountaineering"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

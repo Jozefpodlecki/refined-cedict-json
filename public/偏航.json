@@ -1,0 +1,30 @@
+{
+  "simplified": "偏航",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "piān háng",
+          "wade_giles_pinyin": "pian1 hang2"
+        }
+      ],
+      "simplified": "偏航",
+      "traditional": "偏航",
+      "meanings": [
+        {
+          "value": "to diverge (from bearing, flight path etc)"
+        },
+        {
+          "value": "off course"
+        },
+        {
+          "value": "to yaw"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

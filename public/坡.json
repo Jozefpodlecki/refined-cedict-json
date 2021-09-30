@@ -1,0 +1,37 @@
+{
+  "simplified": "坡",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pō",
+          "wade_giles_pinyin": "po1"
+        }
+      ],
+      "simplified": "坡",
+      "simplified_stroke_count": 8,
+      "traditional": "坡",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "slope"
+        },
+        {
+          "value": "sloping"
+        },
+        {
+          "value": "slanted"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

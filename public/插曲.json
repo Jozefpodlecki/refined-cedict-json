@@ -1,0 +1,35 @@
+{
+  "simplified": "插曲",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chā qǔ",
+          "wade_giles_pinyin": "cha1 qu3"
+        }
+      ],
+      "simplified": "插曲",
+      "traditional": "插曲",
+      "meanings": [
+        {
+          "value": "music played during a movie, play etc"
+        },
+        {
+          "value": "incidental music"
+        },
+        {
+          "value": "music played in a theatrical interlude"
+        },
+        {
+          "context": "figuratively",
+          "value": "incident"
+        },
+        {
+          "value": "episode"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

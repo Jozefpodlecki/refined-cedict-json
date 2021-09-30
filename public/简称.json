@@ -1,0 +1,30 @@
+{
+  "simplified": "简称",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiǎn chēng",
+          "wade_giles_pinyin": "jian3 cheng1"
+        }
+      ],
+      "simplified": "简称",
+      "traditional": "簡稱",
+      "meanings": [
+        {
+          "value": "to be abbreviated to"
+        },
+        {
+          "value": "abbreviation"
+        },
+        {
+          "value": "short form"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

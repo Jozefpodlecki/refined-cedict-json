@@ -1,0 +1,53 @@
+{
+  "simplified": "戆",
+  "simplified_stroke_count": 25,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " gàng",
+          "wade_giles_pinyin": "gang4"
+        }
+      ],
+      "simplified": "戆",
+      "simplified_stroke_count": 25,
+      "traditional": "戇",
+      "traditional_stroke_count": 28,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "stupid (Wu dialect)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhuàng",
+          "wade_giles_pinyin": "zhuang4"
+        }
+      ],
+      "simplified": "戆",
+      "simplified_stroke_count": 25,
+      "traditional": "戇",
+      "traditional_stroke_count": 28,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "simple"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "honest"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

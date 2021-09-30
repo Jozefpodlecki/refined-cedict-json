@@ -1,0 +1,34 @@
+{
+  "simplified": "升天",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shēng tiān",
+          "wade_giles_pinyin": "sheng1 tian1"
+        }
+      ],
+      "simplified": "升天",
+      "simplified_stroke_count": 0,
+      "traditional": "升天",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "",
+          "value": "to ascend to heaven"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to die"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

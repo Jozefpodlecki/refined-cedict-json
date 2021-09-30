@@ -1,0 +1,28 @@
+{
+  "simplified": "音律",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yīn lǜ",
+          "wade_giles_pinyin": "yin1 lu:4"
+        }
+      ],
+      "simplified": "音律",
+      "traditional": "音律",
+      "meanings": [
+        {
+          "value": "tuning"
+        },
+        {
+          "value": "temperament"
+        },
+        {
+          "value": "music"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

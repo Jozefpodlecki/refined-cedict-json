@@ -1,0 +1,34 @@
+{
+  "simplified": "哭天抹泪",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kū tiān mǒ lèi",
+          "wade_giles_pinyin": "ku1 tian1 mo3 lei4"
+        }
+      ],
+      "simplified": "哭天抹泪",
+      "simplified_stroke_count": null,
+      "traditional": "哭天抹淚",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to wail and whine"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "piteous weeping"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

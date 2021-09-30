@@ -1,0 +1,34 @@
+{
+  "simplified": "吃喝嫖赌",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chī hē piáo dǔ",
+          "wade_giles_pinyin": "chi1 he1 piao2 du3"
+        }
+      ],
+      "simplified": "吃喝嫖赌",
+      "simplified_stroke_count": null,
+      "traditional": "吃喝嫖賭",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to go dining, wining, whoring and gambling"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to lead a life of dissipation"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

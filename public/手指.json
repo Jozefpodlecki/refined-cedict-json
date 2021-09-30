@@ -1,0 +1,29 @@
+{
+  "simplified": "手指",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shǒu zhǐ",
+          "wade_giles_pinyin": "shou3 zhi3"
+        }
+      ],
+      "simplified": "手指",
+      "traditional": "手指",
+      "meanings": [],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        },
+        {
+          "simplified": "隻",
+          "traditional": "只",
+          "wade_giles_pinyin": "zhi1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

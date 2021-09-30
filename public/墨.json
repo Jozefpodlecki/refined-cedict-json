@@ -1,0 +1,63 @@
+{
+  "simplified": "墨",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mò",
+          "wade_giles_pinyin": "Mo4"
+        }
+      ],
+      "simplified": "墨",
+      "simplified_stroke_count": 15,
+      "traditional": "墨",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "surname Mo"
+        },
+        {
+          "context": "abbreviation",
+          "value": "墨西哥[Mo4 xi1 ge1], Mexico",
+          "simplified": "墨",
+          "traditional": "西哥",
+          "wade_giles_pinyin": "Mo4 xi1 ge1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mò",
+          "wade_giles_pinyin": "mo4"
+        }
+      ],
+      "simplified": "墨",
+      "simplified_stroke_count": 15,
+      "traditional": "墨",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "ink stick"
+        },
+        {
+          "value": "China ink"
+        },
+        {
+          "value": "corporal punishment consisting of tattooing characters on the victim's forehead"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "塊",
+          "traditional": "块",
+          "wade_giles_pinyin": "kuai4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

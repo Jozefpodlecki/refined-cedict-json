@@ -1,0 +1,55 @@
+{
+  "simplified": "炕",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kàng",
+          "wade_giles_pinyin": "kang4"
+        }
+      ],
+      "simplified": "炕",
+      "simplified_stroke_count": 8,
+      "traditional": "匟",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "炕[kang4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kàng",
+          "wade_giles_pinyin": "kang4"
+        }
+      ],
+      "simplified": "炕",
+      "simplified_stroke_count": 8,
+      "traditional": "炕",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "kang (a heatable brick bed)"
+        },
+        {
+          "value": "to bake"
+        },
+        {
+          "value": "to dry by the heat of a fire"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

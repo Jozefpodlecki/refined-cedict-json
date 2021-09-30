@@ -1,0 +1,37 @@
+{
+  "simplified": "掌上电脑",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhǎng shàng diàn nǎo",
+          "wade_giles_pinyin": "zhang3 shang4 dian4 nao3"
+        }
+      ],
+      "simplified": "掌上电脑",
+      "simplified_stroke_count": 0,
+      "traditional": "掌上電腦",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "handheld computer"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "PDA (personal digital assistant)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Pocket PC"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "simplified": "面前",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "miàn qián",
+          "wade_giles_pinyin": "mian4 qian2"
+        }
+      ],
+      "simplified": "面前",
+      "simplified_stroke_count": null,
+      "traditional": "面前",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "in front of"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "facing"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "(in the) presence (of)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

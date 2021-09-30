@@ -1,0 +1,48 @@
+{
+  "simplified": "表演",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "biǎo yǎn",
+          "wade_giles_pinyin": "biao3 yan3"
+        }
+      ],
+      "simplified": "表演",
+      "traditional": "表演",
+      "meanings": [
+        {
+          "value": "play"
+        },
+        {
+          "value": "show"
+        },
+        {
+          "value": "performance"
+        },
+        {
+          "value": "exhibition"
+        },
+        {
+          "value": "to perform"
+        },
+        {
+          "value": "to act"
+        },
+        {
+          "value": "to demonstrate"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "場",
+          "traditional": "场",
+          "wade_giles_pinyin": "chang3"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

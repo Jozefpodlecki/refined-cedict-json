@@ -1,0 +1,29 @@
+{
+  "simplified": "摸石头过河",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mō shí tou guò hé",
+          "wade_giles_pinyin": "mo1 shi2 tou5 guo4 he2"
+        }
+      ],
+      "simplified": "摸石头过河",
+      "traditional": "摸石頭過河",
+      "meanings": [
+        {
+          "context": "literature",
+          "value": "crossing the river by feeling for stones"
+        },
+        {
+          "value": "improvise by trial-and-error"
+        },
+        {
+          "value": "move cautiously"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

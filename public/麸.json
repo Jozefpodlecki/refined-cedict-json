@@ -1,0 +1,44 @@
+{
+  "simplified": "麸",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fū",
+          "wade_giles_pinyin": "fu1"
+        }
+      ],
+      "simplified": "麸",
+      "simplified_stroke_count": 11,
+      "traditional": "䴸",
+      "traditional_stroke_count": 18,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 麩|麸[fu1]",
+          "simplified": "麩",
+          "traditional": "麸",
+          "wade_giles_pinyin": "fu1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fū",
+          "wade_giles_pinyin": "fu1"
+        }
+      ],
+      "simplified": "麸",
+      "simplified_stroke_count": 11,
+      "traditional": "麩",
+      "traditional_stroke_count": 15,
+      "meanings": [],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

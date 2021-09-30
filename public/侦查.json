@@ -1,0 +1,27 @@
+{
+  "simplified": "侦查",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhēn chá",
+          "wade_giles_pinyin": "zhen1 cha2"
+        }
+      ],
+      "simplified": "侦查",
+      "traditional": "偵查",
+      "meanings": [
+        {
+          "value": "to detect"
+        },
+        {
+          "value": "to investigate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

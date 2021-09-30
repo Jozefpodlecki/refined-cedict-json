@@ -1,0 +1,64 @@
+{
+  "simplified": "轮",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " lún",
+          "wade_giles_pinyin": "lun2"
+        }
+      ],
+      "simplified": "轮",
+      "simplified_stroke_count": 8,
+      "traditional": "輪",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "wheel"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "disk"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "ring"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "steamship"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to take turns"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to rotate"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "by turn"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "classifier for big round objects: disk, or recurring events: round, turn"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

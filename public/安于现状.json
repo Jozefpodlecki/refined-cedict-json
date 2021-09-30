@@ -1,0 +1,31 @@
+{
+  "simplified": "安于现状",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ān yú xiàn zhuàng",
+          "wade_giles_pinyin": "an1 yu2 xian4 zhuang4"
+        }
+      ],
+      "simplified": "安于现状",
+      "traditional": "安於現狀",
+      "meanings": [
+        {
+          "lexical_item": "idiom",
+          "value": "to take things as they are"
+        },
+        {
+          "value": "to leave a situation as it is"
+        },
+        {
+          "value": "to be happy with the status quo"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

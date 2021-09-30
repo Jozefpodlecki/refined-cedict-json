@@ -1,0 +1,33 @@
+{
+  "simplified": "碍口",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ài kǒu",
+          "wade_giles_pinyin": "ai4 kou3"
+        }
+      ],
+      "simplified": "碍口",
+      "traditional": "礙口",
+      "meanings": [
+        {
+          "value": "to shy to speak out"
+        },
+        {
+          "value": "tongue-tied"
+        },
+        {
+          "value": "to hesitate"
+        },
+        {
+          "value": "too embarrassing for words"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

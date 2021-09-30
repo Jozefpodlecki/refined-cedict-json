@@ -1,0 +1,55 @@
+{
+  "simplified": "咬",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǎo",
+          "wade_giles_pinyin": "yao3"
+        }
+      ],
+      "simplified": "咬",
+      "simplified_stroke_count": 9,
+      "traditional": "咬",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "to bite"
+        },
+        {
+          "value": "to nip"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǎo",
+          "wade_giles_pinyin": "yao3"
+        }
+      ],
+      "simplified": "咬",
+      "simplified_stroke_count": 9,
+      "traditional": "齩",
+      "traditional_stroke_count": 21,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 咬[yao3]",
+          "simplified": "咬",
+          "traditional": "",
+          "wade_giles_pinyin": "yao3"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

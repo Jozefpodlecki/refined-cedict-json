@@ -1,0 +1,36 @@
+{
+  "simplified": "战",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhàn",
+          "wade_giles_pinyin": "zhan4"
+        }
+      ],
+      "simplified": "战",
+      "simplified_stroke_count": 9,
+      "traditional": "戰",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "to fight"
+        },
+        {
+          "value": "fight"
+        },
+        {
+          "value": "war"
+        },
+        {
+          "value": "battle"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

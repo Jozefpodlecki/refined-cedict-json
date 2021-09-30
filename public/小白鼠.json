@@ -1,0 +1,42 @@
+{
+  "simplified": "小白鼠",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiǎo bái shǔ",
+          "wade_giles_pinyin": "xiao3 bai2 shu3"
+        }
+      ],
+      "simplified": "小白鼠",
+      "simplified_stroke_count": null,
+      "traditional": "小白鼠",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "white mouse"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "lab mouse"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "lab rat"
+        },
+        {
+          "context": "figuratively",
+          "lexical_item": null,
+          "value": "human guinea pig"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

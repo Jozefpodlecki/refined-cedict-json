@@ -1,0 +1,31 @@
+{
+  "simplified": "歼",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiān",
+          "wade_giles_pinyin": "jian1"
+        }
+      ],
+      "simplified": "歼",
+      "simplified_stroke_count": 7,
+      "traditional": "殲",
+      "traditional_stroke_count": 21,
+      "meanings": [
+        {
+          "value": "to annihilate"
+        },
+        {
+          "context": "abbreviation",
+          "value": "殲擊機|歼击机, fighter plane"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

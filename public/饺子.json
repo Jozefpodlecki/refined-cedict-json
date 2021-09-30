@@ -1,0 +1,36 @@
+{
+  "simplified": "饺子",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiǎo zi",
+          "wade_giles_pinyin": "jiao3 zi5"
+        }
+      ],
+      "simplified": "饺子",
+      "traditional": "餃子",
+      "meanings": [
+        {
+          "value": "dumpling"
+        },
+        {
+          "value": "pot-sticker"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        },
+        {
+          "simplified": "隻",
+          "traditional": "只",
+          "wade_giles_pinyin": "zhi1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

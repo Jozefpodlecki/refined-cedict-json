@@ -1,0 +1,39 @@
+{
+  "simplified": "电报",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diàn bào",
+          "wade_giles_pinyin": "dian4 bao4"
+        }
+      ],
+      "simplified": "电报",
+      "traditional": "電報",
+      "meanings": [
+        {
+          "value": "telegram"
+        },
+        {
+          "value": "cable"
+        },
+        {
+          "value": "telegraph"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "封",
+          "traditional": "",
+          "wade_giles_pinyin": "feng1"
+        },
+        {
+          "simplified": "份",
+          "traditional": "",
+          "wade_giles_pinyin": "fen4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

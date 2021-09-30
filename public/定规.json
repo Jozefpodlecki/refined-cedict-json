@@ -1,0 +1,34 @@
+{
+  "simplified": "定规",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dìng guī",
+          "wade_giles_pinyin": "ding4 gui1"
+        }
+      ],
+      "simplified": "定规",
+      "traditional": "定規",
+      "meanings": [
+        {
+          "value": "to decide"
+        },
+        {
+          "value": "to determine"
+        },
+        {
+          "value": "established practice"
+        },
+        {
+          "context": "dialect",
+          "value": "firmly resolved (to do sth)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

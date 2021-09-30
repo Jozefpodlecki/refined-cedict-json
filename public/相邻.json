@@ -1,0 +1,32 @@
+{
+  "simplified": "相邻",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xiāng lín",
+          "wade_giles_pinyin": "xiang1 lin2"
+        }
+      ],
+      "simplified": "相邻",
+      "simplified_stroke_count": 0,
+      "traditional": "相鄰",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "neighbor"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "adjacent"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

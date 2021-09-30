@@ -1,0 +1,22 @@
+{
+  "simplified": "震级",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhèn jí",
+          "wade_giles_pinyin": "zhen4 ji2"
+        }
+      ],
+      "simplified": "震级",
+      "traditional": "震級",
+      "meanings": [
+        {
+          "value": "degree of earthquake (on magnitude scale)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

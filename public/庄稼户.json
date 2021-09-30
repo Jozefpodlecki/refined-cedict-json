@@ -1,0 +1,32 @@
+{
+  "simplified": "庄稼户",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhuāng jia hù",
+          "wade_giles_pinyin": "zhuang1 jia5 hu4"
+        }
+      ],
+      "simplified": "庄稼户",
+      "simplified_stroke_count": null,
+      "traditional": "莊稼戶",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "wealthy farmer"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "landlord"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "simplified": "赫",
+  "simplified_stroke_count": 14,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " hè",
+          "wade_giles_pinyin": "He4"
+        }
+      ],
+      "simplified": "赫",
+      "simplified_stroke_count": 14,
+      "traditional": "赫",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "surname He"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " hè",
+          "wade_giles_pinyin": "he4"
+        }
+      ],
+      "simplified": "赫",
+      "simplified_stroke_count": 14,
+      "traditional": "赫",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "awe-inspiring"
+        },
+        {
+          "context": "abbreviation",
+          "lexical_item": "",
+          "value": "赫茲|赫兹[he4 zi1], hertz (Hz)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

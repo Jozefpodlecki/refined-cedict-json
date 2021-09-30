@@ -1,0 +1,49 @@
+{
+  "simplified": "钸",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bū",
+          "wade_giles_pinyin": "bu1"
+        }
+      ],
+      "simplified": "钸",
+      "simplified_stroke_count": 10,
+      "traditional": "鈽",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "metal plate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "chemical elements"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bù",
+          "wade_giles_pinyin": "bu4"
+        }
+      ],
+      "simplified": "钸",
+      "simplified_stroke_count": 10,
+      "traditional": "鈽",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "taiwan",
+          "value": "plutonium (chemistry)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "chemical elements"
+      ]
+    }
+  ]
+}

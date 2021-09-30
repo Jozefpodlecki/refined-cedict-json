@@ -1,0 +1,31 @@
+{
+  "simplified": "便道",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "biàn dào",
+          "wade_giles_pinyin": "bian4 dao4"
+        }
+      ],
+      "simplified": "便道",
+      "traditional": "便道",
+      "meanings": [
+        {
+          "value": "pavement"
+        },
+        {
+          "value": "sidewalk"
+        },
+        {
+          "value": "shortcut"
+        },
+        {
+          "value": "makeshift road"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

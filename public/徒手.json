@@ -1,0 +1,31 @@
+{
+  "simplified": "徒手",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tú shǒu",
+          "wade_giles_pinyin": "tu2 shou3"
+        }
+      ],
+      "simplified": "徒手",
+      "traditional": "徒手",
+      "meanings": [
+        {
+          "value": "with bare hands"
+        },
+        {
+          "value": "unarmed"
+        },
+        {
+          "value": "fighting hand-to-hand"
+        },
+        {
+          "value": "freehand (drawing)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

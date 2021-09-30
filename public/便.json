@@ -1,0 +1,75 @@
+{
+  "simplified": "便",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "biàn",
+          "wade_giles_pinyin": "bian4"
+        }
+      ],
+      "simplified": "便",
+      "simplified_stroke_count": 9,
+      "traditional": "便",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "plain"
+        },
+        {
+          "value": "informal"
+        },
+        {
+          "value": "suitable"
+        },
+        {
+          "value": "convenient"
+        },
+        {
+          "value": "opportune"
+        },
+        {
+          "value": "to urinate or defecate"
+        },
+        {
+          "value": "equivalent to 就[jiu4]: then"
+        },
+        {
+          "value": "in that case"
+        },
+        {
+          "value": "even if"
+        },
+        {
+          "value": "soon afterwards"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pián",
+          "wade_giles_pinyin": "pian2"
+        }
+      ],
+      "simplified": "便",
+      "simplified_stroke_count": 9,
+      "traditional": "便",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "see 便宜|便宜[pian2 yi5]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

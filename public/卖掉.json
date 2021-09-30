@@ -1,0 +1,34 @@
+{
+  "simplified": "卖掉",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mài diào",
+          "wade_giles_pinyin": "mai4 diao4"
+        }
+      ],
+      "simplified": "卖掉",
+      "simplified_stroke_count": null,
+      "traditional": "賣掉",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to sell off"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to get rid of in a sale"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

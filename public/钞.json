@@ -1,0 +1,37 @@
+{
+  "simplified": "钞",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chāo",
+          "wade_giles_pinyin": "chao1"
+        }
+      ],
+      "simplified": "钞",
+      "simplified_stroke_count": 9,
+      "traditional": "鈔",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "money"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "paper money"
+        },
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "抄[chao1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

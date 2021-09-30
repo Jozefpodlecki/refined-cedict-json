@@ -1,0 +1,36 @@
+{
+  "simplified": "欢喜",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huān xǐ",
+          "wade_giles_pinyin": "huan1 xi3"
+        }
+      ],
+      "simplified": "欢喜",
+      "traditional": "歡喜",
+      "meanings": [
+        {
+          "value": "happy"
+        },
+        {
+          "value": "joyous"
+        },
+        {
+          "value": "delighted"
+        },
+        {
+          "value": "to like"
+        },
+        {
+          "value": "to be fond of"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "simplified": "据",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jù",
+          "wade_giles_pinyin": "ju4"
+        }
+      ],
+      "simplified": "据",
+      "simplified_stroke_count": 11,
+      "traditional": "㨿",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": null,
+          "value": "據|据[ju4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jū",
+          "wade_giles_pinyin": "ju1"
+        }
+      ],
+      "simplified": "据",
+      "simplified_stroke_count": 11,
+      "traditional": "据",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "see 拮据[jie2 ju1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jù",
+          "wade_giles_pinyin": "ju4"
+        }
+      ],
+      "simplified": "据",
+      "simplified_stroke_count": 11,
+      "traditional": "据",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": null,
+          "value": "據|据[ju4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jù",
+          "wade_giles_pinyin": "ju4"
+        }
+      ],
+      "simplified": "据",
+      "simplified_stroke_count": 11,
+      "traditional": "據",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "according to"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to act in accordance with"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to depend on"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to seize"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to occupy"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

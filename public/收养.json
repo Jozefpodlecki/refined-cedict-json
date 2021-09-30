@@ -1,0 +1,30 @@
+{
+  "simplified": "收养",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shōu yǎng",
+          "wade_giles_pinyin": "shou1 yang3"
+        }
+      ],
+      "simplified": "收养",
+      "traditional": "收養",
+      "meanings": [
+        {
+          "value": "to take in and care for (an elderly person, a dog etc)"
+        },
+        {
+          "value": "to adopt (a child)"
+        },
+        {
+          "value": "adoption"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

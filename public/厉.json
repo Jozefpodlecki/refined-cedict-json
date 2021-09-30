@@ -1,0 +1,53 @@
+{
+  "simplified": "厉",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " lì",
+          "wade_giles_pinyin": "Li4"
+        }
+      ],
+      "simplified": "厉",
+      "simplified_stroke_count": 5,
+      "traditional": "厲",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "surname Li"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " lì",
+          "wade_giles_pinyin": "li4"
+        }
+      ],
+      "simplified": "厉",
+      "simplified_stroke_count": 5,
+      "traditional": "厲",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "strict"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "severe"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "simplified": "敬酒",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jìng jiǔ",
+          "wade_giles_pinyin": "jing4 jiu3"
+        }
+      ],
+      "simplified": "敬酒",
+      "traditional": "敬酒",
+      "meanings": [
+        {
+          "value": "to toast"
+        },
+        {
+          "value": "to propose a toast"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "simplified": "锁",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "suǒ",
+          "wade_giles_pinyin": "suo3"
+        }
+      ],
+      "simplified": "锁",
+      "simplified_stroke_count": 12,
+      "traditional": "鎖",
+      "traditional_stroke_count": 18,
+      "meanings": [
+        {
+          "value": "to lock up"
+        },
+        {
+          "value": "to lock"
+        },
+        {
+          "value": "lock"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "把",
+          "traditional": "",
+          "wade_giles_pinyin": "ba3"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "suǒ",
+          "wade_giles_pinyin": "suo3"
+        }
+      ],
+      "simplified": "锁",
+      "simplified_stroke_count": 12,
+      "traditional": "鎻",
+      "traditional_stroke_count": 18,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 鎖|锁[suo3]",
+          "simplified": "鎖",
+          "traditional": "锁",
+          "wade_giles_pinyin": "suo3"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

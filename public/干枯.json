@@ -1,0 +1,32 @@
+{
+  "simplified": "干枯",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gān kū",
+          "wade_giles_pinyin": "gan1 ku1"
+        }
+      ],
+      "simplified": "干枯",
+      "simplified_stroke_count": null,
+      "traditional": "乾枯",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "withered"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "dried up"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "simplified": "会社",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huì shè",
+          "wade_giles_pinyin": "hui4 she4"
+        }
+      ],
+      "simplified": "会社",
+      "traditional": "會社",
+      "meanings": [
+        {
+          "value": "a guild"
+        },
+        {
+          "value": "(in olden times) an association such as a political party, religious group or trade guild"
+        },
+        {
+          "context": "Japanese",
+          "value": "the Japanese word for company"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

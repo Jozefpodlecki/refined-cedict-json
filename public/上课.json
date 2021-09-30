@@ -1,0 +1,30 @@
+{
+  "simplified": "上课",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shàng kè",
+          "wade_giles_pinyin": "shang4 ke4"
+        }
+      ],
+      "simplified": "上课",
+      "traditional": "上課",
+      "meanings": [
+        {
+          "value": "to go to class"
+        },
+        {
+          "value": "to attend class"
+        },
+        {
+          "value": "to go to teach a class"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

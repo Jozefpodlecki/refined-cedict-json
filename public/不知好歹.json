@@ -1,0 +1,29 @@
+{
+  "simplified": "不知好歹",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bù zhī hǎo dǎi",
+          "wade_giles_pinyin": "bu4 zhi1 hao3 dai3"
+        }
+      ],
+      "simplified": "不知好歹",
+      "traditional": "不知好歹",
+      "meanings": [
+        {
+          "lexical_item": "idiom",
+          "value": "unable to differentiate good from bad"
+        },
+        {
+          "value": "not to know what's good for one"
+        },
+        {
+          "value": "unable to recognize others' good intentions"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

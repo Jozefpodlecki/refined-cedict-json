@@ -1,0 +1,26 @@
+{
+  "simplified": "评委",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "píng wěi",
+          "wade_giles_pinyin": "ping2 wei3"
+        }
+      ],
+      "simplified": "评委",
+      "traditional": "評委",
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "value": "評選委員會委員|评选委员会委员[ping2 xuan3 wei3 yuan2 hui4 wei3 yuan2]",
+          "simplified": "評",
+          "traditional": "選委員會委員|评选委员会委员",
+          "wade_giles_pinyin": "ping2 xuan3 wei3 yuan2 hui4 wei3 yuan2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

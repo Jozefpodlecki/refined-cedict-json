@@ -1,0 +1,26 @@
+{
+  "simplified": "文青",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wén qīng",
+          "wade_giles_pinyin": "wen2 qing1"
+        }
+      ],
+      "simplified": "文青",
+      "traditional": "文青",
+      "meanings": [
+        {
+          "value": "young person who adopts an artistic or intellectual style"
+        },
+        {
+          "context": "abbreviation",
+          "value": "文藝青年|文艺青年"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

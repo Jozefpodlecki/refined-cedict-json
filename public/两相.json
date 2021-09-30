@@ -1,0 +1,39 @@
+{
+  "simplified": "两相",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "liǎng xiāng",
+          "wade_giles_pinyin": "liang3 xiang1"
+        }
+      ],
+      "simplified": "两相",
+      "traditional": "兩相",
+      "meanings": [
+        {
+          "value": "both sides"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "liǎng xiàng",
+          "wade_giles_pinyin": "liang3 xiang4"
+        }
+      ],
+      "simplified": "两相",
+      "traditional": "兩相",
+      "meanings": [
+        {
+          "value": "two-phase (physics)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

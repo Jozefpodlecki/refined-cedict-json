@@ -1,0 +1,32 @@
+{
+  "simplified": "衾",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " qīn",
+          "wade_giles_pinyin": "qin1"
+        }
+      ],
+      "simplified": "衾",
+      "simplified_stroke_count": 10,
+      "traditional": "衾",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "coverlet"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "quilt"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

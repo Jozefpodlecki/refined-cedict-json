@@ -1,0 +1,32 @@
+{
+  "simplified": "镕炉",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " róng lú",
+          "wade_giles_pinyin": "rong2 lu2"
+        }
+      ],
+      "simplified": "镕炉",
+      "simplified_stroke_count": 0,
+      "traditional": "鎔爐",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "熔爐|熔炉, smelting furnace"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "forge"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

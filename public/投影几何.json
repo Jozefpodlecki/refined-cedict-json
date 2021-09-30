@@ -1,0 +1,32 @@
+{
+  "simplified": "投影几何",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " tóu yǐng jǐ hé",
+          "wade_giles_pinyin": "tou2 ying3 ji3 he2"
+        }
+      ],
+      "simplified": "投影几何",
+      "simplified_stroke_count": 0,
+      "traditional": "投影幾何",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "projective geometry"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "same as 射影幾何|射影几何"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "起磁",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " qǐ cí",
+          "wade_giles_pinyin": "qi3 ci2"
+        }
+      ],
+      "simplified": "起磁",
+      "simplified_stroke_count": 0,
+      "traditional": "起磁",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "magnetization"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to magnetize"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

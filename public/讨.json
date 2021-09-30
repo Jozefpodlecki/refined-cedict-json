@@ -1,0 +1,45 @@
+{
+  "simplified": "讨",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tǎo",
+          "wade_giles_pinyin": "tao3"
+        }
+      ],
+      "simplified": "讨",
+      "simplified_stroke_count": 5,
+      "traditional": "討",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "to invite"
+        },
+        {
+          "value": "to provoke"
+        },
+        {
+          "value": "to demand or ask for"
+        },
+        {
+          "value": "to send armed forces to suppress"
+        },
+        {
+          "value": "to denounce or condemn"
+        },
+        {
+          "value": "to marry (a woman)"
+        },
+        {
+          "value": "to discuss or study"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "节省",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jié shěng",
+          "wade_giles_pinyin": "jie2 sheng3"
+        }
+      ],
+      "simplified": "节省",
+      "simplified_stroke_count": 0,
+      "traditional": "節省",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "saving"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to save"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to use sparingly"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to cut down on"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

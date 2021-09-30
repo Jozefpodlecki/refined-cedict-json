@@ -1,0 +1,34 @@
+{
+  "simplified": "答问",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dá wèn",
+          "wade_giles_pinyin": "da2 wen4"
+        }
+      ],
+      "simplified": "答问",
+      "simplified_stroke_count": 0,
+      "traditional": "答問",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to answer a question"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "question and answer"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

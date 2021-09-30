@@ -1,0 +1,33 @@
+{
+  "simplified": "私信",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sī xìn",
+          "wade_giles_pinyin": "si1 xin4"
+        }
+      ],
+      "simplified": "私信",
+      "traditional": "私信",
+      "meanings": [
+        {
+          "value": "private correspondence"
+        },
+        {
+          "value": "personal letter"
+        },
+        {
+          "value": "(computing) personal message (PM)"
+        },
+        {
+          "value": "to message sb"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

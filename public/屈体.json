@@ -1,0 +1,31 @@
+{
+  "simplified": "屈体",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qū tǐ",
+          "wade_giles_pinyin": "qu1 ti3"
+        }
+      ],
+      "simplified": "屈体",
+      "traditional": "屈體",
+      "meanings": [
+        {
+          "value": "to bend at the waist"
+        },
+        {
+          "context": "figuratively",
+          "value": "to bow to"
+        },
+        {
+          "value": "pike position (diving)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

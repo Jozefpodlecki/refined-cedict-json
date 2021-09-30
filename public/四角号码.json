@@ -1,0 +1,27 @@
+{
+  "simplified": "四角号码",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " sì jiǎo hào mǎ",
+          "wade_giles_pinyin": "si4 jiao3 hao4 ma3"
+        }
+      ],
+      "simplified": "四角号码",
+      "simplified_stroke_count": 0,
+      "traditional": "四角號碼",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "four corner code (input method for Chinese characters)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

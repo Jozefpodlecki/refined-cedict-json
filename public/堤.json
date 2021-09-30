@@ -1,0 +1,44 @@
+{
+  "simplified": "堤",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dī",
+          "wade_giles_pinyin": "di1"
+        }
+      ],
+      "simplified": "堤",
+      "simplified_stroke_count": 12,
+      "traditional": "堤",
+      "traditional_stroke_count": 12,
+      "meanings": [],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dī",
+          "wade_giles_pinyin": "di1"
+        }
+      ],
+      "simplified": "堤",
+      "simplified_stroke_count": 12,
+      "traditional": "隄",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 堤[di1]",
+          "simplified": "堤",
+          "traditional": "",
+          "wade_giles_pinyin": "di1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

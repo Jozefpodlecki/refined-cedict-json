@@ -1,0 +1,43 @@
+{
+  "simplified": "断层",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "duàn céng",
+          "wade_giles_pinyin": "duan4 ceng2"
+        }
+      ],
+      "simplified": "断层",
+      "traditional": "斷層",
+      "meanings": [
+        {
+          "value": "fault (geology)"
+        },
+        {
+          "context": "figuratively",
+          "value": "gap"
+        },
+        {
+          "value": "rupture (in the transmission of some skill)"
+        },
+        {
+          "value": "(tomography) cross-sectional"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "道",
+          "traditional": "",
+          "wade_giles_pinyin": "dao4"
+        },
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

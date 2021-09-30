@@ -1,0 +1,33 @@
+{
+  "simplified": "敪",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "duó",
+          "wade_giles_pinyin": "duo2"
+        }
+      ],
+      "simplified": "敪",
+      "simplified_stroke_count": 12,
+      "traditional": "敪",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "to weigh"
+        },
+        {
+          "value": "to cut"
+        },
+        {
+          "value": "to come without being invited"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

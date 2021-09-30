@@ -1,0 +1,32 @@
+{
+  "simplified": "蒯",
+  "simplified_stroke_count": 16,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kuǎi",
+          "wade_giles_pinyin": "kuai3"
+        }
+      ],
+      "simplified": "蒯",
+      "simplified_stroke_count": 16,
+      "traditional": "蒯",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "a rush"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "scirpus cyperinus"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

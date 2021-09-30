@@ -1,0 +1,48 @@
+{
+  "simplified": "墨镜",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " mò jìng",
+          "wade_giles_pinyin": "mo4 jing4"
+        }
+      ],
+      "simplified": "墨镜",
+      "simplified_stroke_count": 0,
+      "traditional": "墨鏡",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "sunglasses"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:隻|只[zhi1],雙|双[shuang1],副[fu4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "隻",
+          "traditional": "只",
+          "wade_giles_pinyin": "zhi1"
+        },
+        {
+          "simplified": "雙",
+          "traditional": "双",
+          "wade_giles_pinyin": "shuang1"
+        },
+        {
+          "simplified": "副",
+          "traditional": "",
+          "wade_giles_pinyin": "fu4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "simplified": "调酒",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tiáo jiǔ",
+          "wade_giles_pinyin": "tiao2 jiu3"
+        }
+      ],
+      "simplified": "调酒",
+      "traditional": "調酒",
+      "meanings": [
+        {
+          "value": "to mix drinks"
+        },
+        {
+          "value": "cocktail"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

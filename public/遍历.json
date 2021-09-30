@@ -1,0 +1,39 @@
+{
+  "simplified": "遍历",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " biàn lì",
+          "wade_giles_pinyin": "bian4 li4"
+        }
+      ],
+      "simplified": "遍历",
+      "simplified_stroke_count": 0,
+      "traditional": "遍歷",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to traverse"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to travel throughout"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(math.) ergodic"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "simplified": "乍",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhà",
+          "wade_giles_pinyin": "zha4"
+        }
+      ],
+      "simplified": "乍",
+      "simplified_stroke_count": 5,
+      "traditional": "乍",
+      "traditional_stroke_count": 5,
+      "meanings": [
+        {
+          "value": "at first"
+        },
+        {
+          "value": "suddenly"
+        },
+        {
+          "value": "abruptly"
+        },
+        {
+          "value": "to spread"
+        },
+        {
+          "value": "(of hair) to stand on end"
+        },
+        {
+          "value": "bristling"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

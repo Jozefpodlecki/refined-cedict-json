@@ -1,0 +1,27 @@
+{
+  "simplified": "夜叉",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yè chā",
+          "wade_giles_pinyin": "ye4 cha1"
+        }
+      ],
+      "simplified": "夜叉",
+      "traditional": "夜叉",
+      "meanings": [
+        {
+          "context": "loanword",
+          "value": "yaksha (malevolent spirit)"
+        },
+        {
+          "context": "figuratively",
+          "value": "ferocious-looking person"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "simplified": "教学",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiāo xué",
+          "wade_giles_pinyin": "jiao1 xue2"
+        }
+      ],
+      "simplified": "教学",
+      "traditional": "教學",
+      "meanings": [],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiào xué",
+          "wade_giles_pinyin": "jiao4 xue2"
+        }
+      ],
+      "simplified": "教学",
+      "traditional": "教學",
+      "meanings": [],
+      "classifiers": [
+        {
+          "simplified": "門",
+          "traditional": "门",
+          "wade_giles_pinyin": "men2"
+        },
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

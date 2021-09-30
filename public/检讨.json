@@ -1,0 +1,39 @@
+{
+  "simplified": "检讨",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jiǎn tǎo",
+          "wade_giles_pinyin": "jian3 tao3"
+        }
+      ],
+      "simplified": "检讨",
+      "simplified_stroke_count": 0,
+      "traditional": "檢討",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to examine or inspect"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "self-criticism"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "review"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

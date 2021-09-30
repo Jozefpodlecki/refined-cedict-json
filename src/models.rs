@@ -3,9 +3,19 @@ use serde::{Deserialize, Serialize};
 
 #[derive(Serialize, Deserialize, Clone)]
 pub struct Meaning {
-    pub context: String,
-    pub lexical_item: String,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub context: Option<String>,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub lexical_item: Option<String>,
     pub value: String,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub simplified: Option<String>,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub traditional: Option<String>,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub wade_giles_pinyin: Option<String>,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub pinyin: Option<String>,
 }
 
 #[derive(Serialize, Deserialize, Clone)]
@@ -25,18 +35,21 @@ pub struct Pronunciation {
 pub struct Detail {
     pub pronunciation: Vec<Pronunciation>,
     pub simplified: String,
-    pub simplified_stroke_count: u8,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub simplified_stroke_count: Option<u8>,
     pub traditional: String,
-    pub traditional_stroke_count: u8,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub traditional_stroke_count: Option<u8>,
     pub meanings: Vec<Meaning>,
     pub classifiers: Vec<Classifier>,
     pub tags: Vec<String>,
 }
 
-#[derive(Serialize, Deserialize)]
+#[derive(Clone, Serialize, Deserialize)]
 pub struct Group {
     pub simplified: String,
-    pub simplified_stroke_count: u8,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub simplified_stroke_count: Option<u8>,
     pub details: Vec<Detail>,
 }
 

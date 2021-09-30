@@ -1,0 +1,33 @@
+{
+  "simplified": "相认",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiāng rèn",
+          "wade_giles_pinyin": "xiang1 ren4"
+        }
+      ],
+      "simplified": "相认",
+      "traditional": "相認",
+      "meanings": [
+        {
+          "value": "to know each other"
+        },
+        {
+          "value": "to recognize"
+        },
+        {
+          "value": "to identify"
+        },
+        {
+          "value": "to acknowledge (an old relationship)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

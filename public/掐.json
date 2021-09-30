@@ -1,0 +1,42 @@
+{
+  "simplified": "掐",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiā",
+          "wade_giles_pinyin": "qia1"
+        }
+      ],
+      "simplified": "掐",
+      "simplified_stroke_count": 11,
+      "traditional": "掐",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "to pick (flowers)"
+        },
+        {
+          "value": "to pinch"
+        },
+        {
+          "value": "to nip"
+        },
+        {
+          "value": "to pinch off"
+        },
+        {
+          "value": "to clutch"
+        },
+        {
+          "value": "(slang) to fight"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

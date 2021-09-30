@@ -1,0 +1,85 @@
+{
+  "simplified": "游",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yóu",
+          "wade_giles_pinyin": "You2"
+        }
+      ],
+      "simplified": "游",
+      "simplified_stroke_count": 12,
+      "traditional": "游",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "surname You"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yóu",
+          "wade_giles_pinyin": "you2"
+        }
+      ],
+      "simplified": "游",
+      "simplified_stroke_count": 12,
+      "traditional": "游",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "to swim"
+        },
+        {
+          "context": "variant",
+          "value": "variant of 遊|游[you2]",
+          "simplified": "遊",
+          "traditional": "游",
+          "wade_giles_pinyin": "you2"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yóu",
+          "wade_giles_pinyin": "you2"
+        }
+      ],
+      "simplified": "游",
+      "simplified_stroke_count": 12,
+      "traditional": "遊",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "to walk"
+        },
+        {
+          "value": "to tour"
+        },
+        {
+          "value": "to roam"
+        },
+        {
+          "value": "to travel"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

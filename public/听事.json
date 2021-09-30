@@ -1,0 +1,36 @@
+{
+  "simplified": "听事",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tīng shì",
+          "wade_giles_pinyin": "ting1 shi4"
+        }
+      ],
+      "simplified": "听事",
+      "traditional": "聽事",
+      "meanings": [
+        {
+          "value": "to hold audience"
+        },
+        {
+          "value": "to advise on state affairs"
+        },
+        {
+          "value": "to administer state affairs"
+        },
+        {
+          "value": "audience hall"
+        },
+        {
+          "value": "to listen in"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

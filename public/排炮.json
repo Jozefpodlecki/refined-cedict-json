@@ -1,0 +1,30 @@
+{
+  "simplified": "排炮",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pái pào",
+          "wade_giles_pinyin": "pai2 pao4"
+        }
+      ],
+      "simplified": "排炮",
+      "traditional": "排炮",
+      "meanings": [
+        {
+          "value": "to fire a salvo"
+        },
+        {
+          "value": "broadside"
+        },
+        {
+          "value": "cannonade"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

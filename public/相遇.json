@@ -1,0 +1,39 @@
+{
+  "simplified": "相遇",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xiāng yù",
+          "wade_giles_pinyin": "xiang1 yu4"
+        }
+      ],
+      "simplified": "相遇",
+      "simplified_stroke_count": 0,
+      "traditional": "相遇",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to meet"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to encounter"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to come across"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

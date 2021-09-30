@@ -1,0 +1,33 @@
+{
+  "simplified": "打开",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dǎ kāi",
+          "wade_giles_pinyin": "da3 kai1"
+        }
+      ],
+      "simplified": "打开",
+      "traditional": "打開",
+      "meanings": [
+        {
+          "value": "to open"
+        },
+        {
+          "value": "to show (a ticket)"
+        },
+        {
+          "value": "to turn on"
+        },
+        {
+          "value": "to switch on"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

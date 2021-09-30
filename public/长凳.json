@@ -1,0 +1,34 @@
+{
+  "simplified": "长凳",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cháng dèng",
+          "wade_giles_pinyin": "chang2 deng4"
+        }
+      ],
+      "simplified": "长凳",
+      "traditional": "長凳",
+      "meanings": [
+        {
+          "value": "pew"
+        },
+        {
+          "value": "bench"
+        },
+        {
+          "value": "CL:張|张[zhang1]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "張",
+          "traditional": "张",
+          "wade_giles_pinyin": "zhang1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

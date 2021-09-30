@@ -1,0 +1,36 @@
+{
+  "simplified": "吆",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yāo",
+          "wade_giles_pinyin": "yao1"
+        }
+      ],
+      "simplified": "吆",
+      "simplified_stroke_count": 6,
+      "traditional": "吆",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "value": "to shout"
+        },
+        {
+          "value": "to bawl"
+        },
+        {
+          "value": "to yell (to urge on an animal)"
+        },
+        {
+          "value": "to hawk (one's wares)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "simplified": "截屏",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jié píng",
+          "wade_giles_pinyin": "jie2 ping2"
+        }
+      ],
+      "simplified": "截屏",
+      "traditional": "截屏",
+      "meanings": [
+        {
+          "value": "screenshot"
+        },
+        {
+          "value": "to capture an image displayed on a computer screen"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

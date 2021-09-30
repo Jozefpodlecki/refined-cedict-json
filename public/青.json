@@ -1,0 +1,68 @@
+{
+  "simplified": "青",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " qīng",
+          "wade_giles_pinyin": "Qing1"
+        }
+      ],
+      "simplified": "青",
+      "simplified_stroke_count": 8,
+      "traditional": "青",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "lexical_item": "",
+          "value": "青海[Qing1 hai3], Qinghai Province"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " qīng",
+          "wade_giles_pinyin": "qing1"
+        }
+      ],
+      "simplified": "青",
+      "simplified_stroke_count": 8,
+      "traditional": "青",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "green"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "blue"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "black"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "youth"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "young (of people)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "simplified": "上班",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shàng bān",
+          "wade_giles_pinyin": "shang4 ban1"
+        }
+      ],
+      "simplified": "上班",
+      "simplified_stroke_count": 0,
+      "traditional": "上班",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to go to work"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to be on duty"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to start work"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to go to the office"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

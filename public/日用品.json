@@ -1,0 +1,29 @@
+{
+  "simplified": "日用品",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rì yòng pǐn",
+          "wade_giles_pinyin": "ri4 yong4 pin3"
+        }
+      ],
+      "simplified": "日用品",
+      "traditional": "日用品",
+      "meanings": [],
+      "classifiers": [
+        {
+          "simplified": "件",
+          "traditional": "",
+          "wade_giles_pinyin": "jian4"
+        },
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

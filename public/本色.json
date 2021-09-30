@@ -1,0 +1,48 @@
+{
+  "simplified": "本色",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "běn sè",
+          "wade_giles_pinyin": "ben3 se4"
+        }
+      ],
+      "simplified": "本色",
+      "traditional": "本色",
+      "meanings": [
+        {
+          "value": "inherent qualities"
+        },
+        {
+          "value": "natural qualities"
+        },
+        {
+          "value": "distinctive character"
+        },
+        {
+          "value": "true qualities"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "běn shǎi",
+          "wade_giles_pinyin": "ben3 shai3"
+        }
+      ],
+      "simplified": "本色",
+      "traditional": "本色",
+      "meanings": [
+        {
+          "value": "natural color"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

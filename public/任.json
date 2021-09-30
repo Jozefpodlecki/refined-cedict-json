@@ -1,0 +1,78 @@
+{
+  "simplified": "任",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rén",
+          "wade_giles_pinyin": "Ren2"
+        }
+      ],
+      "simplified": "任",
+      "simplified_stroke_count": 6,
+      "traditional": "任",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "value": "surname Ren"
+        },
+        {
+          "value": "Ren County 任縣|任县[Ren2 Xian4] in Hebei"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rèn",
+          "wade_giles_pinyin": "ren4"
+        }
+      ],
+      "simplified": "任",
+      "simplified_stroke_count": 6,
+      "traditional": "任",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "value": "to assign"
+        },
+        {
+          "value": "to appoint"
+        },
+        {
+          "value": "to take up a post"
+        },
+        {
+          "value": "office"
+        },
+        {
+          "value": "responsibility"
+        },
+        {
+          "value": "to let"
+        },
+        {
+          "value": "to allow"
+        },
+        {
+          "value": "to give free rein to"
+        },
+        {
+          "value": "no matter (how, what etc)"
+        },
+        {
+          "value": "classifier for terms served in office, or for spouses, girlfriends etc (as in 前任男友)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

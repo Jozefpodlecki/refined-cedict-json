@@ -1,0 +1,40 @@
+{
+  "simplified": "身份",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shēn fèn",
+          "wade_giles_pinyin": "shen1 fen4"
+        }
+      ],
+      "simplified": "身份",
+      "traditional": "身份",
+      "meanings": [
+        {
+          "value": "identity"
+        },
+        {
+          "value": "aspect of one's identity (i.e. sth that one is – mayor, father, permanent resident etc)"
+        },
+        {
+          "value": "role"
+        },
+        {
+          "value": "capacity (as in \"in his capacity as a ...\" 以…的身份[yi3 xx5 de5 shen1 fen4])"
+        },
+        {
+          "value": "status (social, legal etc)"
+        },
+        {
+          "value": "position"
+        },
+        {
+          "value": "rank"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "simplified": "雀",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiāo",
+          "wade_giles_pinyin": "qiao1"
+        }
+      ],
+      "simplified": "雀",
+      "simplified_stroke_count": 11,
+      "traditional": "雀",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "a freckle"
+        },
+        {
+          "value": "lentigo"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "què",
+          "wade_giles_pinyin": "que4"
+        },
+        {
+          "pinyin": "qiǎo",
+          "wade_giles_pinyin": "qiao3"
+        }
+      ],
+      "simplified": "雀",
+      "simplified_stroke_count": 11,
+      "traditional": "雀",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "(bound form) small bird"
+        },
+        {
+          "value": "sparrow"
+        },
+        {
+          "value": "also pr. [qiao3]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

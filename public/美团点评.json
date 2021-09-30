@@ -1,0 +1,27 @@
+{
+  "simplified": "美团点评",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "měi tuán diǎn píng",
+          "wade_giles_pinyin": "Mei3 tuan2 Dian3 ping2"
+        }
+      ],
+      "simplified": "美团点评",
+      "simplified_stroke_count": null,
+      "traditional": "美團點評",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "Meituan-Dianping, China's largest service-focused e-commerce platform"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

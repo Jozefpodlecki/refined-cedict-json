@@ -1,0 +1,30 @@
+{
+  "simplified": "铡",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhá",
+          "wade_giles_pinyin": "zha2"
+        }
+      ],
+      "simplified": "铡",
+      "simplified_stroke_count": 11,
+      "traditional": "鍘",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "lever-style guillotine"
+        },
+        {
+          "value": "to chop using this type of guillotine"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "simplified": "恶语伤人",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "è yǔ shāng rén",
+          "wade_giles_pinyin": "e4 yu3 shang1 ren2"
+        }
+      ],
+      "simplified": "恶语伤人",
+      "traditional": "惡語傷人",
+      "meanings": [
+        {
+          "value": "to insult"
+        },
+        {
+          "value": "to direct bad language at sb"
+        },
+        {
+          "value": "to slag off"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

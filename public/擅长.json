@@ -1,0 +1,27 @@
+{
+  "simplified": "擅长",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shàn cháng",
+          "wade_giles_pinyin": "shan4 chang2"
+        }
+      ],
+      "simplified": "擅长",
+      "traditional": "擅長",
+      "meanings": [
+        {
+          "value": "to be good at"
+        },
+        {
+          "value": "to be expert in"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "simplified": "捕鱼",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǔ yú",
+          "wade_giles_pinyin": "bu3 yu2"
+        }
+      ],
+      "simplified": "捕鱼",
+      "traditional": "捕魚",
+      "meanings": [
+        {
+          "value": "to catch fish"
+        },
+        {
+          "value": "to fish"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

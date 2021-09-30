@@ -1,0 +1,34 @@
+{
+  "simplified": "绘",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huì",
+          "wade_giles_pinyin": "hui4"
+        }
+      ],
+      "simplified": "绘",
+      "simplified_stroke_count": 9,
+      "traditional": "繪",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to draw"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to paint"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "假定",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiǎ dìng",
+          "wade_giles_pinyin": "jia3 ding4"
+        }
+      ],
+      "simplified": "假定",
+      "traditional": "假定",
+      "meanings": [
+        {
+          "value": "to assume"
+        },
+        {
+          "value": "to suppose"
+        },
+        {
+          "value": "supposed"
+        },
+        {
+          "value": "so-called"
+        },
+        {
+          "value": "assumption"
+        },
+        {
+          "value": "hypothesis"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

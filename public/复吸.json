@@ -1,0 +1,34 @@
+{
+  "simplified": "复吸",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fù xī",
+          "wade_giles_pinyin": "fu4 xi1"
+        }
+      ],
+      "simplified": "复吸",
+      "simplified_stroke_count": 0,
+      "traditional": "復吸",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to resume smoking (after giving up)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to relapse into smoking or drug abuse"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "simplified": "表彰",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "biǎo zhāng",
+          "wade_giles_pinyin": "biao3 zhang1"
+        }
+      ],
+      "simplified": "表彰",
+      "traditional": "表彰",
+      "meanings": [
+        {
+          "value": "to honor"
+        },
+        {
+          "value": "to commend"
+        },
+        {
+          "value": "to cite (in dispatches)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

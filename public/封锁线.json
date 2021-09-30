@@ -1,0 +1,38 @@
+{
+  "simplified": "封锁线",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fēng suǒ xiàn",
+          "wade_giles_pinyin": "feng1 suo3 xian4"
+        }
+      ],
+      "simplified": "封锁线",
+      "simplified_stroke_count": 0,
+      "traditional": "封鎖線",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "blockade line"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:道[dao4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "道",
+          "traditional": "",
+          "wade_giles_pinyin": "dao4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

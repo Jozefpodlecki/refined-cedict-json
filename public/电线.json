@@ -1,0 +1,31 @@
+{
+  "simplified": "电线",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diàn xiàn",
+          "wade_giles_pinyin": "dian4 xian4"
+        }
+      ],
+      "simplified": "电线",
+      "traditional": "電線",
+      "meanings": [
+        {
+          "value": "wire"
+        },
+        {
+          "value": "power cord"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "根",
+          "traditional": "",
+          "wade_giles_pinyin": "gen1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

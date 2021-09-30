@@ -1,0 +1,39 @@
+{
+  "simplified": "丑小鸭",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chǒu xiǎo yā",
+          "wade_giles_pinyin": "Chou3 Xiao3 ya1"
+        }
+      ],
+      "simplified": "丑小鸭",
+      "traditional": "醜小鴨",
+      "meanings": [
+        {
+          "value": "\"The Ugly Duckling\" by Hans Christian Andersen 安徒生[An1 tu2 sheng1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chǒu xiǎo yā",
+          "wade_giles_pinyin": "chou3 xiao3 ya1"
+        }
+      ],
+      "simplified": "丑小鸭",
+      "traditional": "醜小鴨",
+      "meanings": [
+        {
+          "value": "ugly duckling"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

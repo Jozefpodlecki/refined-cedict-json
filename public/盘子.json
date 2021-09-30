@@ -1,0 +1,34 @@
+{
+  "simplified": "盘子",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pán zi",
+          "wade_giles_pinyin": "pan2 zi5"
+        }
+      ],
+      "simplified": "盘子",
+      "traditional": "盤子",
+      "meanings": [
+        {
+          "value": "tray"
+        },
+        {
+          "value": "plate"
+        },
+        {
+          "value": "dish"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

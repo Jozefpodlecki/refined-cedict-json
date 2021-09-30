@@ -1,0 +1,36 @@
+{
+  "simplified": "区隔",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qū gé",
+          "wade_giles_pinyin": "qu1 ge2"
+        }
+      ],
+      "simplified": "区隔",
+      "traditional": "區隔",
+      "meanings": [
+        {
+          "value": "to mark off"
+        },
+        {
+          "value": "interval"
+        },
+        {
+          "value": "segment (e.g. of market)"
+        },
+        {
+          "value": "compartment"
+        },
+        {
+          "value": "segmentation"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

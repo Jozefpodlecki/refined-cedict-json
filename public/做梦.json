@@ -1,0 +1,36 @@
+{
+  "simplified": "做梦",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zuò mèng",
+          "wade_giles_pinyin": "zuo4 meng4"
+        }
+      ],
+      "simplified": "做梦",
+      "traditional": "做夢",
+      "meanings": [
+        {
+          "value": "to dream"
+        },
+        {
+          "value": "to have a dream"
+        },
+        {
+          "value": "fig. illusion"
+        },
+        {
+          "value": "fantasy"
+        },
+        {
+          "value": "pipe dream"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

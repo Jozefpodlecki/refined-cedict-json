@@ -1,0 +1,79 @@
+{
+  "simplified": "海",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hǎi",
+          "wade_giles_pinyin": "Hai3"
+        }
+      ],
+      "simplified": "海",
+      "simplified_stroke_count": 10,
+      "traditional": "海",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "surname Hai"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hǎi",
+          "wade_giles_pinyin": "hai3"
+        }
+      ],
+      "simplified": "海",
+      "simplified_stroke_count": 10,
+      "traditional": "海",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "ocean"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "sea"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "CL:個|个[ge4],片[pian4]"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "great number of people or things"
+        },
+        {
+          "context": "dialect",
+          "lexical_item": null,
+          "value": "numerous"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        },
+        {
+          "simplified": "片",
+          "traditional": "",
+          "wade_giles_pinyin": "pian4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

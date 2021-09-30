@@ -1,0 +1,37 @@
+{
+  "simplified": "陨",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǔn",
+          "wade_giles_pinyin": "yun3"
+        }
+      ],
+      "simplified": "陨",
+      "simplified_stroke_count": 10,
+      "traditional": "隕",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "to fall"
+        },
+        {
+          "value": "meteor"
+        },
+        {
+          "value": "to perish"
+        },
+        {
+          "context": "see also",
+          "value": "殞|殒[yun3]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

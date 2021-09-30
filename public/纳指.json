@@ -1,0 +1,25 @@
+{
+  "simplified": "纳指",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nà zhǐ",
+          "wade_giles_pinyin": "Na4 zhi3"
+        }
+      ],
+      "simplified": "纳指",
+      "traditional": "納指",
+      "meanings": [
+        {
+          "value": "NASDAQ"
+        },
+        {
+          "value": "National Association of Securities Dealers Automated Quotations, a computerized data system to provide brokers with price quotations for securities traded over the counter"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "simplified": "幢",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chuáng",
+          "wade_giles_pinyin": "chuang2"
+        }
+      ],
+      "simplified": "幢",
+      "simplified_stroke_count": 15,
+      "traditional": "幢",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "banner"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhuàng",
+          "wade_giles_pinyin": "zhuang4"
+        }
+      ],
+      "simplified": "幢",
+      "simplified_stroke_count": 15,
+      "traditional": "幢",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "classifier for buildings"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "carriage curtain (old)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

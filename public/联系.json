@@ -1,0 +1,82 @@
+{
+  "simplified": "联系",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " lián xì",
+          "wade_giles_pinyin": "lian2 xi4"
+        }
+      ],
+      "simplified": "联系",
+      "simplified_stroke_count": 0,
+      "traditional": "聯係",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "聯繫|联系[lian2 xi4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " lián xì",
+          "wade_giles_pinyin": "lian2 xi4"
+        }
+      ],
+      "simplified": "联系",
+      "simplified_stroke_count": 0,
+      "traditional": "聯繫",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "connection"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "contact"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "relation"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to get in touch with"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to integrate"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to link"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to touch"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

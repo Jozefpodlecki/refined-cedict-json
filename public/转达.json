@@ -1,0 +1,39 @@
+{
+  "simplified": "转达",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhuǎn dá",
+          "wade_giles_pinyin": "zhuan3 da2"
+        }
+      ],
+      "simplified": "转达",
+      "simplified_stroke_count": 0,
+      "traditional": "轉達",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to pass on"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to convey"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to communicate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

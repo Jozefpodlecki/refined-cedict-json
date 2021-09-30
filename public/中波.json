@@ -1,0 +1,39 @@
+{
+  "simplified": "中波",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhōng bō",
+          "wade_giles_pinyin": "Zhong1 Bo1"
+        }
+      ],
+      "simplified": "中波",
+      "traditional": "中波",
+      "meanings": [
+        {
+          "value": "Chinese-Polish"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhōng bō",
+          "wade_giles_pinyin": "zhong1 bo1"
+        }
+      ],
+      "simplified": "中波",
+      "traditional": "中波",
+      "meanings": [
+        {
+          "value": "medium wave (radio frequency range)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

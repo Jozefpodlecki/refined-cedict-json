@@ -1,0 +1,30 @@
+{
+  "simplified": "诰",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gào",
+          "wade_giles_pinyin": "gao4"
+        }
+      ],
+      "simplified": "诰",
+      "simplified_stroke_count": 9,
+      "traditional": "誥",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "to enjoin"
+        },
+        {
+          "value": "to grant (a title)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

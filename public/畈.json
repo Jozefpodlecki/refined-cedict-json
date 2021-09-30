@@ -1,0 +1,32 @@
+{
+  "simplified": "畈",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fàn",
+          "wade_giles_pinyin": "fan4"
+        }
+      ],
+      "simplified": "畈",
+      "simplified_stroke_count": 9,
+      "traditional": "畈",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "field"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "farm"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

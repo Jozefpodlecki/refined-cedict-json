@@ -1,0 +1,42 @@
+{
+  "simplified": "水池",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shuǐ chí",
+          "wade_giles_pinyin": "shui3 chi2"
+        }
+      ],
+      "simplified": "水池",
+      "simplified_stroke_count": 0,
+      "traditional": "水池",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "pond"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "pool"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "sink"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "washbasin"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

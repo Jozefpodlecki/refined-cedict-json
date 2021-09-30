@@ -1,0 +1,25 @@
+{
+  "simplified": "本征值",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "běn zhēng zhí",
+          "wade_giles_pinyin": "ben3 zheng1 zhi2"
+        }
+      ],
+      "simplified": "本征值",
+      "traditional": "本徵值",
+      "meanings": [
+        {
+          "value": "eigenvalue (math.)"
+        },
+        {
+          "value": "also written 特徵值|特征值"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

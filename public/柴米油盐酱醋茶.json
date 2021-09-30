@@ -1,0 +1,26 @@
+{
+  "simplified": "柴米油盐酱醋茶",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chái mǐ yóu yán jiàng cù chá",
+          "wade_giles_pinyin": "chai2 mi3 you2 yan2 jiang4 cu4 cha2"
+        }
+      ],
+      "simplified": "柴米油盐酱醋茶",
+      "traditional": "柴米油鹽醬醋茶",
+      "meanings": [
+        {
+          "context": "literature",
+          "value": "firewood, rice, oil, salt, soy, vinegar, and tea"
+        },
+        {
+          "value": "fig. life's daily necessities"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

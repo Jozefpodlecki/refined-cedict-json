@@ -1,0 +1,25 @@
+{
+  "simplified": "书名",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shū míng",
+          "wade_giles_pinyin": "shu1 ming2"
+        }
+      ],
+      "simplified": "书名",
+      "traditional": "書名",
+      "meanings": [
+        {
+          "value": "name of a book"
+        },
+        {
+          "value": "reputation as calligrapher"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

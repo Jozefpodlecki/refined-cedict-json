@@ -1,0 +1,36 @@
+{
+  "simplified": "巽",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xùn",
+          "wade_giles_pinyin": "xun4"
+        }
+      ],
+      "simplified": "巽",
+      "simplified_stroke_count": 12,
+      "traditional": "巽",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "to obey"
+        },
+        {
+          "value": "one of the Eight Trigrams 八卦[ba1 gua4], symbolizing wood and wind"
+        },
+        {
+          "value": "☴"
+        },
+        {
+          "value": "ancient Chinese compass point: 135° (southeast)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

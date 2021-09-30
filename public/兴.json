@@ -1,0 +1,98 @@
+{
+  "simplified": "兴",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xīng",
+          "wade_giles_pinyin": "Xing1"
+        }
+      ],
+      "simplified": "兴",
+      "simplified_stroke_count": 6,
+      "traditional": "興",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "surname Xing"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xīng",
+          "wade_giles_pinyin": "xing1"
+        }
+      ],
+      "simplified": "兴",
+      "simplified_stroke_count": 6,
+      "traditional": "興",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "to rise"
+        },
+        {
+          "value": "to flourish"
+        },
+        {
+          "value": "to become popular"
+        },
+        {
+          "value": "to start"
+        },
+        {
+          "value": "to encourage"
+        },
+        {
+          "value": "to get up"
+        },
+        {
+          "context": "dialect",
+          "value": "(often used in the negative) to permit or allow"
+        },
+        {
+          "context": "dialect",
+          "value": "maybe"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xìng",
+          "wade_giles_pinyin": "xing4"
+        }
+      ],
+      "simplified": "兴",
+      "simplified_stroke_count": 6,
+      "traditional": "興",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "feeling or desire to do sth"
+        },
+        {
+          "value": "interest in sth"
+        },
+        {
+          "value": "excitement"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "simplified": "镇定剂",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhèn dìng jì",
+          "wade_giles_pinyin": "zhen4 ding4 ji4"
+        }
+      ],
+      "simplified": "镇定剂",
+      "simplified_stroke_count": 0,
+      "traditional": "鎮定劑",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "tranquilizer"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "depressant"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "sedative"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

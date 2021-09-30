@@ -1,0 +1,32 @@
+{
+  "simplified": "体式",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tǐ shì",
+          "wade_giles_pinyin": "ti3 shi4"
+        }
+      ],
+      "simplified": "体式",
+      "simplified_stroke_count": null,
+      "traditional": "體式",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "format"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "form"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

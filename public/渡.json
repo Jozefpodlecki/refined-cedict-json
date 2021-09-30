@@ -1,0 +1,33 @@
+{
+  "simplified": "渡",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dù",
+          "wade_giles_pinyin": "du4"
+        }
+      ],
+      "simplified": "渡",
+      "simplified_stroke_count": 12,
+      "traditional": "渡",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "to cross"
+        },
+        {
+          "value": "to pass through"
+        },
+        {
+          "value": "to ferry"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

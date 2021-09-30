@@ -1,0 +1,85 @@
+{
+  "simplified": "匹",
+  "simplified_stroke_count": 4,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pī",
+          "wade_giles_pinyin": "pi1"
+        }
+      ],
+      "simplified": "匹",
+      "simplified_stroke_count": 4,
+      "traditional": "匹",
+      "traditional_stroke_count": 4,
+      "meanings": [
+        {
+          "value": "mate"
+        },
+        {
+          "value": "one of a pair"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pǐ",
+          "wade_giles_pinyin": "pi3"
+        }
+      ],
+      "simplified": "匹",
+      "simplified_stroke_count": 4,
+      "traditional": "匹",
+      "traditional_stroke_count": 4,
+      "meanings": [
+        {
+          "value": "classifier for horses, mules etc"
+        },
+        {
+          "value": "Taiwan pr. [pi1]"
+        },
+        {
+          "value": "ordinary person"
+        },
+        {
+          "value": "classifier for cloth: bolt"
+        },
+        {
+          "value": "horsepower"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pǐ",
+          "wade_giles_pinyin": "pi3"
+        }
+      ],
+      "simplified": "匹",
+      "simplified_stroke_count": 4,
+      "traditional": "疋",
+      "traditional_stroke_count": 5,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 匹[pi3]",
+          "simplified": "匹",
+          "traditional": "",
+          "wade_giles_pinyin": "pi3"
+        },
+        {
+          "value": "classifier for cloth: bolt"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

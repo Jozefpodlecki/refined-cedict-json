@@ -1,0 +1,37 @@
+{
+  "simplified": "听写",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " tīng xiě",
+          "wade_giles_pinyin": "ting1 xie3"
+        }
+      ],
+      "simplified": "听写",
+      "simplified_stroke_count": 0,
+      "traditional": "聽寫",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(of a pupil) to write down (in a dictation exercise)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "dictation"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(music) to transcribe by ear"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

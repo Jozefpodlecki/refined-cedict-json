@@ -1,0 +1,34 @@
+{
+  "simplified": "恃",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shì",
+          "wade_giles_pinyin": "shi4"
+        }
+      ],
+      "simplified": "恃",
+      "simplified_stroke_count": 9,
+      "traditional": "恃",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to rely on"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "mother (formal)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

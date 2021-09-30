@@ -1,0 +1,53 @@
+{
+  "simplified": "强国",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiáng guó",
+          "wade_giles_pinyin": "Qiang2 guo2"
+        }
+      ],
+      "simplified": "强国",
+      "simplified_stroke_count": null,
+      "traditional": "強國",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "(ironically) mainland China (Taiwan & Hong Kong usage)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiáng guó",
+          "wade_giles_pinyin": "qiang2 guo2"
+        }
+      ],
+      "simplified": "强国",
+      "simplified_stroke_count": null,
+      "traditional": "強國",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "powerful country"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "great power"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "simplified": "逿",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dàng",
+          "wade_giles_pinyin": "dang4"
+        }
+      ],
+      "simplified": "逿",
+      "simplified_stroke_count": 13,
+      "traditional": "逿",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "to fall"
+        },
+        {
+          "value": "to sway"
+        },
+        {
+          "value": "to cross"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

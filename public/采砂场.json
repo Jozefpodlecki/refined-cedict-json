@@ -1,0 +1,32 @@
+{
+  "simplified": "采砂场",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " cǎi shā chǎng",
+          "wade_giles_pinyin": "cai3 sha1 chang3"
+        }
+      ],
+      "simplified": "采砂场",
+      "simplified_stroke_count": 0,
+      "traditional": "採砂場",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "sandpit"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "sand quarry"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

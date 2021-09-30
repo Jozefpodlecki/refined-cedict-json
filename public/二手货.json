@@ -1,0 +1,32 @@
+{
+  "simplified": "二手货",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " èr shǒu huò",
+          "wade_giles_pinyin": "er4 shou3 huo4"
+        }
+      ],
+      "simplified": "二手货",
+      "simplified_stroke_count": 0,
+      "traditional": "二手貨",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "second-hand goods"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "used goods"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

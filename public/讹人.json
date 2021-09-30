@@ -1,0 +1,34 @@
+{
+  "simplified": "讹人",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " é rén",
+          "wade_giles_pinyin": "e2 ren2"
+        }
+      ],
+      "simplified": "讹人",
+      "simplified_stroke_count": 0,
+      "traditional": "訛人",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to blackmail"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to extort"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

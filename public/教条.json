@@ -1,0 +1,31 @@
+{
+  "simplified": "教条",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiào tiáo",
+          "wade_giles_pinyin": "jiao4 tiao2"
+        }
+      ],
+      "simplified": "教条",
+      "traditional": "教條",
+      "meanings": [
+        {
+          "value": "doctrine"
+        },
+        {
+          "value": "dogma"
+        },
+        {
+          "value": "creed"
+        },
+        {
+          "value": "dogmatic"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "simplified": "鞋带",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xié dài",
+          "wade_giles_pinyin": "xie2 dai4"
+        }
+      ],
+      "simplified": "鞋带",
+      "traditional": "鞋帶",
+      "meanings": [
+        {
+          "value": "shoelace"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "根",
+          "traditional": "",
+          "wade_giles_pinyin": "gen1"
+        },
+        {
+          "simplified": "雙",
+          "traditional": "双",
+          "wade_giles_pinyin": "shuang1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

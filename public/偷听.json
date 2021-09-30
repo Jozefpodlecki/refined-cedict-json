@@ -1,0 +1,34 @@
+{
+  "simplified": "偷听",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " tōu tīng",
+          "wade_giles_pinyin": "tou1 ting1"
+        }
+      ],
+      "simplified": "偷听",
+      "simplified_stroke_count": 0,
+      "traditional": "偷聽",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to eavesdrop"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to monitor (secretly)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

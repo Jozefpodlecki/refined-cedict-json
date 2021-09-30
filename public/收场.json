@@ -1,0 +1,33 @@
+{
+  "simplified": "收场",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shōu chǎng",
+          "wade_giles_pinyin": "shou1 chang3"
+        }
+      ],
+      "simplified": "收场",
+      "traditional": "收場",
+      "meanings": [
+        {
+          "value": "the end"
+        },
+        {
+          "value": "an ending"
+        },
+        {
+          "value": "to wind down"
+        },
+        {
+          "value": "to conclude"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "拖移",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tuō yí",
+          "wade_giles_pinyin": "tuo1 yi2"
+        }
+      ],
+      "simplified": "拖移",
+      "simplified_stroke_count": null,
+      "traditional": "拖移",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to tow"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "(computing) to drag"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

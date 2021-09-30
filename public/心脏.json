@@ -1,0 +1,33 @@
+{
+  "simplified": "心脏",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xīn zàng",
+          "wade_giles_pinyin": "xin1 zang4"
+        }
+      ],
+      "simplified": "心脏",
+      "traditional": "心臟",
+      "meanings": [
+        {
+          "value": "heart"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "顆",
+          "traditional": "颗",
+          "wade_giles_pinyin": "ke1"
+        },
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

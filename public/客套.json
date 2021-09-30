@@ -1,0 +1,30 @@
+{
+  "simplified": "客套",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kè tào",
+          "wade_giles_pinyin": "ke4 tao4"
+        }
+      ],
+      "simplified": "客套",
+      "traditional": "客套",
+      "meanings": [
+        {
+          "value": "polite greeting"
+        },
+        {
+          "value": "civilities"
+        },
+        {
+          "value": "to exchange pleasantries"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

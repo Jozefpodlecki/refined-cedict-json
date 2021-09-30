@@ -1,0 +1,33 @@
+{
+  "simplified": "通气",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tōng qì",
+          "wade_giles_pinyin": "tong1 qi4"
+        }
+      ],
+      "simplified": "通气",
+      "traditional": "通氣",
+      "meanings": [
+        {
+          "value": "ventilation"
+        },
+        {
+          "value": "aeration"
+        },
+        {
+          "value": "to keep each other informed"
+        },
+        {
+          "value": "to release information"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

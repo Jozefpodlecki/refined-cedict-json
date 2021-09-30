@@ -1,0 +1,33 @@
+{
+  "simplified": "嘘",
+  "simplified_stroke_count": 14,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xū",
+          "wade_giles_pinyin": "xu1"
+        }
+      ],
+      "simplified": "嘘",
+      "simplified_stroke_count": 14,
+      "traditional": "噓",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "to exhale slowly"
+        },
+        {
+          "value": "to hiss"
+        },
+        {
+          "value": "hush!"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

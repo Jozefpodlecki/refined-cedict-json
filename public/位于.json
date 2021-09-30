@@ -1,0 +1,30 @@
+{
+  "simplified": "位于",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "weì yú",
+          "wade_giles_pinyin": "wei4 yu2"
+        }
+      ],
+      "simplified": "位于",
+      "traditional": "位於",
+      "meanings": [
+        {
+          "value": "to be located at"
+        },
+        {
+          "value": "to be situated at"
+        },
+        {
+          "value": "to lie"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

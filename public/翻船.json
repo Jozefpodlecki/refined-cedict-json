@@ -1,0 +1,28 @@
+{
+  "simplified": "翻船",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fān chuán",
+          "wade_giles_pinyin": "fan1 chuan2"
+        }
+      ],
+      "simplified": "翻船",
+      "traditional": "翻船",
+      "meanings": [
+        {
+          "value": "to capsize"
+        },
+        {
+          "context": "figuratively",
+          "value": "to suffer a setback or defeat"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "simplified": "斗嘴",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dòu zuǐ",
+          "wade_giles_pinyin": "dou4 zui3"
+        }
+      ],
+      "simplified": "斗嘴",
+      "traditional": "鬥嘴",
+      "meanings": [
+        {
+          "value": "to quarrel"
+        },
+        {
+          "value": "to bicker"
+        },
+        {
+          "value": "glib repartee"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

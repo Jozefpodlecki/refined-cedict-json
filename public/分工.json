@@ -1,0 +1,34 @@
+{
+  "simplified": "分工",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fēn gōng",
+          "wade_giles_pinyin": "fen1 gong1"
+        }
+      ],
+      "simplified": "分工",
+      "simplified_stroke_count": null,
+      "traditional": "分工",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to divide up the work"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "division of labor"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

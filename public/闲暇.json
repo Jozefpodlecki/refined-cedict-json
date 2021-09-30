@@ -1,0 +1,48 @@
+{
+  "simplified": "闲暇",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xián xiá",
+          "wade_giles_pinyin": "xian2 xia2"
+        }
+      ],
+      "simplified": "闲暇",
+      "traditional": "閑暇",
+      "meanings": [
+        {
+          "value": "leisure"
+        },
+        {
+          "value": "free time"
+        },
+        {
+          "value": "unoccupied"
+        },
+        {
+          "value": "not in use"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xián xiá",
+          "wade_giles_pinyin": "xian2 xia2"
+        }
+      ],
+      "simplified": "闲暇",
+      "traditional": "閒暇",
+      "meanings": [
+        {
+          "value": "leisure"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

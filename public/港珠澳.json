@@ -1,0 +1,26 @@
+{
+  "simplified": "港珠澳",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gǎng zhū aò",
+          "wade_giles_pinyin": "Gang3 Zhu1 Ao4"
+        }
+      ],
+      "simplified": "港珠澳",
+      "traditional": "港珠澳",
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "value": "Hong Kong 香港[Xiang1 gang3], Zhuhai 珠海[Zhu1 hai3] and Macau 澳門|澳门[Ao4 men2]",
+          "simplified": "H",
+          "traditional": "ong Kong 香港",
+          "wade_giles_pinyin": "Xiang1 gang3"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

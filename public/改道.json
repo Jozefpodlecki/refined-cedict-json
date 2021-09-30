@@ -1,0 +1,27 @@
+{
+  "simplified": "改道",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gǎi dào",
+          "wade_giles_pinyin": "gai3 dao4"
+        }
+      ],
+      "simplified": "改道",
+      "traditional": "改道",
+      "meanings": [
+        {
+          "value": "to change route"
+        },
+        {
+          "value": "to divert (a road or a watercourse)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

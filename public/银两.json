@@ -1,0 +1,25 @@
+{
+  "simplified": "银两",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yín liǎng",
+          "wade_giles_pinyin": "yin2 liang3"
+        }
+      ],
+      "simplified": "银两",
+      "traditional": "銀兩",
+      "meanings": [
+        {
+          "value": "silver currency"
+        },
+        {
+          "value": "currency of the Qing dynasty based on the silver tael 兩|两"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

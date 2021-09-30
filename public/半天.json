@@ -1,0 +1,37 @@
+{
+  "simplified": "半天",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bàn tiān",
+          "wade_giles_pinyin": "ban4 tian1"
+        }
+      ],
+      "simplified": "半天",
+      "traditional": "半天",
+      "meanings": [
+        {
+          "value": "half of the day"
+        },
+        {
+          "value": "a long time"
+        },
+        {
+          "value": "quite a while"
+        },
+        {
+          "value": "midair"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

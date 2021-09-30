@@ -1,0 +1,36 @@
+{
+  "simplified": "湾",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wān",
+          "wade_giles_pinyin": "wan1"
+        }
+      ],
+      "simplified": "湾",
+      "simplified_stroke_count": 12,
+      "traditional": "灣",
+      "traditional_stroke_count": 25,
+      "meanings": [
+        {
+          "value": "bay"
+        },
+        {
+          "value": "gulf"
+        },
+        {
+          "value": "to cast anchor"
+        },
+        {
+          "value": "to moor (a boat)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

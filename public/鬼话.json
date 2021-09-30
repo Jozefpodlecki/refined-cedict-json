@@ -1,0 +1,34 @@
+{
+  "simplified": "鬼话",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guǐ huà",
+          "wade_giles_pinyin": "gui3 hua4"
+        }
+      ],
+      "simplified": "鬼话",
+      "traditional": "鬼話",
+      "meanings": [
+        {
+          "value": "lie"
+        },
+        {
+          "value": "false words"
+        },
+        {
+          "value": "nonsense"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "篇",
+          "traditional": "",
+          "wade_giles_pinyin": "pian1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

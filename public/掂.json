@@ -1,0 +1,34 @@
+{
+  "simplified": "掂",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " diān",
+          "wade_giles_pinyin": "dian1"
+        }
+      ],
+      "simplified": "掂",
+      "simplified_stroke_count": 11,
+      "traditional": "掂",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to weigh in the hand"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to estimate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

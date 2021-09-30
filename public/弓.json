@@ -1,0 +1,60 @@
+{
+  "simplified": "弓",
+  "simplified_stroke_count": 3,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gōng",
+          "wade_giles_pinyin": "Gong1"
+        }
+      ],
+      "simplified": "弓",
+      "simplified_stroke_count": 3,
+      "traditional": "弓",
+      "traditional_stroke_count": 3,
+      "meanings": [
+        {
+          "value": "surname Gong"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gōng",
+          "wade_giles_pinyin": "gong1"
+        }
+      ],
+      "simplified": "弓",
+      "simplified_stroke_count": 3,
+      "traditional": "弓",
+      "traditional_stroke_count": 3,
+      "meanings": [
+        {
+          "value": "a bow (weapon)"
+        },
+        {
+          "value": "to bend"
+        },
+        {
+          "value": "to arch (one's back etc)"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "張",
+          "traditional": "张",
+          "wade_giles_pinyin": "zhang1"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

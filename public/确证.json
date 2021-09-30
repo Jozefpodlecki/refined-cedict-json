@@ -1,0 +1,33 @@
+{
+  "simplified": "确证",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "què zhèng",
+          "wade_giles_pinyin": "que4 zheng4"
+        }
+      ],
+      "simplified": "确证",
+      "traditional": "確證",
+      "meanings": [
+        {
+          "value": "to prove"
+        },
+        {
+          "value": "to confirm"
+        },
+        {
+          "value": "to corroborate"
+        },
+        {
+          "value": "convincing proof"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

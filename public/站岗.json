@@ -1,0 +1,34 @@
+{
+  "simplified": "站岗",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhàn gǎng",
+          "wade_giles_pinyin": "zhan4 gang3"
+        }
+      ],
+      "simplified": "站岗",
+      "simplified_stroke_count": null,
+      "traditional": "站崗",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to stand guard"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to serve on sentry duty"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

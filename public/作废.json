@@ -1,0 +1,33 @@
+{
+  "simplified": "作废",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zuò feì",
+          "wade_giles_pinyin": "zuo4 fei4"
+        }
+      ],
+      "simplified": "作废",
+      "traditional": "作廢",
+      "meanings": [
+        {
+          "value": "to become invalid"
+        },
+        {
+          "value": "to cancel"
+        },
+        {
+          "value": "to delete"
+        },
+        {
+          "value": "to nullify"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

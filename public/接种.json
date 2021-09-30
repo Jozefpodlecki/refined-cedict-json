@@ -1,0 +1,27 @@
+{
+  "simplified": "接种",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiē zhòng",
+          "wade_giles_pinyin": "jie1 zhong4"
+        }
+      ],
+      "simplified": "接种",
+      "traditional": "接種",
+      "meanings": [
+        {
+          "value": "to be vaccinated"
+        },
+        {
+          "value": "to be inoculated"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

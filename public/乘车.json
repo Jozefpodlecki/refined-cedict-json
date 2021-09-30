@@ -1,0 +1,30 @@
+{
+  "simplified": "乘车",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chéng chē",
+          "wade_giles_pinyin": "cheng2 che1"
+        }
+      ],
+      "simplified": "乘车",
+      "traditional": "乘車",
+      "meanings": [
+        {
+          "value": "to ride (in a car or carriage)"
+        },
+        {
+          "value": "to drive"
+        },
+        {
+          "value": "to motor"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

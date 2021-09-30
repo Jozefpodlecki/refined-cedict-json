@@ -1,0 +1,36 @@
+{
+  "simplified": "笔记",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǐ jì",
+          "wade_giles_pinyin": "bi3 ji4"
+        }
+      ],
+      "simplified": "笔记",
+      "traditional": "筆記",
+      "meanings": [
+        {
+          "value": "to take down (in writing)"
+        },
+        {
+          "value": "notes"
+        },
+        {
+          "value": "a type of literature consisting mainly of short sketches"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "本",
+          "traditional": "",
+          "wade_giles_pinyin": "ben3"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

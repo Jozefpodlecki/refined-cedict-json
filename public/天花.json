@@ -1,0 +1,36 @@
+{
+  "simplified": "天花",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tiān huā",
+          "wade_giles_pinyin": "tian1 hua1"
+        }
+      ],
+      "simplified": "天花",
+      "traditional": "天花",
+      "meanings": [
+        {
+          "value": "smallpox"
+        },
+        {
+          "value": "ceiling"
+        },
+        {
+          "value": "stamen of corn"
+        },
+        {
+          "context": "old",
+          "value": "snow"
+        },
+        {
+          "context": "dialect",
+          "value": "sesame oil"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

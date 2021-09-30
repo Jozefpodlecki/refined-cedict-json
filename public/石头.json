@@ -1,0 +1,28 @@
+{
+  "simplified": "石头",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shí tou",
+          "wade_giles_pinyin": "shi2 tou5"
+        }
+      ],
+      "simplified": "石头",
+      "traditional": "石頭",
+      "meanings": [
+        {
+          "value": "stone"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "塊",
+          "traditional": "块",
+          "wade_giles_pinyin": "kuai4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

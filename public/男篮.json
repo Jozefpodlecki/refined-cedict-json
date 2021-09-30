@@ -1,0 +1,25 @@
+{
+  "simplified": "男篮",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nán lán",
+          "wade_giles_pinyin": "nan2 lan2"
+        }
+      ],
+      "simplified": "男篮",
+      "traditional": "男籃",
+      "meanings": [
+        {
+          "value": "men's basketball"
+        },
+        {
+          "value": "men's basketball team"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

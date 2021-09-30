@@ -1,0 +1,27 @@
+{
+  "simplified": "入院",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rù yuàn",
+          "wade_giles_pinyin": "ru4 yuan4"
+        }
+      ],
+      "simplified": "入院",
+      "traditional": "入院",
+      "meanings": [
+        {
+          "value": "to enter hospital"
+        },
+        {
+          "value": "to be hospitalized"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

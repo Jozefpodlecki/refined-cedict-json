@@ -1,0 +1,42 @@
+{
+  "simplified": "泡子",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pāo zi",
+          "wade_giles_pinyin": "pao1 zi5"
+        }
+      ],
+      "simplified": "泡子",
+      "traditional": "泡子",
+      "meanings": [
+        {
+          "value": "small lake"
+        },
+        {
+          "value": "pond"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pào zi",
+          "wade_giles_pinyin": "pao4 zi5"
+        }
+      ],
+      "simplified": "泡子",
+      "traditional": "泡子",
+      "meanings": [
+        {
+          "value": "light bulb"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

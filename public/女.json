@@ -1,0 +1,54 @@
+{
+  "simplified": "女",
+  "simplified_stroke_count": 3,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nu:3",
+          "wade_giles_pinyin": "nu:3"
+        }
+      ],
+      "simplified": "女",
+      "simplified_stroke_count": 3,
+      "traditional": "女",
+      "traditional_stroke_count": 3,
+      "meanings": [
+        {
+          "value": "female"
+        },
+        {
+          "value": "woman"
+        },
+        {
+          "value": "daughter"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rǔ",
+          "wade_giles_pinyin": "ru3"
+        }
+      ],
+      "simplified": "女",
+      "simplified_stroke_count": 3,
+      "traditional": "女",
+      "traditional_stroke_count": 3,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "archaic variant of 汝[ru3]",
+          "simplified": "a",
+          "traditional": "rchaic  汝",
+          "wade_giles_pinyin": "ru3"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

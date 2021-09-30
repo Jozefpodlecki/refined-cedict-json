@@ -1,0 +1,32 @@
+{
+  "simplified": "大棚",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dà péng",
+          "wade_giles_pinyin": "da4 peng2"
+        }
+      ],
+      "simplified": "大棚",
+      "simplified_stroke_count": 0,
+      "traditional": "大棚",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "greenhouse"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "polytunnel"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

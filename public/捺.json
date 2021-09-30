@@ -1,0 +1,39 @@
+{
+  "simplified": "捺",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " nà",
+          "wade_giles_pinyin": "na4"
+        }
+      ],
+      "simplified": "捺",
+      "simplified_stroke_count": 11,
+      "traditional": "捺",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to press down firmly"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to suppress"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "right-falling stroke in Chinese characters (e.g. the last stroke of 大[da4])"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

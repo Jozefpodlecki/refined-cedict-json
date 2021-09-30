@@ -1,0 +1,36 @@
+{
+  "simplified": "关怀",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guān huái",
+          "wade_giles_pinyin": "guan1 huai2"
+        }
+      ],
+      "simplified": "关怀",
+      "traditional": "關懷",
+      "meanings": [
+        {
+          "value": "care"
+        },
+        {
+          "value": "solicitude"
+        },
+        {
+          "value": "to show care for"
+        },
+        {
+          "value": "concerned about"
+        },
+        {
+          "value": "attentive to"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

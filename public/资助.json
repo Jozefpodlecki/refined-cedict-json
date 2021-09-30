@@ -1,0 +1,39 @@
+{
+  "simplified": "资助",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zī zhù",
+          "wade_giles_pinyin": "zi1 zhu4"
+        }
+      ],
+      "simplified": "资助",
+      "simplified_stroke_count": 0,
+      "traditional": "資助",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to subsidize"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to provide financial aid"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "subsidy"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

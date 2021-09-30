@@ -1,0 +1,60 @@
+{
+  "simplified": "凛",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lǐn",
+          "wade_giles_pinyin": "lin3"
+        }
+      ],
+      "simplified": "凛",
+      "simplified_stroke_count": 15,
+      "traditional": "凜",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "cold"
+        },
+        {
+          "value": "to shiver with cold"
+        },
+        {
+          "value": "to tremble with fear"
+        },
+        {
+          "value": "afraid"
+        },
+        {
+          "value": "apprehensive"
+        },
+        {
+          "value": "strict"
+        },
+        {
+          "value": "stern"
+        },
+        {
+          "value": "severe"
+        },
+        {
+          "value": "austere"
+        },
+        {
+          "value": "awe-inspiring"
+        },
+        {
+          "value": "imposing"
+        },
+        {
+          "value": "majestic"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

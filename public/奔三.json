@@ -1,0 +1,44 @@
+{
+  "simplified": "奔三",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bēn sān",
+          "wade_giles_pinyin": "Ben1 san1"
+        }
+      ],
+      "simplified": "奔三",
+      "traditional": "奔三",
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "value": "Pentium III microprocessor,  奔騰三|奔腾三"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bēn sān",
+          "wade_giles_pinyin": "ben1 san1"
+        }
+      ],
+      "simplified": "奔三",
+      "traditional": "奔三",
+      "meanings": [
+        {
+          "value": "to be pushing 30"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

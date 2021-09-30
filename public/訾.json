@@ -1,0 +1,90 @@
+{
+  "simplified": "訾",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zī",
+          "wade_giles_pinyin": "Zi1"
+        }
+      ],
+      "simplified": "訾",
+      "simplified_stroke_count": 12,
+      "traditional": "訾",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "surname Zi"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zī",
+          "wade_giles_pinyin": "zi1"
+        }
+      ],
+      "simplified": "訾",
+      "simplified_stroke_count": 12,
+      "traditional": "訾",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to calculate"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to assess"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "wealth"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zǐ",
+          "wade_giles_pinyin": "zi3"
+        }
+      ],
+      "simplified": "訾",
+      "simplified_stroke_count": 12,
+      "traditional": "訾",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to slander"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to detest"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

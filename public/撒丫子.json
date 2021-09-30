@@ -1,0 +1,44 @@
+{
+  "simplified": "撒丫子",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " sā yā zi",
+          "wade_giles_pinyin": "sa1 ya1 zi5"
+        }
+      ],
+      "simplified": "撒丫子",
+      "simplified_stroke_count": 0,
+      "traditional": "撒丫子",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "dialect",
+          "lexical_item": "",
+          "value": "to rush off"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to scamper off double-quick"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to take to one's heels"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to make oneself scarce"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

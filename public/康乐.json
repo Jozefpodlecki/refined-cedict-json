@@ -1,0 +1,36 @@
+{
+  "simplified": "康乐",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kāng lè",
+          "wade_giles_pinyin": "Kang1 le4"
+        }
+      ],
+      "simplified": "康乐",
+      "traditional": "康樂",
+      "meanings": [],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kāng lè",
+          "wade_giles_pinyin": "kang1 le4"
+        }
+      ],
+      "simplified": "康乐",
+      "traditional": "康樂",
+      "meanings": [
+        {
+          "context": "old",
+          "value": "peace and happiness"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

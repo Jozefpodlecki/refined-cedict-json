@@ -1,0 +1,32 @@
+{
+  "simplified": "舞剧",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wǔ jù",
+          "wade_giles_pinyin": "wu3 ju4"
+        }
+      ],
+      "simplified": "舞剧",
+      "simplified_stroke_count": null,
+      "traditional": "舞劇",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "dance drama"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "ballet"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

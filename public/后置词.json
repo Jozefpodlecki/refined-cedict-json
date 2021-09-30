@@ -1,0 +1,37 @@
+{
+  "simplified": "后置词",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " hòu zhì cí",
+          "wade_giles_pinyin": "hou4 zhi4 ci2"
+        }
+      ],
+      "simplified": "后置词",
+      "simplified_stroke_count": 0,
+      "traditional": "後置詞",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "postposition"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "suffix"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "word placed after"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

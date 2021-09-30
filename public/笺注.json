@@ -1,0 +1,34 @@
+{
+  "simplified": "笺注",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jiān zhù",
+          "wade_giles_pinyin": "jian1 zhu4"
+        }
+      ],
+      "simplified": "笺注",
+      "simplified_stroke_count": 0,
+      "traditional": "箋注",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to annotate (ancient texts)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "commentaries"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

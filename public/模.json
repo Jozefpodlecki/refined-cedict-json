@@ -1,0 +1,66 @@
+{
+  "simplified": "模",
+  "simplified_stroke_count": 14,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mó",
+          "wade_giles_pinyin": "mo2"
+        }
+      ],
+      "simplified": "模",
+      "simplified_stroke_count": 14,
+      "traditional": "模",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "to imitate"
+        },
+        {
+          "value": "model"
+        },
+        {
+          "value": "norm"
+        },
+        {
+          "value": "pattern"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mú",
+          "wade_giles_pinyin": "mu2"
+        }
+      ],
+      "simplified": "模",
+      "simplified_stroke_count": 14,
+      "traditional": "模",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "mold"
+        },
+        {
+          "value": "die"
+        },
+        {
+          "value": "matrix"
+        },
+        {
+          "value": "pattern"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

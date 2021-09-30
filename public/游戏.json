@@ -1,0 +1,45 @@
+{
+  "simplified": "游戏",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yóu xì",
+          "wade_giles_pinyin": "you2 xi4"
+        }
+      ],
+      "simplified": "游戏",
+      "simplified_stroke_count": null,
+      "traditional": "遊戲",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "game"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "CL:場|场[chang3]"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to play"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "場",
+          "traditional": "场",
+          "wade_giles_pinyin": "chang3"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

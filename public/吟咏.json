@@ -1,0 +1,27 @@
+{
+  "simplified": "吟咏",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yín yǒng",
+          "wade_giles_pinyin": "yin2 yong3"
+        }
+      ],
+      "simplified": "吟咏",
+      "traditional": "吟詠",
+      "meanings": [
+        {
+          "value": "to recite"
+        },
+        {
+          "value": "to sing (of poetry)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

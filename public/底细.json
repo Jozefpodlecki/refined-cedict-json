@@ -1,0 +1,42 @@
+{
+  "simplified": "底细",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dǐ xì",
+          "wade_giles_pinyin": "di3 xi4"
+        }
+      ],
+      "simplified": "底细",
+      "simplified_stroke_count": null,
+      "traditional": "底細",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "inside information"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "the ins and outs of the matter"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "how things stand"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "what's up"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

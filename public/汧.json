@@ -1,0 +1,53 @@
+{
+  "simplified": "汧",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " qiān",
+          "wade_giles_pinyin": "Qian1"
+        }
+      ],
+      "simplified": "汧",
+      "simplified_stroke_count": 7,
+      "traditional": "汧",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "name of a river flowing through Gansu to Shaanxi Province"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " qiān",
+          "wade_giles_pinyin": "qian1"
+        }
+      ],
+      "simplified": "汧",
+      "simplified_stroke_count": 7,
+      "traditional": "汧",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "marsh"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "float"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

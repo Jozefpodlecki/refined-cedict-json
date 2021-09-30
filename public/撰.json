@@ -1,0 +1,55 @@
+{
+  "simplified": "撰",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhuàn",
+          "wade_giles_pinyin": "zhuan4"
+        }
+      ],
+      "simplified": "撰",
+      "simplified_stroke_count": 15,
+      "traditional": "撰",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "to compose"
+        },
+        {
+          "value": "to compile"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhuàn",
+          "wade_giles_pinyin": "zhuan4"
+        }
+      ],
+      "simplified": "撰",
+      "simplified_stroke_count": 15,
+      "traditional": "譔",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 撰[zhuan4]",
+          "simplified": "撰",
+          "traditional": "",
+          "wade_giles_pinyin": "zhuan4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

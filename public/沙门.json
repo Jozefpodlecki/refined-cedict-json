@@ -1,0 +1,32 @@
+{
+  "simplified": "沙门",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shā mén",
+          "wade_giles_pinyin": "sha1 men2"
+        }
+      ],
+      "simplified": "沙门",
+      "simplified_stroke_count": null,
+      "traditional": "沙門",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "monk (Sanskrit: Sramana, originally refers to north India)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "Buddhist monk"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

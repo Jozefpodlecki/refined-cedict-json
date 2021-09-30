@@ -1,0 +1,29 @@
+{
+  "simplified": "众包",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhòng bāo",
+          "wade_giles_pinyin": "zhong4 bao1"
+        }
+      ],
+      "simplified": "众包",
+      "traditional": "眾包",
+      "meanings": [
+        {
+          "value": "crowdsourcing"
+        },
+        {
+          "context": "abbreviation",
+          "value": "群眾外包|群众外包[qun2 zhong4 wai4 bao1]",
+          "simplified": "群",
+          "traditional": "眾外包|群众外包",
+          "wade_giles_pinyin": "qun2 zhong4 wai4 bao1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

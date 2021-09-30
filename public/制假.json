@@ -1,0 +1,34 @@
+{
+  "simplified": "制假",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhì jiǎ",
+          "wade_giles_pinyin": "zhi4 jia3"
+        }
+      ],
+      "simplified": "制假",
+      "simplified_stroke_count": 0,
+      "traditional": "製假",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to counterfeit"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to manufacture counterfeit goods"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

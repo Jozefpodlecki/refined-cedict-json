@@ -1,0 +1,25 @@
+{
+  "simplified": "红绿灯",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hóng lǜ dēng",
+          "wade_giles_pinyin": "hong2 lu:4 deng1"
+        }
+      ],
+      "simplified": "红绿灯",
+      "traditional": "紅綠燈",
+      "meanings": [
+        {
+          "value": "traffic light"
+        },
+        {
+          "value": "traffic signal"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "simplified": "播音",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bō yīn",
+          "wade_giles_pinyin": "bo1 yin1"
+        }
+      ],
+      "simplified": "播音",
+      "traditional": "播音",
+      "meanings": [
+        {
+          "value": "to transmit"
+        },
+        {
+          "value": "to broadcast"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

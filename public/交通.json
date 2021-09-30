@@ -1,0 +1,36 @@
+{
+  "simplified": "交通",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiāo tōng",
+          "wade_giles_pinyin": "jiao1 tong1"
+        }
+      ],
+      "simplified": "交通",
+      "traditional": "交通",
+      "meanings": [
+        {
+          "value": "to be connected"
+        },
+        {
+          "value": "traffic"
+        },
+        {
+          "value": "transportation"
+        },
+        {
+          "value": "communications"
+        },
+        {
+          "value": "liaison"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

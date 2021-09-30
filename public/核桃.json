@@ -1,0 +1,33 @@
+{
+  "simplified": "核桃",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hé tao",
+          "wade_giles_pinyin": "he2 tao5"
+        }
+      ],
+      "simplified": "核桃",
+      "traditional": "核桃",
+      "meanings": [
+        {
+          "value": "walnut"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        },
+        {
+          "simplified": "棵",
+          "traditional": "",
+          "wade_giles_pinyin": "ke1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

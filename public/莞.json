@@ -1,0 +1,63 @@
+{
+  "simplified": "莞",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guān",
+          "wade_giles_pinyin": "guan1"
+        }
+      ],
+      "simplified": "莞",
+      "simplified_stroke_count": 11,
+      "traditional": "莞",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "Skimmia japonica"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guǎn",
+          "wade_giles_pinyin": "guan3"
+        }
+      ],
+      "simplified": "莞",
+      "simplified_stroke_count": 11,
+      "traditional": "莞",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "(district)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wǎn",
+          "wade_giles_pinyin": "wan3"
+        }
+      ],
+      "simplified": "莞",
+      "simplified_stroke_count": 11,
+      "traditional": "莞",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "smile"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

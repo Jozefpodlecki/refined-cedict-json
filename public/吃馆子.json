@@ -1,0 +1,27 @@
+{
+  "simplified": "吃馆子",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chī guǎn zi",
+          "wade_giles_pinyin": "chi1 guan3 zi5"
+        }
+      ],
+      "simplified": "吃馆子",
+      "traditional": "吃館子",
+      "meanings": [
+        {
+          "value": "to eat out"
+        },
+        {
+          "value": "to eat at a restaurant"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

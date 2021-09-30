@@ -1,0 +1,59 @@
+{
+  "simplified": "放",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fàng",
+          "wade_giles_pinyin": "fang4"
+        }
+      ],
+      "simplified": "放",
+      "simplified_stroke_count": 8,
+      "traditional": "放",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to put"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to place"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to release"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to free"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to let go"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to let out"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to set off (fireworks)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

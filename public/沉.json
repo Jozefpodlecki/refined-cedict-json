@@ -1,0 +1,72 @@
+{
+  "simplified": "沉",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chēn",
+          "wade_giles_pinyin": "chen1"
+        }
+      ],
+      "simplified": "沉",
+      "simplified_stroke_count": 7,
+      "traditional": "沉",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "value": "see 黑沉沉[hei1 chen1 chen1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chén",
+          "wade_giles_pinyin": "chen2"
+        }
+      ],
+      "simplified": "沉",
+      "simplified_stroke_count": 7,
+      "traditional": "沉",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "value": "to submerge"
+        },
+        {
+          "value": "to immerse"
+        },
+        {
+          "value": "to sink"
+        },
+        {
+          "value": "to keep down"
+        },
+        {
+          "value": "to lower"
+        },
+        {
+          "value": "to drop"
+        },
+        {
+          "value": "deep"
+        },
+        {
+          "value": "profound"
+        },
+        {
+          "value": "heavy"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

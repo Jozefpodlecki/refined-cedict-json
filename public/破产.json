@@ -1,0 +1,30 @@
+{
+  "simplified": "破产",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pò chǎn",
+          "wade_giles_pinyin": "po4 chan3"
+        }
+      ],
+      "simplified": "破产",
+      "traditional": "破產",
+      "meanings": [
+        {
+          "value": "to go bankrupt"
+        },
+        {
+          "value": "to become impoverished"
+        },
+        {
+          "value": "bankruptcy"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

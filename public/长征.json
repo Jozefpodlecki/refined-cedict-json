@@ -1,0 +1,42 @@
+{
+  "simplified": "长征",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cháng zhēng",
+          "wade_giles_pinyin": "Chang2 zheng1"
+        }
+      ],
+      "simplified": "长征",
+      "traditional": "長征",
+      "meanings": [
+        {
+          "value": "Long March (retreat of the Red Army 1934-1935)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cháng zhēng",
+          "wade_giles_pinyin": "chang2 zheng1"
+        }
+      ],
+      "simplified": "长征",
+      "traditional": "長征",
+      "meanings": [
+        {
+          "value": "expedition"
+        },
+        {
+          "value": "long journey"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

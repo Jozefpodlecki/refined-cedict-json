@@ -1,0 +1,32 @@
+{
+  "simplified": "单裤",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dān kù",
+          "wade_giles_pinyin": "dan1 ku4"
+        }
+      ],
+      "simplified": "单裤",
+      "simplified_stroke_count": 0,
+      "traditional": "單褲",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "unlined trousers"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "summer trousers"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

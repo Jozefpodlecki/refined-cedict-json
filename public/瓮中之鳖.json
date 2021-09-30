@@ -1,0 +1,29 @@
+{
+  "simplified": "瓮中之鳖",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wèng zhōng zhī biē",
+          "wade_giles_pinyin": "weng4 zhong1 zhi1 bie1"
+        }
+      ],
+      "simplified": "瓮中之鳖",
+      "traditional": "甕中之鱉",
+      "meanings": [
+        {
+          "context": "literature",
+          "value": "like a turtle in a jar"
+        },
+        {
+          "lexical_item": "idiom",
+          "value": "to be trapped"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

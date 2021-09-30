@@ -1,0 +1,27 @@
+{
+  "simplified": "展期",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhǎn qī",
+          "wade_giles_pinyin": "zhan3 qi1"
+        }
+      ],
+      "simplified": "展期",
+      "traditional": "展期",
+      "meanings": [
+        {
+          "value": "to extend the period"
+        },
+        {
+          "value": "to reschedule (a debt)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

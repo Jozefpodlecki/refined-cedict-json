@@ -1,0 +1,34 @@
+{
+  "simplified": "猜谜儿",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " cāi mí r",
+          "wade_giles_pinyin": "cai1 mi2 r5"
+        }
+      ],
+      "simplified": "猜谜儿",
+      "simplified_stroke_count": 0,
+      "traditional": "猜謎兒",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to answer a riddle"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to guess (i.e. form an opinion without much evidence)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

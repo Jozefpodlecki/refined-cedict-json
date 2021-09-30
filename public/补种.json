@@ -1,0 +1,30 @@
+{
+  "simplified": "补种",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǔ zhòng",
+          "wade_giles_pinyin": "bu3 zhong4"
+        }
+      ],
+      "simplified": "补种",
+      "traditional": "補種",
+      "meanings": [
+        {
+          "value": "to reseed"
+        },
+        {
+          "value": "to resow"
+        },
+        {
+          "value": "to replant"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

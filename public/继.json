@@ -1,0 +1,45 @@
+{
+  "simplified": "继",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jì",
+          "wade_giles_pinyin": "ji4"
+        }
+      ],
+      "simplified": "继",
+      "simplified_stroke_count": 10,
+      "traditional": "繼",
+      "traditional_stroke_count": 20,
+      "meanings": [
+        {
+          "value": "to continue"
+        },
+        {
+          "value": "to follow after"
+        },
+        {
+          "value": "to go on with"
+        },
+        {
+          "value": "to succeed"
+        },
+        {
+          "value": "to inherit"
+        },
+        {
+          "value": "then"
+        },
+        {
+          "value": "afterwards"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

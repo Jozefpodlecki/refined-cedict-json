@@ -1,0 +1,44 @@
+{
+  "simplified": "猵",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "biān",
+          "wade_giles_pinyin": "bian1"
+        }
+      ],
+      "simplified": "猵",
+      "simplified_stroke_count": 12,
+      "traditional": "猵",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "a kind of otter"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "piàn",
+          "wade_giles_pinyin": "pian4"
+        }
+      ],
+      "simplified": "猵",
+      "simplified_stroke_count": 12,
+      "traditional": "猵",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "see 猵狙[pian4 ju1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

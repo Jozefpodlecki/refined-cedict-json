@@ -1,0 +1,27 @@
+{
+  "simplified": "押送",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yā sòng",
+          "wade_giles_pinyin": "ya1 song4"
+        }
+      ],
+      "simplified": "押送",
+      "traditional": "押送",
+      "meanings": [
+        {
+          "value": "to send under escort"
+        },
+        {
+          "value": "to transport a detainee"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

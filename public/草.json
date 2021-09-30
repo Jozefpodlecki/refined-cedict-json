@@ -1,0 +1,120 @@
+{
+  "simplified": "草",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " cǎo",
+          "wade_giles_pinyin": "cao3"
+        }
+      ],
+      "simplified": "草",
+      "simplified_stroke_count": 9,
+      "traditional": "艸",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "草[cao3]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " cǎo",
+          "wade_giles_pinyin": "cao3"
+        }
+      ],
+      "simplified": "草",
+      "simplified_stroke_count": 9,
+      "traditional": "草",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "grass"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "straw"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "manuscript"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "draft (of a document)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "careless"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "rough"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:棵[ke1],撮[zuo3],株[zhu1],根[gen1]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "棵",
+          "traditional": "",
+          "wade_giles_pinyin": "ke1"
+        },
+        {
+          "simplified": "撮",
+          "traditional": "",
+          "wade_giles_pinyin": "zuo3"
+        },
+        {
+          "simplified": "株",
+          "traditional": "",
+          "wade_giles_pinyin": "zhu1"
+        },
+        {
+          "simplified": "根",
+          "traditional": "",
+          "wade_giles_pinyin": "gen1"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " cào",
+          "wade_giles_pinyin": "cao4"
+        }
+      ],
+      "simplified": "草",
+      "simplified_stroke_count": 9,
+      "traditional": "草",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "肏[cao4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

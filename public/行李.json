@@ -1,0 +1,38 @@
+{
+  "simplified": "行李",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xíng li",
+          "wade_giles_pinyin": "xing2 li5"
+        }
+      ],
+      "simplified": "行李",
+      "simplified_stroke_count": 0,
+      "traditional": "行李",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "luggage"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:件[jian4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "件",
+          "traditional": "",
+          "wade_giles_pinyin": "jian4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

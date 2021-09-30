@@ -1,0 +1,58 @@
+{
+  "simplified": "恍",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " huǎng",
+          "wade_giles_pinyin": "huang3"
+        }
+      ],
+      "simplified": "恍",
+      "simplified_stroke_count": 9,
+      "traditional": "怳",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "恍[huang3]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " huǎng",
+          "wade_giles_pinyin": "huang3"
+        }
+      ],
+      "simplified": "恍",
+      "simplified_stroke_count": 9,
+      "traditional": "恍",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "disappointed"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "flurried"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "indistinct"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "迟慢",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chí màn",
+          "wade_giles_pinyin": "chi2 man4"
+        }
+      ],
+      "simplified": "迟慢",
+      "simplified_stroke_count": null,
+      "traditional": "遲慢",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "slow"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "late"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

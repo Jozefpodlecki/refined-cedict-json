@@ -1,0 +1,32 @@
+{
+  "simplified": "公用交换电话网",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " gōng yòng jiāo huàn diàn huà wǎng",
+          "wade_giles_pinyin": "gong1 yong4 jiao1 huan4 dian4 hua4 wang3"
+        }
+      ],
+      "simplified": "公用交换电话网",
+      "simplified_stroke_count": 0,
+      "traditional": "公用交換電話網",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "public switched telephone network"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "PSTN"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

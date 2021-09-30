@@ -1,0 +1,48 @@
+{
+  "simplified": "博",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bó",
+          "wade_giles_pinyin": "bo2"
+        }
+      ],
+      "simplified": "博",
+      "simplified_stroke_count": 12,
+      "traditional": "博",
+      "traditional_stroke_count": 12,
+      "meanings": [],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bó",
+          "wade_giles_pinyin": "bo2"
+        }
+      ],
+      "simplified": "博",
+      "simplified_stroke_count": 12,
+      "traditional": "愽",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 博[bo2]",
+          "simplified": "博",
+          "traditional": "",
+          "wade_giles_pinyin": "bo2"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

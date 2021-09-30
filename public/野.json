@@ -1,0 +1,89 @@
+{
+  "simplified": "野",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yě",
+          "wade_giles_pinyin": "ye3"
+        }
+      ],
+      "simplified": "野",
+      "simplified_stroke_count": 11,
+      "traditional": "埜",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 野[ye3]",
+          "simplified": "野",
+          "traditional": "",
+          "wade_giles_pinyin": "ye3"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yě",
+          "wade_giles_pinyin": "ye3"
+        }
+      ],
+      "simplified": "野",
+      "simplified_stroke_count": 11,
+      "traditional": "壄",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "erroneous variant of 野[ye3]",
+          "simplified": "e",
+          "traditional": "rroneous  野",
+          "wade_giles_pinyin": "ye3"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yě",
+          "wade_giles_pinyin": "ye3"
+        }
+      ],
+      "simplified": "野",
+      "simplified_stroke_count": 11,
+      "traditional": "野",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "field"
+        },
+        {
+          "value": "plain"
+        },
+        {
+          "value": "open space"
+        },
+        {
+          "value": "limit"
+        },
+        {
+          "value": "boundary"
+        },
+        {
+          "value": "rude"
+        },
+        {
+          "value": "feral"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

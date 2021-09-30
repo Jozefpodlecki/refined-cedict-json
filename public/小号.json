@@ -1,0 +1,25 @@
+{
+  "simplified": "小号",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiǎo hào",
+          "wade_giles_pinyin": "xiao3 hao4"
+        }
+      ],
+      "simplified": "小号",
+      "traditional": "小號",
+      "meanings": [
+        {
+          "context": "colloquial",
+          "value": "number one"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "simplified": "身处",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shēn chǔ",
+          "wade_giles_pinyin": "shen1 chu3"
+        }
+      ],
+      "simplified": "身处",
+      "traditional": "身處",
+      "meanings": [
+        {
+          "value": "in (some place)"
+        },
+        {
+          "value": "to be in (adversity, a difficult situation, danger, turmoil etc)"
+        },
+        {
+          "value": "to find oneself in"
+        },
+        {
+          "value": "placed in"
+        },
+        {
+          "value": "surrounded by"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

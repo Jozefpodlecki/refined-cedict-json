@@ -1,0 +1,28 @@
+{
+  "simplified": "鲤鱼跳龙门",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lǐ yú tiào lóng mén",
+          "wade_giles_pinyin": "li3 yu2 tiao4 long2 men2"
+        }
+      ],
+      "simplified": "鲤鱼跳龙门",
+      "traditional": "鯉魚跳龍門",
+      "meanings": [
+        {
+          "lexical_item": "idiom",
+          "value": "to make a significant advance in one's career"
+        },
+        {
+          "value": "to get one's big break"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "simplified": "封杀",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fēng shā",
+          "wade_giles_pinyin": "feng1 sha1"
+        }
+      ],
+      "simplified": "封杀",
+      "traditional": "封殺",
+      "meanings": [
+        {
+          "value": "to shut out"
+        },
+        {
+          "value": "to block"
+        },
+        {
+          "value": "to smother"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

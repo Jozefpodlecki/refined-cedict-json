@@ -1,0 +1,31 @@
+{
+  "simplified": "会所",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huì suǒ",
+          "wade_giles_pinyin": "hui4 suo3"
+        }
+      ],
+      "simplified": "会所",
+      "traditional": "會所",
+      "meanings": [
+        {
+          "value": "office of an association"
+        },
+        {
+          "value": "meeting place"
+        },
+        {
+          "value": "clubhouse"
+        },
+        {
+          "value": "club"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

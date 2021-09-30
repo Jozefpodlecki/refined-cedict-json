@@ -1,0 +1,34 @@
+{
+  "simplified": "换代",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huàn dài",
+          "wade_giles_pinyin": "huan4 dai4"
+        }
+      ],
+      "simplified": "换代",
+      "simplified_stroke_count": null,
+      "traditional": "換代",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to transition to a new dynasty or regime"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to replace an older product with an upgraded, new-generation one"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

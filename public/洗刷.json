@@ -1,0 +1,31 @@
+{
+  "simplified": "洗刷",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xǐ shuā",
+          "wade_giles_pinyin": "xi3 shua1"
+        }
+      ],
+      "simplified": "洗刷",
+      "traditional": "洗刷",
+      "meanings": [
+        {
+          "value": "to wipe clean"
+        },
+        {
+          "value": "to scrub"
+        },
+        {
+          "context": "figuratively",
+          "value": "to get rid of (a bad reputation, a misconception etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

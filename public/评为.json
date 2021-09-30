@@ -1,0 +1,30 @@
+{
+  "simplified": "评为",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "píng wéi",
+          "wade_giles_pinyin": "ping2 wei2"
+        }
+      ],
+      "simplified": "评为",
+      "traditional": "評為",
+      "meanings": [
+        {
+          "value": "to elect as"
+        },
+        {
+          "value": "to choose as"
+        },
+        {
+          "value": "to consider as"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

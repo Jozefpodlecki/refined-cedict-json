@@ -1,0 +1,32 @@
+{
+  "simplified": "复音词",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fù yīn cí",
+          "wade_giles_pinyin": "fu4 yin1 ci2"
+        }
+      ],
+      "simplified": "复音词",
+      "simplified_stroke_count": null,
+      "traditional": "複音詞",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "disyllabic word"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "polysyllabic word"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

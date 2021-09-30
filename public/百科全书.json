@@ -1,0 +1,33 @@
+{
+  "simplified": "百科全书",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǎi kē quán shū",
+          "wade_giles_pinyin": "bai3 ke1 quan2 shu1"
+        }
+      ],
+      "simplified": "百科全书",
+      "traditional": "百科全書",
+      "meanings": [
+        {
+          "value": "encyclopedia"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "本",
+          "traditional": "",
+          "wade_giles_pinyin": "ben3"
+        },
+        {
+          "simplified": "集",
+          "traditional": "",
+          "wade_giles_pinyin": "ji2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "simplified": "山脉",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shān mài",
+          "wade_giles_pinyin": "shan1 mai4"
+        }
+      ],
+      "simplified": "山脉",
+      "simplified_stroke_count": 0,
+      "traditional": "山脈",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "mountain range"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:條|条[tiao2]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "條",
+          "traditional": "条",
+          "wade_giles_pinyin": "tiao2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

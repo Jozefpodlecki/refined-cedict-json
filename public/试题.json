@@ -1,0 +1,32 @@
+{
+  "simplified": "试题",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shì tí",
+          "wade_giles_pinyin": "shi4 ti2"
+        }
+      ],
+      "simplified": "试题",
+      "simplified_stroke_count": 0,
+      "traditional": "試題",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "exam question"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "test topic"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

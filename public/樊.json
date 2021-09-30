@@ -1,0 +1,53 @@
+{
+  "simplified": "樊",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fán",
+          "wade_giles_pinyin": "Fan2"
+        }
+      ],
+      "simplified": "樊",
+      "simplified_stroke_count": 15,
+      "traditional": "樊",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "surname Fan"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fán",
+          "wade_giles_pinyin": "fan2"
+        }
+      ],
+      "simplified": "樊",
+      "simplified_stroke_count": 15,
+      "traditional": "樊",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "cage"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "fence"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

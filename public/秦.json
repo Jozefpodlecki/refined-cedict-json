@@ -1,0 +1,35 @@
+{
+  "simplified": "秦",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qín",
+          "wade_giles_pinyin": "Qin2"
+        }
+      ],
+      "simplified": "秦",
+      "simplified_stroke_count": 10,
+      "traditional": "秦",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "surname Qin"
+        },
+        {
+          "value": "Qin dynasty (221-207 BC) of the first emperor 秦始皇[Qin2 Shi3 huang2]"
+        },
+        {
+          "context": "abbreviation",
+          "value": "陝西|陕西[Shan3 xi1]",
+          "simplified": "陝",
+          "traditional": "西|陕西",
+          "wade_giles_pinyin": "Shan3 xi1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

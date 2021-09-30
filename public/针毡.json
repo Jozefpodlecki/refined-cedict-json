@@ -1,0 +1,32 @@
+{
+  "simplified": "针毡",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhēn zhān",
+          "wade_giles_pinyin": "zhen1 zhan1"
+        }
+      ],
+      "simplified": "针毡",
+      "simplified_stroke_count": null,
+      "traditional": "針氈",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "needle felting (craft)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "piece of felt used as a pincushion"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

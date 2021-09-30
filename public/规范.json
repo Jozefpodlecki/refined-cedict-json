@@ -1,0 +1,48 @@
+{
+  "simplified": "规范",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guī fàn",
+          "wade_giles_pinyin": "gui1 fan4"
+        }
+      ],
+      "simplified": "规范",
+      "traditional": "規範",
+      "meanings": [
+        {
+          "value": "norm"
+        },
+        {
+          "value": "standard"
+        },
+        {
+          "value": "specification"
+        },
+        {
+          "value": "regulation"
+        },
+        {
+          "value": "rule"
+        },
+        {
+          "value": "within the rules"
+        },
+        {
+          "value": "to fix rules"
+        },
+        {
+          "value": "to regulate"
+        },
+        {
+          "value": "to specify"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "佛家",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fó jiā",
+          "wade_giles_pinyin": "Fo2 jia1"
+        }
+      ],
+      "simplified": "佛家",
+      "simplified_stroke_count": null,
+      "traditional": "佛家",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "Buddhism"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "Buddhist"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

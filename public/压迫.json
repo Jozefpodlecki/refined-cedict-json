@@ -1,0 +1,36 @@
+{
+  "simplified": "压迫",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yā pò",
+          "wade_giles_pinyin": "ya1 po4"
+        }
+      ],
+      "simplified": "压迫",
+      "traditional": "壓迫",
+      "meanings": [
+        {
+          "value": "to oppress"
+        },
+        {
+          "value": "to repress"
+        },
+        {
+          "value": "to constrict"
+        },
+        {
+          "value": "oppression"
+        },
+        {
+          "value": "stress (physics)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

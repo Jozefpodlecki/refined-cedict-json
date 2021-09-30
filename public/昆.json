@@ -1,0 +1,76 @@
+{
+  "simplified": "昆",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kūn",
+          "wade_giles_pinyin": "kun1"
+        }
+      ],
+      "simplified": "昆",
+      "simplified_stroke_count": 8,
+      "traditional": "崐",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 崑|昆[kun1]",
+          "simplified": "崑",
+          "traditional": "昆",
+          "wade_giles_pinyin": "kun1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kūn",
+          "wade_giles_pinyin": "kun1"
+        }
+      ],
+      "simplified": "昆",
+      "simplified_stroke_count": 8,
+      "traditional": "崑",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "used in place names, notably Kunlun Mountains 崑崙|昆仑[Kun1 lun2]"
+        },
+        {
+          "value": "(also used for transliteration)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kūn",
+          "wade_giles_pinyin": "kun1"
+        }
+      ],
+      "simplified": "昆",
+      "simplified_stroke_count": 8,
+      "traditional": "昆",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "descendant"
+        },
+        {
+          "value": "elder brother"
+        },
+        {
+          "value": "a style of Chinese poetry"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

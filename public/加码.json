@@ -1,0 +1,49 @@
+{
+  "simplified": "加码",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jiā mǎ",
+          "wade_giles_pinyin": "jia1 ma3"
+        }
+      ],
+      "simplified": "加码",
+      "simplified_stroke_count": 0,
+      "traditional": "加碼",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to ratchet up"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to raise (expectations etc)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to increase (a quota, a position in the market etc)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to up the ante"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(computing) to encode"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

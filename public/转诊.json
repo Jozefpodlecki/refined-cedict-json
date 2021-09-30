@@ -1,0 +1,24 @@
+{
+  "simplified": "转诊",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhuǎn zhěn",
+          "wade_giles_pinyin": "zhuan3 zhen3"
+        }
+      ],
+      "simplified": "转诊",
+      "traditional": "轉診",
+      "meanings": [
+        {
+          "value": "to transfer (a patient for treatment in a different hospital)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

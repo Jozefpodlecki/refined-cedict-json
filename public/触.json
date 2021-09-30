@@ -1,0 +1,33 @@
+{
+  "simplified": "触",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chù",
+          "wade_giles_pinyin": "chu4"
+        }
+      ],
+      "simplified": "触",
+      "simplified_stroke_count": 13,
+      "traditional": "觸",
+      "traditional_stroke_count": 20,
+      "meanings": [
+        {
+          "value": "to touch"
+        },
+        {
+          "value": "to make contact with sth"
+        },
+        {
+          "value": "to stir up sb's emotions"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

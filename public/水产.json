@@ -1,0 +1,25 @@
+{
+  "simplified": "水产",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shuǐ chǎn",
+          "wade_giles_pinyin": "shui3 chan3"
+        }
+      ],
+      "simplified": "水产",
+      "traditional": "水產",
+      "meanings": [
+        {
+          "value": "aquatic"
+        },
+        {
+          "value": "produced in sea, rivers or lakes"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

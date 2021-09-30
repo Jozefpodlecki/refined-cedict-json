@@ -1,0 +1,25 @@
+{
+  "simplified": "骨科",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gǔ kē",
+          "wade_giles_pinyin": "gu3 ke1"
+        }
+      ],
+      "simplified": "骨科",
+      "traditional": "骨科",
+      "meanings": [
+        {
+          "value": "orthopedics"
+        },
+        {
+          "value": "orthopedic surgery"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

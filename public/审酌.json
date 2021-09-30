@@ -1,0 +1,34 @@
+{
+  "simplified": "审酌",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shěn zhuó",
+          "wade_giles_pinyin": "shen3 zhuo2"
+        }
+      ],
+      "simplified": "审酌",
+      "simplified_stroke_count": 0,
+      "traditional": "審酌",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "examination"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to check and review"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

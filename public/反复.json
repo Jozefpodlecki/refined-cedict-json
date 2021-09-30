@@ -1,0 +1,62 @@
+{
+  "simplified": "反复",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fǎn fù",
+          "wade_giles_pinyin": "fan3 fu4"
+        }
+      ],
+      "simplified": "反复",
+      "traditional": "反復",
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 反覆|反复[fan3 fu4]",
+          "simplified": "反",
+          "traditional": "覆|反复",
+          "wade_giles_pinyin": "fan3 fu4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fǎn fù",
+          "wade_giles_pinyin": "fan3 fu4"
+        }
+      ],
+      "simplified": "反复",
+      "traditional": "反覆",
+      "meanings": [
+        {
+          "value": "repeatedly"
+        },
+        {
+          "value": "over and over"
+        },
+        {
+          "value": "to upend"
+        },
+        {
+          "value": "unstable"
+        },
+        {
+          "value": "to come and go"
+        },
+        {
+          "value": "(of an illness) to return"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

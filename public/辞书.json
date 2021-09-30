@@ -1,0 +1,25 @@
+{
+  "simplified": "辞书",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cí shū",
+          "wade_giles_pinyin": "ci2 shu1"
+        }
+      ],
+      "simplified": "辞书",
+      "traditional": "辭書",
+      "meanings": [
+        {
+          "value": "dictionary"
+        },
+        {
+          "value": "encyclopedia"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "鏽",
+  "simplified_stroke_count": 20,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiù",
+          "wade_giles_pinyin": "xiu4"
+        }
+      ],
+      "simplified": "鏽",
+      "simplified_stroke_count": 20,
+      "traditional": "鏽",
+      "traditional_stroke_count": 20,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "銹|锈, to corrode"
+        },
+        {
+          "value": "to rust"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

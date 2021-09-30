@@ -1,0 +1,31 @@
+{
+  "simplified": "会士",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huì shì",
+          "wade_giles_pinyin": "hui4 shi4"
+        }
+      ],
+      "simplified": "会士",
+      "traditional": "會士",
+      "meanings": [
+        {
+          "value": "member of religious order"
+        },
+        {
+          "value": "penitent"
+        },
+        {
+          "value": "frater"
+        },
+        {
+          "value": "translation of French agregé (holder of teaching certificate)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

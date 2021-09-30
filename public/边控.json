@@ -1,0 +1,31 @@
+{
+  "simplified": "边控",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "biān kòng",
+          "wade_giles_pinyin": "bian1 kong4"
+        }
+      ],
+      "simplified": "边控",
+      "traditional": "邊控",
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "value": "border control ( 邊境控制|边境控制[bian1 jing4 kong4 zhi4])",
+          "simplified": "b",
+          "traditional": "order control ( 邊境控制|边境控制",
+          "wade_giles_pinyin": "bian1 jing4 kong4 zhi4"
+        },
+        {
+          "value": "to place sb on a border control list (a list of people to be detained if they attempt to enter or leave the country)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

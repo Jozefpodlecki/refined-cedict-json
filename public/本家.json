@@ -1,0 +1,32 @@
+{
+  "simplified": "本家",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " běn jiā",
+          "wade_giles_pinyin": "ben3 jia1"
+        }
+      ],
+      "simplified": "本家",
+      "simplified_stroke_count": 0,
+      "traditional": "本家",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "a member of the same clan"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "a distant relative with the same family name"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

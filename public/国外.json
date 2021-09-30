@@ -1,0 +1,31 @@
+{
+  "simplified": "国外",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guó wài",
+          "wade_giles_pinyin": "guo2 wai4"
+        }
+      ],
+      "simplified": "国外",
+      "traditional": "國外",
+      "meanings": [
+        {
+          "value": "abroad"
+        },
+        {
+          "value": "external (affairs)"
+        },
+        {
+          "value": "overseas"
+        },
+        {
+          "value": "foreign"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

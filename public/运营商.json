@@ -1,0 +1,25 @@
+{
+  "simplified": "运营商",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yùn yíng shāng",
+          "wade_giles_pinyin": "yun4 ying2 shang1"
+        }
+      ],
+      "simplified": "运营商",
+      "traditional": "運營商",
+      "meanings": [
+        {
+          "value": "operator (of a power station, transport network etc)"
+        },
+        {
+          "value": "carrier (telecommunications etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

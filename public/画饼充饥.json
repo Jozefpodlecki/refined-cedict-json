@@ -1,0 +1,29 @@
+{
+  "simplified": "画饼充饥",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huà bǐng chōng jī",
+          "wade_giles_pinyin": "hua4 bing3 chong1 ji1"
+        }
+      ],
+      "simplified": "画饼充饥",
+      "traditional": "畫餅充飢",
+      "meanings": [
+        {
+          "context": "literature",
+          "value": "to allay one's hunger using a picture of a cake"
+        },
+        {
+          "lexical_item": "idiom",
+          "value": "to feed on illusions"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

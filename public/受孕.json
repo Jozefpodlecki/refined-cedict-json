@@ -1,0 +1,44 @@
+{
+  "simplified": "受孕",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shòu yùn",
+          "wade_giles_pinyin": "shou4 yun4"
+        }
+      ],
+      "simplified": "受孕",
+      "simplified_stroke_count": 0,
+      "traditional": "受孕",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to become pregnant"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to conceive"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "impregnated"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "insemination"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

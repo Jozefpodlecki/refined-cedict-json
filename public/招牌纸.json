@@ -1,0 +1,25 @@
+{
+  "simplified": "招牌纸",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhāo pái zhǐ",
+          "wade_giles_pinyin": "zhao1 pai2 zhi3"
+        }
+      ],
+      "simplified": "招牌纸",
+      "traditional": "招牌紙",
+      "meanings": [
+        {
+          "value": "label"
+        },
+        {
+          "value": "sticker"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

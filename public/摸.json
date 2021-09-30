@@ -1,0 +1,77 @@
+{
+  "simplified": "摸",
+  "simplified_stroke_count": 14,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " mō",
+          "wade_giles_pinyin": "mo1"
+        }
+      ],
+      "simplified": "摸",
+      "simplified_stroke_count": 14,
+      "traditional": "摸",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to feel with the hand"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to touch"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to stroke"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to grope"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to steal"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to abstract"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " mó",
+          "wade_giles_pinyin": "mo2"
+        }
+      ],
+      "simplified": "摸",
+      "simplified_stroke_count": 14,
+      "traditional": "摸",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "摹[mo2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

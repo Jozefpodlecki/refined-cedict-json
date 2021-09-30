@@ -1,0 +1,28 @@
+{
+  "simplified": "点滴",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diǎn dī",
+          "wade_giles_pinyin": "dian3 di1"
+        }
+      ],
+      "simplified": "点滴",
+      "traditional": "點滴",
+      "meanings": [
+        {
+          "value": "a drip"
+        },
+        {
+          "value": "a little bit"
+        },
+        {
+          "value": "intravenous drip (used to administer drugs)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

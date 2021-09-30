@@ -1,0 +1,73 @@
+{
+  "simplified": "柜",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guì",
+          "wade_giles_pinyin": "gui4"
+        }
+      ],
+      "simplified": "柜",
+      "simplified_stroke_count": 9,
+      "traditional": "柜",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 櫃|柜[gui4]",
+          "simplified": "櫃",
+          "traditional": "柜",
+          "wade_giles_pinyin": "gui4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jǔ",
+          "wade_giles_pinyin": "ju3"
+        }
+      ],
+      "simplified": "柜",
+      "simplified_stroke_count": 9,
+      "traditional": "柜",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "Salix multinervis"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guì",
+          "wade_giles_pinyin": "gui4"
+        }
+      ],
+      "simplified": "柜",
+      "simplified_stroke_count": 9,
+      "traditional": "櫃",
+      "traditional_stroke_count": 18,
+      "meanings": [
+        {
+          "value": "cupboard"
+        },
+        {
+          "value": "cabinet"
+        },
+        {
+          "value": "wardrobe"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

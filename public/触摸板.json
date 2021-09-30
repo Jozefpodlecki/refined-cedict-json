@@ -1,0 +1,25 @@
+{
+  "simplified": "触摸板",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chù mō bǎn",
+          "wade_giles_pinyin": "chu4 mo1 ban3"
+        }
+      ],
+      "simplified": "触摸板",
+      "traditional": "觸摸板",
+      "meanings": [
+        {
+          "value": "touchpad"
+        },
+        {
+          "value": "trackpad"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

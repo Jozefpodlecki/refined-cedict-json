@@ -1,0 +1,33 @@
+{
+  "simplified": "诀",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jué",
+          "wade_giles_pinyin": "jue2"
+        }
+      ],
+      "simplified": "诀",
+      "simplified_stroke_count": 6,
+      "traditional": "訣",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "to bid farewell"
+        },
+        {
+          "value": "tricks of the trade"
+        },
+        {
+          "value": "pithy mnemonic formula (e.g. Mao Zedong's 16-character mantra 十六字訣|十六字诀 on guerrilla warfare)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

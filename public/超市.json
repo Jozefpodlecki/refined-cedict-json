@@ -1,0 +1,32 @@
+{
+  "simplified": "超市",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chāo shì",
+          "wade_giles_pinyin": "chao1 shi4"
+        }
+      ],
+      "simplified": "超市",
+      "traditional": "超市",
+      "meanings": [
+        {
+          "value": "supermarket"
+        },
+        {
+          "context": "abbreviation",
+          "value": "超級市場|超级市场"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "家",
+          "traditional": "",
+          "wade_giles_pinyin": "jia1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

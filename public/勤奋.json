@@ -1,0 +1,32 @@
+{
+  "simplified": "勤奋",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qín fèn",
+          "wade_giles_pinyin": "qin2 fen4"
+        }
+      ],
+      "simplified": "勤奋",
+      "simplified_stroke_count": null,
+      "traditional": "勤奮",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "hardworking"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "diligent"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "simplified": "宴请",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yàn qǐng",
+          "wade_giles_pinyin": "yan4 qing3"
+        }
+      ],
+      "simplified": "宴请",
+      "traditional": "宴請",
+      "meanings": [
+        {
+          "value": "to entertain (for dinner)"
+        },
+        {
+          "value": "to invite to dinner"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

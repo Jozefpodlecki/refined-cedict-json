@@ -1,0 +1,30 @@
+{
+  "simplified": "贬损",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "biǎn sǔn",
+          "wade_giles_pinyin": "bian3 sun3"
+        }
+      ],
+      "simplified": "贬损",
+      "traditional": "貶損",
+      "meanings": [
+        {
+          "value": "to mock"
+        },
+        {
+          "value": "to disparage"
+        },
+        {
+          "value": "to belittle"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

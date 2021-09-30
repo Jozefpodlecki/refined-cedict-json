@@ -1,0 +1,95 @@
+{
+  "simplified": "扬",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yáng",
+          "wade_giles_pinyin": "Yang2"
+        }
+      ],
+      "simplified": "扬",
+      "simplified_stroke_count": 6,
+      "traditional": "揚",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "value": "揚州|扬州[Yang2 zhou1]",
+          "simplified": "揚",
+          "traditional": "州|扬州",
+          "wade_giles_pinyin": "Yang2 zhou1"
+        },
+        {
+          "value": "surname Yang"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yáng",
+          "wade_giles_pinyin": "yang2"
+        }
+      ],
+      "simplified": "扬",
+      "simplified_stroke_count": 6,
+      "traditional": "揚",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "to raise"
+        },
+        {
+          "value": "to hoist"
+        },
+        {
+          "value": "the action of tossing or winnowing"
+        },
+        {
+          "value": "scattering (in the wind)"
+        },
+        {
+          "value": "to flutter"
+        },
+        {
+          "value": "to propagate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yáng",
+          "wade_giles_pinyin": "yang2"
+        }
+      ],
+      "simplified": "扬",
+      "simplified_stroke_count": 6,
+      "traditional": "敭",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 揚|扬[yang2]",
+          "simplified": "揚",
+          "traditional": "扬",
+          "wade_giles_pinyin": "yang2"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

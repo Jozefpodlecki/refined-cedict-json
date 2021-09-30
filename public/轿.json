@@ -1,0 +1,31 @@
+{
+  "simplified": "轿",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiào",
+          "wade_giles_pinyin": "jiao4"
+        }
+      ],
+      "simplified": "轿",
+      "simplified_stroke_count": 10,
+      "traditional": "轎",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "value": "sedan chair"
+        },
+        {
+          "value": "palanquin"
+        },
+        {
+          "value": "litter"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

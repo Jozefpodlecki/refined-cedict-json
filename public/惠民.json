@@ -1,0 +1,43 @@
+{
+  "simplified": "惠民",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huì mín",
+          "wade_giles_pinyin": "Hui4 min2"
+        }
+      ],
+      "simplified": "惠民",
+      "traditional": "惠民",
+      "meanings": [
+        {
+          "value": "Huimin county in Binzhou 濱州|滨州[Bin1 zhou1], Shandong"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huì mín",
+          "wade_giles_pinyin": "hui4 min2"
+        }
+      ],
+      "simplified": "惠民",
+      "traditional": "惠民",
+      "meanings": [
+        {
+          "value": "to benefit the people"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

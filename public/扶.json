@@ -1,0 +1,36 @@
+{
+  "simplified": "扶",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fú",
+          "wade_giles_pinyin": "fu2"
+        }
+      ],
+      "simplified": "扶",
+      "simplified_stroke_count": 7,
+      "traditional": "扶",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "value": "to support with the hand"
+        },
+        {
+          "value": "to help sb up"
+        },
+        {
+          "value": "to support oneself by holding onto something"
+        },
+        {
+          "value": "to help"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

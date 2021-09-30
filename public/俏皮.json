@@ -1,0 +1,37 @@
+{
+  "simplified": "俏皮",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiào pi",
+          "wade_giles_pinyin": "qiao4 pi5"
+        }
+      ],
+      "simplified": "俏皮",
+      "traditional": "俏皮",
+      "meanings": [
+        {
+          "value": "smart"
+        },
+        {
+          "value": "charming"
+        },
+        {
+          "value": "attractive"
+        },
+        {
+          "value": "witty"
+        },
+        {
+          "value": "facetious"
+        },
+        {
+          "value": "ironic"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

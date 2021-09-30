@@ -1,0 +1,29 @@
+{
+  "simplified": "刑庭",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xíng tíng",
+          "wade_giles_pinyin": "xing2 ting2"
+        }
+      ],
+      "simplified": "刑庭",
+      "traditional": "刑庭",
+      "meanings": [
+        {
+          "value": "criminal court"
+        },
+        {
+          "context": "abbreviation",
+          "value": "刑事法庭[xing2 shi4 fa3 ting2]",
+          "simplified": "刑",
+          "traditional": "事法庭",
+          "wade_giles_pinyin": "xing2 shi4 fa3 ting2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

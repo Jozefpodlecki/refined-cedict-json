@@ -1,0 +1,48 @@
+{
+  "simplified": "矍",
+  "simplified_stroke_count": 20,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jué",
+          "wade_giles_pinyin": "Jue2"
+        }
+      ],
+      "simplified": "矍",
+      "simplified_stroke_count": 20,
+      "traditional": "矍",
+      "traditional_stroke_count": 20,
+      "meanings": [
+        {
+          "value": "surname Jue"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jué",
+          "wade_giles_pinyin": "jue2"
+        }
+      ],
+      "simplified": "矍",
+      "simplified_stroke_count": 20,
+      "traditional": "矍",
+      "traditional_stroke_count": 20,
+      "meanings": [
+        {
+          "value": "to glance fearfully"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

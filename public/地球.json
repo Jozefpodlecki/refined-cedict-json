@@ -1,0 +1,28 @@
+{
+  "simplified": "地球",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dì qiú",
+          "wade_giles_pinyin": "di4 qiu2"
+        }
+      ],
+      "simplified": "地球",
+      "traditional": "地球",
+      "meanings": [
+        {
+          "value": "the earth"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

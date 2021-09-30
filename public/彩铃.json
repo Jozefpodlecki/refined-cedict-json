@@ -1,0 +1,25 @@
+{
+  "simplified": "彩铃",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cǎi líng",
+          "wade_giles_pinyin": "cai3 ling2"
+        }
+      ],
+      "simplified": "彩铃",
+      "traditional": "彩鈴",
+      "meanings": [
+        {
+          "value": "caller ring-back tone (CRBT)"
+        },
+        {
+          "value": "ring-back tone (RBT)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

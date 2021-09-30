@@ -1,0 +1,47 @@
+{
+  "simplified": "不得不",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bù dé bù",
+          "wade_giles_pinyin": "bu4 de2 bu4"
+        }
+      ],
+      "simplified": "不得不",
+      "simplified_stroke_count": null,
+      "traditional": "不得不",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "have no choice or option but to"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "cannot but"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "have to"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "can't help it"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "can't avoid"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

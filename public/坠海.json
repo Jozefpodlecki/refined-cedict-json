@@ -1,0 +1,34 @@
+{
+  "simplified": "坠海",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhuì hǎi",
+          "wade_giles_pinyin": "zhui4 hai3"
+        }
+      ],
+      "simplified": "坠海",
+      "simplified_stroke_count": 0,
+      "traditional": "墜海",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to fall into the ocean"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to crash into the ocean"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

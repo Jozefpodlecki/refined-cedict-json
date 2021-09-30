@@ -1,0 +1,59 @@
+{
+  "simplified": "德性",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dé xìng",
+          "wade_giles_pinyin": "de2 xing4"
+        }
+      ],
+      "simplified": "德性",
+      "simplified_stroke_count": 0,
+      "traditional": "德性",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "moral integrity"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dé xing",
+          "wade_giles_pinyin": "de2 xing5"
+        }
+      ],
+      "simplified": "德性",
+      "simplified_stroke_count": 0,
+      "traditional": "德性",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "colloquial",
+          "lexical_item": "",
+          "value": "revolting behavior"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:副[fu4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "副",
+          "traditional": "",
+          "wade_giles_pinyin": "fu4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "simplified": "富国强兵",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fù guó qiáng bīng",
+          "wade_giles_pinyin": "fu4 guo2 qiang2 bing1"
+        }
+      ],
+      "simplified": "富国强兵",
+      "traditional": "富國強兵",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "rich country, strong army ; slogan of legalist philosophers in pre-Han times"
+        },
+        {
+          "context": "Japanese",
+          "value": "Make the country wealthy and the military powerful, slogan of modernizers in Qing China and Meiji Japan (Japanese pronunciation: Fukoku kyōhei)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

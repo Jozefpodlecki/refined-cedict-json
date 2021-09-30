@@ -1,0 +1,34 @@
+{
+  "simplified": "侠",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiá",
+          "wade_giles_pinyin": "xia2"
+        }
+      ],
+      "simplified": "侠",
+      "simplified_stroke_count": 8,
+      "traditional": "俠",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "knight-errant"
+        },
+        {
+          "value": "brave and chivalrous"
+        },
+        {
+          "value": "hero"
+        },
+        {
+          "value": "heroic"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "simplified": "弹夹",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dàn jiā",
+          "wade_giles_pinyin": "dan4 jia1"
+        }
+      ],
+      "simplified": "弹夹",
+      "simplified_stroke_count": 0,
+      "traditional": "彈夾",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "ammunition clip"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "cartridge clip"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "magazine (for ammunition)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

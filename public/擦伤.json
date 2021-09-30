@@ -1,0 +1,42 @@
+{
+  "simplified": "擦伤",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cā shāng",
+          "wade_giles_pinyin": "ca1 shang1"
+        }
+      ],
+      "simplified": "擦伤",
+      "traditional": "擦傷",
+      "meanings": [
+        {
+          "value": "to abrade"
+        },
+        {
+          "value": "to scrape"
+        },
+        {
+          "value": "to chafe"
+        },
+        {
+          "value": "to graze"
+        },
+        {
+          "value": "abrasion"
+        },
+        {
+          "value": "friction burn"
+        },
+        {
+          "value": "scratch"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

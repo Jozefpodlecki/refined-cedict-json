@@ -1,0 +1,30 @@
+{
+  "simplified": "发红",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fā hóng",
+          "wade_giles_pinyin": "fa1 hong2"
+        }
+      ],
+      "simplified": "发红",
+      "traditional": "發紅",
+      "meanings": [
+        {
+          "value": "to turn red"
+        },
+        {
+          "value": "to blush"
+        },
+        {
+          "value": "to flush"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

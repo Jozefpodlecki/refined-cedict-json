@@ -1,0 +1,32 @@
+{
+  "simplified": "荸荠",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bí qí",
+          "wade_giles_pinyin": "bi2 qi2"
+        }
+      ],
+      "simplified": "荸荠",
+      "simplified_stroke_count": null,
+      "traditional": "荸薺",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "Chinese water chestnut"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "Eleocharis dulcis or E. congesta"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

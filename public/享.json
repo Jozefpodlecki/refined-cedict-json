@@ -1,0 +1,58 @@
+{
+  "simplified": "享",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiǎng",
+          "wade_giles_pinyin": "xiang3"
+        }
+      ],
+      "simplified": "享",
+      "simplified_stroke_count": 8,
+      "traditional": "享",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "to enjoy"
+        },
+        {
+          "value": "to benefit"
+        },
+        {
+          "value": "to have the use of"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiǎng",
+          "wade_giles_pinyin": "xiang3"
+        }
+      ],
+      "simplified": "享",
+      "simplified_stroke_count": 8,
+      "traditional": "亯",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 享[xiang3]",
+          "simplified": "享",
+          "traditional": "",
+          "wade_giles_pinyin": "xiang3"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

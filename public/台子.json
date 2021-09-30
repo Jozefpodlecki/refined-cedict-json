@@ -1,0 +1,45 @@
+{
+  "simplified": "台子",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tái zi",
+          "wade_giles_pinyin": "tai2 zi5"
+        }
+      ],
+      "simplified": "台子",
+      "traditional": "檯子",
+      "meanings": [
+        {
+          "value": "desk"
+        },
+        {
+          "value": "(pool etc) table"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tái zi",
+          "wade_giles_pinyin": "tai2 zi5"
+        }
+      ],
+      "simplified": "台子",
+      "traditional": "臺子",
+      "meanings": [
+        {
+          "value": "platform"
+        },
+        {
+          "value": "stand"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

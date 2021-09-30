@@ -1,0 +1,27 @@
+{
+  "simplified": "出借",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chū jiè",
+          "wade_giles_pinyin": "chu1 jie4"
+        }
+      ],
+      "simplified": "出借",
+      "traditional": "出借",
+      "meanings": [
+        {
+          "value": "to lend"
+        },
+        {
+          "value": "to put out a loan"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

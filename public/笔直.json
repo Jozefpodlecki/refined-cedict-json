@@ -1,0 +1,37 @@
+{
+  "simplified": "笔直",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǐ zhí",
+          "wade_giles_pinyin": "bi3 zhi2"
+        }
+      ],
+      "simplified": "笔直",
+      "simplified_stroke_count": null,
+      "traditional": "筆直",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "perfectly straight"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "straight as a ramrod"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "bolt upright"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "水果刀",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shuǐ guǒ dāo",
+          "wade_giles_pinyin": "shui3 guo3 dao1"
+        }
+      ],
+      "simplified": "水果刀",
+      "traditional": "水果刀",
+      "meanings": [
+        {
+          "value": "paring knife"
+        },
+        {
+          "value": "fruit knife"
+        },
+        {
+          "value": "CL:把[ba3]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "把",
+          "traditional": "",
+          "wade_giles_pinyin": "ba3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

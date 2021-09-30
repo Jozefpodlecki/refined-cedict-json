@@ -1,0 +1,27 @@
+{
+  "simplified": "坐班",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zuò bān",
+          "wade_giles_pinyin": "zuo4 ban1"
+        }
+      ],
+      "simplified": "坐班",
+      "traditional": "坐班",
+      "meanings": [
+        {
+          "value": "to work office hours"
+        },
+        {
+          "value": "on duty"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

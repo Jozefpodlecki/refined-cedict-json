@@ -1,0 +1,42 @@
+{
+  "simplified": "顺",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shùn",
+          "wade_giles_pinyin": "shun4"
+        }
+      ],
+      "simplified": "顺",
+      "simplified_stroke_count": 9,
+      "traditional": "順",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "to obey"
+        },
+        {
+          "value": "to follow"
+        },
+        {
+          "value": "to arrange"
+        },
+        {
+          "value": "to make reasonable"
+        },
+        {
+          "value": "along"
+        },
+        {
+          "value": "favorable"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

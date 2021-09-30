@@ -1,0 +1,47 @@
+{
+  "simplified": "䯝",
+  "simplified_stroke_count": 19,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "suǐ",
+          "wade_giles_pinyin": "sui3"
+        }
+      ],
+      "simplified": "䯝",
+      "simplified_stroke_count": 19,
+      "traditional": "䯝",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": null,
+          "value": "髓"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "marrow"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "essence"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "quintessence"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "pith (soft interior of plant stem)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

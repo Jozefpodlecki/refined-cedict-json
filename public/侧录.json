@@ -1,0 +1,30 @@
+{
+  "simplified": "侧录",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cè lù",
+          "wade_giles_pinyin": "ce4 lu4"
+        }
+      ],
+      "simplified": "侧录",
+      "traditional": "側錄",
+      "meanings": [
+        {
+          "value": "to capture data"
+        },
+        {
+          "value": "to record illicitly"
+        },
+        {
+          "value": "data skimming"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

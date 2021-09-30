@@ -1,0 +1,58 @@
+{
+  "simplified": "藤",
+  "simplified_stroke_count": 19,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " téng",
+          "wade_giles_pinyin": "teng2"
+        }
+      ],
+      "simplified": "藤",
+      "simplified_stroke_count": 19,
+      "traditional": "籐",
+      "traditional_stroke_count": 21,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "藤[teng2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " téng",
+          "wade_giles_pinyin": "teng2"
+        }
+      ],
+      "simplified": "藤",
+      "simplified_stroke_count": 19,
+      "traditional": "藤",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "rattan"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "cane"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "vine"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

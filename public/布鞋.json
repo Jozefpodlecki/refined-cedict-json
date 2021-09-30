@@ -1,0 +1,33 @@
+{
+  "simplified": "布鞋",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bù xié",
+          "wade_giles_pinyin": "bu4 xie2"
+        }
+      ],
+      "simplified": "布鞋",
+      "traditional": "布鞋",
+      "meanings": [
+        {
+          "value": "cloth shoes"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "雙",
+          "traditional": "双",
+          "wade_giles_pinyin": "shuang1"
+        },
+        {
+          "simplified": "隻",
+          "traditional": "只",
+          "wade_giles_pinyin": "zhi1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

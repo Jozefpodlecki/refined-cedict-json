@@ -1,0 +1,37 @@
+{
+  "simplified": "赀",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zī",
+          "wade_giles_pinyin": "zi1"
+        }
+      ],
+      "simplified": "赀",
+      "simplified_stroke_count": 10,
+      "traditional": "貲",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "to estimate"
+        },
+        {
+          "value": "to fine (archaic)"
+        },
+        {
+          "context": "variant",
+          "value": "variant of 資|资[zi1]",
+          "simplified": "資",
+          "traditional": "资",
+          "wade_giles_pinyin": "zi1"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

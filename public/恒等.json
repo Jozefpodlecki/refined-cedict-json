@@ -1,0 +1,32 @@
+{
+  "simplified": "恒等",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "héng děng",
+          "wade_giles_pinyin": "heng2 deng3"
+        }
+      ],
+      "simplified": "恒等",
+      "simplified_stroke_count": null,
+      "traditional": "恆等",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "identity ≡ (math., logic)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "identical"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

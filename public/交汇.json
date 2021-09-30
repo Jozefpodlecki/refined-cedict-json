@@ -1,0 +1,59 @@
+{
+  "simplified": "交汇",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiāo huì",
+          "wade_giles_pinyin": "jiao1 hui4"
+        }
+      ],
+      "simplified": "交汇",
+      "traditional": "交匯",
+      "meanings": [
+        {
+          "value": "to flow together"
+        },
+        {
+          "value": "confluence (of rivers, airflow, roads)"
+        },
+        {
+          "value": "(international) cooperation"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiāo huì",
+          "wade_giles_pinyin": "jiao1 hui4"
+        }
+      ],
+      "simplified": "交汇",
+      "traditional": "交彙",
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "交匯|交汇"
+        },
+        {
+          "value": "to flow together"
+        },
+        {
+          "value": "confluence (of rivers, airflow, roads)"
+        },
+        {
+          "value": "(international) cooperation"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

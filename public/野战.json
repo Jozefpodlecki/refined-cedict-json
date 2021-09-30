@@ -1,0 +1,32 @@
+{
+  "simplified": "野战",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yě zhàn",
+          "wade_giles_pinyin": "ye3 zhan4"
+        }
+      ],
+      "simplified": "野战",
+      "simplified_stroke_count": null,
+      "traditional": "野戰",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "battlefield operation"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "paintball"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

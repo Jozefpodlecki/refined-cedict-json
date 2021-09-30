@@ -1,0 +1,28 @@
+{
+  "simplified": "货币",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huò bì",
+          "wade_giles_pinyin": "huo4 bi4"
+        }
+      ],
+      "simplified": "货币",
+      "traditional": "貨幣",
+      "meanings": [
+        {
+          "value": "currency"
+        },
+        {
+          "value": "monetary"
+        },
+        {
+          "value": "money"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

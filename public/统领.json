@@ -1,0 +1,33 @@
+{
+  "simplified": "统领",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tǒng lǐng",
+          "wade_giles_pinyin": "tong3 ling3"
+        }
+      ],
+      "simplified": "统领",
+      "traditional": "統領",
+      "meanings": [
+        {
+          "value": "to lead"
+        },
+        {
+          "value": "to command"
+        },
+        {
+          "value": "commander"
+        },
+        {
+          "value": "officer"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "simplified": "一面倒",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yī miàn dǎo",
+          "wade_giles_pinyin": "yi1 mian4 dao3"
+        }
+      ],
+      "simplified": "一面倒",
+      "traditional": "一面倒",
+      "meanings": [
+        {
+          "value": "to be entirely on one side"
+        },
+        {
+          "value": "one-sided"
+        },
+        {
+          "value": "lopsided"
+        },
+        {
+          "value": "partisan"
+        },
+        {
+          "value": "overwhelmingly on one side"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

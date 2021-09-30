@@ -1,0 +1,47 @@
+{
+  "simplified": "葛",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gě",
+          "wade_giles_pinyin": "Ge3"
+        }
+      ],
+      "simplified": "葛",
+      "simplified_stroke_count": 11,
+      "traditional": "葛",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "surname Ge"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gé",
+          "wade_giles_pinyin": "ge2"
+        }
+      ],
+      "simplified": "葛",
+      "simplified_stroke_count": 11,
+      "traditional": "葛",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "kudzu (Pueraria lobata)"
+        },
+        {
+          "value": "hemp cloth"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

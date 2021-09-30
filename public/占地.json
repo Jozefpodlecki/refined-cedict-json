@@ -1,0 +1,27 @@
+{
+  "simplified": "占地",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhàn dì",
+          "wade_giles_pinyin": "zhan4 di4"
+        }
+      ],
+      "simplified": "占地",
+      "traditional": "占地",
+      "meanings": [
+        {
+          "value": "to take up space"
+        },
+        {
+          "value": "to occupy (space)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

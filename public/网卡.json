@@ -1,0 +1,27 @@
+{
+  "simplified": "网卡",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " wǎng kǎ",
+          "wade_giles_pinyin": "wang3 ka3"
+        }
+      ],
+      "simplified": "网卡",
+      "simplified_stroke_count": 0,
+      "traditional": "網卡",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "network adapter card (computing)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

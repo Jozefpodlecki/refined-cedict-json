@@ -1,0 +1,34 @@
+{
+  "simplified": "卖淫",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " mài yín",
+          "wade_giles_pinyin": "mai4 yin2"
+        }
+      ],
+      "simplified": "卖淫",
+      "simplified_stroke_count": 0,
+      "traditional": "賣淫",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "prostitution"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to prostitute oneself"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

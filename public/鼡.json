@@ -1,0 +1,29 @@
+{
+  "simplified": "鼡",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shǔ",
+          "wade_giles_pinyin": "shu3"
+        }
+      ],
+      "simplified": "鼡",
+      "simplified_stroke_count": 8,
+      "traditional": "鼡",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 鼠[shu3]",
+          "simplified": "鼠",
+          "traditional": "",
+          "wade_giles_pinyin": "shu3"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

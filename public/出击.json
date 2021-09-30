@@ -1,0 +1,34 @@
+{
+  "simplified": "出击",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chū jī",
+          "wade_giles_pinyin": "chu1 ji1"
+        }
+      ],
+      "simplified": "出击",
+      "simplified_stroke_count": 0,
+      "traditional": "出擊",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to sally"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to attack"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

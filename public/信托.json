@@ -1,0 +1,27 @@
+{
+  "simplified": "信托",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xìn tuō",
+          "wade_giles_pinyin": "xin4 tuo1"
+        }
+      ],
+      "simplified": "信托",
+      "traditional": "信託",
+      "meanings": [
+        {
+          "value": "to entrust"
+        },
+        {
+          "value": "trust bond (finance)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

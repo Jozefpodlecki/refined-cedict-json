@@ -1,0 +1,53 @@
+{
+  "simplified": "宓",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " mì",
+          "wade_giles_pinyin": "Mi4"
+        }
+      ],
+      "simplified": "宓",
+      "simplified_stroke_count": 8,
+      "traditional": "宓",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "surname Mi"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " mì",
+          "wade_giles_pinyin": "mi4"
+        }
+      ],
+      "simplified": "宓",
+      "simplified_stroke_count": 8,
+      "traditional": "宓",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "still"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "silent"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

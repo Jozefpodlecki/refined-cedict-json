@@ -1,0 +1,26 @@
+{
+  "simplified": "计程车",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jì chéng chē",
+          "wade_giles_pinyin": "ji4 cheng2 che1"
+        }
+      ],
+      "simplified": "计程车",
+      "traditional": "計程車",
+      "meanings": [
+        {
+          "context": "taiwan",
+          "value": "taxi"
+        },
+        {
+          "value": "cab"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

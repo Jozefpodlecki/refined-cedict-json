@@ -1,0 +1,37 @@
+{
+  "simplified": "扶梯",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fú tī",
+          "wade_giles_pinyin": "fu2 ti1"
+        }
+      ],
+      "simplified": "扶梯",
+      "simplified_stroke_count": 0,
+      "traditional": "扶梯",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "ladder"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "staircase"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "escalator"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

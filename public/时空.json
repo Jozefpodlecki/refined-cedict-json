@@ -1,0 +1,28 @@
+{
+  "simplified": "时空",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shí kōng",
+          "wade_giles_pinyin": "shi2 kong1"
+        }
+      ],
+      "simplified": "时空",
+      "traditional": "時空",
+      "meanings": [
+        {
+          "value": "time and place"
+        },
+        {
+          "value": "world of a particular locale and era"
+        },
+        {
+          "value": "(physics) space-time"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

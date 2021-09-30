@@ -1,0 +1,67 @@
+{
+  "simplified": "舒",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shū",
+          "wade_giles_pinyin": "Shu1"
+        }
+      ],
+      "simplified": "舒",
+      "simplified_stroke_count": 12,
+      "traditional": "舒",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "surname Shu"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shū",
+          "wade_giles_pinyin": "shu1"
+        }
+      ],
+      "simplified": "舒",
+      "simplified_stroke_count": 12,
+      "traditional": "舒",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to stretch"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to unfold"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to relax"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "leisurely"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

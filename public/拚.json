@@ -1,0 +1,48 @@
+{
+  "simplified": "拚",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pàn",
+          "wade_giles_pinyin": "pan4"
+        }
+      ],
+      "simplified": "拚",
+      "simplified_stroke_count": 8,
+      "traditional": "拚",
+      "traditional_stroke_count": 8,
+      "meanings": [],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pīn",
+          "wade_giles_pinyin": "pin1"
+        }
+      ],
+      "simplified": "拚",
+      "simplified_stroke_count": 8,
+      "traditional": "拚",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 拼[pin1]",
+          "simplified": "拼",
+          "traditional": "",
+          "wade_giles_pinyin": "pin1"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "洗地",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xǐ dì",
+          "wade_giles_pinyin": "xi3 di4"
+        }
+      ],
+      "simplified": "洗地",
+      "traditional": "洗地",
+      "meanings": [
+        {
+          "value": "to clean the floor"
+        },
+        {
+          "context": "literature",
+          "value": "(Internet slang)  to wash (the blood) off the floor"
+        },
+        {
+          "context": "figuratively",
+          "value": "to cover up evidence of sb's wrongdoing"
+        },
+        {
+          "value": "to defend (a wrongdoer)"
+        },
+        {
+          "context": "colloquial",
+          "value": "to carpet-bomb"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

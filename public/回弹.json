@@ -1,0 +1,31 @@
+{
+  "simplified": "回弹",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huí tán",
+          "wade_giles_pinyin": "hui2 tan2"
+        }
+      ],
+      "simplified": "回弹",
+      "traditional": "回彈",
+      "meanings": [
+        {
+          "value": "(of sth that has been deformed) to spring back to original shape"
+        },
+        {
+          "context": "figuratively",
+          "value": "to rebound"
+        },
+        {
+          "value": "to bounce back"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

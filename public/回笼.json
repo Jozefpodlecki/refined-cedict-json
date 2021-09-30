@@ -1,0 +1,30 @@
+{
+  "simplified": "回笼",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huí lóng",
+          "wade_giles_pinyin": "hui2 long2"
+        }
+      ],
+      "simplified": "回笼",
+      "traditional": "回籠",
+      "meanings": [
+        {
+          "value": "to steam again"
+        },
+        {
+          "value": "to rewarm food in a bamboo steamer"
+        },
+        {
+          "value": "to withdraw currency from circulation"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

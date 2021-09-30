@@ -1,0 +1,54 @@
+{
+  "simplified": "灭亡",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "miè wáng",
+          "wade_giles_pinyin": "mie4 wang2"
+        }
+      ],
+      "simplified": "灭亡",
+      "simplified_stroke_count": null,
+      "traditional": "滅亡",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to be destroyed"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to become extinct"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to perish"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to die out"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to destroy"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to exterminate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

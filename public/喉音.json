@@ -1,0 +1,32 @@
+{
+  "simplified": "喉音",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " hóu yīn",
+          "wade_giles_pinyin": "hou2 yin1"
+        }
+      ],
+      "simplified": "喉音",
+      "simplified_stroke_count": 0,
+      "traditional": "喉音",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "guttural sound"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(linguistics) glottal (or laryngeal) consonant"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

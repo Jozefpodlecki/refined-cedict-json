@@ -1,0 +1,34 @@
+{
+  "simplified": "在握",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zài wò",
+          "wade_giles_pinyin": "zai4 wo4"
+        }
+      ],
+      "simplified": "在握",
+      "simplified_stroke_count": null,
+      "traditional": "在握",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": "figuratively",
+          "lexical_item": null,
+          "value": "to hold in one's hands"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to be within grasp"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

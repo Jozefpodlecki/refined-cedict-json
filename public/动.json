@@ -1,0 +1,52 @@
+{
+  "simplified": "动",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dòng",
+          "wade_giles_pinyin": "dong4"
+        }
+      ],
+      "simplified": "动",
+      "simplified_stroke_count": 6,
+      "traditional": "動",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "(of sth) to move"
+        },
+        {
+          "value": "to set in movement"
+        },
+        {
+          "value": "to displace"
+        },
+        {
+          "value": "to touch"
+        },
+        {
+          "value": "to make use of"
+        },
+        {
+          "value": "to stir (emotions)"
+        },
+        {
+          "value": "to alter"
+        },
+        {
+          "context": "abbreviation",
+          "value": "動詞|动词[dong4 ci2], verb",
+          "simplified": "動",
+          "traditional": "詞|动词",
+          "wade_giles_pinyin": "dong4 ci2"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

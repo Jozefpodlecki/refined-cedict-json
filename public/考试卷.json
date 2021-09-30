@@ -1,0 +1,31 @@
+{
+  "simplified": "考试卷",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kǎo shì juàn",
+          "wade_giles_pinyin": "kao3 shi4 juan4"
+        }
+      ],
+      "simplified": "考试卷",
+      "traditional": "考試卷",
+      "meanings": [
+        {
+          "value": "exam paper"
+        },
+        {
+          "value": "test paper"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "張",
+          "traditional": "张",
+          "wade_giles_pinyin": "zhang1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

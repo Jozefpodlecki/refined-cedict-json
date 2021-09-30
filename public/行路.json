@@ -1,0 +1,34 @@
+{
+  "simplified": "行路",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xíng lù",
+          "wade_giles_pinyin": "xing2 lu4"
+        }
+      ],
+      "simplified": "行路",
+      "simplified_stroke_count": 0,
+      "traditional": "行路",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to travel"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "transport"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

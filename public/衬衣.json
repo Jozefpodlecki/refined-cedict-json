@@ -1,0 +1,28 @@
+{
+  "simplified": "衬衣",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chèn yī",
+          "wade_giles_pinyin": "chen4 yi1"
+        }
+      ],
+      "simplified": "衬衣",
+      "traditional": "襯衣",
+      "meanings": [
+        {
+          "value": "shirt"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "件",
+          "traditional": "",
+          "wade_giles_pinyin": "jian4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "simplified": "蚊",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wén",
+          "wade_giles_pinyin": "wen2"
+        }
+      ],
+      "simplified": "蚊",
+      "simplified_stroke_count": 10,
+      "traditional": "蚊",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "mosquito"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wén",
+          "wade_giles_pinyin": "wen2"
+        }
+      ],
+      "simplified": "蚊",
+      "simplified_stroke_count": 10,
+      "traditional": "螡",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 蚊[wen2]",
+          "simplified": "蚊",
+          "traditional": "",
+          "wade_giles_pinyin": "wen2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wén",
+          "wade_giles_pinyin": "wen2"
+        }
+      ],
+      "simplified": "蚊",
+      "simplified_stroke_count": 10,
+      "traditional": "蟁",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 蚊[wen2]",
+          "simplified": "蚊",
+          "traditional": "",
+          "wade_giles_pinyin": "wen2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

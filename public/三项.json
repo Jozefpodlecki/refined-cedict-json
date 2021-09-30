@@ -1,0 +1,38 @@
+{
+  "simplified": "三项",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sān xiàng",
+          "wade_giles_pinyin": "san1 xiang4"
+        }
+      ],
+      "simplified": "三项",
+      "traditional": "三項",
+      "meanings": [
+        {
+          "value": "three items"
+        },
+        {
+          "value": "three events"
+        },
+        {
+          "value": "three terms"
+        },
+        {
+          "value": "tri-"
+        },
+        {
+          "value": "trinomial, ternary (math.)"
+        },
+        {
+          "context": "abbreviation",
+          "value": "triathlon ( 三項全能|三项全能)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

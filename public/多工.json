@@ -1,0 +1,39 @@
+{
+  "simplified": "多工",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "duō gōng",
+          "wade_giles_pinyin": "duo1 gong1"
+        }
+      ],
+      "simplified": "多工",
+      "simplified_stroke_count": null,
+      "traditional": "多工",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to multiplex"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "multiple"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "multi-"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

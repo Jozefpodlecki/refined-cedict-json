@@ -1,0 +1,31 @@
+{
+  "simplified": "矛",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "máo",
+          "wade_giles_pinyin": "mao2"
+        }
+      ],
+      "simplified": "矛",
+      "simplified_stroke_count": 5,
+      "traditional": "矛",
+      "traditional_stroke_count": 5,
+      "meanings": [
+        {
+          "value": "spear"
+        },
+        {
+          "value": "lance"
+        },
+        {
+          "value": "pike"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

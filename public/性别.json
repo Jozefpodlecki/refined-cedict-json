@@ -1,0 +1,32 @@
+{
+  "simplified": "性别",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xìng bié",
+          "wade_giles_pinyin": "xing4 bie2"
+        }
+      ],
+      "simplified": "性别",
+      "simplified_stroke_count": 0,
+      "traditional": "性別",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "gender"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "sex"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

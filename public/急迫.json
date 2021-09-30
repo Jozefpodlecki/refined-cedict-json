@@ -1,0 +1,37 @@
+{
+  "simplified": "急迫",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jí pò",
+          "wade_giles_pinyin": "ji2 po4"
+        }
+      ],
+      "simplified": "急迫",
+      "simplified_stroke_count": null,
+      "traditional": "急迫",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "urgent"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "pressing"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "imperative"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

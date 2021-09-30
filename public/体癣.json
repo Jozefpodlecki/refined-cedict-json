@@ -1,0 +1,32 @@
+{
+  "simplified": "体癣",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " tǐ xuǎn",
+          "wade_giles_pinyin": "ti3 xuan3"
+        }
+      ],
+      "simplified": "体癣",
+      "simplified_stroke_count": 0,
+      "traditional": "體癬",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "ringworm"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Tinea corporis"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

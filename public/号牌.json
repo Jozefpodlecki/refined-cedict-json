@@ -1,0 +1,25 @@
+{
+  "simplified": "号牌",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hào pái",
+          "wade_giles_pinyin": "hao4 pai2"
+        }
+      ],
+      "simplified": "号牌",
+      "traditional": "號牌",
+      "meanings": [
+        {
+          "value": "license plate"
+        },
+        {
+          "value": "number plate"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

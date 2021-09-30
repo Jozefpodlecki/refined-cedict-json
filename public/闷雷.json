@@ -1,0 +1,37 @@
+{
+  "simplified": "闷雷",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mèn léi",
+          "wade_giles_pinyin": "men4 lei2"
+        }
+      ],
+      "simplified": "闷雷",
+      "simplified_stroke_count": null,
+      "traditional": "悶雷",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "muffled thunder"
+        },
+        {
+          "context": "figuratively",
+          "lexical_item": null,
+          "value": "sudden shock"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "blow"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

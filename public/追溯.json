@@ -1,0 +1,31 @@
+{
+  "simplified": "追溯",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhuī sù",
+          "wade_giles_pinyin": "zhui1 su4"
+        }
+      ],
+      "simplified": "追溯",
+      "traditional": "追溯",
+      "meanings": [
+        {
+          "context": "literature",
+          "value": "to go upstream"
+        },
+        {
+          "value": "to trace sth back to"
+        },
+        {
+          "value": "to date from"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

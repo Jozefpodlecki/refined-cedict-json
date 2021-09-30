@@ -1,0 +1,34 @@
+{
+  "simplified": "杀戮",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shā lù",
+          "wade_giles_pinyin": "sha1 lu4"
+        }
+      ],
+      "simplified": "杀戮",
+      "simplified_stroke_count": 0,
+      "traditional": "殺戮",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to massacre"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to slaughter"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

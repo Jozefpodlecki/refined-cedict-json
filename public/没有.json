@@ -1,0 +1,49 @@
+{
+  "simplified": "没有",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " méi yǒu",
+          "wade_giles_pinyin": "mei2 you3"
+        }
+      ],
+      "simplified": "没有",
+      "simplified_stroke_count": 0,
+      "traditional": "沒有",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "haven't"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "hasn't"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "doesn't exist"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to not have"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to not be"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

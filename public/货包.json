@@ -1,0 +1,32 @@
+{
+  "simplified": "货包",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huò bāo",
+          "wade_giles_pinyin": "huo4 bao1"
+        }
+      ],
+      "simplified": "货包",
+      "simplified_stroke_count": null,
+      "traditional": "貨包",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "bundle"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "bale"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

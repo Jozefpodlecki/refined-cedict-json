@@ -1,0 +1,43 @@
+{
+  "simplified": "嫌",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xián",
+          "wade_giles_pinyin": "xian2"
+        }
+      ],
+      "simplified": "嫌",
+      "simplified_stroke_count": 13,
+      "traditional": "嫌",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "to dislike"
+        },
+        {
+          "value": "suspicion"
+        },
+        {
+          "value": "resentment"
+        },
+        {
+          "value": "enmity"
+        },
+        {
+          "context": "abbreviation",
+          "value": "嫌犯[xian2 fan4], criminal suspect",
+          "simplified": "嫌",
+          "traditional": "犯",
+          "wade_giles_pinyin": "xian2 fan4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "simplified": "闯红灯",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chuǎng hóng dēng",
+          "wade_giles_pinyin": "chuang3 hong2 deng1"
+        }
+      ],
+      "simplified": "闯红灯",
+      "traditional": "闖紅燈",
+      "meanings": [
+        {
+          "value": "to run a red light"
+        },
+        {
+          "value": "failing to stop at a red traffic light"
+        },
+        {
+          "value": "(slang) to have sex with a girl while she is menstruating"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

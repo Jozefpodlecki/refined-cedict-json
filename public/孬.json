@@ -1,0 +1,37 @@
+{
+  "simplified": "孬",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " nāo",
+          "wade_giles_pinyin": "nao1"
+        }
+      ],
+      "simplified": "孬",
+      "simplified_stroke_count": 10,
+      "traditional": "孬",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "dialect",
+          "lexical_item": "",
+          "value": "no good"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(contraction of 不 and 好)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "see 孬種|孬种[nao1 zhong3]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

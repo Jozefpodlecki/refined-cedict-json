@@ -1,0 +1,25 @@
+{
+  "simplified": "电子烟",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diàn zǐ yān",
+          "wade_giles_pinyin": "dian4 zi3 yan1"
+        }
+      ],
+      "simplified": "电子烟",
+      "traditional": "電子煙",
+      "meanings": [
+        {
+          "value": "e-cigarette"
+        },
+        {
+          "value": "vape"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

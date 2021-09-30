@@ -1,0 +1,33 @@
+{
+  "simplified": "联合",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lián hé",
+          "wade_giles_pinyin": "lian2 he2"
+        }
+      ],
+      "simplified": "联合",
+      "traditional": "聯合",
+      "meanings": [
+        {
+          "value": "to combine"
+        },
+        {
+          "value": "to join"
+        },
+        {
+          "value": "unite"
+        },
+        {
+          "value": "alliance"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

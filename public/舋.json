@@ -1,0 +1,35 @@
+{
+  "simplified": "舋",
+  "simplified_stroke_count": 19,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xìn",
+          "wade_giles_pinyin": "xin4"
+        }
+      ],
+      "simplified": "舋",
+      "simplified_stroke_count": 19,
+      "traditional": "舋",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "釁|衅"
+        },
+        {
+          "value": "quarrel"
+        },
+        {
+          "value": "dispute"
+        },
+        {
+          "value": "a blood sacrifice (arch.)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "颓圮",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tuí pǐ",
+          "wade_giles_pinyin": "tui2 pi3"
+        }
+      ],
+      "simplified": "颓圮",
+      "simplified_stroke_count": null,
+      "traditional": "頹圮",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to collapse"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "dilapidated"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

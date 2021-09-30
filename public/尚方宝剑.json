@@ -1,0 +1,32 @@
+{
+  "simplified": "尚方宝剑",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shàng fāng bǎo jiàn",
+          "wade_giles_pinyin": "shang4 fang1 bao3 jian4"
+        }
+      ],
+      "simplified": "尚方宝剑",
+      "traditional": "尚方寶劍",
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 尚方劍|尚方剑[shang4 fang1 jian4]",
+          "simplified": "尚",
+          "traditional": "方劍|尚方剑",
+          "wade_giles_pinyin": "shang4 fang1 jian4"
+        },
+        {
+          "value": "imperial sword (giving bearer arbitrary powers)"
+        },
+        {
+          "value": "in fiction, Chinese version of 007's license to kill"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

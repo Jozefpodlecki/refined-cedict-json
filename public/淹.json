@@ -1,0 +1,49 @@
+{
+  "simplified": "淹",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yān",
+          "wade_giles_pinyin": "yan1"
+        }
+      ],
+      "simplified": "淹",
+      "simplified_stroke_count": 11,
+      "traditional": "淹",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to flood"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to submerge"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to drown"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to irritate the skin (of liquids)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to delay"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

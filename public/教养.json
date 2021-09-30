@@ -1,0 +1,64 @@
+{
+  "simplified": "教养",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiào yǎng",
+          "wade_giles_pinyin": "jiao4 yang3"
+        }
+      ],
+      "simplified": "教养",
+      "simplified_stroke_count": null,
+      "traditional": "教養",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to train"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to educate"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to bring up"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to nurture"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "education"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "culture"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "upbringing"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "early conditioning"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

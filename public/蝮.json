@@ -1,0 +1,32 @@
+{
+  "simplified": "蝮",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fù",
+          "wade_giles_pinyin": "fu4"
+        }
+      ],
+      "simplified": "蝮",
+      "simplified_stroke_count": 15,
+      "traditional": "蝮",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "insect"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "poisonous snake (archaic)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "simplified": "鸦雀无声",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yā què wú shēng",
+          "wade_giles_pinyin": "ya1 que4 wu2 sheng1"
+        }
+      ],
+      "simplified": "鸦雀无声",
+      "traditional": "鴉雀無聲",
+      "meanings": [
+        {
+          "context": "literature",
+          "value": "crow and peacock make no sound"
+        },
+        {
+          "lexical_item": "idiom",
+          "value": "absolute silence ; not a single voice can be heard"
+        },
+        {
+          "value": "absolute silence"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

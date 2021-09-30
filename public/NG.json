@@ -1,0 +1,34 @@
+{
+  "simplified": "NG",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " n g",
+          "wade_giles_pinyin": "N G"
+        }
+      ],
+      "simplified": "NG",
+      "simplified_stroke_count": 0,
+      "traditional": "NG",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "polite",
+          "lexical_item": "",
+          "value": "(loanword from Japanese \"NG\", an initialism for \"no good\") (film and TV) blooper"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to do a blooper"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

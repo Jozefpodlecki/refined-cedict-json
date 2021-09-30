@@ -1,0 +1,32 @@
+{
+  "simplified": "雨果",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yǔ guǒ",
+          "wade_giles_pinyin": "Yu3 guo3"
+        }
+      ],
+      "simplified": "雨果",
+      "simplified_stroke_count": 0,
+      "traditional": "雨果",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Hugo (name)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Victor Hugo (1802-1885), French writer"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

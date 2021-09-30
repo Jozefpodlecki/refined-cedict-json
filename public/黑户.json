@@ -1,0 +1,32 @@
+{
+  "simplified": "黑户",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " hēi hù",
+          "wade_giles_pinyin": "hei1 hu4"
+        }
+      ],
+      "simplified": "黑户",
+      "simplified_stroke_count": 0,
+      "traditional": "黑戶",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "unregistered resident or household"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "unlicensed shop"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

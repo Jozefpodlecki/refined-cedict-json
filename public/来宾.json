@@ -1,0 +1,42 @@
+{
+  "simplified": "来宾",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lái bīn",
+          "wade_giles_pinyin": "Lai2 bin1"
+        }
+      ],
+      "simplified": "来宾",
+      "traditional": "來賓",
+      "meanings": [
+        {
+          "value": "Laibin prefecture-level city in Guangxi"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lái bīn",
+          "wade_giles_pinyin": "lai2 bin1"
+        }
+      ],
+      "simplified": "来宾",
+      "traditional": "來賓",
+      "meanings": [
+        {
+          "value": "guest"
+        },
+        {
+          "value": "visitor"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

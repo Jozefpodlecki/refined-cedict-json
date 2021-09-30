@@ -1,0 +1,37 @@
+{
+  "simplified": "毛毛雨",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "máo mao yǔ",
+          "wade_giles_pinyin": "mao2 mao5 yu3"
+        }
+      ],
+      "simplified": "毛毛雨",
+      "simplified_stroke_count": null,
+      "traditional": "毛毛雨",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "drizzle"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "light rain"
+        },
+        {
+          "context": "figuratively",
+          "lexical_item": null,
+          "value": "mere trifle"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

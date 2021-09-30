@@ -1,0 +1,34 @@
+{
+  "simplified": "辑录",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jí lù",
+          "wade_giles_pinyin": "ji2 lu4"
+        }
+      ],
+      "simplified": "辑录",
+      "simplified_stroke_count": null,
+      "traditional": "輯錄",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to compile"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to collect"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

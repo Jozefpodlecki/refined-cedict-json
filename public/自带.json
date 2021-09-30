@@ -1,0 +1,30 @@
+{
+  "simplified": "自带",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zì dài",
+          "wade_giles_pinyin": "zi4 dai4"
+        }
+      ],
+      "simplified": "自带",
+      "traditional": "自帶",
+      "meanings": [
+        {
+          "value": "to bring one's own"
+        },
+        {
+          "value": "BYO"
+        },
+        {
+          "value": "(of software) preinstalled"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

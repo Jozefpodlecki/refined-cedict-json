@@ -1,0 +1,43 @@
+{
+  "simplified": "学费",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xué feì",
+          "wade_giles_pinyin": "xue2 fei4"
+        }
+      ],
+      "simplified": "学费",
+      "simplified_stroke_count": 0,
+      "traditional": "學費",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "tuition fee"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "tuition"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:個|个[ge4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

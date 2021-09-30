@@ -1,0 +1,34 @@
+{
+  "simplified": "爆",
+  "simplified_stroke_count": 19,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bào",
+          "wade_giles_pinyin": "bao4"
+        }
+      ],
+      "simplified": "爆",
+      "simplified_stroke_count": 19,
+      "traditional": "爆",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to explode or burst"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to quick fry or quick boil"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

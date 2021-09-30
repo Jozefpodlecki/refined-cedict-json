@@ -1,0 +1,25 @@
+{
+  "simplified": "私人服务器",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sī rén fú wù qì",
+          "wade_giles_pinyin": "si1 ren2 fu2 wu4 qi4"
+        }
+      ],
+      "simplified": "私人服务器",
+      "traditional": "私人服務器",
+      "meanings": [
+        {
+          "value": "(gaming) server emulator"
+        },
+        {
+          "value": "private server"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

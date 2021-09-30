@@ -1,0 +1,39 @@
+{
+  "simplified": "删减",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shān jiǎn",
+          "wade_giles_pinyin": "shan1 jian3"
+        }
+      ],
+      "simplified": "删减",
+      "simplified_stroke_count": 0,
+      "traditional": "刪減",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to abridge (a text)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to edit out (of a movie)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to cut back (a budget, a curriculum)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

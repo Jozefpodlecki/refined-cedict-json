@@ -1,0 +1,44 @@
+{
+  "simplified": "带电",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dài diàn",
+          "wade_giles_pinyin": "dai4 dian4"
+        }
+      ],
+      "simplified": "带电",
+      "simplified_stroke_count": null,
+      "traditional": "帶電",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to electrify"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to charge"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "electrification"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "live (as in \"live wire\")"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

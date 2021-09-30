@@ -1,0 +1,28 @@
+{
+  "simplified": "人文",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rén wén",
+          "wade_giles_pinyin": "ren2 wen2"
+        }
+      ],
+      "simplified": "人文",
+      "traditional": "人文",
+      "meanings": [
+        {
+          "value": "humanities"
+        },
+        {
+          "value": "human affairs"
+        },
+        {
+          "value": "culture"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

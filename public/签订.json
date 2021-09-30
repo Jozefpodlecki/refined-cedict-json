@@ -1,0 +1,29 @@
+{
+  "simplified": "签订",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiān dìng",
+          "wade_giles_pinyin": "qian1 ding4"
+        }
+      ],
+      "simplified": "签订",
+      "simplified_stroke_count": null,
+      "traditional": "簽訂",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to agree to and sign (a treaty etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

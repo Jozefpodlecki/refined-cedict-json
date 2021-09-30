@@ -1,0 +1,22 @@
+{
+  "simplified": "重码词频",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chóng mǎ cí pín",
+          "wade_giles_pinyin": "chong2 ma3 ci2 pin2"
+        }
+      ],
+      "simplified": "重码词频",
+      "traditional": "重碼詞頻",
+      "meanings": [
+        {
+          "value": "frequency of coincident codes"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

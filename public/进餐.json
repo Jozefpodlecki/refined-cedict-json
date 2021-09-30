@@ -1,0 +1,29 @@
+{
+  "simplified": "进餐",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jìn cān",
+          "wade_giles_pinyin": "jin4 can1"
+        }
+      ],
+      "simplified": "进餐",
+      "simplified_stroke_count": 0,
+      "traditional": "進餐",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to have a meal"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

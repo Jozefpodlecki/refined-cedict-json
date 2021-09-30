@@ -1,0 +1,27 @@
+{
+  "simplified": "豆腐皮",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dòu fu pí",
+          "wade_giles_pinyin": "dou4 fu5 pi2"
+        }
+      ],
+      "simplified": "豆腐皮",
+      "simplified_stroke_count": null,
+      "traditional": "豆腐皮",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "tofu skin (made by drying the skin that forms on the surface of soymilk during cooking, and therefore not actually made from tofu)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

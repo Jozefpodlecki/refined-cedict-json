@@ -1,0 +1,27 @@
+{
+  "simplified": "离港",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lí gǎng",
+          "wade_giles_pinyin": "li2 gang3"
+        }
+      ],
+      "simplified": "离港",
+      "traditional": "離港",
+      "meanings": [
+        {
+          "value": "to leave harbor"
+        },
+        {
+          "value": "departure (at airport)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

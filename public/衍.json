@@ -1,0 +1,49 @@
+{
+  "simplified": "衍",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yǎn",
+          "wade_giles_pinyin": "yan3"
+        }
+      ],
+      "simplified": "衍",
+      "simplified_stroke_count": 9,
+      "traditional": "衍",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to spread out"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to develop"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to overflow"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to amplify"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "superfluous"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

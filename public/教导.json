@@ -1,0 +1,33 @@
+{
+  "simplified": "教导",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiào dǎo",
+          "wade_giles_pinyin": "jiao4 dao3"
+        }
+      ],
+      "simplified": "教导",
+      "traditional": "教導",
+      "meanings": [
+        {
+          "value": "to instruct"
+        },
+        {
+          "value": "to teach"
+        },
+        {
+          "value": "guidance"
+        },
+        {
+          "value": "teaching"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

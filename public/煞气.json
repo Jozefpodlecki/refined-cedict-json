@@ -1,0 +1,52 @@
+{
+  "simplified": "煞气",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shā qì",
+          "wade_giles_pinyin": "sha1 qi4"
+        }
+      ],
+      "simplified": "煞气",
+      "traditional": "煞氣",
+      "meanings": [
+        {
+          "value": "to vent one's anger on (an innocent party)"
+        },
+        {
+          "value": "to take it out on (sb)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shà qì",
+          "wade_giles_pinyin": "sha4 qi4"
+        }
+      ],
+      "simplified": "煞气",
+      "traditional": "煞氣",
+      "meanings": [
+        {
+          "value": "baleful look"
+        },
+        {
+          "value": "inauspicious influence"
+        },
+        {
+          "value": "(of a tire, balloon etc) to leak air"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

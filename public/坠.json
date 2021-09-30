@@ -1,0 +1,33 @@
+{
+  "simplified": "坠",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhuì",
+          "wade_giles_pinyin": "zhui4"
+        }
+      ],
+      "simplified": "坠",
+      "simplified_stroke_count": 7,
+      "traditional": "墜",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "to fall"
+        },
+        {
+          "value": "to drop"
+        },
+        {
+          "value": "to weigh down"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

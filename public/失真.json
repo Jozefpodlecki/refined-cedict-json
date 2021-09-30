@@ -1,0 +1,27 @@
+{
+  "simplified": "失真",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shī zhēn",
+          "wade_giles_pinyin": "shi1 zhen1"
+        }
+      ],
+      "simplified": "失真",
+      "traditional": "失真",
+      "meanings": [
+        {
+          "value": "to lack fidelity"
+        },
+        {
+          "value": "(signal) distortion"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

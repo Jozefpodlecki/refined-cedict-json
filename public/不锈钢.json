@@ -1,0 +1,39 @@
+{
+  "simplified": "不锈钢",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bù xiù gāng",
+          "wade_giles_pinyin": "bu4 xiu4 gang1"
+        }
+      ],
+      "simplified": "不锈钢",
+      "traditional": "不銹鋼",
+      "meanings": [
+        {
+          "value": "stainless steel"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bù xiù gāng",
+          "wade_giles_pinyin": "bu4 xiu4 gang1"
+        }
+      ],
+      "simplified": "不锈钢",
+      "traditional": "不鏽鋼",
+      "meanings": [
+        {
+          "value": "stainless steel"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

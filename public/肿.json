@@ -1,0 +1,33 @@
+{
+  "simplified": "肿",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhǒng",
+          "wade_giles_pinyin": "zhong3"
+        }
+      ],
+      "simplified": "肿",
+      "simplified_stroke_count": 8,
+      "traditional": "腫",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "to swell"
+        },
+        {
+          "value": "swelling"
+        },
+        {
+          "value": "swollen"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

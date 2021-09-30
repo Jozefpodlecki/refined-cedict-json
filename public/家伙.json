@@ -1,0 +1,56 @@
+{
+  "simplified": "家伙",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiā huo",
+          "wade_giles_pinyin": "jia1 huo5"
+        }
+      ],
+      "simplified": "家伙",
+      "traditional": "傢伙",
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 家伙[jia1 huo5]",
+          "simplified": "家",
+          "traditional": "伙",
+          "wade_giles_pinyin": "jia1 huo5"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiā huo",
+          "wade_giles_pinyin": "jia1 huo5"
+        }
+      ],
+      "simplified": "家伙",
+      "traditional": "家伙",
+      "meanings": [
+        {
+          "value": "household dish, implement or furniture"
+        },
+        {
+          "value": "domestic animal"
+        },
+        {
+          "context": "colloquial",
+          "value": "guy"
+        },
+        {
+          "value": "chap"
+        },
+        {
+          "value": "weapon"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

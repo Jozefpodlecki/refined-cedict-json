@@ -1,0 +1,27 @@
+{
+  "simplified": "法拍",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fǎ pāi",
+          "wade_giles_pinyin": "fa3 pai1"
+        }
+      ],
+      "simplified": "法拍",
+      "traditional": "法拍",
+      "meanings": [
+        {
+          "value": "judicial auction"
+        },
+        {
+          "value": "to sell by judicial auction"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

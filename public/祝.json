@@ -1,0 +1,58 @@
+{
+  "simplified": "祝",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhù",
+          "wade_giles_pinyin": "Zhu4"
+        }
+      ],
+      "simplified": "祝",
+      "simplified_stroke_count": 9,
+      "traditional": "祝",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "surname Zhu"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhù",
+          "wade_giles_pinyin": "zhu4"
+        }
+      ],
+      "simplified": "祝",
+      "simplified_stroke_count": 9,
+      "traditional": "祝",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "to wish"
+        },
+        {
+          "value": "to express good wishes"
+        },
+        {
+          "value": "to pray"
+        },
+        {
+          "context": "old",
+          "value": "wizard"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "simplified": "解析几何学",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiě xī jǐ hé xué",
+          "wade_giles_pinyin": "jie3 xi1 ji3 he2 xue2"
+        }
+      ],
+      "simplified": "解析几何学",
+      "traditional": "解析幾何學",
+      "meanings": [
+        {
+          "value": "analytic geometry"
+        },
+        {
+          "value": "coordinate geometry"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

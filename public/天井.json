@@ -1,0 +1,37 @@
+{
+  "simplified": "天井",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tiān jǐng",
+          "wade_giles_pinyin": "tian1 jing3"
+        }
+      ],
+      "simplified": "天井",
+      "traditional": "天井",
+      "meanings": [
+        {
+          "value": "courtyard"
+        },
+        {
+          "value": "atrium"
+        },
+        {
+          "value": "opening in a roof"
+        },
+        {
+          "value": "skylight"
+        },
+        {
+          "value": "caisson ceiling"
+        },
+        {
+          "value": "(TCM) acupuncture point TB10"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

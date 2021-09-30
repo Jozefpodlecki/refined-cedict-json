@@ -1,0 +1,40 @@
+{
+  "simplified": "汉堡",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hàn bǎo",
+          "wade_giles_pinyin": "Han4 bao3"
+        }
+      ],
+      "simplified": "汉堡",
+      "traditional": "漢堡",
+      "meanings": [
+        {
+          "value": "Hamburg (German city)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hàn bǎo",
+          "wade_giles_pinyin": "han4 bao3"
+        }
+      ],
+      "simplified": "汉堡",
+      "traditional": "漢堡",
+      "meanings": [
+        {
+          "context": "loanword",
+          "value": "hamburger"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

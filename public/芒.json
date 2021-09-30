@@ -1,0 +1,38 @@
+{
+  "simplified": "芒",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "máng",
+          "wade_giles_pinyin": "mang2"
+        }
+      ],
+      "simplified": "芒",
+      "simplified_stroke_count": 6,
+      "traditional": "芒",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "value": "awn (of cereals)"
+        },
+        {
+          "value": "arista (of grain)"
+        },
+        {
+          "value": "tip (of a blade)"
+        },
+        {
+          "value": "Miscanthus sinensis (type of grass)"
+        },
+        {
+          "context": "variant",
+          "value": "邙, Mt Mang at Luoyang in Henan"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

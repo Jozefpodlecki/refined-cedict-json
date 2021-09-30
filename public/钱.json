@@ -1,0 +1,56 @@
+{
+  "simplified": "钱",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qián",
+          "wade_giles_pinyin": "Qian2"
+        }
+      ],
+      "simplified": "钱",
+      "simplified_stroke_count": 10,
+      "traditional": "錢",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "surname Qian"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qián",
+          "wade_giles_pinyin": "qian2"
+        }
+      ],
+      "simplified": "钱",
+      "simplified_stroke_count": 10,
+      "traditional": "錢",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "coin"
+        },
+        {
+          "value": "money"
+        },
+        {
+          "value": "unit of weight, one tenth of a tael 兩|两[liang3]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "筆",
+          "traditional": "笔",
+          "wade_giles_pinyin": "bi3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

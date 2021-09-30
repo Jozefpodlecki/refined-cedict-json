@@ -1,0 +1,79 @@
+{
+  "simplified": "丘",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiū",
+          "wade_giles_pinyin": "Qiu1"
+        }
+      ],
+      "simplified": "丘",
+      "simplified_stroke_count": 5,
+      "traditional": "丘",
+      "traditional_stroke_count": 5,
+      "meanings": [
+        {
+          "value": "surname Qiu"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiū",
+          "wade_giles_pinyin": "qiu1"
+        }
+      ],
+      "simplified": "丘",
+      "simplified_stroke_count": 5,
+      "traditional": "丘",
+      "traditional_stroke_count": 5,
+      "meanings": [
+        {
+          "value": "mound"
+        },
+        {
+          "value": "hillock"
+        },
+        {
+          "value": "grave"
+        },
+        {
+          "value": "classifier for fields"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiū",
+          "wade_giles_pinyin": "qiu1"
+        }
+      ],
+      "simplified": "丘",
+      "simplified_stroke_count": 5,
+      "traditional": "坵",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 丘[qiu1]",
+          "simplified": "丘",
+          "traditional": "",
+          "wade_giles_pinyin": "qiu1"
+        },
+        {
+          "value": "hillock"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "simplified": "卦辞",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guà cí",
+          "wade_giles_pinyin": "gua4 ci2"
+        }
+      ],
+      "simplified": "卦辞",
+      "traditional": "卦辭",
+      "meanings": [
+        {
+          "value": "to interpret the divinatory trigrams"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

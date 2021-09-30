@@ -1,0 +1,22 @@
+{
+  "simplified": "满射",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mǎn shè",
+          "wade_giles_pinyin": "man3 she4"
+        }
+      ],
+      "simplified": "满射",
+      "traditional": "滿射",
+      "meanings": [
+        {
+          "value": "surjective map (math.)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

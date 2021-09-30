@@ -1,0 +1,34 @@
+{
+  "simplified": "居留",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jū liú",
+          "wade_giles_pinyin": "ju1 liu2"
+        }
+      ],
+      "simplified": "居留",
+      "simplified_stroke_count": 0,
+      "traditional": "居留",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "residence"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to reside"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

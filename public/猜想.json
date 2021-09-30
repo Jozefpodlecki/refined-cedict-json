@@ -1,0 +1,33 @@
+{
+  "simplified": "猜想",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cāi xiǎng",
+          "wade_giles_pinyin": "cai1 xiang3"
+        }
+      ],
+      "simplified": "猜想",
+      "traditional": "猜想",
+      "meanings": [
+        {
+          "value": "to guess"
+        },
+        {
+          "value": "to conjecture"
+        },
+        {
+          "value": "to suppose"
+        },
+        {
+          "value": "to suspect"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

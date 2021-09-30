@@ -1,0 +1,39 @@
+{
+  "simplified": "清偿",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " qīng cháng",
+          "wade_giles_pinyin": "qing1 chang2"
+        }
+      ],
+      "simplified": "清偿",
+      "simplified_stroke_count": 0,
+      "traditional": "清償",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to repay a debt in full"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to redeem"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to clear"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

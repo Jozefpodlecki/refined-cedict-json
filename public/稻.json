@@ -1,0 +1,28 @@
+{
+  "simplified": "稻",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dào",
+          "wade_giles_pinyin": "dao4"
+        }
+      ],
+      "simplified": "稻",
+      "simplified_stroke_count": 15,
+      "traditional": "稻",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "paddy"
+        },
+        {
+          "value": "rice (Oryza sativa)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

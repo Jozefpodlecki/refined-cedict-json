@@ -1,0 +1,74 @@
+{
+  "simplified": "万",
+  "simplified_stroke_count": 3,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " mò",
+          "wade_giles_pinyin": "Mo4"
+        }
+      ],
+      "simplified": "万",
+      "simplified_stroke_count": 3,
+      "traditional": "万",
+      "traditional_stroke_count": 3,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "see 万俟[Mo4 qi2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " wàn",
+          "wade_giles_pinyin": "Wan4"
+        }
+      ],
+      "simplified": "万",
+      "simplified_stroke_count": 3,
+      "traditional": "萬",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "surname Wan"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " wàn",
+          "wade_giles_pinyin": "wan4"
+        }
+      ],
+      "simplified": "万",
+      "simplified_stroke_count": 3,
+      "traditional": "萬",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "ten thousand"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "a great number"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

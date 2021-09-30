@@ -1,0 +1,34 @@
+{
+  "simplified": "现货",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiàn huò",
+          "wade_giles_pinyin": "xian4 huo4"
+        }
+      ],
+      "simplified": "现货",
+      "traditional": "現貨",
+      "meanings": [
+        {
+          "value": "merchandise or commodities available immediately after sale"
+        },
+        {
+          "value": "merchandise in stock"
+        },
+        {
+          "value": "available item"
+        },
+        {
+          "value": "actuals (investment)"
+        },
+        {
+          "value": "actual commodities"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

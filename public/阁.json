@@ -1,0 +1,40 @@
+{
+  "simplified": "阁",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gé",
+          "wade_giles_pinyin": "ge2"
+        }
+      ],
+      "simplified": "阁",
+      "simplified_stroke_count": 9,
+      "traditional": "閣",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "pavilion (usu. two-storied)"
+        },
+        {
+          "value": "cabinet (politics)"
+        },
+        {
+          "value": "boudoir"
+        },
+        {
+          "value": "woman's chamber"
+        },
+        {
+          "value": "rack"
+        },
+        {
+          "value": "shelf"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

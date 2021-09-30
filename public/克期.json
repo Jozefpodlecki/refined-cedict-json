@@ -1,0 +1,30 @@
+{
+  "simplified": "克期",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kè qī",
+          "wade_giles_pinyin": "ke4 qi1"
+        }
+      ],
+      "simplified": "克期",
+      "traditional": "克期",
+      "meanings": [
+        {
+          "value": "to set a date"
+        },
+        {
+          "value": "to set a time frame"
+        },
+        {
+          "value": "within a certain time limit"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

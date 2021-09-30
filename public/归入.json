@@ -1,0 +1,30 @@
+{
+  "simplified": "归入",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guī rù",
+          "wade_giles_pinyin": "gui1 ru4"
+        }
+      ],
+      "simplified": "归入",
+      "traditional": "歸入",
+      "meanings": [
+        {
+          "value": "to assign (to a class)"
+        },
+        {
+          "value": "to classify as"
+        },
+        {
+          "value": "to include"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

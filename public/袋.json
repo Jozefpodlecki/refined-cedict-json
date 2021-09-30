@@ -1,0 +1,42 @@
+{
+  "simplified": "袋",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dài",
+          "wade_giles_pinyin": "dai4"
+        }
+      ],
+      "simplified": "袋",
+      "simplified_stroke_count": 11,
+      "traditional": "袋",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "pouch"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "bag"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "sack"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "pocket"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

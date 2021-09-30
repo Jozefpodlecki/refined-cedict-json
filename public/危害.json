@@ -1,0 +1,42 @@
+{
+  "simplified": "危害",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wēi hài",
+          "wade_giles_pinyin": "wei1 hai4"
+        }
+      ],
+      "simplified": "危害",
+      "traditional": "危害",
+      "meanings": [
+        {
+          "value": "to jeopardize"
+        },
+        {
+          "value": "to harm"
+        },
+        {
+          "value": "to endanger"
+        },
+        {
+          "value": "harmful effect"
+        },
+        {
+          "value": "damage"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

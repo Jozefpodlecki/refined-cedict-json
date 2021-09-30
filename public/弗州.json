@@ -1,0 +1,29 @@
+{
+  "simplified": "弗州",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fú zhōu",
+          "wade_giles_pinyin": "Fu2 zhou1"
+        }
+      ],
+      "simplified": "弗州",
+      "traditional": "弗州",
+      "meanings": [
+        {
+          "value": "Virginia, US state"
+        },
+        {
+          "context": "abbreviation",
+          "value": "弗吉尼亞州|弗吉尼亚州[Fu2 ji2 ni2 ya4 zhou1]",
+          "simplified": "弗",
+          "traditional": "吉尼亞州|弗吉尼亚州",
+          "wade_giles_pinyin": "Fu2 ji2 ni2 ya4 zhou1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

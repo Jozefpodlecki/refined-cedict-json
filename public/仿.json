@@ -1,0 +1,80 @@
+{
+  "simplified": "仿",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fǎng",
+          "wade_giles_pinyin": "fang3"
+        }
+      ],
+      "simplified": "仿",
+      "simplified_stroke_count": 6,
+      "traditional": "仿",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to imitate"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to copy"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fǎng",
+          "wade_giles_pinyin": "fang3"
+        }
+      ],
+      "simplified": "仿",
+      "simplified_stroke_count": 6,
+      "traditional": "倣",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "仿[fang3]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fǎng",
+          "wade_giles_pinyin": "fang3"
+        }
+      ],
+      "simplified": "仿",
+      "simplified_stroke_count": 6,
+      "traditional": "彷",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "seemingly"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

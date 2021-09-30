@@ -1,0 +1,34 @@
+{
+  "simplified": "受审",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shòu shěn",
+          "wade_giles_pinyin": "shou4 shen3"
+        }
+      ],
+      "simplified": "受审",
+      "simplified_stroke_count": 0,
+      "traditional": "受審",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "on trial (for a crime)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to stand trial"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

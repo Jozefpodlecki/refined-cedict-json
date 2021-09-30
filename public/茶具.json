@@ -1,0 +1,25 @@
+{
+  "simplified": "茶具",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chá jù",
+          "wade_giles_pinyin": "cha2 ju4"
+        }
+      ],
+      "simplified": "茶具",
+      "traditional": "茶具",
+      "meanings": [
+        {
+          "value": "tea set"
+        },
+        {
+          "value": "tea service"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

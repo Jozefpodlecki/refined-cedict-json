@@ -1,0 +1,42 @@
+{
+  "simplified": "讯息",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xùn xī",
+          "wade_giles_pinyin": "xun4 xi1"
+        }
+      ],
+      "simplified": "讯息",
+      "simplified_stroke_count": 0,
+      "traditional": "訊息",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "information"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "news"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "message"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "text message or SMS"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

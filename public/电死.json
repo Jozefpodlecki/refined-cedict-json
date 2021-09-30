@@ -1,0 +1,27 @@
+{
+  "simplified": "电死",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diàn sǐ",
+          "wade_giles_pinyin": "dian4 si3"
+        }
+      ],
+      "simplified": "电死",
+      "traditional": "電死",
+      "meanings": [
+        {
+          "value": "to electrocute"
+        },
+        {
+          "value": "to die from an electric shock"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

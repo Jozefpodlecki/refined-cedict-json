@@ -1,0 +1,32 @@
+{
+  "simplified": "平直",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "píng zhí",
+          "wade_giles_pinyin": "ping2 zhi2"
+        }
+      ],
+      "simplified": "平直",
+      "simplified_stroke_count": null,
+      "traditional": "平直",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "smooth"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "level"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "菜刀",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cài dāo",
+          "wade_giles_pinyin": "cai4 dao1"
+        }
+      ],
+      "simplified": "菜刀",
+      "traditional": "菜刀",
+      "meanings": [
+        {
+          "value": "vegetable knife"
+        },
+        {
+          "value": "kitchen knife"
+        },
+        {
+          "value": "cleaver"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "把",
+          "traditional": "",
+          "wade_giles_pinyin": "ba3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

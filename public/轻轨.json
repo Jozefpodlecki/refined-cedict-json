@@ -1,0 +1,38 @@
+{
+  "simplified": "轻轨",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qīng guǐ",
+          "wade_giles_pinyin": "qing1 gui3"
+        }
+      ],
+      "simplified": "轻轨",
+      "traditional": "輕軌",
+      "meanings": [
+        {
+          "value": "light rail"
+        },
+        {
+          "value": "transit system (underground, at street level or elevated)"
+        },
+        {
+          "value": "streetcar"
+        },
+        {
+          "value": "metro"
+        },
+        {
+          "context": "abbreviation",
+          "value": "輕型軌道交通|轻型轨道交通[qing1 xing2 gui3 dao4 jiao1 tong1]",
+          "simplified": "輕",
+          "traditional": "型軌道交通|轻型轨道交通",
+          "wade_giles_pinyin": "qing1 xing2 gui3 dao4 jiao1 tong1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

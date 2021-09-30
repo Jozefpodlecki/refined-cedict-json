@@ -1,0 +1,58 @@
+{
+  "simplified": "弦",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xián",
+          "wade_giles_pinyin": "xian2"
+        }
+      ],
+      "simplified": "弦",
+      "simplified_stroke_count": 8,
+      "traditional": "弦",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "bow string"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "string of musical instrument"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "watchspring"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "chord (segment of curve)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "hypotenuse"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:根[gen1]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "根",
+          "traditional": "",
+          "wade_giles_pinyin": "gen1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

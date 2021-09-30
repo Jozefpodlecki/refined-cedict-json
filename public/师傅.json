@@ -1,0 +1,44 @@
+{
+  "simplified": "师傅",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shī fu",
+          "wade_giles_pinyin": "shi1 fu5"
+        }
+      ],
+      "simplified": "师傅",
+      "traditional": "師傅",
+      "meanings": [
+        {
+          "value": "master"
+        },
+        {
+          "value": "qualified worker"
+        },
+        {
+          "value": "respectful form of address for older men"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        },
+        {
+          "simplified": "位",
+          "traditional": "",
+          "wade_giles_pinyin": "wei4"
+        },
+        {
+          "simplified": "名",
+          "traditional": "",
+          "wade_giles_pinyin": "ming2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

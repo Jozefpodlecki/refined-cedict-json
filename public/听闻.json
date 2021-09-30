@@ -1,0 +1,30 @@
+{
+  "simplified": "听闻",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tīng wén",
+          "wade_giles_pinyin": "ting1 wen2"
+        }
+      ],
+      "simplified": "听闻",
+      "traditional": "聽聞",
+      "meanings": [
+        {
+          "value": "to listen"
+        },
+        {
+          "value": "to hear what sb says"
+        },
+        {
+          "value": "news one has heard"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

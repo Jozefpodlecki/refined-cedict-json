@@ -1,0 +1,30 @@
+{
+  "simplified": "洗涤",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xǐ dí",
+          "wade_giles_pinyin": "xi3 di2"
+        }
+      ],
+      "simplified": "洗涤",
+      "traditional": "洗滌",
+      "meanings": [
+        {
+          "value": "to rinse"
+        },
+        {
+          "value": "to wash"
+        },
+        {
+          "value": "washing"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "simplified": "溪",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xī",
+          "wade_giles_pinyin": "xi1"
+        }
+      ],
+      "simplified": "溪",
+      "simplified_stroke_count": 13,
+      "traditional": "溪",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "creek"
+        },
+        {
+          "value": "rivulet"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xī",
+          "wade_giles_pinyin": "xi1"
+        }
+      ],
+      "simplified": "溪",
+      "simplified_stroke_count": 13,
+      "traditional": "谿",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 溪[xi1]",
+          "simplified": "溪",
+          "traditional": "",
+          "wade_giles_pinyin": "xi1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

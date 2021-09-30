@@ -1,0 +1,36 @@
+{
+  "simplified": "蹉",
+  "simplified_stroke_count": 17,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cuō",
+          "wade_giles_pinyin": "cuo1"
+        }
+      ],
+      "simplified": "蹉",
+      "simplified_stroke_count": 17,
+      "traditional": "蹉",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "to error"
+        },
+        {
+          "value": "to slip"
+        },
+        {
+          "value": "to miss"
+        },
+        {
+          "value": "to err"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

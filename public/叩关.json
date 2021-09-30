@@ -1,0 +1,34 @@
+{
+  "simplified": "叩关",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kòu guān",
+          "wade_giles_pinyin": "kou4 guan1"
+        }
+      ],
+      "simplified": "叩关",
+      "traditional": "叩關",
+      "meanings": [
+        {
+          "context": "old",
+          "value": "to knock at the gate"
+        },
+        {
+          "value": "to make an approach"
+        },
+        {
+          "value": "to invade"
+        },
+        {
+          "value": "to attack the goal (sports)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

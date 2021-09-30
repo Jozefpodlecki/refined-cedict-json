@@ -1,0 +1,28 @@
+{
+  "simplified": "文职",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wén zhí",
+          "wade_giles_pinyin": "wen2 zhi2"
+        }
+      ],
+      "simplified": "文职",
+      "traditional": "文職",
+      "meanings": [
+        {
+          "value": "civilian post (as opposed to military)"
+        },
+        {
+          "value": "civil service"
+        },
+        {
+          "value": "administration"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

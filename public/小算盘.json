@@ -1,0 +1,29 @@
+{
+  "simplified": "小算盘",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiǎo suàn pán",
+          "wade_giles_pinyin": "xiao3 suan4 pan2"
+        }
+      ],
+      "simplified": "小算盘",
+      "traditional": "小算盤",
+      "meanings": [
+        {
+          "context": "literature",
+          "value": "small abacus"
+        },
+        {
+          "value": "fig. selfish calculations"
+        },
+        {
+          "value": "bean-counting"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

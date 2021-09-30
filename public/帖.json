@@ -1,0 +1,91 @@
+{
+  "simplified": "帖",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tiē",
+          "wade_giles_pinyin": "tie1"
+        }
+      ],
+      "simplified": "帖",
+      "simplified_stroke_count": 8,
+      "traditional": "帖",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "fitting snugly"
+        },
+        {
+          "value": "appropriate"
+        },
+        {
+          "value": "suitable"
+        },
+        {
+          "context": "variant",
+          "value": "variant of 貼|贴[tie1]",
+          "simplified": "貼",
+          "traditional": "贴",
+          "wade_giles_pinyin": "tie1"
+        },
+        {
+          "value": "to paste"
+        },
+        {
+          "value": "to obey"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tiě",
+          "wade_giles_pinyin": "tie3"
+        }
+      ],
+      "simplified": "帖",
+      "simplified_stroke_count": 8,
+      "traditional": "帖",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "invitation card"
+        },
+        {
+          "value": "notice"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tiè",
+          "wade_giles_pinyin": "tie4"
+        }
+      ],
+      "simplified": "帖",
+      "simplified_stroke_count": 8,
+      "traditional": "帖",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "rubbing from incised inscription"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

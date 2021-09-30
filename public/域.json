@@ -1,0 +1,34 @@
+{
+  "simplified": "域",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yù",
+          "wade_giles_pinyin": "yu4"
+        }
+      ],
+      "simplified": "域",
+      "simplified_stroke_count": 11,
+      "traditional": "域",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "field"
+        },
+        {
+          "value": "region"
+        },
+        {
+          "value": "area"
+        },
+        {
+          "value": "domain (taxonomy)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

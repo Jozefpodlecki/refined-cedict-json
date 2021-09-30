@@ -1,0 +1,39 @@
+{
+  "simplified": "参禅",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " cān chán",
+          "wade_giles_pinyin": "can1 chan2"
+        }
+      ],
+      "simplified": "参禅",
+      "simplified_stroke_count": 0,
+      "traditional": "參禪",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to practice Chan Buddhist meditation"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to practice Zen meditation"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to sit in meditation"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

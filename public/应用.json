@@ -1,0 +1,59 @@
+{
+  "simplified": "应用",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yìng yòng",
+          "wade_giles_pinyin": "ying4 yong4"
+        }
+      ],
+      "simplified": "应用",
+      "simplified_stroke_count": 0,
+      "traditional": "應用",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to put to use"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to apply"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "practical"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "applied (science, linguistics etc)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "application"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "practical use"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(computing) app"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

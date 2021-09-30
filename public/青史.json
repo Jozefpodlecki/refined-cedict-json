@@ -1,0 +1,31 @@
+{
+  "simplified": "青史",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qīng shǐ",
+          "wade_giles_pinyin": "qing1 shi3"
+        }
+      ],
+      "simplified": "青史",
+      "traditional": "青史",
+      "meanings": [
+        {
+          "value": "annal"
+        },
+        {
+          "value": "historical record"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "筆",
+          "traditional": "笔",
+          "wade_giles_pinyin": "bi3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "晚上",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wǎn shang",
+          "wade_giles_pinyin": "wan3 shang5"
+        }
+      ],
+      "simplified": "晚上",
+      "traditional": "晚上",
+      "meanings": [
+        {
+          "value": "evening"
+        },
+        {
+          "value": "night"
+        },
+        {
+          "value": "in the evening"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

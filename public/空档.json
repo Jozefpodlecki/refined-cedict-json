@@ -1,0 +1,35 @@
+{
+  "simplified": "空档",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kòng dàng",
+          "wade_giles_pinyin": "kong4 dang4"
+        }
+      ],
+      "simplified": "空档",
+      "traditional": "空檔",
+      "meanings": [
+        {
+          "value": "gap (between two objects)"
+        },
+        {
+          "value": "interval of time (between events)"
+        },
+        {
+          "value": "opening in one's schedule"
+        },
+        {
+          "value": "free time"
+        },
+        {
+          "context": "figuratively",
+          "value": "gap (in the market etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

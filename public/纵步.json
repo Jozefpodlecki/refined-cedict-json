@@ -1,0 +1,34 @@
+{
+  "simplified": "纵步",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zòng bù",
+          "wade_giles_pinyin": "zong4 bu4"
+        }
+      ],
+      "simplified": "纵步",
+      "simplified_stroke_count": 0,
+      "traditional": "縱步",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to stride"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to bound"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

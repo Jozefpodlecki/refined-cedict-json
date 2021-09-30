@@ -1,0 +1,30 @@
+{
+  "simplified": "拟议",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nǐ yì",
+          "wade_giles_pinyin": "ni3 yi4"
+        }
+      ],
+      "simplified": "拟议",
+      "traditional": "擬議",
+      "meanings": [
+        {
+          "value": "proposal"
+        },
+        {
+          "value": "recommendation"
+        },
+        {
+          "value": "to draft"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

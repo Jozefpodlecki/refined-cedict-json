@@ -1,0 +1,73 @@
+{
+  "simplified": "愿",
+  "simplified_stroke_count": 14,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yuàn",
+          "wade_giles_pinyin": "yuan4"
+        }
+      ],
+      "simplified": "愿",
+      "simplified_stroke_count": 14,
+      "traditional": "愿",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "honest"
+        },
+        {
+          "value": "prudent"
+        },
+        {
+          "context": "variant",
+          "value": "variant of 願|愿[yuan4]",
+          "simplified": "願",
+          "traditional": "愿",
+          "wade_giles_pinyin": "yuan4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yuàn",
+          "wade_giles_pinyin": "yuan4"
+        }
+      ],
+      "simplified": "愿",
+      "simplified_stroke_count": 14,
+      "traditional": "願",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "value": "to hope"
+        },
+        {
+          "value": "to wish"
+        },
+        {
+          "value": "to desire"
+        },
+        {
+          "value": "hoped-for"
+        },
+        {
+          "value": "ready"
+        },
+        {
+          "value": "willing"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

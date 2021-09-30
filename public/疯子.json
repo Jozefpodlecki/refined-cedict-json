@@ -1,0 +1,32 @@
+{
+  "simplified": "疯子",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fēng zi",
+          "wade_giles_pinyin": "feng1 zi5"
+        }
+      ],
+      "simplified": "疯子",
+      "simplified_stroke_count": null,
+      "traditional": "瘋子",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "madman"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "lunatic"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

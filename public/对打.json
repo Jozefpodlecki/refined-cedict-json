@@ -1,0 +1,30 @@
+{
+  "simplified": "对打",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "duì dǎ",
+          "wade_giles_pinyin": "dui4 da3"
+        }
+      ],
+      "simplified": "对打",
+      "traditional": "對打",
+      "meanings": [
+        {
+          "value": "to spar"
+        },
+        {
+          "value": "to fight"
+        },
+        {
+          "value": "to duke it out"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

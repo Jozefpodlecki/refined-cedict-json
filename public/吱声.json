@@ -1,0 +1,37 @@
+{
+  "simplified": "吱声",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhī shēng",
+          "wade_giles_pinyin": "zhi1 sheng1"
+        },
+        {
+          "pinyin": "zī shēng",
+          "wade_giles_pinyin": "zi1 sheng1"
+        }
+      ],
+      "simplified": "吱声",
+      "traditional": "吱聲",
+      "meanings": [
+        {
+          "value": "to utter a word"
+        },
+        {
+          "value": "to make a sound"
+        },
+        {
+          "value": "to cheep"
+        },
+        {
+          "value": "to squeak"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

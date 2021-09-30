@@ -1,0 +1,22 @@
+{
+  "simplified": "反锯齿",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fǎn jù chǐ",
+          "wade_giles_pinyin": "fan3 ju4 chi3"
+        }
+      ],
+      "simplified": "反锯齿",
+      "traditional": "反鋸齒",
+      "meanings": [
+        {
+          "value": "anti-aliasing"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

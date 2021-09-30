@@ -1,0 +1,44 @@
+{
+  "simplified": "止",
+  "simplified_stroke_count": 4,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhǐ",
+          "wade_giles_pinyin": "zhi3"
+        }
+      ],
+      "simplified": "止",
+      "simplified_stroke_count": 4,
+      "traditional": "止",
+      "traditional_stroke_count": 4,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to stop"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to prohibit"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "until"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "only"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

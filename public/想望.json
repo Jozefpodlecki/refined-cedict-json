@@ -1,0 +1,39 @@
+{
+  "simplified": "想望",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiǎng wàng",
+          "wade_giles_pinyin": "xiang3 wang4"
+        }
+      ],
+      "simplified": "想望",
+      "simplified_stroke_count": null,
+      "traditional": "想望",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to desire"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to wish"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "(literary) to admire"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

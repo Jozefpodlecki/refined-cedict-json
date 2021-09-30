@@ -1,0 +1,44 @@
+{
+  "simplified": "描",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " miáo",
+          "wade_giles_pinyin": "miao2"
+        }
+      ],
+      "simplified": "描",
+      "simplified_stroke_count": 11,
+      "traditional": "描",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to depict"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to trace (a drawing)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to copy"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to touch up"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

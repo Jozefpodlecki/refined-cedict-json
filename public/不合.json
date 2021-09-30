@@ -1,0 +1,36 @@
+{
+  "simplified": "不合",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bù hé",
+          "wade_giles_pinyin": "bu4 he2"
+        }
+      ],
+      "simplified": "不合",
+      "traditional": "不合",
+      "meanings": [
+        {
+          "value": "to not conform to"
+        },
+        {
+          "value": "to be unsuited to"
+        },
+        {
+          "value": "to be out of keeping with"
+        },
+        {
+          "value": "should not"
+        },
+        {
+          "value": "ought out"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

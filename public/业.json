@@ -1,0 +1,107 @@
+{
+  "simplified": "业",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yè",
+          "wade_giles_pinyin": "Ye4"
+        }
+      ],
+      "simplified": "业",
+      "simplified_stroke_count": 5,
+      "traditional": "業",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "surname Ye"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yè",
+          "wade_giles_pinyin": "ye4"
+        }
+      ],
+      "simplified": "业",
+      "simplified_stroke_count": 5,
+      "traditional": "業",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "line of business"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "industry"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "occupation"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "job"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "employment"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "school studies"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "enterprise"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "property"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(Buddhism) karma"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "deed"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to engage in"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "already"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

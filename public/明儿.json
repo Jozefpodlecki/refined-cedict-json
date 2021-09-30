@@ -1,0 +1,37 @@
+{
+  "simplified": "明儿",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " míng r",
+          "wade_giles_pinyin": "ming2 r5"
+        }
+      ],
+      "simplified": "明儿",
+      "simplified_stroke_count": 0,
+      "traditional": "明兒",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "colloquial",
+          "lexical_item": "",
+          "value": "tomorrow"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "one of these days"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "some day"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

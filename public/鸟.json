@@ -1,0 +1,60 @@
+{
+  "simplified": "鸟",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diǎo",
+          "wade_giles_pinyin": "diao3"
+        }
+      ],
+      "simplified": "鸟",
+      "simplified_stroke_count": 5,
+      "traditional": "鳥",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 屌[diao3]",
+          "simplified": "屌",
+          "traditional": "",
+          "wade_giles_pinyin": "diao3"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "niǎo",
+          "wade_giles_pinyin": "niao3"
+        }
+      ],
+      "simplified": "鸟",
+      "simplified_stroke_count": 5,
+      "traditional": "鳥",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "dialect",
+          "value": "to pay attention to"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "隻",
+          "traditional": "只",
+          "wade_giles_pinyin": "zhi1"
+        },
+        {
+          "simplified": "群",
+          "traditional": "",
+          "wade_giles_pinyin": "qun2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

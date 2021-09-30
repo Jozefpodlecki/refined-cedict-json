@@ -1,0 +1,44 @@
+{
+  "simplified": "募",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " mù",
+          "wade_giles_pinyin": "mu4"
+        }
+      ],
+      "simplified": "募",
+      "simplified_stroke_count": 12,
+      "traditional": "募",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "canvass for contributions"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to recruit"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to collect"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to raise"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

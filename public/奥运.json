@@ -1,0 +1,29 @@
+{
+  "simplified": "奥运",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "aò yùn",
+          "wade_giles_pinyin": "Ao4 yun4"
+        }
+      ],
+      "simplified": "奥运",
+      "traditional": "奧運",
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "value": "奧林匹克運動會|奥林匹克运动会"
+        },
+        {
+          "value": "Olympic Games"
+        },
+        {
+          "value": "the Olympics"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

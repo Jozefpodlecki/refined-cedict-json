@@ -1,0 +1,33 @@
+{
+  "simplified": "砍",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kǎn",
+          "wade_giles_pinyin": "kan3"
+        }
+      ],
+      "simplified": "砍",
+      "simplified_stroke_count": 9,
+      "traditional": "砍",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "to chop"
+        },
+        {
+          "value": "to cut down"
+        },
+        {
+          "value": "to throw sth at sb"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "simplified": "阆",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "láng",
+          "wade_giles_pinyin": "lang2"
+        }
+      ],
+      "simplified": "阆",
+      "simplified_stroke_count": 10,
+      "traditional": "閬",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "in 閌閬|闶阆, open space in a structure"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "làng",
+          "wade_giles_pinyin": "lang4"
+        }
+      ],
+      "simplified": "阆",
+      "simplified_stroke_count": 10,
+      "traditional": "閬",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "lofty"
+        },
+        {
+          "value": "high gate"
+        },
+        {
+          "value": "empty moat"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

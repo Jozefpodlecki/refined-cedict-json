@@ -1,0 +1,26 @@
+{
+  "simplified": "绿灯",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lǜ dēng",
+          "wade_giles_pinyin": "lu:4 deng1"
+        }
+      ],
+      "simplified": "绿灯",
+      "traditional": "綠燈",
+      "meanings": [
+        {
+          "value": "green light (traffic signal)"
+        },
+        {
+          "context": "figuratively",
+          "value": "permission to proceed"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

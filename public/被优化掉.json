@@ -1,0 +1,31 @@
+{
+  "simplified": "被优化掉",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bèi yōu huà diào",
+          "wade_giles_pinyin": "bei4 you1 hua4 diao4"
+        }
+      ],
+      "simplified": "被优化掉",
+      "traditional": "被優化掉",
+      "meanings": [
+        {
+          "context": "literature",
+          "value": "to be optimized away"
+        },
+        {
+          "value": "to be fired"
+        },
+        {
+          "value": "to be the victim of downsizing"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

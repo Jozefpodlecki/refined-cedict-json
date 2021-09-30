@@ -1,0 +1,39 @@
+{
+  "simplified": "掇",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " duō",
+          "wade_giles_pinyin": "duo1"
+        }
+      ],
+      "simplified": "掇",
+      "simplified_stroke_count": 11,
+      "traditional": "掇",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to pick up"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to collect"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "gather up"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

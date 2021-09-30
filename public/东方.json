@@ -1,0 +1,45 @@
+{
+  "simplified": "东方",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dōng fāng",
+          "wade_giles_pinyin": "Dong1 fang1"
+        }
+      ],
+      "simplified": "东方",
+      "traditional": "東方",
+      "meanings": [
+        {
+          "value": "the East"
+        },
+        {
+          "value": "the Orient"
+        },
+        {
+          "value": "two-character surname Dongfang"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dōng fāng",
+          "wade_giles_pinyin": "dong1 fang1"
+        }
+      ],
+      "simplified": "东方",
+      "traditional": "東方",
+      "meanings": [
+        {
+          "value": "east"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

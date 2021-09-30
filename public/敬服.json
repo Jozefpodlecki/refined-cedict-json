@@ -1,0 +1,39 @@
+{
+  "simplified": "敬服",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jìng fú",
+          "wade_giles_pinyin": "jing4 fu2"
+        }
+      ],
+      "simplified": "敬服",
+      "simplified_stroke_count": null,
+      "traditional": "敬服",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "deference"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "esteem"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to admire"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "分组",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fēn zǔ",
+          "wade_giles_pinyin": "fen1 zu3"
+        }
+      ],
+      "simplified": "分组",
+      "simplified_stroke_count": 0,
+      "traditional": "分組",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to divide into groups"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(computer networking) packet"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

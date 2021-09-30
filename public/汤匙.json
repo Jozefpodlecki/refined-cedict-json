@@ -1,0 +1,31 @@
+{
+  "simplified": "汤匙",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tāng chí",
+          "wade_giles_pinyin": "tang1 chi2"
+        }
+      ],
+      "simplified": "汤匙",
+      "traditional": "湯匙",
+      "meanings": [
+        {
+          "value": "soup spoon"
+        },
+        {
+          "value": "tablespoon"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "把",
+          "traditional": "",
+          "wade_giles_pinyin": "ba3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "送交",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " sòng jiāo",
+          "wade_giles_pinyin": "song4 jiao1"
+        }
+      ],
+      "simplified": "送交",
+      "simplified_stroke_count": 0,
+      "traditional": "送交",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to hand over"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to deliver"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

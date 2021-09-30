@@ -1,0 +1,32 @@
+{
+  "simplified": "髋关节",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " kuān guān jié",
+          "wade_giles_pinyin": "kuan1 guan1 jie2"
+        }
+      ],
+      "simplified": "髋关节",
+      "simplified_stroke_count": 0,
+      "traditional": "髖關節",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "pelvis"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "hip joint"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

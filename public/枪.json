@@ -1,0 +1,151 @@
+{
+  "simplified": "枪",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " qiāng",
+          "wade_giles_pinyin": "Qiang1"
+        }
+      ],
+      "simplified": "枪",
+      "simplified_stroke_count": 8,
+      "traditional": "槍",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "surname Qiang"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " qiāng",
+          "wade_giles_pinyin": "qiang1"
+        }
+      ],
+      "simplified": "枪",
+      "simplified_stroke_count": 8,
+      "traditional": "槍",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "gun"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "firearm"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "rifle"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "spear"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "thing with shape or function similar to a gun"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:支[zhi1],把[ba3],桿|杆[gan3],條|条[tiao2],枝[zhi1]"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to substitute for another person in a test"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to knock"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "classifier for rifle shots"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "支",
+          "traditional": "",
+          "wade_giles_pinyin": "zhi1"
+        },
+        {
+          "simplified": "把",
+          "traditional": "",
+          "wade_giles_pinyin": "ba3"
+        },
+        {
+          "simplified": "桿",
+          "traditional": "杆",
+          "wade_giles_pinyin": "gan3"
+        },
+        {
+          "simplified": "條",
+          "traditional": "条",
+          "wade_giles_pinyin": "tiao2"
+        },
+        {
+          "simplified": "枝",
+          "traditional": "",
+          "wade_giles_pinyin": "zhi1"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " qiāng",
+          "wade_giles_pinyin": "qiang1"
+        }
+      ],
+      "simplified": "枪",
+      "simplified_stroke_count": 8,
+      "traditional": "鎗",
+      "traditional_stroke_count": 18,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "槍|枪[qiang1]"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "rifle"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "spear"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

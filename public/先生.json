@@ -1,0 +1,38 @@
+{
+  "simplified": "先生",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiān sheng",
+          "wade_giles_pinyin": "xian1 sheng5"
+        }
+      ],
+      "simplified": "先生",
+      "traditional": "先生",
+      "meanings": [
+        {
+          "value": "teacher"
+        },
+        {
+          "value": "husband"
+        },
+        {
+          "context": "dialect",
+          "value": "doctor"
+        },
+        {
+          "value": "Mister (Mr.)"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "位",
+          "traditional": "",
+          "wade_giles_pinyin": "wei4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

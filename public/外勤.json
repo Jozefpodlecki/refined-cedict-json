@@ -1,0 +1,28 @@
+{
+  "simplified": "外勤",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wài qín",
+          "wade_giles_pinyin": "wai4 qin2"
+        }
+      ],
+      "simplified": "外勤",
+      "traditional": "外勤",
+      "meanings": [
+        {
+          "value": "field work"
+        },
+        {
+          "value": "field personnel"
+        },
+        {
+          "value": "any occupation that involves a great deal of field work"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

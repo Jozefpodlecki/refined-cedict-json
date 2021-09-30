@@ -1,0 +1,44 @@
+{
+  "simplified": "实践",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shí jiàn",
+          "wade_giles_pinyin": "shi2 jian4"
+        }
+      ],
+      "simplified": "实践",
+      "simplified_stroke_count": 0,
+      "traditional": "實踐",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "practice"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to put into practice"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to live up to (a promise)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to carry out (a project)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

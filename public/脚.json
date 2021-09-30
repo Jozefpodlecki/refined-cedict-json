@@ -1,0 +1,84 @@
+{
+  "simplified": "脚",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiǎo",
+          "wade_giles_pinyin": "jiao3"
+        }
+      ],
+      "simplified": "脚",
+      "simplified_stroke_count": 11,
+      "traditional": "腳",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "foot"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "leg (of an animal or an object)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "base (of an object)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "CL:雙|双[shuang1],隻|只[zhi1]"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "classifier for kicks"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "雙",
+          "traditional": "双",
+          "wade_giles_pinyin": "shuang1"
+        },
+        {
+          "simplified": "隻",
+          "traditional": "只",
+          "wade_giles_pinyin": "zhi1"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jué",
+          "wade_giles_pinyin": "jue2"
+        }
+      ],
+      "simplified": "脚",
+      "simplified_stroke_count": 11,
+      "traditional": "腳",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": null,
+          "value": "角[jue2]"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "role"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "simplified": "移民",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yí mín",
+          "wade_giles_pinyin": "yi2 min2"
+        }
+      ],
+      "simplified": "移民",
+      "traditional": "移民",
+      "meanings": [
+        {
+          "value": "to immigrate"
+        },
+        {
+          "value": "to migrate"
+        },
+        {
+          "value": "emigrant"
+        },
+        {
+          "value": "immigrant"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

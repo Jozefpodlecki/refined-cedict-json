@@ -1,0 +1,28 @@
+{
+  "simplified": "消息来源",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiāo xi lái yuán",
+          "wade_giles_pinyin": "xiao1 xi5 lai2 yuan2"
+        }
+      ],
+      "simplified": "消息来源",
+      "traditional": "消息來源",
+      "meanings": [
+        {
+          "value": "web feed"
+        },
+        {
+          "value": "news feed"
+        },
+        {
+          "value": "syndicated feed"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

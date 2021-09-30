@@ -1,0 +1,32 @@
+{
+  "simplified": "高校",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " gāo xiào",
+          "wade_giles_pinyin": "gao1 xiao4"
+        }
+      ],
+      "simplified": "高校",
+      "simplified_stroke_count": 0,
+      "traditional": "高校",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "universities and colleges"
+        },
+        {
+          "context": "abbreviation",
+          "lexical_item": "",
+          "value": "高等學校|高等学校"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

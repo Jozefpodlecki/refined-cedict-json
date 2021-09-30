@@ -1,0 +1,44 @@
+{
+  "simplified": "蝎",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiē",
+          "wade_giles_pinyin": "xie1"
+        }
+      ],
+      "simplified": "蝎",
+      "simplified_stroke_count": 15,
+      "traditional": "蝎",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 蠍|蝎[xie1]",
+          "simplified": "蠍",
+          "traditional": "蝎",
+          "wade_giles_pinyin": "xie1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiē",
+          "wade_giles_pinyin": "xie1"
+        }
+      ],
+      "simplified": "蝎",
+      "simplified_stroke_count": 15,
+      "traditional": "蠍",
+      "traditional_stroke_count": 19,
+      "meanings": [],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

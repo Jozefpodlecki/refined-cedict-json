@@ -1,0 +1,37 @@
+{
+  "simplified": "大人",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dà ren",
+          "wade_giles_pinyin": "da4 ren5"
+        }
+      ],
+      "simplified": "大人",
+      "simplified_stroke_count": 0,
+      "traditional": "大人",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "adult"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "grownup"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "title of respect toward superiors"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

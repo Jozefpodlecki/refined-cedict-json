@@ -1,0 +1,37 @@
+{
+  "simplified": "陜",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xiá",
+          "wade_giles_pinyin": "xia2"
+        }
+      ],
+      "simplified": "陜",
+      "simplified_stroke_count": 10,
+      "traditional": "陜",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "狹|狭 narrow"
+        },
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "峽|峡 gorge"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "used erroneously for 陝|陕 Shaanxi"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

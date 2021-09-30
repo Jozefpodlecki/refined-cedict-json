@@ -1,0 +1,33 @@
+{
+  "simplified": "连击",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lián jī",
+          "wade_giles_pinyin": "lian2 ji1"
+        }
+      ],
+      "simplified": "连击",
+      "traditional": "連擊",
+      "meanings": [
+        {
+          "value": "to batter"
+        },
+        {
+          "value": "combo (hit) (gaming)"
+        },
+        {
+          "value": "(volleyball, table tennis etc) double hit"
+        },
+        {
+          "value": "double contact"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

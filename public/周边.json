@@ -1,0 +1,40 @@
+{
+  "simplified": "周边",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhōu biān",
+          "wade_giles_pinyin": "zhou1 bian1"
+        }
+      ],
+      "simplified": "周边",
+      "traditional": "周邊",
+      "meanings": [
+        {
+          "value": "periphery"
+        },
+        {
+          "value": "rim"
+        },
+        {
+          "value": "surroundings"
+        },
+        {
+          "value": "all around"
+        },
+        {
+          "value": "perimeter"
+        },
+        {
+          "value": "peripheral (computing)"
+        },
+        {
+          "value": "spin-offs"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

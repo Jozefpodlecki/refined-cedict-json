@@ -1,0 +1,43 @@
+{
+  "simplified": "星座",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xīng zuò",
+          "wade_giles_pinyin": "xing1 zuo4"
+        }
+      ],
+      "simplified": "星座",
+      "simplified_stroke_count": 0,
+      "traditional": "星座",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "constellation"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "astrological sign"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:張|张[zhang1]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "張",
+          "traditional": "张",
+          "wade_giles_pinyin": "zhang1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

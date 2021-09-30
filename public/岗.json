@@ -1,0 +1,32 @@
+{
+  "simplified": "岗",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " gǎng",
+          "wade_giles_pinyin": "gang3"
+        }
+      ],
+      "simplified": "岗",
+      "simplified_stroke_count": 7,
+      "traditional": "崗",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "mound"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "policeman's beat"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "simplified": "老鹰",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lǎo yīng",
+          "wade_giles_pinyin": "lao3 ying1"
+        }
+      ],
+      "simplified": "老鹰",
+      "traditional": "老鷹",
+      "meanings": [
+        {
+          "context": "colloquial",
+          "value": "eagle"
+        },
+        {
+          "value": "hawk"
+        },
+        {
+          "value": "any similar bird of prey"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "simplified": "非常",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fēi cháng",
+          "wade_giles_pinyin": "fei1 chang2"
+        }
+      ],
+      "simplified": "非常",
+      "traditional": "非常",
+      "meanings": [
+        {
+          "value": "very"
+        },
+        {
+          "value": "very much"
+        },
+        {
+          "value": "unusual"
+        },
+        {
+          "value": "extraordinary"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "adverb"
+      ]
+    }
+  ]
+}

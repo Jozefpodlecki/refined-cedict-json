@@ -1,0 +1,29 @@
+{
+  "simplified": "三茶六饭",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sān chá liù fàn",
+          "wade_giles_pinyin": "san1 cha2 liu4 fan4"
+        }
+      ],
+      "simplified": "三茶六饭",
+      "traditional": "三茶六飯",
+      "meanings": [
+        {
+          "context": "literature",
+          "value": "to offer three kinds of tea and six different dishes"
+        },
+        {
+          "lexical_item": "idiom",
+          "value": "to be extremely considerate towards guests"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

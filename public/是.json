@@ -1,0 +1,67 @@
+{
+  "simplified": "是",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shì",
+          "wade_giles_pinyin": "shi4"
+        }
+      ],
+      "simplified": "是",
+      "simplified_stroke_count": 9,
+      "traditional": "是",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "is"
+        },
+        {
+          "value": "are"
+        },
+        {
+          "value": "am"
+        },
+        {
+          "value": "yes"
+        },
+        {
+          "value": "to be"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shì",
+          "wade_giles_pinyin": "shi4"
+        }
+      ],
+      "simplified": "是",
+      "simplified_stroke_count": 9,
+      "traditional": "昰",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 是[shi4]",
+          "simplified": "是",
+          "traditional": "",
+          "wade_giles_pinyin": "shi4"
+        },
+        {
+          "value": "(used in given names)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

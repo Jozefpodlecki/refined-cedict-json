@@ -1,0 +1,74 @@
+{
+  "simplified": "保",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǎo",
+          "wade_giles_pinyin": "Bao3"
+        }
+      ],
+      "simplified": "保",
+      "simplified_stroke_count": 9,
+      "traditional": "保",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "Bulgaria"
+        },
+        {
+          "value": "Bulgarian"
+        },
+        {
+          "context": "abbreviation",
+          "value": "保加利亞|保加利亚[Bao3 jia1 li4 ya4]",
+          "simplified": "保",
+          "traditional": "加利亞|保加利亚",
+          "wade_giles_pinyin": "Bao3 jia1 li4 ya4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǎo",
+          "wade_giles_pinyin": "bao3"
+        }
+      ],
+      "simplified": "保",
+      "simplified_stroke_count": 9,
+      "traditional": "保",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "to defend"
+        },
+        {
+          "value": "to protect"
+        },
+        {
+          "value": "to keep"
+        },
+        {
+          "value": "to guarantee"
+        },
+        {
+          "value": "to ensure"
+        },
+        {
+          "context": "old",
+          "value": "civil administration unit in the baojia 保甲[bao3 jia3] system"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

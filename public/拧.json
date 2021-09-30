@@ -1,0 +1,75 @@
+{
+  "simplified": "拧",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "níng",
+          "wade_giles_pinyin": "ning2"
+        }
+      ],
+      "simplified": "拧",
+      "simplified_stroke_count": 8,
+      "traditional": "擰",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "to pinch"
+        },
+        {
+          "value": "wring"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nǐng",
+          "wade_giles_pinyin": "ning3"
+        }
+      ],
+      "simplified": "拧",
+      "simplified_stroke_count": 8,
+      "traditional": "擰",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "mistake"
+        },
+        {
+          "value": "to twist"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nìng",
+          "wade_giles_pinyin": "ning4"
+        }
+      ],
+      "simplified": "拧",
+      "simplified_stroke_count": 8,
+      "traditional": "擰",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "stubborn"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

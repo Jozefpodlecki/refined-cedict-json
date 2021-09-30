@@ -1,0 +1,34 @@
+{
+  "simplified": "拴住",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shuān zhù",
+          "wade_giles_pinyin": "shuan1 zhu4"
+        }
+      ],
+      "simplified": "拴住",
+      "traditional": "拴住",
+      "meanings": [
+        {
+          "value": "to tether"
+        },
+        {
+          "value": "to tie up"
+        },
+        {
+          "context": "figuratively",
+          "value": "to restrict"
+        },
+        {
+          "value": "to keep a hold on"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

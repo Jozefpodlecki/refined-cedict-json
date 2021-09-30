@@ -1,0 +1,33 @@
+{
+  "simplified": "荒岛",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huāng dǎo",
+          "wade_giles_pinyin": "huang1 dao3"
+        }
+      ],
+      "simplified": "荒岛",
+      "traditional": "荒島",
+      "meanings": [
+        {
+          "value": "barren or uninhabited island"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        },
+        {
+          "simplified": "座",
+          "traditional": "",
+          "wade_giles_pinyin": "zuo4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

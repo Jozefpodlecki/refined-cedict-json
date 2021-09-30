@@ -1,0 +1,45 @@
+{
+  "simplified": "卷子",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "juǎn zi",
+          "wade_giles_pinyin": "juan3 zi5"
+        }
+      ],
+      "simplified": "卷子",
+      "traditional": "卷子",
+      "meanings": [
+        {
+          "value": "steamed roll"
+        },
+        {
+          "value": "spring roll"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "juàn zi",
+          "wade_giles_pinyin": "juan4 zi5"
+        }
+      ],
+      "simplified": "卷子",
+      "traditional": "卷子",
+      "meanings": [
+        {
+          "value": "test paper"
+        },
+        {
+          "value": "examination paper"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

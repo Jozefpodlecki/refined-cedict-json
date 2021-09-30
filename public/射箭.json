@@ -1,0 +1,27 @@
+{
+  "simplified": "射箭",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shè jiàn",
+          "wade_giles_pinyin": "she4 jian4"
+        }
+      ],
+      "simplified": "射箭",
+      "traditional": "射箭",
+      "meanings": [
+        {
+          "value": "archery"
+        },
+        {
+          "value": "to shoot an arrow"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

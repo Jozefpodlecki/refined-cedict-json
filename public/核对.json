@@ -1,0 +1,33 @@
+{
+  "simplified": "核对",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hé duì",
+          "wade_giles_pinyin": "he2 dui4"
+        }
+      ],
+      "simplified": "核对",
+      "traditional": "核對",
+      "meanings": [
+        {
+          "value": "to check"
+        },
+        {
+          "value": "to verify"
+        },
+        {
+          "value": "to audit"
+        },
+        {
+          "value": "to examine"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "simplified": "经理",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jīng lǐ",
+          "wade_giles_pinyin": "jing1 li3"
+        }
+      ],
+      "simplified": "经理",
+      "traditional": "經理",
+      "meanings": [
+        {
+          "value": "manager"
+        },
+        {
+          "value": "director"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        },
+        {
+          "simplified": "位",
+          "traditional": "",
+          "wade_giles_pinyin": "wei4"
+        },
+        {
+          "simplified": "名",
+          "traditional": "",
+          "wade_giles_pinyin": "ming2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

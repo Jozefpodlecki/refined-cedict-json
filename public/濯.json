@@ -1,0 +1,57 @@
+{
+  "simplified": "濯",
+  "simplified_stroke_count": 17,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhào",
+          "wade_giles_pinyin": "zhao4"
+        }
+      ],
+      "simplified": "濯",
+      "simplified_stroke_count": 17,
+      "traditional": "濯",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "櫂|棹[zhao4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhuó",
+          "wade_giles_pinyin": "zhuo2"
+        }
+      ],
+      "simplified": "濯",
+      "simplified_stroke_count": 17,
+      "traditional": "濯",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to wash"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to cleanse of evil"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "simplified": "及",
+  "simplified_stroke_count": 3,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jí",
+          "wade_giles_pinyin": "ji2"
+        }
+      ],
+      "simplified": "及",
+      "simplified_stroke_count": 3,
+      "traditional": "及",
+      "traditional_stroke_count": 3,
+      "meanings": [
+        {
+          "value": "and"
+        },
+        {
+          "value": "to reach"
+        },
+        {
+          "value": "up to"
+        },
+        {
+          "value": "in time for"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

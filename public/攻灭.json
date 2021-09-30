@@ -1,0 +1,34 @@
+{
+  "simplified": "攻灭",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gōng miè",
+          "wade_giles_pinyin": "gong1 mie4"
+        }
+      ],
+      "simplified": "攻灭",
+      "simplified_stroke_count": null,
+      "traditional": "攻滅",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to conquer"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to defeat (militarily)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

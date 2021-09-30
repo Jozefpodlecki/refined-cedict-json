@@ -1,0 +1,47 @@
+{
+  "simplified": "喽",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lóu",
+          "wade_giles_pinyin": "lou2"
+        }
+      ],
+      "simplified": "喽",
+      "simplified_stroke_count": 12,
+      "traditional": "嘍",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "subordinates in gang of bandits"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lou",
+          "wade_giles_pinyin": "lou5"
+        }
+      ],
+      "simplified": "喽",
+      "simplified_stroke_count": 12,
+      "traditional": "嘍",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "(final particle equivalent to 了[le5])"
+        },
+        {
+          "value": "(particle calling attention to, or mildly warning of, a situation)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

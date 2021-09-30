@@ -1,0 +1,22 @@
+{
+  "simplified": "地理定位",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dì lǐ dìng weì",
+          "wade_giles_pinyin": "di4 li3 ding4 wei4"
+        }
+      ],
+      "simplified": "地理定位",
+      "traditional": "地理定位",
+      "meanings": [
+        {
+          "value": "geolocation"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

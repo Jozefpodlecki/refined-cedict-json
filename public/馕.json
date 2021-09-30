@@ -1,0 +1,51 @@
+{
+  "simplified": "馕",
+  "simplified_stroke_count": 25,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "náng",
+          "wade_giles_pinyin": "nang2"
+        }
+      ],
+      "simplified": "馕",
+      "simplified_stroke_count": 25,
+      "traditional": "饢",
+      "traditional_stroke_count": 31,
+      "meanings": [
+        {
+          "value": "a kind of a flat bread"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nǎng",
+          "wade_giles_pinyin": "nang3"
+        }
+      ],
+      "simplified": "馕",
+      "simplified_stroke_count": 25,
+      "traditional": "饢",
+      "traditional_stroke_count": 31,
+      "meanings": [
+        {
+          "value": "to stuff one's face"
+        },
+        {
+          "value": "to eat greedily"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

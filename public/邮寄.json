@@ -1,0 +1,27 @@
+{
+  "simplified": "邮寄",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yóu jì",
+          "wade_giles_pinyin": "you2 ji4"
+        }
+      ],
+      "simplified": "邮寄",
+      "traditional": "郵寄",
+      "meanings": [
+        {
+          "value": "to mail"
+        },
+        {
+          "value": "to send by post"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

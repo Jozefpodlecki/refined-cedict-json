@@ -1,0 +1,98 @@
+{
+  "simplified": "升",
+  "simplified_stroke_count": 4,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shēng",
+          "wade_giles_pinyin": "sheng1"
+        }
+      ],
+      "simplified": "升",
+      "simplified_stroke_count": 4,
+      "traditional": "升",
+      "traditional_stroke_count": 4,
+      "meanings": [
+        {
+          "value": "to ascend"
+        },
+        {
+          "value": "to rise to the rank of"
+        },
+        {
+          "value": "to promote"
+        },
+        {
+          "value": "to hoist"
+        },
+        {
+          "value": "liter"
+        },
+        {
+          "value": "measure for dry grain equal to one-tenth dou 斗[dou3]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shēng",
+          "wade_giles_pinyin": "sheng1"
+        }
+      ],
+      "simplified": "升",
+      "simplified_stroke_count": 4,
+      "traditional": "昇",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 升[sheng1]",
+          "simplified": "升",
+          "traditional": "",
+          "wade_giles_pinyin": "sheng1"
+        },
+        {
+          "value": "to ascend"
+        },
+        {
+          "value": "to rise in rank"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shēng",
+          "wade_giles_pinyin": "sheng1"
+        }
+      ],
+      "simplified": "升",
+      "simplified_stroke_count": 4,
+      "traditional": "陞",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 升[sheng1]",
+          "simplified": "升",
+          "traditional": "",
+          "wade_giles_pinyin": "sheng1"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

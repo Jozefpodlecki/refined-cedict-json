@@ -1,0 +1,38 @@
+{
+  "simplified": "狗鹫",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " gǒu jiù",
+          "wade_giles_pinyin": "gou3 jiu4"
+        }
+      ],
+      "simplified": "狗鹫",
+      "simplified_stroke_count": 0,
+      "traditional": "狗鷲",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "royal eagle"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:隻|只[zhi1]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "隻",
+          "traditional": "只",
+          "wade_giles_pinyin": "zhi1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

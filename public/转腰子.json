@@ -1,0 +1,39 @@
+{
+  "simplified": "转腰子",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhuàn yāo zi",
+          "wade_giles_pinyin": "zhuan4 yao1 zi5"
+        }
+      ],
+      "simplified": "转腰子",
+      "simplified_stroke_count": 0,
+      "traditional": "轉腰子",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "colloquial",
+          "lexical_item": "",
+          "value": "to pace around nervously"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to speak indirectly"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to beat about the bush"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

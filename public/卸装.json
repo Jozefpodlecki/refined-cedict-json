@@ -1,0 +1,30 @@
+{
+  "simplified": "卸装",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiè zhuāng",
+          "wade_giles_pinyin": "xie4 zhuang1"
+        }
+      ],
+      "simplified": "卸装",
+      "traditional": "卸裝",
+      "meanings": [
+        {
+          "value": "(of an actor) to remove makeup and costume"
+        },
+        {
+          "value": "(computing) to uninstall"
+        },
+        {
+          "value": "to unmount"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

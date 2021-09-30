@@ -1,0 +1,54 @@
+{
+  "simplified": "吉",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jí",
+          "wade_giles_pinyin": "Ji2"
+        }
+      ],
+      "simplified": "吉",
+      "simplified_stroke_count": 6,
+      "traditional": "吉",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "value": "surname Ji"
+        },
+        {
+          "context": "abbreviation",
+          "value": "Jilin Province 吉林省[Ji2 lin2 Sheng3]",
+          "simplified": "J",
+          "traditional": "ilin Province 吉林省",
+          "wade_giles_pinyin": "Ji2 lin2 Sheng3"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jí",
+          "wade_giles_pinyin": "ji2"
+        }
+      ],
+      "simplified": "吉",
+      "simplified_stroke_count": 6,
+      "traditional": "吉",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "value": "lucky"
+        },
+        {
+          "value": "giga- (meaning billion or 10^9)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

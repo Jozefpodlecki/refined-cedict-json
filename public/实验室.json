@@ -1,0 +1,28 @@
+{
+  "simplified": "实验室",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shí yàn shì",
+          "wade_giles_pinyin": "shi2 yan4 shi4"
+        }
+      ],
+      "simplified": "实验室",
+      "traditional": "實驗室",
+      "meanings": [
+        {
+          "value": "laboratory"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "間",
+          "traditional": "间",
+          "wade_giles_pinyin": "jian1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

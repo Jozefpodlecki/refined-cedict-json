@@ -1,0 +1,30 @@
+{
+  "simplified": "译写",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yì xiě",
+          "wade_giles_pinyin": "yi4 xie3"
+        }
+      ],
+      "simplified": "译写",
+      "traditional": "譯寫",
+      "meanings": [
+        {
+          "value": "to translate"
+        },
+        {
+          "value": "to render foreign words"
+        },
+        {
+          "value": "to transliterate"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

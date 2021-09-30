@@ -1,0 +1,28 @@
+{
+  "simplified": "报社",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bào shè",
+          "wade_giles_pinyin": "bao4 she4"
+        }
+      ],
+      "simplified": "报社",
+      "traditional": "報社",
+      "meanings": [
+        {
+          "value": "newspaper (i.e. a company)"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "家",
+          "traditional": "",
+          "wade_giles_pinyin": "jia1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "捕食",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǔ shí",
+          "wade_giles_pinyin": "bu3 shi2"
+        }
+      ],
+      "simplified": "捕食",
+      "simplified_stroke_count": null,
+      "traditional": "捕食",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to prey on"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to catch and feed on"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to hunt for food"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

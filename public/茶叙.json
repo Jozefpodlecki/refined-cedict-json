@@ -1,0 +1,27 @@
+{
+  "simplified": "茶叙",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chá xù",
+          "wade_giles_pinyin": "cha2 xu4"
+        }
+      ],
+      "simplified": "茶叙",
+      "traditional": "茶敘",
+      "meanings": [
+        {
+          "value": "to take tea and chat"
+        },
+        {
+          "value": "a small-scale informal gathering with tea and snacks"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

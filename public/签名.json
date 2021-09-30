@@ -1,0 +1,30 @@
+{
+  "simplified": "签名",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiān míng",
+          "wade_giles_pinyin": "qian1 ming2"
+        }
+      ],
+      "simplified": "签名",
+      "traditional": "簽名",
+      "meanings": [
+        {
+          "value": "to sign (one's name with a pen etc)"
+        },
+        {
+          "value": "to autograph"
+        },
+        {
+          "value": "signature"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

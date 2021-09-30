@@ -1,0 +1,48 @@
+{
+  "simplified": "咿",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yī",
+          "wade_giles_pinyin": "yi1"
+        }
+      ],
+      "simplified": "咿",
+      "simplified_stroke_count": 9,
+      "traditional": "吚",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "咿[yi1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yī",
+          "wade_giles_pinyin": "yi1"
+        }
+      ],
+      "simplified": "咿",
+      "simplified_stroke_count": 9,
+      "traditional": "咿",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(onom.) to squeak"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

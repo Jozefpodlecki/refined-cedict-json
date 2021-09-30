@@ -1,0 +1,48 @@
+{
+  "simplified": "馀",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yú",
+          "wade_giles_pinyin": "Yu2"
+        }
+      ],
+      "simplified": "馀",
+      "simplified_stroke_count": 10,
+      "traditional": "餘",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "surname Yu"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yú",
+          "wade_giles_pinyin": "yu2"
+        }
+      ],
+      "simplified": "馀",
+      "simplified_stroke_count": 10,
+      "traditional": "餘",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "餘|余[yu2], remainder"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

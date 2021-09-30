@@ -1,0 +1,53 @@
+{
+  "simplified": "匾",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " biǎn",
+          "wade_giles_pinyin": "bian3"
+        }
+      ],
+      "simplified": "匾",
+      "simplified_stroke_count": 11,
+      "traditional": "匾",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "horizontal rectangular inscribed tablet hung over a door or on a wall"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "shallow round woven bamboo basket"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " pián",
+          "wade_giles_pinyin": "pian2"
+        }
+      ],
+      "simplified": "匾",
+      "simplified_stroke_count": 11,
+      "traditional": "楄",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "basket-couch in coffin"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

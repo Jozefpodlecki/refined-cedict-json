@@ -1,0 +1,32 @@
+{
+  "simplified": "到点",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dào diǎn",
+          "wade_giles_pinyin": "dao4 dian3"
+        }
+      ],
+      "simplified": "到点",
+      "simplified_stroke_count": 0,
+      "traditional": "到點",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "it's time (to do sth)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "the time has come"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

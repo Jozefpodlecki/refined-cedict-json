@@ -1,0 +1,51 @@
+{
+  "simplified": "呵",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ā",
+          "wade_giles_pinyin": "a1"
+        }
+      ],
+      "simplified": "呵",
+      "simplified_stroke_count": 8,
+      "traditional": "呵",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 啊[a1]",
+          "simplified": "啊",
+          "traditional": "",
+          "wade_giles_pinyin": "a1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hē",
+          "wade_giles_pinyin": "he1"
+        }
+      ],
+      "simplified": "呵",
+      "simplified_stroke_count": 8,
+      "traditional": "呵",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "expel breath"
+        },
+        {
+          "value": "my goodness"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

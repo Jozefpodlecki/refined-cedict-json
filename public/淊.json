@@ -1,0 +1,34 @@
+{
+  "simplified": "淊",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yān",
+          "wade_giles_pinyin": "yan1"
+        }
+      ],
+      "simplified": "淊",
+      "simplified_stroke_count": 11,
+      "traditional": "淊",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 淹[yan1]",
+          "simplified": "淹",
+          "traditional": "",
+          "wade_giles_pinyin": "yan1"
+        },
+        {
+          "value": "to flood"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

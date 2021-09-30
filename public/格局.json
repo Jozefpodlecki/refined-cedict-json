@@ -1,0 +1,37 @@
+{
+  "simplified": "格局",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gé jú",
+          "wade_giles_pinyin": "ge2 ju2"
+        }
+      ],
+      "simplified": "格局",
+      "simplified_stroke_count": null,
+      "traditional": "格局",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "structure"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "pattern"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "layout"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

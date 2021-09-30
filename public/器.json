@@ -1,0 +1,48 @@
+{
+  "simplified": "器",
+  "simplified_stroke_count": 16,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qì",
+          "wade_giles_pinyin": "qi4"
+        }
+      ],
+      "simplified": "器",
+      "simplified_stroke_count": 16,
+      "traditional": "器",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "device"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "tool"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "utensil"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "CL:臺|台[tai2]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "臺",
+          "traditional": "台",
+          "wade_giles_pinyin": "tai2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

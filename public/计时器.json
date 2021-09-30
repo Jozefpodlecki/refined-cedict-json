@@ -1,0 +1,34 @@
+{
+  "simplified": "计时器",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jì shí qì",
+          "wade_giles_pinyin": "ji4 shi2 qi4"
+        }
+      ],
+      "simplified": "计时器",
+      "traditional": "計時器",
+      "meanings": [
+        {
+          "value": "timer"
+        },
+        {
+          "value": "chronograph"
+        },
+        {
+          "value": "timepiece"
+        },
+        {
+          "value": "clock"
+        },
+        {
+          "value": "timekeeping device (sundial, water clock)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

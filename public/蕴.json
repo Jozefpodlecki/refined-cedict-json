@@ -1,0 +1,48 @@
+{
+  "simplified": "蕴",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yùn",
+          "wade_giles_pinyin": "yun4"
+        }
+      ],
+      "simplified": "蕴",
+      "simplified_stroke_count": 15,
+      "traditional": "蘊",
+      "traditional_stroke_count": 19,
+      "meanings": [
+        {
+          "value": "to accumulate"
+        },
+        {
+          "value": "to hold in store"
+        },
+        {
+          "value": "to contain"
+        },
+        {
+          "value": "to gather together"
+        },
+        {
+          "value": "to collect"
+        },
+        {
+          "value": "depth"
+        },
+        {
+          "value": "inner strength"
+        },
+        {
+          "value": "profundity"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

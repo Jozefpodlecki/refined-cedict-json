@@ -1,0 +1,44 @@
+{
+  "simplified": "胳",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gē",
+          "wade_giles_pinyin": "ge1"
+        }
+      ],
+      "simplified": "胳",
+      "simplified_stroke_count": 10,
+      "traditional": "肐",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 胳[ge1]",
+          "simplified": "胳",
+          "traditional": "",
+          "wade_giles_pinyin": "ge1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gē",
+          "wade_giles_pinyin": "ge1"
+        }
+      ],
+      "simplified": "胳",
+      "simplified_stroke_count": 10,
+      "traditional": "胳",
+      "traditional_stroke_count": 10,
+      "meanings": [],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

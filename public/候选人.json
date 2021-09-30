@@ -1,0 +1,28 @@
+{
+  "simplified": "候选人",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hòu xuǎn rén",
+          "wade_giles_pinyin": "hou4 xuan3 ren2"
+        }
+      ],
+      "simplified": "候选人",
+      "traditional": "候選人",
+      "meanings": [
+        {
+          "value": "candidate"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "名",
+          "traditional": "",
+          "wade_giles_pinyin": "ming2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "背带裤",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bèi dài kù",
+          "wade_giles_pinyin": "bei4 dai4 ku4"
+        }
+      ],
+      "simplified": "背带裤",
+      "simplified_stroke_count": 0,
+      "traditional": "背帶褲",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "overalls"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "dungarees"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

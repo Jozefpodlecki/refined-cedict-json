@@ -1,0 +1,25 @@
+{
+  "simplified": "割接",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gē jiē",
+          "wade_giles_pinyin": "ge1 jie1"
+        }
+      ],
+      "simplified": "割接",
+      "traditional": "割接",
+      "meanings": [
+        {
+          "value": "(network) cutover"
+        },
+        {
+          "value": "(system) migration"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

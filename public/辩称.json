@@ -1,0 +1,33 @@
+{
+  "simplified": "辩称",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "biàn chēng",
+          "wade_giles_pinyin": "bian4 cheng1"
+        }
+      ],
+      "simplified": "辩称",
+      "traditional": "辯稱",
+      "meanings": [
+        {
+          "value": "to argue (that)"
+        },
+        {
+          "value": "to allege"
+        },
+        {
+          "value": "to dispute"
+        },
+        {
+          "value": "to plead (e.g. not guilty)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

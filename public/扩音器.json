@@ -1,0 +1,31 @@
+{
+  "simplified": "扩音器",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kuò yīn qì",
+          "wade_giles_pinyin": "kuo4 yin1 qi4"
+        }
+      ],
+      "simplified": "扩音器",
+      "traditional": "擴音器",
+      "meanings": [
+        {
+          "value": "megaphone"
+        },
+        {
+          "value": "loudspeaker"
+        },
+        {
+          "value": "amplifier"
+        },
+        {
+          "value": "microphone"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

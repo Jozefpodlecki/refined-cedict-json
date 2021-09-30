@@ -1,0 +1,55 @@
+{
+  "simplified": "役",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yì",
+          "wade_giles_pinyin": "yi4"
+        }
+      ],
+      "simplified": "役",
+      "simplified_stroke_count": 7,
+      "traditional": "役",
+      "traditional_stroke_count": 7,
+      "meanings": [
+        {
+          "value": "forced labor"
+        },
+        {
+          "value": "corvée"
+        },
+        {
+          "value": "obligatory task"
+        },
+        {
+          "value": "military service"
+        },
+        {
+          "value": "to use as servant"
+        },
+        {
+          "value": "to enserf"
+        },
+        {
+          "context": "old",
+          "value": "servant"
+        },
+        {
+          "value": "war"
+        },
+        {
+          "value": "campaign"
+        },
+        {
+          "value": "battle"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

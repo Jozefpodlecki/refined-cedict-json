@@ -1,0 +1,79 @@
+{
+  "simplified": "梁",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "liáng",
+          "wade_giles_pinyin": "Liang2"
+        }
+      ],
+      "simplified": "梁",
+      "simplified_stroke_count": 11,
+      "traditional": "梁",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "Liang Dynasty (502-557)"
+        },
+        {
+          "value": "Later Liang Dynasty (907-923)"
+        },
+        {
+          "value": "surname Liang"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "liáng",
+          "wade_giles_pinyin": "liang2"
+        }
+      ],
+      "simplified": "梁",
+      "simplified_stroke_count": 11,
+      "traditional": "梁",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "roof beam"
+        },
+        {
+          "value": "beam (structure)"
+        },
+        {
+          "value": "bridge"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "liáng",
+          "wade_giles_pinyin": "liang2"
+        }
+      ],
+      "simplified": "梁",
+      "simplified_stroke_count": 11,
+      "traditional": "樑",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 梁[liang2]",
+          "simplified": "梁",
+          "traditional": "",
+          "wade_giles_pinyin": "liang2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

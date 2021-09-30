@@ -1,0 +1,33 @@
+{
+  "simplified": "耗费",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hào feì",
+          "wade_giles_pinyin": "hao4 fei4"
+        }
+      ],
+      "simplified": "耗费",
+      "traditional": "耗費",
+      "meanings": [
+        {
+          "value": "to waste"
+        },
+        {
+          "value": "to spend"
+        },
+        {
+          "value": "to consume"
+        },
+        {
+          "value": "to squander"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

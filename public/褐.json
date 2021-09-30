@@ -1,0 +1,34 @@
+{
+  "simplified": "褐",
+  "simplified_stroke_count": 14,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hè",
+          "wade_giles_pinyin": "he4"
+        }
+      ],
+      "simplified": "褐",
+      "simplified_stroke_count": 14,
+      "traditional": "褐",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "brown"
+        },
+        {
+          "value": "gray or dark color"
+        },
+        {
+          "value": "coarse hemp cloth"
+        },
+        {
+          "value": "Taiwan pr. [he2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

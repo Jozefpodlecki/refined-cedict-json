@@ -1,0 +1,25 @@
+{
+  "simplified": "超声",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chāo shēng",
+          "wade_giles_pinyin": "chao1 sheng1"
+        }
+      ],
+      "simplified": "超声",
+      "traditional": "超聲",
+      "meanings": [
+        {
+          "value": "ultrasonic"
+        },
+        {
+          "value": "ultrasound"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

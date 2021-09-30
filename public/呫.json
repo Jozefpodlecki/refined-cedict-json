@@ -1,0 +1,82 @@
+{
+  "simplified": "呫",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " tiè",
+          "wade_giles_pinyin": "tie4"
+        }
+      ],
+      "simplified": "呫",
+      "simplified_stroke_count": 8,
+      "traditional": "呫",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to mutter"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to talk indistinctly"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhān",
+          "wade_giles_pinyin": "zhan1"
+        }
+      ],
+      "simplified": "呫",
+      "simplified_stroke_count": 8,
+      "traditional": "呫",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to drink"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to sip"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to taste"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to lick"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "whisper"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "petty"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

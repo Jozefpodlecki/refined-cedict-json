@@ -1,0 +1,38 @@
+{
+  "simplified": "玳瑁眼镜",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dài mào yǎn jìng",
+          "wade_giles_pinyin": "dai4 mao4 yan3 jing4"
+        }
+      ],
+      "simplified": "玳瑁眼镜",
+      "simplified_stroke_count": 0,
+      "traditional": "玳瑁眼鏡",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "hawksbill shell-rimmed eyeglasses"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:副[fu4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "副",
+          "traditional": "",
+          "wade_giles_pinyin": "fu4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "simplified": "康",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " kāng",
+          "wade_giles_pinyin": "Kang1"
+        }
+      ],
+      "simplified": "康",
+      "simplified_stroke_count": 11,
+      "traditional": "康",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "surname Kang"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " kāng",
+          "wade_giles_pinyin": "kang1"
+        }
+      ],
+      "simplified": "康",
+      "simplified_stroke_count": 11,
+      "traditional": "康",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "healthy"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "peaceful"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "abundant"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

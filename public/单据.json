@@ -1,0 +1,37 @@
+{
+  "simplified": "单据",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dān jù",
+          "wade_giles_pinyin": "dan1 ju4"
+        }
+      ],
+      "simplified": "单据",
+      "simplified_stroke_count": 0,
+      "traditional": "單據",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "receipts"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "invoices"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "transaction records"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

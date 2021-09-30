@@ -1,0 +1,42 @@
+{
+  "simplified": "演",
+  "simplified_stroke_count": 14,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yǎn",
+          "wade_giles_pinyin": "yan3"
+        }
+      ],
+      "simplified": "演",
+      "simplified_stroke_count": 14,
+      "traditional": "演",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "to develop"
+        },
+        {
+          "value": "to evolve"
+        },
+        {
+          "value": "to practice"
+        },
+        {
+          "value": "to perform"
+        },
+        {
+          "value": "to play"
+        },
+        {
+          "value": "to act"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

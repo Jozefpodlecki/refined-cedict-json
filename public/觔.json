@@ -1,0 +1,32 @@
+{
+  "simplified": "觔",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jīn",
+          "wade_giles_pinyin": "jin1"
+        }
+      ],
+      "simplified": "觔",
+      "simplified_stroke_count": 9,
+      "traditional": "觔",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "筋[jin1]"
+        },
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "斤[jin1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

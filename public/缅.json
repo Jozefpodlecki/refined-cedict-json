@@ -1,0 +1,54 @@
+{
+  "simplified": "缅",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "miǎn",
+          "wade_giles_pinyin": "Mian3"
+        }
+      ],
+      "simplified": "缅",
+      "simplified_stroke_count": 12,
+      "traditional": "緬",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "value": "Myanmar (formerly Burma) ( 緬甸|缅甸[Mian3 dian4])",
+          "simplified": "M",
+          "traditional": "yanmar (formerly Burma) ( 緬甸|缅甸",
+          "wade_giles_pinyin": "Mian3 dian4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "miǎn",
+          "wade_giles_pinyin": "mian3"
+        }
+      ],
+      "simplified": "缅",
+      "simplified_stroke_count": 12,
+      "traditional": "緬",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "distant"
+        },
+        {
+          "value": "remote"
+        },
+        {
+          "value": "detailed"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

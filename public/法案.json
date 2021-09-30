@@ -1,0 +1,32 @@
+{
+  "simplified": "法案",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fǎ àn",
+          "wade_giles_pinyin": "fa3 an4"
+        }
+      ],
+      "simplified": "法案",
+      "simplified_stroke_count": 0,
+      "traditional": "法案",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "bill"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "proposed law"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

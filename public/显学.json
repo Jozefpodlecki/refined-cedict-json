@@ -1,0 +1,32 @@
+{
+  "simplified": "显学",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiǎn xué",
+          "wade_giles_pinyin": "xian3 xue2"
+        }
+      ],
+      "simplified": "显学",
+      "simplified_stroke_count": null,
+      "traditional": "顯學",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "famous school"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "noted school of thought"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

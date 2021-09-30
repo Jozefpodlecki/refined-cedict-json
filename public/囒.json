@@ -1,0 +1,37 @@
+{
+  "simplified": "囒",
+  "simplified_stroke_count": 24,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " lán",
+          "wade_giles_pinyin": "lan2"
+        }
+      ],
+      "simplified": "囒",
+      "simplified_stroke_count": 24,
+      "traditional": "囒",
+      "traditional_stroke_count": 24,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "confused chatter"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "incomprehensible babble"
+        },
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "讕|谰, to accuse unjustly"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

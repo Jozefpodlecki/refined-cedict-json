@@ -1,0 +1,48 @@
+{
+  "simplified": "罚",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fá",
+          "wade_giles_pinyin": "fa2"
+        }
+      ],
+      "simplified": "罚",
+      "simplified_stroke_count": 9,
+      "traditional": "罰",
+      "traditional_stroke_count": 14,
+      "meanings": [],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fá",
+          "wade_giles_pinyin": "fa2"
+        }
+      ],
+      "simplified": "罚",
+      "simplified_stroke_count": 9,
+      "traditional": "罸",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 罰|罚[fa2]",
+          "simplified": "罰",
+          "traditional": "罚",
+          "wade_giles_pinyin": "fa2"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "simplified": "番客",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fān kè",
+          "wade_giles_pinyin": "fan1 ke4"
+        }
+      ],
+      "simplified": "番客",
+      "simplified_stroke_count": null,
+      "traditional": "番客",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "(old) foreigner"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "alien"
+        },
+        {
+          "context": "dialect",
+          "lexical_item": null,
+          "value": "overseas Chinese"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

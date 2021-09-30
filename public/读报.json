@@ -1,0 +1,24 @@
+{
+  "simplified": "读报",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dú bào",
+          "wade_giles_pinyin": "du2 bao4"
+        }
+      ],
+      "simplified": "读报",
+      "traditional": "讀報",
+      "meanings": [
+        {
+          "value": "to read newspapers"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

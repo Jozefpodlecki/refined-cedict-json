@@ -1,0 +1,37 @@
+{
+  "simplified": "靠山",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kào shān",
+          "wade_giles_pinyin": "kao4 shan1"
+        }
+      ],
+      "simplified": "靠山",
+      "simplified_stroke_count": null,
+      "traditional": "靠山",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "patron"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "supporter"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "close to a mountain"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

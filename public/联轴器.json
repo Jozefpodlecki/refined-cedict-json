@@ -1,0 +1,32 @@
+{
+  "simplified": "联轴器",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " lián zhòu qì",
+          "wade_giles_pinyin": "lian2 zhou4 qi4"
+        }
+      ],
+      "simplified": "联轴器",
+      "simplified_stroke_count": 0,
+      "traditional": "聯軸器",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(mechanics) coupler"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "coupling"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

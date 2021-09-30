@@ -1,0 +1,42 @@
+{
+  "simplified": "时段",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shí duàn",
+          "wade_giles_pinyin": "shi2 duan4"
+        }
+      ],
+      "simplified": "时段",
+      "simplified_stroke_count": 0,
+      "traditional": "時段",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "time interval"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "work shift"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "time slot"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "the twelve two-hour divisions of the day"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "猝然",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cù rán",
+          "wade_giles_pinyin": "cu4 ran2"
+        }
+      ],
+      "simplified": "猝然",
+      "simplified_stroke_count": null,
+      "traditional": "猝然",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "suddenly"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "abruptly"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

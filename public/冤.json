@@ -1,0 +1,54 @@
+{
+  "simplified": "冤",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yuān",
+          "wade_giles_pinyin": "yuan1"
+        }
+      ],
+      "simplified": "冤",
+      "simplified_stroke_count": 10,
+      "traditional": "冤",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "injustice"
+        },
+        {
+          "value": "grievance"
+        },
+        {
+          "value": "wrong"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yuān",
+          "wade_giles_pinyin": "yuan1"
+        }
+      ],
+      "simplified": "冤",
+      "simplified_stroke_count": 10,
+      "traditional": "寃",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 冤[yuan1]",
+          "simplified": "冤",
+          "traditional": "",
+          "wade_giles_pinyin": "yuan1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

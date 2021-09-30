@@ -1,0 +1,36 @@
+{
+  "simplified": "不问",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bù wèn",
+          "wade_giles_pinyin": "bu4 wen4"
+        }
+      ],
+      "simplified": "不问",
+      "traditional": "不問",
+      "meanings": [
+        {
+          "value": "to pay no attention to"
+        },
+        {
+          "value": "to disregard"
+        },
+        {
+          "value": "to ignore"
+        },
+        {
+          "value": "to let go unpunished"
+        },
+        {
+          "value": "to let off"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

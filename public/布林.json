@@ -1,0 +1,40 @@
+{
+  "simplified": "布林",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bù lín",
+          "wade_giles_pinyin": "Bu4 lin2"
+        }
+      ],
+      "simplified": "布林",
+      "traditional": "布林",
+      "meanings": [
+        {
+          "value": "Boolean (math.)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bù lín",
+          "wade_giles_pinyin": "bu4 lin2"
+        }
+      ],
+      "simplified": "布林",
+      "traditional": "布林",
+      "meanings": [
+        {
+          "context": "loanword",
+          "value": "plum"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

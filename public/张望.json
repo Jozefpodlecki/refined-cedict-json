@@ -1,0 +1,33 @@
+{
+  "simplified": "张望",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhāng wàng",
+          "wade_giles_pinyin": "zhang1 wang4"
+        }
+      ],
+      "simplified": "张望",
+      "traditional": "張望",
+      "meanings": [
+        {
+          "value": "to look around"
+        },
+        {
+          "value": "to peep (through a crack)"
+        },
+        {
+          "value": "to peer at"
+        },
+        {
+          "value": "to throw a look at"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

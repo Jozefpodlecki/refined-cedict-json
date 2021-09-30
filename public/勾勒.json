@@ -1,0 +1,36 @@
+{
+  "simplified": "勾勒",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "gōu lè",
+          "wade_giles_pinyin": "gou1 le4"
+        }
+      ],
+      "simplified": "勾勒",
+      "traditional": "勾勒",
+      "meanings": [
+        {
+          "value": "to draw the outline of"
+        },
+        {
+          "value": "to outline"
+        },
+        {
+          "value": "to sketch"
+        },
+        {
+          "value": "to delineate contours of"
+        },
+        {
+          "value": "to give a brief account of"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

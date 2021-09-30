@@ -1,0 +1,48 @@
+{
+  "simplified": "苕",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sháo",
+          "wade_giles_pinyin": "shao2"
+        }
+      ],
+      "simplified": "苕",
+      "simplified_stroke_count": 11,
+      "traditional": "苕",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "see 紅苕|红苕[hong2 shao2]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tiáo",
+          "wade_giles_pinyin": "tiao2"
+        }
+      ],
+      "simplified": "苕",
+      "simplified_stroke_count": 11,
+      "traditional": "苕",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "reed grass"
+        },
+        {
+          "context": "old",
+          "value": "Chinese trumpet vine (Campsis grandiflora)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

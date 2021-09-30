@@ -1,0 +1,32 @@
+{
+  "simplified": "准线",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhǔn xiàn",
+          "wade_giles_pinyin": "zhun3 xian4"
+        }
+      ],
+      "simplified": "准线",
+      "simplified_stroke_count": null,
+      "traditional": "準線",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "directrix line of a parabola"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "guide line"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

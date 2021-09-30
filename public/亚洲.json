@@ -1,0 +1,29 @@
+{
+  "simplified": "亚洲",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yà zhōu",
+          "wade_giles_pinyin": "Ya4 zhou1"
+        }
+      ],
+      "simplified": "亚洲",
+      "traditional": "亞洲",
+      "meanings": [
+        {
+          "value": "Asia"
+        },
+        {
+          "context": "abbreviation",
+          "value": "亞細亞洲|亚细亚洲[Ya4 xi4 ya4 Zhou1]",
+          "simplified": "亞",
+          "traditional": "細亞洲|亚细亚洲",
+          "wade_giles_pinyin": "Ya4 xi4 ya4 Zhou1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

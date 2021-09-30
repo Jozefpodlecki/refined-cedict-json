@@ -1,0 +1,47 @@
+{
+  "simplified": "嶡",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guì",
+          "wade_giles_pinyin": "gui4"
+        }
+      ],
+      "simplified": "嶡",
+      "simplified_stroke_count": 15,
+      "traditional": "嶡",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "precipitous"
+        },
+        {
+          "value": "mountainous"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jué",
+          "wade_giles_pinyin": "jue2"
+        }
+      ],
+      "simplified": "嶡",
+      "simplified_stroke_count": 15,
+      "traditional": "嶡",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "sacrificial vessel"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

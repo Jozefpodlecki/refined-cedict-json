@@ -1,0 +1,46 @@
+{
+  "simplified": "茶叶",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chá yè",
+          "wade_giles_pinyin": "cha2 ye4"
+        }
+      ],
+      "simplified": "茶叶",
+      "traditional": "茶葉",
+      "meanings": [
+        {
+          "value": "tea"
+        },
+        {
+          "value": "tea leaves"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "盒",
+          "traditional": "",
+          "wade_giles_pinyin": "he2"
+        },
+        {
+          "simplified": "罐",
+          "traditional": "",
+          "wade_giles_pinyin": "guan4"
+        },
+        {
+          "simplified": "包",
+          "traditional": "",
+          "wade_giles_pinyin": "bao1"
+        },
+        {
+          "simplified": "片",
+          "traditional": "",
+          "wade_giles_pinyin": "pian4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "simplified": "订做",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dìng zuò",
+          "wade_giles_pinyin": "ding4 zuo4"
+        }
+      ],
+      "simplified": "订做",
+      "traditional": "訂做",
+      "meanings": [
+        {
+          "value": "to make to order"
+        },
+        {
+          "value": "to have sth made to order"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "simplified": "自行车道",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zì xíng chē dào",
+          "wade_giles_pinyin": "zi4 xing2 che1 dao4"
+        }
+      ],
+      "simplified": "自行车道",
+      "simplified_stroke_count": 0,
+      "traditional": "自行車道",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "bike path"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "bicycle trail"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "bike lane"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "simplified": "账",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhàng",
+          "wade_giles_pinyin": "zhang4"
+        }
+      ],
+      "simplified": "账",
+      "simplified_stroke_count": 8,
+      "traditional": "賬",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "account"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "bill"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "debt"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "CL:本[ben3],筆|笔[bi3]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "本",
+          "traditional": "",
+          "wade_giles_pinyin": "ben3"
+        },
+        {
+          "simplified": "筆",
+          "traditional": "笔",
+          "wade_giles_pinyin": "bi3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

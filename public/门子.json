@@ -1,0 +1,38 @@
+{
+  "simplified": "门子",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mén zi",
+          "wade_giles_pinyin": "men2 zi5"
+        }
+      ],
+      "simplified": "门子",
+      "traditional": "門子",
+      "meanings": [
+        {
+          "value": "door"
+        },
+        {
+          "context": "old",
+          "value": "doorman"
+        },
+        {
+          "value": "hanger-on of an aristocrat"
+        },
+        {
+          "value": "social influence"
+        },
+        {
+          "value": "pull"
+        },
+        {
+          "value": "classifier for relatives, marriages etc"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

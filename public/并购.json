@@ -1,0 +1,30 @@
+{
+  "simplified": "并购",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bìng gòu",
+          "wade_giles_pinyin": "bing4 gou4"
+        }
+      ],
+      "simplified": "并购",
+      "traditional": "併購",
+      "meanings": [
+        {
+          "value": "merger and acquisition (M and A)"
+        },
+        {
+          "value": "acquisition"
+        },
+        {
+          "value": "to take over"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

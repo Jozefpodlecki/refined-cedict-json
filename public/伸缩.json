@@ -1,0 +1,39 @@
+{
+  "simplified": "伸缩",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shēn suō",
+          "wade_giles_pinyin": "shen1 suo1"
+        }
+      ],
+      "simplified": "伸缩",
+      "traditional": "伸縮",
+      "meanings": [
+        {
+          "value": "to lengthen and shorten"
+        },
+        {
+          "value": "flexible"
+        },
+        {
+          "value": "adjustable"
+        },
+        {
+          "value": "retractable"
+        },
+        {
+          "value": "extensible"
+        },
+        {
+          "value": "telescoping (collapsible)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

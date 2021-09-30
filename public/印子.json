@@ -1,0 +1,37 @@
+{
+  "simplified": "印子",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yìn zi",
+          "wade_giles_pinyin": "yin4 zi5"
+        }
+      ],
+      "simplified": "印子",
+      "simplified_stroke_count": 0,
+      "traditional": "印子",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "trace"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "impression (e.g. footprint)"
+        },
+        {
+          "context": "abbreviation",
+          "lexical_item": "",
+          "value": "abbr. of 印子錢|印子钱[yin4 zi5 qian2], usury"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

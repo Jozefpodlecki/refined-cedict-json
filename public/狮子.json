@@ -1,0 +1,53 @@
+{
+  "simplified": "狮子",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shī zǐ",
+          "wade_giles_pinyin": "Shi1 zi3"
+        }
+      ],
+      "simplified": "狮子",
+      "traditional": "獅子",
+      "meanings": [
+        {
+          "value": "Leo (star sign)"
+        },
+        {
+          "value": "Shihtzu township in Pingtung County 屏東縣|屏东县[Ping2 dong1 Xian4], Taiwan"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shī zi",
+          "wade_giles_pinyin": "shi1 zi5"
+        }
+      ],
+      "simplified": "狮子",
+      "traditional": "獅子",
+      "meanings": [
+        {
+          "value": "lion"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "隻",
+          "traditional": "只",
+          "wade_giles_pinyin": "zhi1"
+        },
+        {
+          "simplified": "頭",
+          "traditional": "头",
+          "wade_giles_pinyin": "tou2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

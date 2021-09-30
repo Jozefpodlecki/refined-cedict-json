@@ -1,0 +1,55 @@
+{
+  "simplified": "趁",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chèn",
+          "wade_giles_pinyin": "chen4"
+        }
+      ],
+      "simplified": "趁",
+      "simplified_stroke_count": 12,
+      "traditional": "趁",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "to avail oneself of"
+        },
+        {
+          "value": "to take advantage of"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chèn",
+          "wade_giles_pinyin": "chen4"
+        }
+      ],
+      "simplified": "趁",
+      "simplified_stroke_count": 12,
+      "traditional": "趂",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 趁[chen4]",
+          "simplified": "趁",
+          "traditional": "",
+          "wade_giles_pinyin": "chen4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

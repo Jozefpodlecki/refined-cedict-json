@@ -1,0 +1,31 @@
+{
+  "simplified": "单放机",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dān fàng jī",
+          "wade_giles_pinyin": "dan1 fang4 ji1"
+        }
+      ],
+      "simplified": "单放机",
+      "traditional": "單放機",
+      "meanings": [
+        {
+          "value": "tape player"
+        },
+        {
+          "value": "video player"
+        },
+        {
+          "value": "(media) player"
+        },
+        {
+          "value": "play-only device"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

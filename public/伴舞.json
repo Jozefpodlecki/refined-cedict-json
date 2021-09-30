@@ -1,0 +1,33 @@
+{
+  "simplified": "伴舞",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bàn wǔ",
+          "wade_giles_pinyin": "ban4 wu3"
+        }
+      ],
+      "simplified": "伴舞",
+      "traditional": "伴舞",
+      "meanings": [
+        {
+          "value": "to be a dancing partner to sb"
+        },
+        {
+          "value": "to perform as a backup dancer"
+        },
+        {
+          "value": "taxi dancer (hired dancing partner)"
+        },
+        {
+          "value": "escort"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

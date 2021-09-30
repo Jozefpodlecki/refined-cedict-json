@@ -1,0 +1,58 @@
+{
+  "simplified": "无为",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wú wéi",
+          "wade_giles_pinyin": "Wu2 wei2"
+        }
+      ],
+      "simplified": "无为",
+      "simplified_stroke_count": null,
+      "traditional": "無為",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "Wuwei county in Chaohu 巢湖[Chao2 hu2], Anhui"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wú wéi",
+          "wade_giles_pinyin": "wu2 wei2"
+        }
+      ],
+      "simplified": "无为",
+      "simplified_stroke_count": null,
+      "traditional": "無為",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "the Daoist doctrine of inaction"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "let things take their own course"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "laissez-faire"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

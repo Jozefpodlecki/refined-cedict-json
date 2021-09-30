@@ -1,0 +1,32 @@
+{
+  "simplified": "二项式系数",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " èr xiàng shì xì shù",
+          "wade_giles_pinyin": "er4 xiang4 shi4 xi4 shu4"
+        }
+      ],
+      "simplified": "二项式系数",
+      "simplified_stroke_count": 0,
+      "traditional": "二項式係數",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "a binomial coefficient (math.)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "the number of combinations"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

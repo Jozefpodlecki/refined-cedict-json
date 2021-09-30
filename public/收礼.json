@@ -1,0 +1,27 @@
+{
+  "simplified": "收礼",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shōu lǐ",
+          "wade_giles_pinyin": "shou1 li3"
+        }
+      ],
+      "simplified": "收礼",
+      "traditional": "收禮",
+      "meanings": [
+        {
+          "value": "to accept a gift"
+        },
+        {
+          "value": "to receive presents"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

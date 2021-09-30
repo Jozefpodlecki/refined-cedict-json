@@ -1,0 +1,60 @@
+{
+  "simplified": "创作",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chuàng zuò",
+          "wade_giles_pinyin": "chuang4 zuo4"
+        }
+      ],
+      "simplified": "创作",
+      "simplified_stroke_count": 0,
+      "traditional": "創作",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to create"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to produce"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to write"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "creative work"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "creation"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:個|个[ge4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

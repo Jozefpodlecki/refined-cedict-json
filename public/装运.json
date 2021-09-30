@@ -1,0 +1,27 @@
+{
+  "simplified": "装运",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhuāng yùn",
+          "wade_giles_pinyin": "zhuang1 yun4"
+        }
+      ],
+      "simplified": "装运",
+      "traditional": "裝運",
+      "meanings": [
+        {
+          "value": "to ship"
+        },
+        {
+          "value": "shipment"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

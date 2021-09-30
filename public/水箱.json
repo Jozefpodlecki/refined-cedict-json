@@ -1,0 +1,31 @@
+{
+  "simplified": "水箱",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shuǐ xiāng",
+          "wade_giles_pinyin": "shui3 xiang1"
+        }
+      ],
+      "simplified": "水箱",
+      "traditional": "水箱",
+      "meanings": [
+        {
+          "value": "water tank"
+        },
+        {
+          "value": "radiator (automobile)"
+        },
+        {
+          "value": "cistern"
+        },
+        {
+          "value": "lavabo"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

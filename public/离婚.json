@@ -1,0 +1,27 @@
+{
+  "simplified": "离婚",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lí hūn",
+          "wade_giles_pinyin": "li2 hun1"
+        }
+      ],
+      "simplified": "离婚",
+      "traditional": "離婚",
+      "meanings": [
+        {
+          "value": "to divorce"
+        },
+        {
+          "value": "divorced from (one's spouse)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

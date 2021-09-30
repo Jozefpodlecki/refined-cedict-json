@@ -1,0 +1,34 @@
+{
+  "simplified": "担忧",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dān yōu",
+          "wade_giles_pinyin": "dan1 you1"
+        }
+      ],
+      "simplified": "担忧",
+      "simplified_stroke_count": 0,
+      "traditional": "擔憂",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to worry"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to be concerned"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

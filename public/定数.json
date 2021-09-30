@@ -1,0 +1,34 @@
+{
+  "simplified": "定数",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dìng shù",
+          "wade_giles_pinyin": "ding4 shu4"
+        }
+      ],
+      "simplified": "定数",
+      "traditional": "定數",
+      "meanings": [
+        {
+          "value": "constant (math.)"
+        },
+        {
+          "value": "quota"
+        },
+        {
+          "value": "fixed number (e.g. of places on a bus)"
+        },
+        {
+          "value": "fixed quantity (e.g. load of truck)"
+        },
+        {
+          "value": "destiny"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

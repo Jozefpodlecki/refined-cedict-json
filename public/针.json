@@ -1,0 +1,68 @@
+{
+  "simplified": "针",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhēn",
+          "wade_giles_pinyin": "zhen1"
+        }
+      ],
+      "simplified": "针",
+      "simplified_stroke_count": 7,
+      "traditional": "針",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "needle"
+        },
+        {
+          "value": "pin"
+        },
+        {
+          "value": "injection"
+        },
+        {
+          "value": "stitch"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "根",
+          "traditional": "",
+          "wade_giles_pinyin": "gen1"
+        },
+        {
+          "simplified": "支",
+          "traditional": "",
+          "wade_giles_pinyin": "zhi1"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhēn",
+          "wade_giles_pinyin": "zhen1"
+        }
+      ],
+      "simplified": "针",
+      "simplified_stroke_count": 7,
+      "traditional": "鍼",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 針|针[zhen1], needle",
+          "simplified": "針",
+          "traditional": "针",
+          "wade_giles_pinyin": "zhen1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

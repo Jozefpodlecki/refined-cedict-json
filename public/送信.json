@@ -1,0 +1,34 @@
+{
+  "simplified": "送信",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " sòng xìn",
+          "wade_giles_pinyin": "song4 xin4"
+        }
+      ],
+      "simplified": "送信",
+      "simplified_stroke_count": 0,
+      "traditional": "送信",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to send word"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to deliver a letter"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

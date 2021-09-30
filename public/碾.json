@@ -1,0 +1,39 @@
+{
+  "simplified": "碾",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "niǎn",
+          "wade_giles_pinyin": "nian3"
+        }
+      ],
+      "simplified": "碾",
+      "simplified_stroke_count": 15,
+      "traditional": "碾",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "stone roller"
+        },
+        {
+          "value": "roller and millstone"
+        },
+        {
+          "value": "to grind"
+        },
+        {
+          "value": "to crush"
+        },
+        {
+          "value": "to husk"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

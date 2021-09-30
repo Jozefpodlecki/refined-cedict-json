@@ -1,0 +1,57 @@
+{
+  "simplified": "禁",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jīn",
+          "wade_giles_pinyin": "jin1"
+        }
+      ],
+      "simplified": "禁",
+      "simplified_stroke_count": 13,
+      "traditional": "禁",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to endure"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jìn",
+          "wade_giles_pinyin": "jin4"
+        }
+      ],
+      "simplified": "禁",
+      "simplified_stroke_count": 13,
+      "traditional": "禁",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to prohibit"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to forbid"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

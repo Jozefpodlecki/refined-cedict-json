@@ -1,0 +1,33 @@
+{
+  "simplified": "渗",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shèn",
+          "wade_giles_pinyin": "shen4"
+        }
+      ],
+      "simplified": "渗",
+      "simplified_stroke_count": 11,
+      "traditional": "滲",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "to seep"
+        },
+        {
+          "value": "to ooze"
+        },
+        {
+          "value": "to horrify"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

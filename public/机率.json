@@ -1,0 +1,26 @@
+{
+  "simplified": "机率",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jī lǜ",
+          "wade_giles_pinyin": "ji1 lu:4"
+        }
+      ],
+      "simplified": "机率",
+      "traditional": "機率",
+      "meanings": [
+        {
+          "value": "probability"
+        },
+        {
+          "context": "taiwan",
+          "value": "odds"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

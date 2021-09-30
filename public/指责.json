@@ -1,0 +1,39 @@
+{
+  "simplified": "指责",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhǐ zé",
+          "wade_giles_pinyin": "zhi3 ze2"
+        }
+      ],
+      "simplified": "指责",
+      "simplified_stroke_count": null,
+      "traditional": "指責",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to criticize"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to find fault with"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to denounce"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

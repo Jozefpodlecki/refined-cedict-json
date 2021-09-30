@@ -1,0 +1,104 @@
+{
+  "simplified": "人家",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rén jiā",
+          "wade_giles_pinyin": "ren2 jia1"
+        }
+      ],
+      "simplified": "人家",
+      "simplified_stroke_count": null,
+      "traditional": "人家",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "household"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "dwelling"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "family"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "sb else's house"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "household business"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "house of woman's husband-to-be"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "CL:戶|户[hu4],家[jia1]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "戶",
+          "traditional": "户",
+          "wade_giles_pinyin": "hu4"
+        },
+        {
+          "simplified": "家",
+          "traditional": "",
+          "wade_giles_pinyin": "jia1"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rén jia",
+          "wade_giles_pinyin": "ren2 jia5"
+        }
+      ],
+      "simplified": "人家",
+      "simplified_stroke_count": null,
+      "traditional": "人家",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "other people"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "sb else"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "he, she or they"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "I, me (referring to oneself as \"one\" or \"people\")"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "神话",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shén huà",
+          "wade_giles_pinyin": "shen2 hua4"
+        }
+      ],
+      "simplified": "神话",
+      "traditional": "神話",
+      "meanings": [
+        {
+          "value": "legend"
+        },
+        {
+          "value": "fairy tale"
+        },
+        {
+          "value": "myth"
+        },
+        {
+          "value": "mythology"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "simplified": "考试",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kǎo shì",
+          "wade_giles_pinyin": "kao3 shi4"
+        }
+      ],
+      "simplified": "考试",
+      "traditional": "考試",
+      "meanings": [],
+      "classifiers": [
+        {
+          "simplified": "次",
+          "traditional": "",
+          "wade_giles_pinyin": "ci4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

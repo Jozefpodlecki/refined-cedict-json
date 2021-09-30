@@ -1,0 +1,37 @@
+{
+  "simplified": "溢",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yì",
+          "wade_giles_pinyin": "yi4"
+        }
+      ],
+      "simplified": "溢",
+      "simplified_stroke_count": 13,
+      "traditional": "溢",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "value": "to overflow"
+        },
+        {
+          "value": "(literary) excessive"
+        },
+        {
+          "context": "old variant",
+          "value": "old variant of 鎰|镒[yi4]",
+          "simplified": "鎰",
+          "traditional": "镒",
+          "wade_giles_pinyin": "yi4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "simplified": "并激",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bìng jī",
+          "wade_giles_pinyin": "bing4 ji1"
+        }
+      ],
+      "simplified": "并激",
+      "traditional": "並激",
+      "meanings": [
+        {
+          "value": "parallel excitation"
+        },
+        {
+          "value": "shunt excitation"
+        },
+        {
+          "value": "shunt-wound (e.g. electric generator)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

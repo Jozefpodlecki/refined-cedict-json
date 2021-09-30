@@ -1,0 +1,32 @@
+{
+  "simplified": "对号",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "duì hào",
+          "wade_giles_pinyin": "dui4 hao4"
+        }
+      ],
+      "simplified": "对号",
+      "traditional": "對號",
+      "meanings": [
+        {
+          "value": "tick"
+        },
+        {
+          "value": "check mark (✓)"
+        },
+        {
+          "value": "number for verification (serial number, seat number etc)"
+        },
+        {
+          "context": "figuratively",
+          "value": "two things match up"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

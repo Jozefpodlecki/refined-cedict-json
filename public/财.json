@@ -1,0 +1,37 @@
+{
+  "simplified": "财",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "cái",
+          "wade_giles_pinyin": "cai2"
+        }
+      ],
+      "simplified": "财",
+      "simplified_stroke_count": 7,
+      "traditional": "財",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "money"
+        },
+        {
+          "value": "wealth"
+        },
+        {
+          "value": "riches"
+        },
+        {
+          "value": "property"
+        },
+        {
+          "value": "valuables"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

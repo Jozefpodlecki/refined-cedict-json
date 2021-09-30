@@ -1,0 +1,90 @@
+{
+  "simplified": "号",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "háo",
+          "wade_giles_pinyin": "hao2"
+        }
+      ],
+      "simplified": "号",
+      "simplified_stroke_count": 5,
+      "traditional": "號",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "roar"
+        },
+        {
+          "value": "cry"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hào",
+          "wade_giles_pinyin": "hao4"
+        }
+      ],
+      "simplified": "号",
+      "simplified_stroke_count": 5,
+      "traditional": "號",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "ordinal number"
+        },
+        {
+          "value": "day of a month"
+        },
+        {
+          "value": "mark"
+        },
+        {
+          "value": "sign"
+        },
+        {
+          "value": "business establishment"
+        },
+        {
+          "value": "size"
+        },
+        {
+          "value": "ship suffix"
+        },
+        {
+          "value": "horn (wind instrument)"
+        },
+        {
+          "value": "bugle call"
+        },
+        {
+          "value": "assumed name"
+        },
+        {
+          "value": "to take a pulse"
+        },
+        {
+          "value": "classifier used to indicate number of people"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

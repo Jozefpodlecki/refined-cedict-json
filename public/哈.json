@@ -1,0 +1,103 @@
+{
+  "simplified": "哈",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hā",
+          "wade_giles_pinyin": "Ha1"
+        }
+      ],
+      "simplified": "哈",
+      "simplified_stroke_count": 9,
+      "traditional": "哈",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "value": "哈薩克斯坦|哈萨克斯坦[Ha1 sa4 ke4 si1 tan3], Kazakhstan",
+          "simplified": "哈",
+          "traditional": "薩克斯坦|哈萨克斯坦",
+          "wade_giles_pinyin": "Ha1 sa4 ke4 si1 tan3"
+        },
+        {
+          "context": "abbreviation",
+          "value": "哈爾濱|哈尔滨[Ha1 er3 bin1], Harbin",
+          "simplified": "哈",
+          "traditional": "爾濱|哈尔滨",
+          "wade_giles_pinyin": "Ha1 er3 bin1"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hā",
+          "wade_giles_pinyin": "ha1"
+        }
+      ],
+      "simplified": "哈",
+      "simplified_stroke_count": 9,
+      "traditional": "哈",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "(interj.) ha!"
+        },
+        {
+          "value": "(onom. for laughter)"
+        },
+        {
+          "value": "(slang) to be infatuated with"
+        },
+        {
+          "value": "to adore"
+        },
+        {
+          "context": "abbreviation",
+          "value": "哈士奇[ha1 shi4 qi2], husky (dog)",
+          "simplified": "哈",
+          "traditional": "士奇",
+          "wade_giles_pinyin": "ha1 shi4 qi2"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hǎ",
+          "wade_giles_pinyin": "ha3"
+        }
+      ],
+      "simplified": "哈",
+      "simplified_stroke_count": 9,
+      "traditional": "哈",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "a Pekinese"
+        },
+        {
+          "value": "a pug"
+        },
+        {
+          "context": "dialect",
+          "value": "to scold"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

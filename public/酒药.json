@@ -1,0 +1,25 @@
+{
+  "simplified": "酒药",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiǔ yào",
+          "wade_giles_pinyin": "jiu3 yao4"
+        }
+      ],
+      "simplified": "酒药",
+      "traditional": "酒藥",
+      "meanings": [
+        {
+          "value": "brewer's yeast"
+        },
+        {
+          "value": "yeast for fermenting rice wine"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

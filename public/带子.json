@@ -1,0 +1,44 @@
+{
+  "simplified": "带子",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dài zi",
+          "wade_giles_pinyin": "dai4 zi5"
+        }
+      ],
+      "simplified": "带子",
+      "traditional": "帶子",
+      "meanings": [
+        {
+          "value": "belt"
+        },
+        {
+          "value": "band"
+        },
+        {
+          "value": "ribbon"
+        },
+        {
+          "value": "strap"
+        },
+        {
+          "value": "girdle"
+        },
+        {
+          "context": "colloquial",
+          "value": "audio or video tape"
+        },
+        {
+          "value": "Farrer's scallop (Chlamys farreri)"
+        },
+        {
+          "value": "comb pen shell (Atrina pectinata)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

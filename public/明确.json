@@ -1,0 +1,54 @@
+{
+  "simplified": "明确",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "míng què",
+          "wade_giles_pinyin": "ming2 que4"
+        }
+      ],
+      "simplified": "明确",
+      "simplified_stroke_count": null,
+      "traditional": "明確",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "clear-cut"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "definite"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "explicit"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to clarify"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to specify"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to make definite"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

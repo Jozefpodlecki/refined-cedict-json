@@ -1,0 +1,30 @@
+{
+  "simplified": "往返",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wǎng fǎn",
+          "wade_giles_pinyin": "wang3 fan3"
+        }
+      ],
+      "simplified": "往返",
+      "traditional": "往返",
+      "meanings": [
+        {
+          "value": "to go back and forth"
+        },
+        {
+          "value": "to go to and fro"
+        },
+        {
+          "value": "round trip"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "simplified": "气闸",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qì zhá",
+          "wade_giles_pinyin": "qi4 zha2"
+        }
+      ],
+      "simplified": "气闸",
+      "traditional": "氣閘",
+      "meanings": [
+        {
+          "value": "pneumatic brake"
+        },
+        {
+          "value": "airlock"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

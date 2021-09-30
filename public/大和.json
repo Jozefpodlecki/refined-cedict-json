@@ -1,0 +1,32 @@
+{
+  "simplified": "大和",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dà hé",
+          "wade_giles_pinyin": "Da4 he2"
+        }
+      ],
+      "simplified": "大和",
+      "simplified_stroke_count": null,
+      "traditional": "大和",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": "polite",
+          "lexical_item": null,
+          "value": "Yamato, an ancient Japanese province, a period of Japanese history, a place name, a surname etc"
+        },
+        {
+          "context": "polite",
+          "lexical_item": null,
+          "value": "Daiwa, a Japanese place name, business name etc"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "扁担",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "biǎn dan",
+          "wade_giles_pinyin": "bian3 dan5"
+        }
+      ],
+      "simplified": "扁担",
+      "traditional": "扁擔",
+      "meanings": [
+        {
+          "value": "carrying pole"
+        },
+        {
+          "value": "shoulder pole"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "根",
+          "traditional": "",
+          "wade_giles_pinyin": "gen1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

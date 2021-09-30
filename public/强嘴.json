@@ -1,0 +1,34 @@
+{
+  "simplified": "强嘴",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiàng zuǐ",
+          "wade_giles_pinyin": "jiang4 zui3"
+        }
+      ],
+      "simplified": "强嘴",
+      "simplified_stroke_count": null,
+      "traditional": "強嘴",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to talk back"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to reply defiantly"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

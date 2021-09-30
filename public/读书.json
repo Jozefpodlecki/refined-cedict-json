@@ -1,0 +1,39 @@
+{
+  "simplified": "读书",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dú shū",
+          "wade_giles_pinyin": "du2 shu1"
+        }
+      ],
+      "simplified": "读书",
+      "simplified_stroke_count": 0,
+      "traditional": "讀書",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to read a book"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to study"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to attend school"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

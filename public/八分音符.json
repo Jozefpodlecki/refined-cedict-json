@@ -1,0 +1,25 @@
+{
+  "simplified": "八分音符",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bā fēn yīn fú",
+          "wade_giles_pinyin": "ba1 fen1 yin1 fu2"
+        }
+      ],
+      "simplified": "八分音符",
+      "traditional": "八分音符",
+      "meanings": [
+        {
+          "value": "quaver"
+        },
+        {
+          "value": "eighth note"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

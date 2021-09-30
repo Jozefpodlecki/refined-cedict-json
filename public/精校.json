@@ -1,0 +1,28 @@
+{
+  "simplified": "精校",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jīng jiào",
+          "wade_giles_pinyin": "jing1 jiao4"
+        }
+      ],
+      "simplified": "精校",
+      "traditional": "精校",
+      "meanings": [
+        {
+          "context": "abbreviation",
+          "value": "to proofread meticulously ( 精確校對|精确校对[jing1 que4 jiao4 dui4])",
+          "simplified": "t",
+          "traditional": "o proofread meticulously ( 精確校對|精确校对",
+          "wade_giles_pinyin": "jing1 que4 jiao4 dui4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

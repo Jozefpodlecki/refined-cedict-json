@@ -1,0 +1,37 @@
+{
+  "simplified": "路线",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lù xiàn",
+          "wade_giles_pinyin": "lu4 xian4"
+        }
+      ],
+      "simplified": "路线",
+      "traditional": "路線",
+      "meanings": [
+        {
+          "value": "itinerary"
+        },
+        {
+          "value": "route"
+        },
+        {
+          "value": "political line (e.g. right revisionist road)"
+        },
+        {
+          "value": "CL:條|条[tiao2]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "條",
+          "traditional": "条",
+          "wade_giles_pinyin": "tiao2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

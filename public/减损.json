@@ -1,0 +1,42 @@
+{
+  "simplified": "减损",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiǎn sǔn",
+          "wade_giles_pinyin": "jian3 sun3"
+        }
+      ],
+      "simplified": "减损",
+      "traditional": "減損",
+      "meanings": [
+        {
+          "value": "to impair"
+        },
+        {
+          "value": "to degrade"
+        },
+        {
+          "value": "to decrease"
+        },
+        {
+          "value": "to reduce"
+        },
+        {
+          "value": "to weaken"
+        },
+        {
+          "value": "to detract from"
+        },
+        {
+          "value": "impairment (e.g. of financial assets)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

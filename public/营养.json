@@ -1,0 +1,31 @@
+{
+  "simplified": "营养",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yíng yǎng",
+          "wade_giles_pinyin": "ying2 yang3"
+        }
+      ],
+      "simplified": "营养",
+      "traditional": "營養",
+      "meanings": [
+        {
+          "value": "nutrition"
+        },
+        {
+          "value": "nourishment"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "種",
+          "traditional": "种",
+          "wade_giles_pinyin": "zhong3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

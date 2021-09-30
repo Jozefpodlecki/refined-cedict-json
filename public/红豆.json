@@ -1,0 +1,32 @@
+{
+  "simplified": "红豆",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " hóng dòu",
+          "wade_giles_pinyin": "hong2 dou4"
+        }
+      ],
+      "simplified": "红豆",
+      "simplified_stroke_count": 0,
+      "traditional": "紅豆",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "azuki bean"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "red bean"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

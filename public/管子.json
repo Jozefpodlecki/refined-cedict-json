@@ -1,0 +1,54 @@
+{
+  "simplified": "管子",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guǎn zǐ",
+          "wade_giles_pinyin": "Guan3 zi3"
+        }
+      ],
+      "simplified": "管子",
+      "traditional": "管子",
+      "meanings": [
+        {
+          "value": "Guanzi or Guan Zhong 管仲 (-645 BC), famous politician of Qi 齊國|齐国 of Spring and Autumn period"
+        },
+        {
+          "value": "Guanzi, classical book containing writings of Guan Zhong and his school"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guǎn zi",
+          "wade_giles_pinyin": "guan3 zi5"
+        }
+      ],
+      "simplified": "管子",
+      "traditional": "管子",
+      "meanings": [
+        {
+          "value": "tube"
+        },
+        {
+          "value": "pipe"
+        },
+        {
+          "value": "drinking straw"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "根",
+          "traditional": "",
+          "wade_giles_pinyin": "gen1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

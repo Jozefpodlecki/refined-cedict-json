@@ -1,0 +1,32 @@
+{
+  "simplified": "食宿",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shí sù",
+          "wade_giles_pinyin": "shi2 su4"
+        }
+      ],
+      "simplified": "食宿",
+      "simplified_stroke_count": 0,
+      "traditional": "食宿",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "board and lodging"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "room and board"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

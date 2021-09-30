@@ -1,0 +1,36 @@
+{
+  "simplified": "会议",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "huì yì",
+          "wade_giles_pinyin": "hui4 yi4"
+        }
+      ],
+      "simplified": "会议",
+      "traditional": "會議",
+      "meanings": [
+        {
+          "value": "meeting"
+        },
+        {
+          "value": "conference"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "場",
+          "traditional": "场",
+          "wade_giles_pinyin": "chang3"
+        },
+        {
+          "simplified": "屆",
+          "traditional": "届",
+          "wade_giles_pinyin": "jie4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

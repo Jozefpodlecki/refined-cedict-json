@@ -1,0 +1,32 @@
+{
+  "simplified": "目不见睫",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mù bù jiàn jié",
+          "wade_giles_pinyin": "mu4 bu4 jian4 jie2"
+        }
+      ],
+      "simplified": "目不见睫",
+      "traditional": "目不見睫",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "the eye cannot see the eyelashes ; fig. unable to see one's own faults"
+        },
+        {
+          "value": "to lack self-awareness"
+        },
+        {
+          "value": "truths too close to home"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

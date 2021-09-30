@@ -1,0 +1,60 @@
+{
+  "simplified": "券",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "quàn",
+          "wade_giles_pinyin": "quan4"
+        }
+      ],
+      "simplified": "券",
+      "simplified_stroke_count": 8,
+      "traditional": "券",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "bond (esp. document split in two, with each party holding one half)"
+        },
+        {
+          "value": "contract"
+        },
+        {
+          "value": "deed (i.e. title deeds)"
+        },
+        {
+          "value": "ticket"
+        },
+        {
+          "value": "voucher"
+        },
+        {
+          "value": "certificate"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "quàn",
+          "wade_giles_pinyin": "quan4"
+        }
+      ],
+      "simplified": "券",
+      "simplified_stroke_count": 8,
+      "traditional": "劵",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "券[quan4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "simplified": "消毒",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiāo dú",
+          "wade_giles_pinyin": "xiao1 du2"
+        }
+      ],
+      "simplified": "消毒",
+      "traditional": "消毒",
+      "meanings": [
+        {
+          "value": "to disinfect"
+        },
+        {
+          "value": "to sterilize"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

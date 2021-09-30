@@ -1,0 +1,32 @@
+{
+  "simplified": "佱",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fǎ",
+          "wade_giles_pinyin": "fa3"
+        }
+      ],
+      "simplified": "佱",
+      "simplified_stroke_count": 8,
+      "traditional": "佱",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 法[fa3]",
+          "simplified": "法",
+          "traditional": "",
+          "wade_giles_pinyin": "fa3"
+        },
+        {
+          "value": "law"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

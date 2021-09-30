@@ -1,0 +1,39 @@
+{
+  "simplified": "漏电",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lòu diàn",
+          "wade_giles_pinyin": "lou4 dian4"
+        }
+      ],
+      "simplified": "漏电",
+      "simplified_stroke_count": null,
+      "traditional": "漏電",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to leak electricity"
+        },
+        {
+          "context": "figuratively",
+          "lexical_item": null,
+          "value": "(coll.) to unintentionally arouse romantic interest (by being solicitous etc)"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "cf. 放電|放电[fang4 dian4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "锛",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bēn",
+          "wade_giles_pinyin": "ben1"
+        }
+      ],
+      "simplified": "锛",
+      "simplified_stroke_count": 13,
+      "traditional": "錛",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "adz"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "adze"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

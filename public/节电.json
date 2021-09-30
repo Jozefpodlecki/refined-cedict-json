@@ -1,0 +1,34 @@
+{
+  "simplified": "节电",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jié diàn",
+          "wade_giles_pinyin": "jie2 dian4"
+        }
+      ],
+      "simplified": "节电",
+      "simplified_stroke_count": 0,
+      "traditional": "節電",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to save electricity"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "power saving"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

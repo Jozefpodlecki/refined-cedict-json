@@ -1,0 +1,32 @@
+{
+  "simplified": "民谚",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " mín yàn",
+          "wade_giles_pinyin": "min2 yan4"
+        }
+      ],
+      "simplified": "民谚",
+      "simplified_stroke_count": 0,
+      "traditional": "民諺",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "folk saying"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "proverb"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

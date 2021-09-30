@@ -1,0 +1,34 @@
+{
+  "simplified": "缴获",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " jiǎo huò",
+          "wade_giles_pinyin": "jiao3 huo4"
+        }
+      ],
+      "simplified": "缴获",
+      "simplified_stroke_count": 0,
+      "traditional": "繳獲",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to capture"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to seize"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

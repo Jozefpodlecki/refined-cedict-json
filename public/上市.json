@@ -1,0 +1,27 @@
+{
+  "simplified": "上市",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shàng shì",
+          "wade_giles_pinyin": "shang4 shi4"
+        }
+      ],
+      "simplified": "上市",
+      "traditional": "上市",
+      "meanings": [
+        {
+          "value": "to hit the market (of a new product)"
+        },
+        {
+          "value": "to float (a company on the stock market)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

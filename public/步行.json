@@ -1,0 +1,27 @@
+{
+  "simplified": "步行",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bù xíng",
+          "wade_giles_pinyin": "bu4 xing2"
+        }
+      ],
+      "simplified": "步行",
+      "traditional": "步行",
+      "meanings": [
+        {
+          "value": "to go on foot"
+        },
+        {
+          "value": "to walk"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

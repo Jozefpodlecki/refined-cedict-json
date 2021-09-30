@@ -1,0 +1,32 @@
+{
+  "simplified": "蛇足",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shé zú",
+          "wade_giles_pinyin": "she2 zu2"
+        }
+      ],
+      "simplified": "蛇足",
+      "simplified_stroke_count": null,
+      "traditional": "蛇足",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": null,
+          "value": "legs on a snake"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "sth superfluous"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

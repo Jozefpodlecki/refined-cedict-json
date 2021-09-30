@@ -1,0 +1,27 @@
+{
+  "simplified": "见报",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiàn bào",
+          "wade_giles_pinyin": "jian4 bao4"
+        }
+      ],
+      "simplified": "见报",
+      "traditional": "見報",
+      "meanings": [
+        {
+          "value": "to appear in the news"
+        },
+        {
+          "value": "in the papers"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "颤",
+  "simplified_stroke_count": 19,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chàn",
+          "wade_giles_pinyin": "chan4"
+        }
+      ],
+      "simplified": "颤",
+      "simplified_stroke_count": 19,
+      "traditional": "顫",
+      "traditional_stroke_count": 22,
+      "meanings": [
+        {
+          "value": "to tremble"
+        },
+        {
+          "value": "to shiver"
+        },
+        {
+          "value": "to shake"
+        },
+        {
+          "value": "to vibrate"
+        },
+        {
+          "value": "Taiwan pr. [zhan4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

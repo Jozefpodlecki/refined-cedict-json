@@ -1,0 +1,31 @@
+{
+  "simplified": "小吃店",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xiǎo chī diàn",
+          "wade_giles_pinyin": "xiao3 chi1 dian4"
+        }
+      ],
+      "simplified": "小吃店",
+      "traditional": "小吃店",
+      "meanings": [
+        {
+          "value": "snack bar"
+        },
+        {
+          "value": "lunch room"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "家",
+          "traditional": "",
+          "wade_giles_pinyin": "jia1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

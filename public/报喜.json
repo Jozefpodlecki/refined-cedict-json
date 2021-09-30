@@ -1,0 +1,34 @@
+{
+  "simplified": "报喜",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bào xǐ",
+          "wade_giles_pinyin": "bao4 xi3"
+        }
+      ],
+      "simplified": "报喜",
+      "simplified_stroke_count": 0,
+      "traditional": "報喜",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to announce good news"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to report success"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

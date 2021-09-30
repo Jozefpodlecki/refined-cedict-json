@@ -1,0 +1,36 @@
+{
+  "simplified": "盘旋",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pán xuán",
+          "wade_giles_pinyin": "pan2 xuan2"
+        }
+      ],
+      "simplified": "盘旋",
+      "traditional": "盤旋",
+      "meanings": [
+        {
+          "value": "to spiral"
+        },
+        {
+          "value": "to circle"
+        },
+        {
+          "value": "to go around"
+        },
+        {
+          "value": "to hover"
+        },
+        {
+          "value": "to orbit"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

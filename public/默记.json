@@ -1,0 +1,33 @@
+{
+  "simplified": "默记",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mò jì",
+          "wade_giles_pinyin": "mo4 ji4"
+        }
+      ],
+      "simplified": "默记",
+      "traditional": "默記",
+      "meanings": [
+        {
+          "value": "to learn by heart"
+        },
+        {
+          "value": "to commit to memory"
+        },
+        {
+          "value": "to remember"
+        },
+        {
+          "value": "to memorize in silence"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

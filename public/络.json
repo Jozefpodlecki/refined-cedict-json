@@ -1,0 +1,72 @@
+{
+  "simplified": "络",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " lào",
+          "wade_giles_pinyin": "lao4"
+        }
+      ],
+      "simplified": "络",
+      "simplified_stroke_count": 9,
+      "traditional": "絡",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "small net"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": " luò",
+          "wade_giles_pinyin": "luo4"
+        }
+      ],
+      "simplified": "络",
+      "simplified_stroke_count": 9,
+      "traditional": "絡",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "net-like object"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to hold sth in place with a net"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to wind"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to twist"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "(TCM) channels in the human body"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

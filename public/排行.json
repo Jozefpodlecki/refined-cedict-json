@@ -1,0 +1,30 @@
+{
+  "simplified": "排行",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pái háng",
+          "wade_giles_pinyin": "pai2 hang2"
+        }
+      ],
+      "simplified": "排行",
+      "traditional": "排行",
+      "meanings": [
+        {
+          "value": "to rank"
+        },
+        {
+          "value": "ranking"
+        },
+        {
+          "value": "seniority (among siblings)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

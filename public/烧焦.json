@@ -1,0 +1,39 @@
+{
+  "simplified": "烧焦",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shāo jiāo",
+          "wade_giles_pinyin": "shao1 jiao1"
+        }
+      ],
+      "simplified": "烧焦",
+      "traditional": "燒焦",
+      "meanings": [
+        {
+          "value": "to burn"
+        },
+        {
+          "value": "to scorch"
+        },
+        {
+          "value": "burned"
+        },
+        {
+          "value": "burning"
+        },
+        {
+          "value": "scorched"
+        },
+        {
+          "value": "charred"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "simplified": "遵医嘱",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zūn yī zhǔ",
+          "wade_giles_pinyin": "zun1 yi1 zhu3"
+        }
+      ],
+      "simplified": "遵医嘱",
+      "traditional": "遵醫囑",
+      "meanings": [
+        {
+          "value": "to follow the doctor's advice"
+        },
+        {
+          "value": "as instructed by the physician"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

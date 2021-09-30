@@ -1,0 +1,34 @@
+{
+  "simplified": "承办",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chéng bàn",
+          "wade_giles_pinyin": "cheng2 ban4"
+        }
+      ],
+      "simplified": "承办",
+      "simplified_stroke_count": null,
+      "traditional": "承辦",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to undertake"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to accept a contract"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

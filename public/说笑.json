@@ -1,0 +1,30 @@
+{
+  "simplified": "说笑",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shuō xiào",
+          "wade_giles_pinyin": "shuo1 xiao4"
+        }
+      ],
+      "simplified": "说笑",
+      "traditional": "說笑",
+      "meanings": [
+        {
+          "value": "to chat and laugh"
+        },
+        {
+          "value": "to crack jokes"
+        },
+        {
+          "value": "to banter"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

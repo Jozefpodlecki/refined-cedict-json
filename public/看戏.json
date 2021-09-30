@@ -1,0 +1,27 @@
+{
+  "simplified": "看戏",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "kàn xì",
+          "wade_giles_pinyin": "kan4 xi4"
+        }
+      ],
+      "simplified": "看戏",
+      "traditional": "看戲",
+      "meanings": [
+        {
+          "value": "to watch a play"
+        },
+        {
+          "value": "to watch passively (i.e. from the sidelines, from the crowd)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

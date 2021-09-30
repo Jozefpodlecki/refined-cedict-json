@@ -1,0 +1,25 @@
+{
+  "simplified": "拼音",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pīn yīn",
+          "wade_giles_pinyin": "pin1 yin1"
+        }
+      ],
+      "simplified": "拼音",
+      "traditional": "拼音",
+      "meanings": [
+        {
+          "value": "phonetic writing"
+        },
+        {
+          "value": "pinyin (Chinese romanization)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

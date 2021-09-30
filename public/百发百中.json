@@ -1,0 +1,35 @@
+{
+  "simplified": "百发百中",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bǎi fā bǎi zhòng",
+          "wade_giles_pinyin": "bai3 fa1 bai3 zhong4"
+        }
+      ],
+      "simplified": "百发百中",
+      "traditional": "百發百中",
+      "meanings": [
+        {
+          "context": "literature",
+          "value": "one hundred shots, one hundred hits"
+        },
+        {
+          "value": "to carry out a task with great precision"
+        },
+        {
+          "value": "to shoot with unfailing accuracy"
+        },
+        {
+          "lexical_item": "idiom",
+          "value": "be a crack shot"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

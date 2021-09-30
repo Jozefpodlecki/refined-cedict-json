@@ -1,0 +1,30 @@
+{
+  "simplified": "探望",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tàn wàng",
+          "wade_giles_pinyin": "tan4 wang4"
+        }
+      ],
+      "simplified": "探望",
+      "traditional": "探望",
+      "meanings": [
+        {
+          "value": "to visit"
+        },
+        {
+          "value": "to call on sb"
+        },
+        {
+          "value": "to look around"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

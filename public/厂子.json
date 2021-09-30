@@ -1,0 +1,32 @@
+{
+  "simplified": "厂子",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "chǎng zi",
+          "wade_giles_pinyin": "chang3 zi5"
+        }
+      ],
+      "simplified": "厂子",
+      "traditional": "廠子",
+      "meanings": [
+        {
+          "context": "colloquial",
+          "value": "factory"
+        },
+        {
+          "value": "mill"
+        },
+        {
+          "value": "yard"
+        },
+        {
+          "value": "depot"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

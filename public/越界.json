@@ -1,0 +1,34 @@
+{
+  "simplified": "越界",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yuè jiè",
+          "wade_giles_pinyin": "yue4 jie4"
+        }
+      ],
+      "simplified": "越界",
+      "simplified_stroke_count": 0,
+      "traditional": "越界",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to cross a border"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to overstep a bound"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

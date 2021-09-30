@@ -1,0 +1,32 @@
+{
+  "simplified": "弹痕",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " dàn hén",
+          "wade_giles_pinyin": "dan4 hen2"
+        }
+      ],
+      "simplified": "弹痕",
+      "simplified_stroke_count": 0,
+      "traditional": "彈痕",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "bullet hole"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "shell hole"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

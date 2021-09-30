@@ -1,0 +1,97 @@
+{
+  "simplified": "喂",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wéi",
+          "wade_giles_pinyin": "wei2"
+        }
+      ],
+      "simplified": "喂",
+      "simplified_stroke_count": 12,
+      "traditional": "喂",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "hello (when answering the phone)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "weì",
+          "wade_giles_pinyin": "wei4"
+        }
+      ],
+      "simplified": "喂",
+      "simplified_stroke_count": 12,
+      "traditional": "喂",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "hey"
+        },
+        {
+          "value": "to feed (an animal, baby, invalid etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "weì",
+          "wade_giles_pinyin": "wei4"
+        }
+      ],
+      "simplified": "喂",
+      "simplified_stroke_count": 12,
+      "traditional": "餧",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 餵|喂[wei4]",
+          "simplified": "餵",
+          "traditional": "喂",
+          "wade_giles_pinyin": "wei4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "weì",
+          "wade_giles_pinyin": "wei4"
+        }
+      ],
+      "simplified": "喂",
+      "simplified_stroke_count": 12,
+      "traditional": "餵",
+      "traditional_stroke_count": 18,
+      "meanings": [
+        {
+          "value": "to feed"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "simplified": "断",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "duàn",
+          "wade_giles_pinyin": "duan4"
+        }
+      ],
+      "simplified": "断",
+      "simplified_stroke_count": 11,
+      "traditional": "斷",
+      "traditional_stroke_count": 18,
+      "meanings": [
+        {
+          "value": "to break"
+        },
+        {
+          "value": "to snap"
+        },
+        {
+          "value": "to cut off"
+        },
+        {
+          "value": "to give up or abstain from sth"
+        },
+        {
+          "value": "to judge"
+        },
+        {
+          "value": "(usu. used in the negative) absolutely"
+        },
+        {
+          "value": "definitely"
+        },
+        {
+          "value": "decidedly"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

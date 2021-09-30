@@ -1,0 +1,34 @@
+{
+  "simplified": "浓度",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "nóng dù",
+          "wade_giles_pinyin": "nong2 du4"
+        }
+      ],
+      "simplified": "浓度",
+      "traditional": "濃度",
+      "meanings": [
+        {
+          "value": "concentration (percentage of dissolved material in a solution)"
+        },
+        {
+          "value": "consistency"
+        },
+        {
+          "value": "thickness"
+        },
+        {
+          "value": "density"
+        },
+        {
+          "value": "viscosity"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

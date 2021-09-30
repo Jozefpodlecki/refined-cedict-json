@@ -1,0 +1,81 @@
+{
+  "simplified": "品",
+  "simplified_stroke_count": 9,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pǐn",
+          "wade_giles_pinyin": "pin3"
+        }
+      ],
+      "simplified": "品",
+      "simplified_stroke_count": 9,
+      "traditional": "品",
+      "traditional_stroke_count": 9,
+      "meanings": [
+        {
+          "value": "article"
+        },
+        {
+          "value": "commodity"
+        },
+        {
+          "value": "product"
+        },
+        {
+          "value": "goods"
+        },
+        {
+          "value": "kind"
+        },
+        {
+          "value": "grade"
+        },
+        {
+          "value": "rank"
+        },
+        {
+          "value": "character"
+        },
+        {
+          "value": "disposition"
+        },
+        {
+          "value": "nature"
+        },
+        {
+          "value": "temperament"
+        },
+        {
+          "value": "variety"
+        },
+        {
+          "value": "to taste sth"
+        },
+        {
+          "value": "to sample"
+        },
+        {
+          "value": "to criticize"
+        },
+        {
+          "value": "to comment"
+        },
+        {
+          "value": "to judge"
+        },
+        {
+          "value": "to size up"
+        },
+        {
+          "value": "fret (on a guitar or lute)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

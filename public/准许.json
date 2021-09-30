@@ -1,0 +1,30 @@
+{
+  "simplified": "准许",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhǔn xǔ",
+          "wade_giles_pinyin": "zhun3 xu3"
+        }
+      ],
+      "simplified": "准许",
+      "traditional": "准許",
+      "meanings": [
+        {
+          "value": "to allow"
+        },
+        {
+          "value": "to grant"
+        },
+        {
+          "value": "to permit"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

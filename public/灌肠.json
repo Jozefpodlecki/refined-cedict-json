@@ -1,0 +1,46 @@
+{
+  "simplified": "灌肠",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guàn cháng",
+          "wade_giles_pinyin": "guan4 chang2"
+        }
+      ],
+      "simplified": "灌肠",
+      "traditional": "灌腸",
+      "meanings": [
+        {
+          "value": "enema"
+        },
+        {
+          "value": "to give an enema"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guàn chang",
+          "wade_giles_pinyin": "guan4 chang5"
+        }
+      ],
+      "simplified": "灌肠",
+      "traditional": "灌腸",
+      "meanings": [
+        {
+          "value": "sausage with a starchy filling"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "simplified": "捷运",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jié yùn",
+          "wade_giles_pinyin": "jie2 yun4"
+        }
+      ],
+      "simplified": "捷运",
+      "traditional": "捷運",
+      "meanings": [
+        {
+          "context": "taiwan",
+          "value": "mass rapid transit (MRT)"
+        },
+        {
+          "value": "subway"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

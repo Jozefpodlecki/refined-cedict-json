@@ -1,0 +1,27 @@
+{
+  "simplified": "博士买驴",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bó shì mǎi lu:2",
+          "wade_giles_pinyin": "bo2 shi4 mai3 lu:2"
+        }
+      ],
+      "simplified": "博士买驴",
+      "traditional": "博士買驢",
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "the scholar buys a donkey ; fig. long-winded verbiage that never gets to the point"
+        },
+        {
+          "value": "idiom mocking scholastic pomposity"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

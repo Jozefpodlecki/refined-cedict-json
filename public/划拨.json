@@ -1,0 +1,39 @@
+{
+  "simplified": "划拨",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " huà bō",
+          "wade_giles_pinyin": "hua4 bo1"
+        }
+      ],
+      "simplified": "划拨",
+      "simplified_stroke_count": 0,
+      "traditional": "劃撥",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to assign"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to allocate"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to transfer (money to an account)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

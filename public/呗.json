@@ -1,0 +1,54 @@
+{
+  "simplified": "呗",
+  "simplified_stroke_count": 7,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bài",
+          "wade_giles_pinyin": "bai4"
+        }
+      ],
+      "simplified": "呗",
+      "simplified_stroke_count": 7,
+      "traditional": "唄",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "to chant"
+        },
+        {
+          "value": "see 梵唄|梵呗[fan4 bai4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bei",
+          "wade_giles_pinyin": "bei5"
+        }
+      ],
+      "simplified": "呗",
+      "simplified_stroke_count": 7,
+      "traditional": "唄",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "modal particle indicating lack of enthusiasm"
+        },
+        {
+          "value": "modal particle indicating that things should only or can only be done a certain way"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

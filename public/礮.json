@@ -1,0 +1,32 @@
+{
+  "simplified": "礮",
+  "simplified_stroke_count": 21,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "pào",
+          "wade_giles_pinyin": "pao4"
+        }
+      ],
+      "simplified": "礮",
+      "simplified_stroke_count": 21,
+      "traditional": "礮",
+      "traditional_stroke_count": 21,
+      "meanings": [
+        {
+          "value": "ancient ballista for throwing heavy stones"
+        },
+        {
+          "context": "variant",
+          "value": "variant of 炮[pao4], cannon",
+          "simplified": "炮",
+          "traditional": "",
+          "wade_giles_pinyin": "pao4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

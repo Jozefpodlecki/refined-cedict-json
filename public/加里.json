@@ -1,0 +1,40 @@
+{
+  "simplified": "加里",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiā lǐ",
+          "wade_giles_pinyin": "Jia1 li3"
+        }
+      ],
+      "simplified": "加里",
+      "traditional": "加里",
+      "meanings": [
+        {
+          "value": "Gary (name)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiā lǐ",
+          "wade_giles_pinyin": "jia1 li3"
+        }
+      ],
+      "simplified": "加里",
+      "traditional": "加里",
+      "meanings": [
+        {
+          "context": "loanword",
+          "value": "potassium"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

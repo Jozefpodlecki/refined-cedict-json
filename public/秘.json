@@ -1,0 +1,70 @@
+{
+  "simplified": "秘",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mì",
+          "wade_giles_pinyin": "mi4"
+        }
+      ],
+      "simplified": "秘",
+      "simplified_stroke_count": 10,
+      "traditional": "祕",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 秘[mi4]",
+          "simplified": "秘",
+          "traditional": "",
+          "wade_giles_pinyin": "mi4"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bì",
+          "wade_giles_pinyin": "bi4"
+        }
+      ],
+      "simplified": "秘",
+      "simplified_stroke_count": 10,
+      "traditional": "秘",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "see 秘魯|秘鲁[Bi4 lu3]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "mì",
+          "wade_giles_pinyin": "mi4"
+        }
+      ],
+      "simplified": "秘",
+      "simplified_stroke_count": 10,
+      "traditional": "秘",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "secret"
+        },
+        {
+          "value": "secretary"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

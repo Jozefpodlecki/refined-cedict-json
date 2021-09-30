@@ -1,0 +1,34 @@
+{
+  "simplified": "平板",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "píng bǎn",
+          "wade_giles_pinyin": "ping2 ban3"
+        }
+      ],
+      "simplified": "平板",
+      "traditional": "平板",
+      "meanings": [
+        {
+          "value": "slab"
+        },
+        {
+          "value": "plate"
+        },
+        {
+          "value": "dull"
+        },
+        {
+          "value": "monotonous"
+        },
+        {
+          "value": "tablet (computer)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

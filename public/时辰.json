@@ -1,0 +1,25 @@
+{
+  "simplified": "时辰",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shí chen",
+          "wade_giles_pinyin": "shi2 chen5"
+        }
+      ],
+      "simplified": "时辰",
+      "traditional": "時辰",
+      "meanings": [
+        {
+          "value": "time"
+        },
+        {
+          "value": "one of the 12 two-hour periods of the day"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

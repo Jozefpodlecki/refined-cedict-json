@@ -1,0 +1,30 @@
+{
+  "simplified": "停放",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tíng fàng",
+          "wade_giles_pinyin": "ting2 fang4"
+        }
+      ],
+      "simplified": "停放",
+      "traditional": "停放",
+      "meanings": [
+        {
+          "value": "to park (a car etc)"
+        },
+        {
+          "value": "to moor (a boat etc)"
+        },
+        {
+          "value": "to leave sth (in a place)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "simplified": "观",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guàn",
+          "wade_giles_pinyin": "Guan4"
+        }
+      ],
+      "simplified": "观",
+      "simplified_stroke_count": 6,
+      "traditional": "觀",
+      "traditional_stroke_count": 25,
+      "meanings": [
+        {
+          "value": "surname Guan"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guān",
+          "wade_giles_pinyin": "guan1"
+        }
+      ],
+      "simplified": "观",
+      "simplified_stroke_count": 6,
+      "traditional": "觀",
+      "traditional_stroke_count": 25,
+      "meanings": [
+        {
+          "value": "to look at"
+        },
+        {
+          "value": "to watch"
+        },
+        {
+          "value": "to observe"
+        },
+        {
+          "value": "to behold"
+        },
+        {
+          "value": "to advise"
+        },
+        {
+          "value": "concept"
+        },
+        {
+          "value": "point of view"
+        },
+        {
+          "value": "outlook"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guàn",
+          "wade_giles_pinyin": "guan4"
+        }
+      ],
+      "simplified": "观",
+      "simplified_stroke_count": 6,
+      "traditional": "觀",
+      "traditional_stroke_count": 25,
+      "meanings": [
+        {
+          "value": "Taoist monastery"
+        },
+        {
+          "value": "palace gate watchtower"
+        },
+        {
+          "value": "platform"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

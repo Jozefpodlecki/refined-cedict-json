@@ -1,0 +1,28 @@
+{
+  "simplified": "冬天",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dōng tiān",
+          "wade_giles_pinyin": "dong1 tian1"
+        }
+      ],
+      "simplified": "冬天",
+      "traditional": "冬天",
+      "meanings": [
+        {
+          "value": "winter"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "simplified": "朝鲜",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " cháo xiǎn",
+          "wade_giles_pinyin": "Chao2 xian3"
+        }
+      ],
+      "simplified": "朝鲜",
+      "simplified_stroke_count": 0,
+      "traditional": "朝鮮",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "North Korea"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Korea as geographic term"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Taiwan pr. [Chao2 xian1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "simplified": "胶布",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiāo bù",
+          "wade_giles_pinyin": "jiao1 bu4"
+        }
+      ],
+      "simplified": "胶布",
+      "traditional": "膠布",
+      "meanings": [
+        {
+          "value": "adhesive plaster"
+        },
+        {
+          "value": "band-aid"
+        },
+        {
+          "value": "rubber tape"
+        },
+        {
+          "value": "rubberized fabric"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "simplified": "前传",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qián chuán",
+          "wade_giles_pinyin": "qian2 chuan2"
+        }
+      ],
+      "simplified": "前传",
+      "traditional": "前傳",
+      "meanings": [
+        {
+          "value": "forward pass (sport)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qián zhuàn",
+          "wade_giles_pinyin": "qian2 zhuan4"
+        }
+      ],
+      "simplified": "前传",
+      "traditional": "前傳",
+      "meanings": [
+        {
+          "value": "prequel"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

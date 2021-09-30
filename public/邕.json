@@ -1,0 +1,61 @@
+{
+  "simplified": "邕",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yōng",
+          "wade_giles_pinyin": "Yong1"
+        }
+      ],
+      "simplified": "邕",
+      "simplified_stroke_count": 10,
+      "traditional": "邕",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "Yong river (Guangxi)"
+        },
+        {
+          "value": "Nanning (Guangxi)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yōng",
+          "wade_giles_pinyin": "yong1"
+        }
+      ],
+      "simplified": "邕",
+      "simplified_stroke_count": 10,
+      "traditional": "邕",
+      "traditional_stroke_count": 10,
+      "meanings": [
+        {
+          "value": "city surrounded by a moat"
+        },
+        {
+          "context": "old variant",
+          "value": "old variant of 雍[yong1]",
+          "simplified": "雍",
+          "traditional": "",
+          "wade_giles_pinyin": "yong1"
+        },
+        {
+          "context": "old variant",
+          "value": "old variant of 壅[yong1]",
+          "simplified": "壅",
+          "traditional": "",
+          "wade_giles_pinyin": "yong1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "simplified": "止损",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhǐ sǔn",
+          "wade_giles_pinyin": "zhi3 sun3"
+        }
+      ],
+      "simplified": "止损",
+      "traditional": "止損",
+      "meanings": [
+        {
+          "value": "(finance) stop-loss"
+        },
+        {
+          "value": "to sell a security in response to its price dropping to one's stop-loss point 止損點|止损点[zhi3 sun3 dian3]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

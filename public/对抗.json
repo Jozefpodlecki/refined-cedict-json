@@ -1,0 +1,36 @@
+{
+  "simplified": "对抗",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "duì kàng",
+          "wade_giles_pinyin": "dui4 kang4"
+        }
+      ],
+      "simplified": "对抗",
+      "traditional": "對抗",
+      "meanings": [
+        {
+          "value": "to withstand"
+        },
+        {
+          "value": "to resist"
+        },
+        {
+          "value": "to stand off"
+        },
+        {
+          "value": "antagonism"
+        },
+        {
+          "value": "confrontation"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

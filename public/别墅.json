@@ -1,0 +1,43 @@
+{
+  "simplified": "别墅",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bié shù",
+          "wade_giles_pinyin": "bie2 shu4"
+        }
+      ],
+      "simplified": "别墅",
+      "simplified_stroke_count": 0,
+      "traditional": "別墅",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "villa"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:幢[zhuang4],座[zuo4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "幢",
+          "traditional": "",
+          "wade_giles_pinyin": "zhuang4"
+        },
+        {
+          "simplified": "座",
+          "traditional": "",
+          "wade_giles_pinyin": "zuo4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

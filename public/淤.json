@@ -1,0 +1,49 @@
+{
+  "simplified": "淤",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " yū",
+          "wade_giles_pinyin": "yu1"
+        }
+      ],
+      "simplified": "淤",
+      "simplified_stroke_count": 11,
+      "traditional": "淤",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "silt"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "river sludge"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to silt up"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "choked with silt"
+        },
+        {
+          "context": "variant",
+          "lexical_item": "",
+          "value": "瘀[yu1]"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

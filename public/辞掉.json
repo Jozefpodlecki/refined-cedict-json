@@ -1,0 +1,34 @@
+{
+  "simplified": "辞掉",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " cí diào",
+          "wade_giles_pinyin": "ci2 diao4"
+        }
+      ],
+      "simplified": "辞掉",
+      "simplified_stroke_count": 0,
+      "traditional": "辭掉",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to quit (one's job)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to dismiss (an employee)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

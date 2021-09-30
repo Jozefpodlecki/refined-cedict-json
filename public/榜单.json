@@ -1,0 +1,32 @@
+{
+  "simplified": "榜单",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " bǎng dān",
+          "wade_giles_pinyin": "bang3 dan1"
+        }
+      ],
+      "simplified": "榜单",
+      "simplified_stroke_count": 0,
+      "traditional": "榜單",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "list of successful applicants for college admission"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "list of people or entities ranked highest according to some metric"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

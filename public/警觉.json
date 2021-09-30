@@ -1,0 +1,33 @@
+{
+  "simplified": "警觉",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jǐng jué",
+          "wade_giles_pinyin": "jing3 jue2"
+        }
+      ],
+      "simplified": "警觉",
+      "traditional": "警覺",
+      "meanings": [
+        {
+          "value": "to be on guard"
+        },
+        {
+          "value": "alert"
+        },
+        {
+          "value": "vigilance"
+        },
+        {
+          "value": "alertness"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "simplified": "服罪",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fú zuì",
+          "wade_giles_pinyin": "fu2 zui4"
+        }
+      ],
+      "simplified": "服罪",
+      "simplified_stroke_count": 0,
+      "traditional": "服罪",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to admit to a crime"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to plead guilty"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

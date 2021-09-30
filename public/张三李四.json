@@ -1,0 +1,32 @@
+{
+  "simplified": "张三李四",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhāng sān lǐ sì",
+          "wade_giles_pinyin": "Zhang1 san1 Li3 si4"
+        }
+      ],
+      "simplified": "张三李四",
+      "simplified_stroke_count": 0,
+      "traditional": "張三李四",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "idiom",
+          "value": "Zhang the Third and Li the Fourth"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "Tom, Dick and Harry"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

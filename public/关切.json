@@ -1,0 +1,34 @@
+{
+  "simplified": "关切",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guān qiè",
+          "wade_giles_pinyin": "guan1 qie4"
+        }
+      ],
+      "simplified": "关切",
+      "simplified_stroke_count": null,
+      "traditional": "關切",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to be deeply concerned"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to be troubled (by)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

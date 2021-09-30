@@ -1,0 +1,42 @@
+{
+  "simplified": "投入",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tóu rù",
+          "wade_giles_pinyin": "tou2 ru4"
+        }
+      ],
+      "simplified": "投入",
+      "traditional": "投入",
+      "meanings": [
+        {
+          "value": "to throw into"
+        },
+        {
+          "value": "to put into"
+        },
+        {
+          "value": "to throw oneself into"
+        },
+        {
+          "value": "to participate in"
+        },
+        {
+          "value": "to invest in"
+        },
+        {
+          "value": "absorbed"
+        },
+        {
+          "value": "engrossed"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

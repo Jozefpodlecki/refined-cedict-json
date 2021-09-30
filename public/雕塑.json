@@ -1,0 +1,44 @@
+{
+  "simplified": "雕塑",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " diāo sù",
+          "wade_giles_pinyin": "diao1 su4"
+        }
+      ],
+      "simplified": "雕塑",
+      "simplified_stroke_count": 0,
+      "traditional": "雕塑",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "a statue"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "a Buddhist image"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "sculpture"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to carve"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

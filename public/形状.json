@@ -1,0 +1,31 @@
+{
+  "simplified": "形状",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xíng zhuàng",
+          "wade_giles_pinyin": "xing2 zhuang4"
+        }
+      ],
+      "simplified": "形状",
+      "traditional": "形狀",
+      "meanings": [
+        {
+          "value": "form"
+        },
+        {
+          "value": "shape"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

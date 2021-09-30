@@ -1,0 +1,48 @@
+{
+  "simplified": "裼",
+  "simplified_stroke_count": 14,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tì",
+          "wade_giles_pinyin": "ti4"
+        }
+      ],
+      "simplified": "裼",
+      "simplified_stroke_count": 14,
+      "traditional": "裼",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "baby's quilt"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "xī",
+          "wade_giles_pinyin": "xi1"
+        }
+      ],
+      "simplified": "裼",
+      "simplified_stroke_count": 14,
+      "traditional": "裼",
+      "traditional_stroke_count": 14,
+      "meanings": [
+        {
+          "value": "to bare the upper body"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

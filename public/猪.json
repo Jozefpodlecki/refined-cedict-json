@@ -1,0 +1,32 @@
+{
+  "simplified": "猪",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhū",
+          "wade_giles_pinyin": "zhu1"
+        }
+      ],
+      "simplified": "猪",
+      "simplified_stroke_count": 11,
+      "traditional": "豬",
+      "traditional_stroke_count": 16,
+      "meanings": [],
+      "classifiers": [
+        {
+          "simplified": "口",
+          "traditional": "",
+          "wade_giles_pinyin": "kou3"
+        },
+        {
+          "simplified": "頭",
+          "traditional": "头",
+          "wade_giles_pinyin": "tou2"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

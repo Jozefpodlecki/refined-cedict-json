@@ -1,0 +1,31 @@
+{
+  "simplified": "医务室",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yī wù shì",
+          "wade_giles_pinyin": "yi1 wu4 shi4"
+        }
+      ],
+      "simplified": "医务室",
+      "traditional": "醫務室",
+      "meanings": [
+        {
+          "value": "infirmary"
+        },
+        {
+          "value": "sick bay"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

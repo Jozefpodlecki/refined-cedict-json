@@ -1,0 +1,52 @@
+{
+  "simplified": "唠",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "láo",
+          "wade_giles_pinyin": "lao2"
+        }
+      ],
+      "simplified": "唠",
+      "simplified_stroke_count": 10,
+      "traditional": "嘮",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "to chatter"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lào",
+          "wade_giles_pinyin": "lao4"
+        }
+      ],
+      "simplified": "唠",
+      "simplified_stroke_count": 10,
+      "traditional": "嘮",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "to gossip"
+        },
+        {
+          "context": "dialect",
+          "value": "to chat"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

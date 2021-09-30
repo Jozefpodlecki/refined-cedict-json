@@ -1,0 +1,25 @@
+{
+  "simplified": "水表",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shuǐ biǎo",
+          "wade_giles_pinyin": "shui3 biao3"
+        }
+      ],
+      "simplified": "水表",
+      "traditional": "水表",
+      "meanings": [
+        {
+          "value": "water meter"
+        },
+        {
+          "value": "indicator of water level"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

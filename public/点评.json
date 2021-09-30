@@ -1,0 +1,27 @@
+{
+  "simplified": "点评",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "diǎn píng",
+          "wade_giles_pinyin": "dian3 ping2"
+        }
+      ],
+      "simplified": "点评",
+      "traditional": "點評",
+      "meanings": [
+        {
+          "value": "to comment"
+        },
+        {
+          "value": "a point by point commentary"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

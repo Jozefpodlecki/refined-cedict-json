@@ -1,0 +1,31 @@
+{
+  "simplified": "网球",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wǎng qiú",
+          "wade_giles_pinyin": "wang3 qiu2"
+        }
+      ],
+      "simplified": "网球",
+      "traditional": "網球",
+      "meanings": [
+        {
+          "value": "tennis"
+        },
+        {
+          "value": "tennis ball"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

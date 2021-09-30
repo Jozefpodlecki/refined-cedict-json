@@ -1,0 +1,50 @@
+{
+  "simplified": "概括",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " gài kuò",
+          "wade_giles_pinyin": "gai4 kuo4"
+        }
+      ],
+      "simplified": "概括",
+      "simplified_stroke_count": 0,
+      "traditional": "概括",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to summarize"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to generalize"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "briefly"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:個|个[ge4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

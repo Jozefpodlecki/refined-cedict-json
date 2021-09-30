@@ -1,0 +1,27 @@
+{
+  "simplified": "阿嚏",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "ā tì",
+          "wade_giles_pinyin": "a1 ti4"
+        }
+      ],
+      "simplified": "阿嚏",
+      "traditional": "阿嚏",
+      "meanings": [
+        {
+          "value": "(onom.) atchoo!"
+        },
+        {
+          "value": "to sneeze"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

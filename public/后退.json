@@ -1,0 +1,33 @@
+{
+  "simplified": "后退",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "hòu tuì",
+          "wade_giles_pinyin": "hou4 tui4"
+        }
+      ],
+      "simplified": "后退",
+      "traditional": "後退",
+      "meanings": [
+        {
+          "value": "to recoil"
+        },
+        {
+          "value": "to draw back"
+        },
+        {
+          "value": "to fall back"
+        },
+        {
+          "value": "to retreat"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

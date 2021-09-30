@@ -1,0 +1,61 @@
+{
+  "simplified": "繁",
+  "simplified_stroke_count": 17,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fán",
+          "wade_giles_pinyin": "fan2"
+        }
+      ],
+      "simplified": "繁",
+      "simplified_stroke_count": 17,
+      "traditional": "緐",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "old variant",
+          "value": "old variant of 繁[fan2]",
+          "simplified": "繁",
+          "traditional": "",
+          "wade_giles_pinyin": "fan2"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fán",
+          "wade_giles_pinyin": "fan2"
+        }
+      ],
+      "simplified": "繁",
+      "simplified_stroke_count": 17,
+      "traditional": "繁",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "complicated"
+        },
+        {
+          "value": "many"
+        },
+        {
+          "value": "in great numbers"
+        },
+        {
+          "context": "abbreviation",
+          "value": "繁體|繁体[fan2 ti3], traditional form of Chinese characters",
+          "simplified": "繁",
+          "traditional": "體|繁体",
+          "wade_giles_pinyin": "fan2 ti3"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

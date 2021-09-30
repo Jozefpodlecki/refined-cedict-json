@@ -1,0 +1,47 @@
+{
+  "simplified": "身价",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shēn jià",
+          "wade_giles_pinyin": "shen1 jia4"
+        }
+      ],
+      "simplified": "身价",
+      "simplified_stroke_count": 0,
+      "traditional": "身價",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "social status"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "price of a slave"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "price of a person (a sportsman etc)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "worth"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "value (of stocks, valuables etc)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

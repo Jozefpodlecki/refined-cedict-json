@@ -1,0 +1,39 @@
+{
+  "simplified": "机场",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jī chǎng",
+          "wade_giles_pinyin": "ji1 chang3"
+        }
+      ],
+      "simplified": "机场",
+      "traditional": "機場",
+      "meanings": [
+        {
+          "value": "airport"
+        },
+        {
+          "value": "airfield"
+        },
+        {
+          "value": "(slang) service provider for Shadowsocks or similar software for circumventing Internet censorship"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "家",
+          "traditional": "",
+          "wade_giles_pinyin": "jia1"
+        },
+        {
+          "simplified": "處",
+          "traditional": "处",
+          "wade_giles_pinyin": "chu4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

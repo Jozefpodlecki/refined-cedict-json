@@ -1,0 +1,44 @@
+{
+  "simplified": "治军",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhì jūn",
+          "wade_giles_pinyin": "zhi4 jun1"
+        }
+      ],
+      "simplified": "治军",
+      "simplified_stroke_count": 0,
+      "traditional": "治軍",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "running of armed forces"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "military management"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to govern armed forces"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to direct troops"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

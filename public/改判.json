@@ -1,0 +1,39 @@
+{
+  "simplified": "改判",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " gǎi pàn",
+          "wade_giles_pinyin": "gai3 pan4"
+        }
+      ],
+      "simplified": "改判",
+      "simplified_stroke_count": 0,
+      "traditional": "改判",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to amend a judgment"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to overrule the original decision"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to commute (a sentence)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

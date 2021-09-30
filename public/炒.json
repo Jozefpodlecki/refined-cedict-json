@@ -1,0 +1,49 @@
+{
+  "simplified": "炒",
+  "simplified_stroke_count": 8,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " chǎo",
+          "wade_giles_pinyin": "chao3"
+        }
+      ],
+      "simplified": "炒",
+      "simplified_stroke_count": 8,
+      "traditional": "炒",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to sauté"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to stir-fry"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to speculate"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to hype"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to fire (sb)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

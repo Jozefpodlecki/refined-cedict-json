@@ -1,0 +1,46 @@
+{
+  "simplified": "楽",
+  "simplified_stroke_count": 13,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lè",
+          "wade_giles_pinyin": "le4"
+        }
+      ],
+      "simplified": "楽",
+      "simplified_stroke_count": 13,
+      "traditional": "楽",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "Japanese",
+          "value": "Japanese variant of 樂|乐[le4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yuè",
+          "wade_giles_pinyin": "yue4"
+        }
+      ],
+      "simplified": "楽",
+      "simplified_stroke_count": 13,
+      "traditional": "楽",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "Japanese",
+          "value": "Japanese variant of 樂|乐[yue4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

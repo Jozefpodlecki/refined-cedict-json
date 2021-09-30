@@ -1,0 +1,28 @@
+{
+  "simplified": "用品",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yòng pǐn",
+          "wade_giles_pinyin": "yong4 pin3"
+        }
+      ],
+      "simplified": "用品",
+      "traditional": "用品",
+      "meanings": [
+        {
+          "value": "articles for use"
+        },
+        {
+          "value": "products"
+        },
+        {
+          "value": "goods"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

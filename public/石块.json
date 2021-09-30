@@ -1,0 +1,32 @@
+{
+  "simplified": "石块",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shí kuài",
+          "wade_giles_pinyin": "shi2 kuai4"
+        }
+      ],
+      "simplified": "石块",
+      "simplified_stroke_count": 0,
+      "traditional": "石塊",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "stone"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "rock"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

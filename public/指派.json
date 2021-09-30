@@ -1,0 +1,30 @@
+{
+  "simplified": "指派",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhǐ pài",
+          "wade_giles_pinyin": "zhi3 pai4"
+        }
+      ],
+      "simplified": "指派",
+      "traditional": "指派",
+      "meanings": [
+        {
+          "value": "to assign"
+        },
+        {
+          "value": "to appoint"
+        },
+        {
+          "value": "assignment"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

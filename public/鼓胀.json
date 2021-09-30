@@ -1,0 +1,34 @@
+{
+  "simplified": "鼓胀",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " gǔ zhàng",
+          "wade_giles_pinyin": "gu3 zhang4"
+        }
+      ],
+      "simplified": "鼓胀",
+      "simplified_stroke_count": 0,
+      "traditional": "鼓脹",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to swell"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "tympanites"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

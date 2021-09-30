@@ -1,0 +1,44 @@
+{
+  "simplified": "说起",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " shuō qǐ",
+          "wade_giles_pinyin": "shuo1 qi3"
+        }
+      ],
+      "simplified": "说起",
+      "simplified_stroke_count": 0,
+      "traditional": "說起",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to mention"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to bring up (a subject)"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "with regard to"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "as for"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

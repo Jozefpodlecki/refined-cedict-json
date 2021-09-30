@@ -1,0 +1,50 @@
+{
+  "simplified": "念念有词",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "niàn niàn yǒu cí",
+          "wade_giles_pinyin": "nian4 nian4 you3 ci2"
+        }
+      ],
+      "simplified": "念念有词",
+      "traditional": "唸唸有詞",
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 念念有詞|念念有词[nian4 nian4 you3 ci2]",
+          "simplified": "念",
+          "traditional": "念有詞|念念有词",
+          "wade_giles_pinyin": "nian4 nian4 you3 ci2"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "niàn niàn yǒu cí",
+          "wade_giles_pinyin": "nian4 nian4 you3 ci2"
+        }
+      ],
+      "simplified": "念念有词",
+      "traditional": "念念有詞",
+      "meanings": [
+        {
+          "value": "to mumble"
+        },
+        {
+          "value": "to mutter to oneself"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

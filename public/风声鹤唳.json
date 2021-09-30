@@ -1,0 +1,39 @@
+{
+  "simplified": "风声鹤唳",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " fēng shēng hè lì",
+          "wade_giles_pinyin": "feng1 sheng1 he4 li4"
+        }
+      ],
+      "simplified": "风声鹤唳",
+      "simplified_stroke_count": 0,
+      "traditional": "風聲鶴唳",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "literature",
+          "lexical_item": "idiom",
+          "value": "lit. wind sighing and crane calling"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "fig. to panic at the slightest move"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to be jittery"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "simplified": "发牌",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "fā pái",
+          "wade_giles_pinyin": "fa1 pai2"
+        }
+      ],
+      "simplified": "发牌",
+      "traditional": "發牌",
+      "meanings": [
+        {
+          "value": "to deal (cards)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

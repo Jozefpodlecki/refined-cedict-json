@@ -1,0 +1,36 @@
+{
+  "simplified": "连动",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lián dòng",
+          "wade_giles_pinyin": "lian2 dong4"
+        }
+      ],
+      "simplified": "连动",
+      "traditional": "連動",
+      "meanings": [
+        {
+          "value": "to link"
+        },
+        {
+          "value": "to peg (currency)"
+        },
+        {
+          "value": "gang (gears)"
+        },
+        {
+          "value": "continuously"
+        },
+        {
+          "value": "serial verb construction"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

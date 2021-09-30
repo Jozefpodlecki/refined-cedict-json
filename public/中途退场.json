@@ -1,0 +1,34 @@
+{
+  "simplified": "中途退场",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " zhōng tú tuì chǎng",
+          "wade_giles_pinyin": "zhong1 tu2 tui4 chang3"
+        }
+      ],
+      "simplified": "中途退场",
+      "simplified_stroke_count": 0,
+      "traditional": "中途退場",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "to leave in the middle of the play"
+        },
+        {
+          "context": "figuratively",
+          "lexical_item": "",
+          "value": "to leave before the matter is concluded"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

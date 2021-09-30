@@ -1,0 +1,30 @@
+{
+  "simplified": "订明",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dìng míng",
+          "wade_giles_pinyin": "ding4 ming2"
+        }
+      ],
+      "simplified": "订明",
+      "traditional": "訂明",
+      "meanings": [
+        {
+          "value": "to stipulate"
+        },
+        {
+          "value": "to state expressly"
+        },
+        {
+          "value": "to explicitly provide for"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

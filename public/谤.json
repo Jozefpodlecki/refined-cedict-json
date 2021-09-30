@@ -1,0 +1,33 @@
+{
+  "simplified": "谤",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bàng",
+          "wade_giles_pinyin": "bang4"
+        }
+      ],
+      "simplified": "谤",
+      "simplified_stroke_count": 12,
+      "traditional": "謗",
+      "traditional_stroke_count": 17,
+      "meanings": [
+        {
+          "value": "to slander"
+        },
+        {
+          "value": "to defame"
+        },
+        {
+          "value": "to speak ill of"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

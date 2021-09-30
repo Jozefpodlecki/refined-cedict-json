@@ -1,0 +1,27 @@
+{
+  "simplified": "借钱",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiè qián",
+          "wade_giles_pinyin": "jie4 qian2"
+        }
+      ],
+      "simplified": "借钱",
+      "traditional": "借錢",
+      "meanings": [
+        {
+          "value": "to borrow money"
+        },
+        {
+          "value": "to lend money"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

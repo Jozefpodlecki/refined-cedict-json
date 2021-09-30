@@ -1,0 +1,49 @@
+{
+  "simplified": "警戒",
+  "simplified_stroke_count": null,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jǐng jiè",
+          "wade_giles_pinyin": "jing3 jie4"
+        }
+      ],
+      "simplified": "警戒",
+      "simplified_stroke_count": null,
+      "traditional": "警戒",
+      "traditional_stroke_count": null,
+      "meanings": [
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to warn"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to alert"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to be on the alert"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "to stand guard"
+        },
+        {
+          "context": null,
+          "lexical_item": null,
+          "value": "sentinel"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

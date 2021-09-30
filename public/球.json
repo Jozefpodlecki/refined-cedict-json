@@ -1,0 +1,48 @@
+{
+  "simplified": "球",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "qiú",
+          "wade_giles_pinyin": "qiu2"
+        }
+      ],
+      "simplified": "球",
+      "simplified_stroke_count": 11,
+      "traditional": "球",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "ball"
+        },
+        {
+          "value": "sphere"
+        },
+        {
+          "value": "globe"
+        },
+        {
+          "value": "ball game"
+        },
+        {
+          "value": "match"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        },
+        {
+          "simplified": "場",
+          "traditional": "场",
+          "wade_giles_pinyin": "chang3"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

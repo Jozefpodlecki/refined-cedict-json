@@ -1,0 +1,43 @@
+{
+  "simplified": "新闻",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " xīn wén",
+          "wade_giles_pinyin": "xin1 wen2"
+        }
+      ],
+      "simplified": "新闻",
+      "simplified_stroke_count": 0,
+      "traditional": "新聞",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "news"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "CL:條|条[tiao2],個|个[ge4]"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "條",
+          "traditional": "条",
+          "wade_giles_pinyin": "tiao2"
+        },
+        {
+          "simplified": "個",
+          "traditional": "个",
+          "wade_giles_pinyin": "ge4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

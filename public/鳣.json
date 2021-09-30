@@ -1,0 +1,48 @@
+{
+  "simplified": "鳣",
+  "simplified_stroke_count": 21,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "shàn",
+          "wade_giles_pinyin": "shan4"
+        }
+      ],
+      "simplified": "鳣",
+      "simplified_stroke_count": 21,
+      "traditional": "鱣",
+      "traditional_stroke_count": 24,
+      "meanings": [
+        {
+          "value": "see 鱔|鳝[shan4]"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhān",
+          "wade_giles_pinyin": "zhan1"
+        }
+      ],
+      "simplified": "鳣",
+      "simplified_stroke_count": 21,
+      "traditional": "鱣",
+      "traditional_stroke_count": 24,
+      "meanings": [
+        {
+          "context": "old",
+          "value": "sturgeon"
+        },
+        {
+          "value": "Acipenser micadoi"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

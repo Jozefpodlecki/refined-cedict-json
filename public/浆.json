@@ -1,0 +1,54 @@
+{
+  "simplified": "浆",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiāng",
+          "wade_giles_pinyin": "jiang1"
+        }
+      ],
+      "simplified": "浆",
+      "simplified_stroke_count": 10,
+      "traditional": "漿",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "broth"
+        },
+        {
+          "value": "serum"
+        },
+        {
+          "value": "to starch"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "jiàng",
+          "wade_giles_pinyin": "jiang4"
+        }
+      ],
+      "simplified": "浆",
+      "simplified_stroke_count": 10,
+      "traditional": "漿",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "starch paste"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

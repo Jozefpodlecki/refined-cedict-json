@@ -1,0 +1,33 @@
+{
+  "simplified": "做买卖",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zuò mǎi mài",
+          "wade_giles_pinyin": "zuo4 mai3 mai4"
+        }
+      ],
+      "simplified": "做买卖",
+      "traditional": "做買賣",
+      "meanings": [
+        {
+          "value": "to buy and sell"
+        },
+        {
+          "value": "to do business"
+        },
+        {
+          "value": "to trade"
+        },
+        {
+          "value": "to deal"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

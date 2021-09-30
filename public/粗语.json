@@ -1,0 +1,32 @@
+{
+  "simplified": "粗语",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " cū yǔ",
+          "wade_giles_pinyin": "cu1 yu3"
+        }
+      ],
+      "simplified": "粗语",
+      "simplified_stroke_count": 0,
+      "traditional": "粗語",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "rude words"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "dirty talk"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

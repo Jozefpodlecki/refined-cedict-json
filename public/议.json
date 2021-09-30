@@ -1,0 +1,33 @@
+{
+  "simplified": "议",
+  "simplified_stroke_count": 5,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yì",
+          "wade_giles_pinyin": "yi4"
+        }
+      ],
+      "simplified": "议",
+      "simplified_stroke_count": 5,
+      "traditional": "議",
+      "traditional_stroke_count": 20,
+      "meanings": [
+        {
+          "value": "to comment on"
+        },
+        {
+          "value": "to discuss"
+        },
+        {
+          "value": "to suggest"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

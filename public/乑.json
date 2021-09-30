@@ -1,0 +1,34 @@
+{
+  "simplified": "乑",
+  "simplified_stroke_count": 6,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "zhòng",
+          "wade_giles_pinyin": "zhong4"
+        }
+      ],
+      "simplified": "乑",
+      "simplified_stroke_count": 6,
+      "traditional": "乑",
+      "traditional_stroke_count": 6,
+      "meanings": [
+        {
+          "value": "to stand side by side"
+        },
+        {
+          "context": "variant",
+          "value": "variant of 眾|众[zhong4]",
+          "simplified": "眾",
+          "traditional": "众",
+          "wade_giles_pinyin": "zhong4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

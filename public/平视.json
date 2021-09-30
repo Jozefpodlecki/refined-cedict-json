@@ -1,0 +1,30 @@
+{
+  "simplified": "平视",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "píng shì",
+          "wade_giles_pinyin": "ping2 shi4"
+        }
+      ],
+      "simplified": "平视",
+      "traditional": "平視",
+      "meanings": [
+        {
+          "value": "to look squarely at"
+        },
+        {
+          "value": "to look straight ahead"
+        },
+        {
+          "value": "(instrumentation) heads-up (display)"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

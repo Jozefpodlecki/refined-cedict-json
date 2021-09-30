@@ -1,0 +1,25 @@
+{
+  "simplified": "热键",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "rè jiàn",
+          "wade_giles_pinyin": "re4 jian4"
+        }
+      ],
+      "simplified": "热键",
+      "traditional": "熱鍵",
+      "meanings": [
+        {
+          "value": "hotkey"
+        },
+        {
+          "value": "keyboard shortcut"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

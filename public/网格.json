@@ -1,0 +1,28 @@
+{
+  "simplified": "网格",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "wǎng gé",
+          "wade_giles_pinyin": "wang3 ge2"
+        }
+      ],
+      "simplified": "网格",
+      "traditional": "網格",
+      "meanings": [
+        {
+          "value": "grid"
+        },
+        {
+          "value": "mesh"
+        },
+        {
+          "value": "lattice"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

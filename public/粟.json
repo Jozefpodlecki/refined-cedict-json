@@ -1,0 +1,50 @@
+{
+  "simplified": "粟",
+  "simplified_stroke_count": 12,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sù",
+          "wade_giles_pinyin": "Su4"
+        }
+      ],
+      "simplified": "粟",
+      "simplified_stroke_count": 12,
+      "traditional": "粟",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "surname Su"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "sù",
+          "wade_giles_pinyin": "su4"
+        }
+      ],
+      "simplified": "粟",
+      "simplified_stroke_count": 12,
+      "traditional": "粟",
+      "traditional_stroke_count": 12,
+      "meanings": [
+        {
+          "value": "grain"
+        },
+        {
+          "value": "millet"
+        },
+        {
+          "value": "goose bumps"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

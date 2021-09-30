@@ -1,0 +1,73 @@
+{
+  "simplified": "仑",
+  "simplified_stroke_count": 4,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lún",
+          "wade_giles_pinyin": "lun2"
+        }
+      ],
+      "simplified": "仑",
+      "simplified_stroke_count": 4,
+      "traditional": "侖",
+      "traditional_stroke_count": 8,
+      "meanings": [
+        {
+          "value": "to arrange"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lún",
+          "wade_giles_pinyin": "lun2"
+        }
+      ],
+      "simplified": "仑",
+      "simplified_stroke_count": 4,
+      "traditional": "崘",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 崙|仑[lun2]",
+          "simplified": "崙",
+          "traditional": "仑",
+          "wade_giles_pinyin": "lun2"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "lún",
+          "wade_giles_pinyin": "lun2"
+        }
+      ],
+      "simplified": "仑",
+      "simplified_stroke_count": 4,
+      "traditional": "崙",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "Kunlun (Karakorum) mountain range in Xinjiang"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

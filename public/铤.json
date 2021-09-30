@@ -1,0 +1,47 @@
+{
+  "simplified": "铤",
+  "simplified_stroke_count": 11,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "dìng",
+          "wade_giles_pinyin": "ding4"
+        }
+      ],
+      "simplified": "铤",
+      "simplified_stroke_count": 11,
+      "traditional": "鋌",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "ingot"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "tǐng",
+          "wade_giles_pinyin": "ting3"
+        }
+      ],
+      "simplified": "铤",
+      "simplified_stroke_count": 11,
+      "traditional": "鋌",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "big arrow"
+        },
+        {
+          "value": "walk fast"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

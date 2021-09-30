@@ -1,0 +1,54 @@
+{
+  "simplified": "钵",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bō",
+          "wade_giles_pinyin": "bo1"
+        }
+      ],
+      "simplified": "钵",
+      "simplified_stroke_count": 10,
+      "traditional": "缽",
+      "traditional_stroke_count": 11,
+      "meanings": [
+        {
+          "value": "small earthenware plate or basin"
+        },
+        {
+          "value": "a monk's alms bowl"
+        },
+        {
+          "value": "Sanskrit paatra"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    },
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bō",
+          "wade_giles_pinyin": "bo1"
+        }
+      ],
+      "simplified": "钵",
+      "simplified_stroke_count": 10,
+      "traditional": "鉢",
+      "traditional_stroke_count": 13,
+      "meanings": [
+        {
+          "context": "variant",
+          "value": "variant of 缽|钵[bo1]",
+          "simplified": "缽",
+          "traditional": "钵",
+          "wade_giles_pinyin": "bo1"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

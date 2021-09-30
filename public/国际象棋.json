@@ -1,0 +1,28 @@
+{
+  "simplified": "国际象棋",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guó jì xiàng qí",
+          "wade_giles_pinyin": "guo2 ji4 xiang4 qi2"
+        }
+      ],
+      "simplified": "国际象棋",
+      "traditional": "國際象棋",
+      "meanings": [
+        {
+          "value": "chess"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "副",
+          "traditional": "",
+          "wade_giles_pinyin": "fu4"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

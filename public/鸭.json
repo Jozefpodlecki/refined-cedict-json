@@ -1,0 +1,34 @@
+{
+  "simplified": "鸭",
+  "simplified_stroke_count": 10,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "yā",
+          "wade_giles_pinyin": "ya1"
+        }
+      ],
+      "simplified": "鸭",
+      "simplified_stroke_count": 10,
+      "traditional": "鴨",
+      "traditional_stroke_count": 16,
+      "meanings": [
+        {
+          "value": "duck"
+        },
+        {
+          "value": "(slang) male prostitute"
+        }
+      ],
+      "classifiers": [
+        {
+          "simplified": "隻",
+          "traditional": "只",
+          "wade_giles_pinyin": "zhi1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

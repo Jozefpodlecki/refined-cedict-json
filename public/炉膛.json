@@ -1,0 +1,32 @@
+{
+  "simplified": "炉膛",
+  "simplified_stroke_count": 0,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": " lú táng",
+          "wade_giles_pinyin": "lu2 tang2"
+        }
+      ],
+      "simplified": "炉膛",
+      "simplified_stroke_count": 0,
+      "traditional": "爐膛",
+      "traditional_stroke_count": 0,
+      "meanings": [
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "furnace chamber"
+        },
+        {
+          "context": "",
+          "lexical_item": "",
+          "value": "stove chamber"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

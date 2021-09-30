@@ -1,0 +1,30 @@
+{
+  "simplified": "偏好",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "piān hào",
+          "wade_giles_pinyin": "pian1 hao4"
+        }
+      ],
+      "simplified": "偏好",
+      "traditional": "偏好",
+      "meanings": [
+        {
+          "value": "to prefer"
+        },
+        {
+          "value": "to be partial to sth"
+        },
+        {
+          "value": "preference"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}

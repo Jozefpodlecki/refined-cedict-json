@@ -1,0 +1,31 @@
+{
+  "simplified": "磅",
+  "simplified_stroke_count": 15,
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "bàng",
+          "wade_giles_pinyin": "bang4"
+        }
+      ],
+      "simplified": "磅",
+      "simplified_stroke_count": 15,
+      "traditional": "磅",
+      "traditional_stroke_count": 15,
+      "meanings": [
+        {
+          "value": "see 磅秤 scale"
+        },
+        {
+          "value": "platform balance"
+        },
+        {
+          "value": "(loanword) pound (unit of weight, about 454 grams)"
+        }
+      ],
+      "classifiers": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "simplified": "过关斩将",
+  "details": [
+    {
+      "pronunciation": [
+        {
+          "pinyin": "guò guān zhǎn jiàng",
+          "wade_giles_pinyin": "guo4 guan1 zhan3 jiang4"
+        }
+      ],
+      "simplified": "过关斩将",
+      "traditional": "過關斬將",
+      "meanings": [
+        {
+          "lexical_item": "idiom",
+          "value": "to surmount all difficulties (on the way to success)"
+        },
+        {
+          "context": "abbreviation",
+          "value": "過五關斬六將|过五关斩六将[guo4 wu3 guan1 zhan3 liu4 jiang4]",
+          "simplified": "過",
+          "traditional": "五關斬六將|过五关斩六将",
+          "wade_giles_pinyin": "guo4 wu3 guan1 zhan3 liu4 jiang4"
+        }
+      ],
+      "classifiers": [],
+      "tags": [
+        "verb"
+      ]
+    }
+  ]
+}
