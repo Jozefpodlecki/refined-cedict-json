@@ -1,5 +1,6 @@
 use crate::CERecord;
 use crate::PinyinMap;
+use bytes::Bytes;
 use lazy_static::lazy_static;
 use regex::Regex;
 use reqwest::StatusCode;
@@ -21,6 +22,23 @@ use std::io::{prelude::*, BufReader};
 use urlencoding::encode;
 
 static user_agent: &str = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36";
+
+pub fn download_cedict() -> Result<Bytes, Box<dyn Error>> {
+    lazy_static! {
+        static ref CLIENT: reqwest::blocking::Client =
+            reqwest::blocking::Client::builder().build().unwrap();
+    }
+
+    const URL: &str = "https://www.mdbg.net/chinese/export/cedict/cedict_1_0_ts_utf-8_mdbg.zip";
+    let response = CLIENT
+        .get(URL)
+        .header(reqwest::header::USER_AGENT, user_agent)
+        .send()?;
+
+    let bytes = response.bytes()?;
+
+    Ok(bytes)
+}
 
 pub fn get_info_from_writtenchinese(pinyin: &str) -> Result<Option<String>, Box<dyn Error>> {
     lazy_static! {
@@ -80,14 +98,13 @@ pub fn get_stroke_count_from_wiktionary(character: &str) -> Result<Option<u8>, B
     }
 
     let encoded = encode(character);
-    const base_url: &str = "https://en.wiktionary.org/wiki/";
-    let url = format!("{}{}", base_url, encoded);
+    const BASE_URL: &str = "https://en.wiktionary.org/wiki/";
+    let url = format!("{}{}", BASE_URL, encoded);
 
     let response: reqwest::blocking::Response = CLIENT
         .get(url)
         .header(reqwest::header::USER_AGENT, user_agent)
-        .send()
-        .unwrap();
+        .send()?;
 
     let body_response = response.text()?;
 

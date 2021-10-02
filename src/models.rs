@@ -63,19 +63,13 @@ pub struct CERecord {
     pub meanings: Vec<String>,
 }
 
-#[derive(Clone, Eq, Hash, Serialize, Deserialize)]
-pub struct Category {
+#[derive(Clone, Hash, Serialize, Deserialize)]
+pub struct Descriptor {
     pub simplified: String,
     pub pinyin: String,
-    pub meaning: String,
-}
-
-impl PartialEq for Category {
-    fn eq(&self, other: &Self) -> bool {
-        self.simplified == other.simplified
-            && self.pinyin == other.pinyin
-            && self.meaning == other.meaning
-    }
+    pub meanings: Vec<String>,
+    pub lexical_item: String,
+    pub tags: Vec<String>,
 }
 
 #[derive(Clone, Hash, Serialize, Deserialize)]
