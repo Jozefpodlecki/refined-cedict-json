@@ -12,6 +12,7 @@ use crate::utils::get_stroke_order_map;
 use crate::utils::import_stroke_order;
 use crate::utils::is_cjk;
 use crate::utils::parse_ce_record;
+use crate::utils::read_file_bytes;
 use crate::utils::remove_duplicates;
 use crate::utils::try_get_ce_dict_records;
 use lazy_static::lazy_static;
@@ -115,11 +116,8 @@ pub fn get_group_ce_records_by_simplified(
     let mut dict: HashMap<String, Vec<CERecord>> = HashMap::new();
 
     if cache_dict_path.exists() {
-        let file_size = fs::metadata(&cache_dict_path)?.len();
-        let mut bytes = Vec::with_capacity(usize::try_from(file_size)?);
-        File::open(cache_dict_path)?.read_to_end(&mut bytes)?;
-
-        dict = serde_json::from_slice(&bytes)?;
+        let bytes = &read_file_bytes(cache_dict_path)?;
+        dict = serde_json::from_slice(bytes)?;
         return Ok(dict);
     }
 
@@ -134,6 +132,12 @@ pub fn get_group_ce_records_by_simplified(
     Ok(dict)
 }
 
+pub fn get_cached_refined_records(cache_dict_path: &Path) -> Result<Vec<Group>, Box<dyn Error>> {
+    let bytes = &read_file_bytes(cache_dict_path)?;
+    let dict = serde_json::from_slice(bytes)?;
+    Ok(dict)
+}
+
 pub fn refine_records(
     records: HashMap<String, Vec<CERecord>>,
     current_directory: &Path,
@@ -145,8 +149,6 @@ pub fn refine_records(
     let pinyins_map = get_pinyins_map(pinyin_path)?;
 
     let stroke_order_map = get_stroke_order_map(&assets_directory.join("stroke-order.txt"))?;
-
-    let verbs = get_descriptors_from_file(&assets_directory.join("verbs.txt"))?;
 
     let countries = get_row_from_file(&assets_directory.join("countries.txt"), 1, ",")?;
     let cities = get_row_from_file(&assets_directory.join("cities.txt"), 1, ",")?;
@@ -166,6 +168,7 @@ pub fn refine_records(
     let hsk36 = get_row_from_file(&assets_directory.join("hsk-version-3-6.txt"), 1, " ")?;
     let hsk37 = get_row_from_file(&assets_directory.join("hsk-version-3-7.txt"), 1, " ")?;
 
+    let verbs = get_descriptors_from_file(&assets_directory.join("verbs.txt"))?;
     let dates_and_days_of_week =
         get_row_from_file(&assets_directory.join("dates-and-days-of-week.txt"), 0, ",")?;
     let chemical_elements = get_lines_from_file(&assets_directory.join("chemical-elements.txt"))?;

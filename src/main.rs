@@ -4,26 +4,14 @@ mod enhancer;
 mod models;
 mod utils;
 use crate::api::download_cedict;
-use crate::api::get_stroke_count_from_wiktionary;
-use crate::customReader::customReader::BufReader;
+use crate::enhancer::get_cached_refined_records;
 use crate::enhancer::get_group_ce_records_by_simplified;
 use crate::enhancer::refine_records;
 use crate::models::*;
-use crate::utils::get_pinyins;
-use crate::utils::get_pinyins_map;
 use crate::utils::get_single_characters;
 use crate::utils::import_stroke_order;
-use crate::utils::is_cjk;
-use crate::utils::parse_ce_record;
-use crate::utils::remove_duplicates;
 use crate::utils::try_get_ce_dict_records;
-use api::get_info_from_writtenchinese;
-use lazy_static::lazy_static;
 use log::{debug, info};
-use regex::Regex;
-use scraper::Html;
-use scraper::Selector;
-use select::document::Document;
 use select::predicate::{Attr, Class, Name};
 use std::collections::HashMap;
 use std::collections::HashSet;
@@ -42,6 +30,33 @@ use std::path::PathBuf;
 
 #[macro_use]
 extern crate log;
+
+pub fn download_cedict_and_save_to_disk(
+    cedict_ts_path: &Path,
+    assets_directory: &Path,
+) -> Result<(), Box<dyn Error>> {
+    let cedict_ts_zip_path = &assets_directory.join("cedict_ts.u8.zip");
+    let bytes = download_cedict()?;
+    let mut file = OpenOptions::new()
+        .create(true)
+        .read(true)
+        .write(true)
+        .open(cedict_ts_zip_path)?;
+    file.write_all(&bytes)?;
+    file.seek(SeekFrom::Start(0))?;
+
+    let mut archive = zip::ZipArchive::new(&file)?;
+    let zip_file = archive.by_index(0)?;
+
+    let mut file = File::create(cedict_ts_path)?;
+    let bytes: Result<Vec<_>, _> = zip_file.bytes().collect();
+    file.write_all(&bytes?)?;
+
+    debug!("Removing find cedict_ts.u8.zip");
+    fs::remove_file(cedict_ts_zip_path)?;
+
+    Ok(())
+}
 
 fn main() -> Result<(), Box<dyn Error>> {
     env_logger::init();
@@ -63,29 +78,10 @@ fn main() -> Result<(), Box<dyn Error>> {
         io::stdin().read_line(&mut command)?;
         command = command.trim().to_owned();
 
-        let cedict_ts_path = &current_directory.join("cedict_ts.u8");
+        let cedict_ts_path = &assets_directory.join("cedict_ts.u8");
         if !cedict_ts_path.exists() {
             debug!("Could not find cedict_ts.u8");
-
-            let cedict_ts_zip_path = &current_directory.join("cedict_ts.u8.zip");
-            let bytes = download_cedict()?;
-            let mut file = OpenOptions::new()
-                .create(true)
-                .read(true)
-                .write(true)
-                .open(cedict_ts_zip_path)?;
-            file.write_all(&bytes)?;
-            file.seek(SeekFrom::Start(0))?;
-
-            let mut archive = zip::ZipArchive::new(&file)?;
-            let zip_file = archive.by_index(0)?;
-
-            let mut file = File::create(cedict_ts_path)?;
-            let bytes: Result<Vec<_>, _> = zip_file.bytes().collect();
-            file.write_all(&bytes?)?;
-
-            debug!("Removing find cedict_ts.u8.zip");
-            fs::remove_file(cedict_ts_zip_path)?;
+            download_cedict_and_save_to_disk(cedict_ts_path, &assets_directory)?;
         }
 
         match command.as_str() {
@@ -126,12 +122,15 @@ fn main() -> Result<(), Box<dyn Error>> {
                 let cache_dict_path = &current_directory.join("cache-dict.json");
 
                 let grouped_records = get_group_ce_records_by_simplified(&list, cache_dict_path)?;
-                let result = refine_records(
+                let refined_records = refine_records(
                     grouped_records,
                     &current_directory,
                     &public_directory,
                     &assets_directory,
                 )?;
+
+                let file = File::create(public_directory.join("cache-refined.json"))?;
+                serde_json::to_writer_pretty(file, &refined_records)?;
             }
             "5" => {
                 let list =
@@ -154,6 +153,63 @@ fn main() -> Result<(), Box<dyn Error>> {
                 }
             }
             "6" => {}
+            "7" => {
+                let list = try_get_ce_dict_records(
+                    cedict_ts_path,
+                    &current_directory.join("cache-list.json"),
+                )?;
+
+                let file = File::create(public_directory.join("extracted.txt"))?;
+                let mut line_writer = LineWriter::new(file);
+
+                for record in &list {
+                    let line = &record.line;
+
+                    if !line.contains("city in") || !line.contains("capital of") {
+                        continue;
+                    }
+
+                    format!("{}\n", line);
+                    line_writer.write_all(line.as_bytes())?;
+                }
+            }
+            "8" => {
+                let refined_path = &current_directory.join("cache-refined.json");
+                let mut refined_records: Vec<Group> = Vec::new();
+
+                if refined_path.exists() {
+                    refined_records = get_cached_refined_records(refined_path)?;
+                } else {
+                    let list = try_get_ce_dict_records(
+                        cedict_ts_path,
+                        &current_directory.join("cache-list.json"),
+                    )?;
+                    let cache_dict_path = &current_directory.join("cache-dict.json");
+
+                    let grouped_records =
+                        get_group_ce_records_by_simplified(&list, cache_dict_path)?;
+                    refined_records = refine_records(
+                        grouped_records,
+                        &current_directory,
+                        &public_directory,
+                        &assets_directory,
+                    )?;
+                }
+
+                let file = File::create(public_directory.join("unmapped.txt"))?;
+                let mut line_writer = LineWriter::new(file);
+
+                for group in &refined_records {
+                    for detail in &group.details {
+                        for meaning in &detail.meanings {
+                            let pinyin = &detail.pronunciation.first().unwrap().wade_giles_pinyin;
+                            let line =
+                                format!("{} {} {}\n", group.simplified, pinyin, &meaning.value);
+                            line_writer.write_all(line.as_bytes())?;
+                        }
+                    }
+                }
+            }
             "9" => {
                 debug!("Quit");
                 break;

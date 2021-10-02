@@ -106,8 +106,13 @@ pub fn get_row_from_file(
     for line in reader {
         let line = line?;
         let rows: Vec<&str> = line.split(separator).collect();
-        let row = rows[index];
-        list.insert(row.trim().to_owned());
+        let row = rows.get(index);
+
+        if row.is_none() {
+            continue;
+        }
+
+        list.insert(row.unwrap().trim().to_owned());
     }
 
     Ok(list)
@@ -245,7 +250,7 @@ pub fn try_get_ce_dict_records(
 
     if cache_path.exists() {
         let bytes = &read_file_bytes(cache_path)?;
-        list = serde_json::from_slice(bytes).unwrap();
+        list = serde_json::from_slice(bytes)?;
         return Ok(list);
     }
 
