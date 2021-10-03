@@ -1,18 +1,13 @@
 mod api;
 mod customReader;
-mod enhancer;
 mod models;
-mod utils;
+mod refiner;
 use crate::api::download_cedict;
-use crate::enhancer::get_cached_refined_records;
-use crate::enhancer::get_group_ce_records_by_simplified;
-use crate::enhancer::refine_records;
 use crate::models::*;
-use crate::utils::get_single_characters;
-use crate::utils::import_stroke_order;
-use crate::utils::try_get_ce_dict_records;
+mod utils;
 use log::{debug, info};
-use select::predicate::{Attr, Class, Name};
+use refiner::refine_records::refine_records;
+use refiner::*;
 use std::collections::HashMap;
 use std::collections::HashSet;
 use std::convert::TryFrom;
@@ -23,10 +18,12 @@ use std::fs::File;
 use std::fs::OpenOptions;
 use std::io;
 use std::io::prelude::*;
+use std::io::BufWriter;
 use std::io::LineWriter;
 use std::io::SeekFrom;
 use std::path::Path;
 use std::path::PathBuf;
+use utils::*;
 
 #[macro_use]
 extern crate log;
@@ -79,6 +76,10 @@ fn main() -> Result<(), Box<dyn Error>> {
         command = command.trim().to_owned();
 
         let cedict_ts_path = &assets_directory.join("cedict_ts.u8");
+        let cache_list_path = &current_directory.join("cache-list.json");
+        let cache_dict_path = &current_directory.join("cache-dict.json");
+        let cache_refined_path = &current_directory.join("cache-refined.json");
+
         if !cedict_ts_path.exists() {
             debug!("Could not find cedict_ts.u8");
             download_cedict_and_save_to_disk(cedict_ts_path, &assets_directory)?;
@@ -86,8 +87,7 @@ fn main() -> Result<(), Box<dyn Error>> {
 
         match command.as_str() {
             "1" => {
-                let list =
-                    try_get_ce_dict_records(cedict_ts_path, &current_directory.join("cache.json"))?;
+                let list = try_get_ce_dict_records(cedict_ts_path, cache_list_path)?;
 
                 let single_characters = get_single_characters(&list);
                 let output_path = &current_directory.join("stroke-order.txt");
@@ -111,31 +111,38 @@ fn main() -> Result<(), Box<dyn Error>> {
                 }
             }
             "3" => {
-                let list = try_get_ce_dict_records(
-                    &cedict_ts_path,
-                    &current_directory.join("cache.json"),
-                )?;
+                let list = try_get_ce_dict_records(&cedict_ts_path, cache_list_path)?;
             }
             "4" => {
-                let list =
-                    try_get_ce_dict_records(cedict_ts_path, &current_directory.join("cache.json"))?;
-                let cache_dict_path = &current_directory.join("cache-dict.json");
+                let mut refined_records: Vec<Group> = Vec::new();
 
-                let grouped_records = get_group_ce_records_by_simplified(&list, cache_dict_path)?;
-                let refined_records = refine_records(
-                    grouped_records,
-                    &current_directory,
-                    &public_directory,
-                    &assets_directory,
-                )?;
+                if cache_dict_path.exists() {
+                    let grouped_records =
+                        get_group_ce_records_by_simplified(&Vec::new(), cache_dict_path)?;
+                    refined_records = refine_records(
+                        grouped_records,
+                        &current_directory,
+                        &public_directory,
+                        &assets_directory,
+                    )?;
+                } else {
+                    let list = try_get_ce_dict_records(cedict_ts_path, cache_list_path)?;
+                    let grouped_records =
+                        get_group_ce_records_by_simplified(&list, cache_dict_path)?;
+                    refined_records = refine_records(
+                        grouped_records,
+                        &current_directory,
+                        &public_directory,
+                        &assets_directory,
+                    )?;
+                }
 
-                let file = File::create(public_directory.join("cache-refined.json"))?;
-                serde_json::to_writer_pretty(file, &refined_records)?;
+                let file = File::create(cache_refined_path)?;
+                let buffer_writer = BufWriter::new(file);
+                serde_json::to_writer_pretty(buffer_writer, &refined_records)?;
             }
             "5" => {
-                let list =
-                    try_get_ce_dict_records(cedict_ts_path, &current_directory.join("cache.json"))?;
-                let cache_dict_path = &current_directory.join("cache-dict.json");
+                let list = try_get_ce_dict_records(cedict_ts_path, cache_list_path)?;
 
                 let grouped_records = get_group_ce_records_by_simplified(&list, cache_dict_path)?;
                 let refined_records = refine_records(
@@ -154,12 +161,9 @@ fn main() -> Result<(), Box<dyn Error>> {
             }
             "6" => {}
             "7" => {
-                let list = try_get_ce_dict_records(
-                    cedict_ts_path,
-                    &current_directory.join("cache-list.json"),
-                )?;
+                let list = try_get_ce_dict_records(cedict_ts_path, cache_list_path)?;
 
-                let file = File::create(public_directory.join("extracted.txt"))?;
+                let file = File::create(current_directory.join("extracted.txt"))?;
                 let mut line_writer = LineWriter::new(file);
 
                 for record in &list {
@@ -174,17 +178,12 @@ fn main() -> Result<(), Box<dyn Error>> {
                 }
             }
             "8" => {
-                let refined_path = &current_directory.join("cache-refined.json");
                 let mut refined_records: Vec<Group> = Vec::new();
 
-                if refined_path.exists() {
-                    refined_records = get_cached_refined_records(refined_path)?;
+                if cache_refined_path.exists() {
+                    refined_records = get_cached_refined_records(cache_refined_path)?;
                 } else {
-                    let list = try_get_ce_dict_records(
-                        cedict_ts_path,
-                        &current_directory.join("cache-list.json"),
-                    )?;
-                    let cache_dict_path = &current_directory.join("cache-dict.json");
+                    let list = try_get_ce_dict_records(cedict_ts_path, cache_list_path)?;
 
                     let grouped_records =
                         get_group_ce_records_by_simplified(&list, cache_dict_path)?;
@@ -196,15 +195,31 @@ fn main() -> Result<(), Box<dyn Error>> {
                     )?;
                 }
 
-                let file = File::create(public_directory.join("unmapped.txt"))?;
+                let file = File::create(current_directory.join("unmapped.txt"))?;
                 let mut line_writer = LineWriter::new(file);
 
                 for group in &refined_records {
                     for detail in &group.details {
                         for meaning in &detail.meanings {
                             let pinyin = &detail.pronunciation.first().unwrap().wade_giles_pinyin;
-                            let line =
-                                format!("{} {} {}\n", group.simplified, pinyin, &meaning.value);
+                            let value = &meaning.value;
+
+                            if meaning.lexical_item.is_some() {
+                                let lexical_item = meaning.lexical_item.as_ref().unwrap();
+                                debug!("Skipping {}", lexical_item);
+                                continue;
+                            }
+
+                            if value.is_none() {
+                                continue;
+                            }
+
+                            let line = format!(
+                                "{}, {}, {}\n",
+                                group.simplified,
+                                pinyin,
+                                value.as_ref().unwrap()
+                            );
                             line_writer.write_all(line.as_bytes())?;
                         }
                     }

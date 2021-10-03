@@ -4,10 +4,13 @@ use serde::{Deserialize, Serialize};
 #[derive(Serialize, Deserialize, Clone)]
 pub struct Meaning {
     #[serde(skip_serializing_if = "Option::is_none")]
-    pub context: Option<String>,
+    pub context: Option<Vec<String>>,
     #[serde(skip_serializing_if = "Option::is_none")]
     pub lexical_item: Option<String>,
-    pub value: String,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub value: Option<String>,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub literal_meaning: Option<String>,
     #[serde(skip_serializing_if = "Option::is_none")]
     pub simplified: Option<String>,
     #[serde(skip_serializing_if = "Option::is_none")]
@@ -29,6 +32,8 @@ pub struct Classifier {
 pub struct Pronunciation {
     pub pinyin: String,
     pub wade_giles_pinyin: String,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub other: Option<String>,
 }
 
 #[derive(Serialize, Deserialize, Clone)]

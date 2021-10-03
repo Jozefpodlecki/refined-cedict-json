@@ -16,27 +16,18 @@ use std::fs;
 use std::fs::File;
 use std::fs::OpenOptions;
 use std::io::prelude::*;
+use std::io::BufWriter;
 use std::io::LineWriter;
 use std::path::Path;
 use std::path::PathBuf;
+mod is_cjk;
+mod parse_ce_record;
+use crate::utils::is_cjk::is_cjk;
+use crate::utils::parse_ce_record::parse_ce_record;
 
 #[cfg(test)]
 #[path = "./test.rs"]
 mod test;
-
-pub fn is_cjk(data: &char) -> bool {
-    match data {
-        '\u{4E00}'..='\u{9FFF}' => true,
-        '\u{3400}'..='\u{4DBF}' => true,
-        '\u{20000}'..='\u{2A6DF}' => true,
-        '\u{2A700}'..='\u{2B73F}' => true,
-        '\u{2B740}'..='\u{2B81F}' => true,
-        '\u{2B820}'..='\u{2CEAF}' => true,
-        '\u{F900}'..='\u{FAFF}' => true,
-        '\u{2F800}'..='\u{2FA1F}' => true,
-        _ => false,
-    }
-}
 
 pub fn get_stroke_order_map(file_path: &Path) -> Result<HashMap<String, u8>, Box<dyn Error>> {
     let lines = BufReader::open(file_path)?;
@@ -246,7 +237,7 @@ pub fn try_get_ce_dict_records(
     cache_path: &Path,
 ) -> Result<Vec<CERecord>, Box<dyn Error>> {
     let lines = BufReader::open(file_path)?;
-    let mut list: Vec<CERecord> = Vec::new();
+    let mut list: Vec<CERecord> = Vec::with_capacity(120000);
 
     if cache_path.exists() {
         let bytes = &read_file_bytes(cache_path)?;
@@ -267,10 +258,35 @@ pub fn try_get_ce_dict_records(
         index = index + 1;
     }
 
-    let json = serde_json::to_string_pretty(&list)?;
-    fs::write(cache_path, json)?;
+    let file = File::create(cache_path)?;
+    let buffer_writer = BufWriter::new(file);
+    serde_json::to_writer_pretty(buffer_writer, &list)?;
 
     Ok(list)
+}
+
+pub fn get_group_ce_records_by_simplified(
+    records: &[CERecord],
+    cache_dict_path: &Path,
+) -> Result<HashMap<String, Vec<CERecord>>, Box<dyn Error>> {
+    let mut dict: HashMap<String, Vec<CERecord>> = HashMap::with_capacity(records.len());
+
+    if cache_dict_path.exists() {
+        let bytes = &read_file_bytes(cache_dict_path)?;
+        dict = serde_json::from_slice(bytes)?;
+        return Ok(dict);
+    }
+
+    for record in records {
+        let key = record.simplified.to_string();
+        dict.entry(key).or_insert(Vec::new()).push(record.clone());
+    }
+
+    let file = File::create(cache_dict_path)?;
+    let buffer_writer = BufWriter::new(file);
+    serde_json::to_writer_pretty(buffer_writer, &dict)?;
+
+    Ok(dict)
 }
 
 pub fn get_pinyins_map(file_path: &str) -> Result<HashMap<String, PinyinMap>, Box<dyn Error>> {
@@ -281,7 +297,7 @@ pub fn get_pinyins_map(file_path: &str) -> Result<HashMap<String, PinyinMap>, Bo
     for line in reader {
         let line = line?;
 
-        let parts: Vec<&str> = line.split(" ").collect();
+        let parts: Vec<&str> = line.split(" ").map(|pr| pr.trim()).collect();
 
         let pinyin = PinyinMap {
             pinyin: parts[0].to_string(),
@@ -349,38 +365,4 @@ pub fn remove_duplicates(file_path: &str) -> Result<(), Box<dyn Error>> {
     }
 
     Ok(())
-}
-
-pub fn parse_ce_record(line: &str, line_number: u32) -> CERecord {
-    lazy_static! {
-        static ref REGEX: Regex = Regex::new(
-            r"(?P<traditional>.*?)\s(?P<simplified>.*?)\s\[(?P<pinyin>.*?)\]\s/(?P<meanings>.*)/",
-        )
-        .unwrap();
-    }
-
-    let captures = REGEX.captures(&line).unwrap();
-    let traditional = captures.name("traditional").unwrap().as_str().to_string();
-    let simplified = captures.name("simplified").unwrap().as_str().to_string();
-    let wade_giles_pinyin = captures.name("pinyin").unwrap().as_str().to_string();
-    let meanings = captures
-        .name("meanings")
-        .unwrap()
-        .as_str()
-        .split("/")
-        .map(|s| s.to_string())
-        .collect();
-
-    let mut normalized_line = line.to_string();
-    normalized_line.pop();
-    normalized_line.pop();
-
-    CERecord {
-        line_number: line_number,
-        line: normalized_line,
-        simplified: simplified,
-        traditional: traditional,
-        wade_giles_pinyin: wade_giles_pinyin,
-        meanings: meanings,
-    }
 }
