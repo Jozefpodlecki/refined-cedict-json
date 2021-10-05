@@ -180,23 +180,6 @@ pub fn refine_records(
             let mut meanings = detail.meanings;
 
             for meaning in record.meanings {
-                let mut meaning_record = refine_meaning_record(&meaning);
-
-                match meaning_record {
-                    Some(record) => {
-                        meanings.push(record);
-                    }
-                    None => {}
-                }
-
-                // if descriptor.is_some() {
-                //     let descriptor = descriptor.unwrap();
-                //     if descriptor.meanings.contains(&meaning) {
-                //         meaning_record.unwrap().lexical_item =
-                //             Some(descriptor.lexical_item.to_owned());
-                //     }
-                // }
-
                 if meaning.contains("also pr.") {
                     let captures = EXTRACT_PINYIN_REGEX.captures(&meaning);
 
@@ -245,6 +228,24 @@ pub fn refine_records(
                     }
                     continue;
                 }
+
+                let meaning_record = refine_meaning_record(&meaning);
+
+                match meaning_record {
+                    Some(record) => {
+                        meanings.push(record);
+                        continue;
+                    }
+                    None => {}
+                }
+
+                // if descriptor.is_some() {
+                //     let descriptor = descriptor.unwrap();
+                //     if descriptor.meanings.contains(&meaning) {
+                //         meaning_record.unwrap().lexical_item =
+                //             Some(descriptor.lexical_item.to_owned());
+                //     }
+                // }
             }
 
             detail.meanings = meanings;
