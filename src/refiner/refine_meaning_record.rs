@@ -5,12 +5,17 @@ use regex::Regex;
 const PATTERN_CONTEXT_LIST: &[(&str, &str)] = &[
     ("(politics)", "politics"),
     ("(medicine)", "medicine"),
+    ("(anatomy)", "anatomy"),
+    ("(astronomy)", "astronomy"),
+    ("(math.)", "math"),
     ("(biochemistry)", "biochemistry"),
     ("(biology)", "biology"),
     ("(math)", "math"),
+    ("(abbr.)", "abbreviation"),
     ("(physics)", "physics"),
     ("(literary)", "literary"),
     ("(chemistry)", "chemistry"),
+    ("(military)", "chemistry"),
     ("(vulgar)", "vulgar"),
     ("(old)", "old"),
     ("(slang)", "slang"),
@@ -237,59 +242,12 @@ pub fn refine_meaning_record(meaning: &str) -> Option<Meaning> {
     }
 
     if value.contains("abbr.") {
-        let mut pattern = "abbr. for";
-
-        if meaning.contains("(abbr.)") {
-            pattern = "(abbr.)";
-        }
-
-        value = str::replace(&value, pattern, "");
-        value = value.trim().to_owned();
         let mut temp = meaning_record.context.unwrap_or_default();
-        temp.push("abbreviation".to_owned());
-        meaning_record.context = Some(temp);
 
-        let mut captures = SIMPL_TRAD_PIN_TEXT_REGEX.captures(&value);
-
-        if captures.is_none() {
-            captures = SIMPL_TEXT_REGEX.captures(&value);
-
-            if captures.is_none() {
-                captures = SIMPL_TRAD_TEXT_CURLY_BRACES_REGEX.captures(&value);
-
-                if captures.is_none() {
-                    captures = SIMPL_TRAD_TEXT_PINYIN_CURLY_BRACES_REGEX.captures(&value);
-
-                    if captures.is_none() {
-                        meaning_record.value = Some(value);
-                    } else {
-                        let captures = captures.unwrap();
-                        meaning_record.value = captures.get(2).map(|pr| pr.as_str().to_owned());
-                        meaning_record.simplified =
-                            captures.get(1).map(|pr| pr.as_str().to_owned());
-                        meaning_record.traditional =
-                            Some(captures.get(2).unwrap().as_str().to_owned());
-                        meaning_record.pinyin = captures.get(4).map(|pr| pr.as_str().to_owned());
-                    }
-                } else {
-                    let captures = captures.unwrap();
-                    meaning_record.value = captures.get(2).map(|pr| pr.as_str().to_owned());
-                    meaning_record.simplified = captures.get(1).map(|pr| pr.as_str().to_owned());
-                    meaning_record.traditional = Some(captures.get(2).unwrap().as_str().to_owned());
-                }
-            } else {
-                let captures = captures.unwrap();
-                meaning_record.value = captures.get(2).map(|pr| pr.as_str().to_owned());
-                meaning_record.simplified = captures.get(1).map(|pr| pr.as_str().to_owned());
-            }
-        } else {
-            let captures = captures.unwrap();
-            meaning_record.value = None;
-            meaning_record.simplified = Some(captures.get(1).unwrap().as_str().to_owned());
-            meaning_record.traditional = Some(captures.get(2).unwrap().as_str().to_owned());
-            meaning_record.wade_giles_pinyin =
-                Some(captures.get(3).unwrap().as_str().to_lowercase());
+        if !temp.contains(&"abbreviation".to_string()) {
+            temp.push("abbreviation".to_owned());
         }
+        meaning_record.context = Some(temp);
 
         return Some(meaning_record);
     }

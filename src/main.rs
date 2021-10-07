@@ -5,6 +5,7 @@ mod refiner;
 use crate::api::download_cedict;
 use crate::models::*;
 mod utils;
+use crate::customReader::customReader::BufReader;
 use log::{debug, info};
 use refiner::refine_records::refine_records;
 use refiner::*;
@@ -71,6 +72,7 @@ fn main() -> Result<(), Box<dyn Error>> {
         println!("5. Export refined phrases to separate json files");
         println!("6. Export pinyins");
         println!("7. Export records from cedict when they match given pattern");
+        println!("8. Extract meanings");
         println!("9. Exit");
         io::stdin().read_line(&mut command)?;
         command = command.trim().to_owned();
@@ -159,7 +161,14 @@ fn main() -> Result<(), Box<dyn Error>> {
                     serde_json::to_writer_pretty(file, &refined_record)?;
                 }
             }
-            "6" => {}
+            "6" => {
+                let file_path = current_directory.join("extracted.txt");
+                let lines = BufReader::open(file_path)?;
+
+                for line in lines {
+                    let line = line?;
+                }
+            }
             "7" => {
                 let list = try_get_ce_dict_records(cedict_ts_path, cache_list_path)?;
 
@@ -169,12 +178,18 @@ fn main() -> Result<(), Box<dyn Error>> {
                 for record in &list {
                     let line = &record.line;
 
-                    if !line.contains("city in") || !line.contains("capital of") {
-                        continue;
-                    }
+                    // if !line.contains("city in") || !line.contains("capital of") {
+                    //     continue;
+                    // }
 
-                    format!("{}\n", line);
-                    line_writer.write_all(line.as_bytes())?;
+                    for meaning in &record.meanings {
+                        if !meaning.contains("abbr.") {
+                            continue;
+                        }
+
+                        let line = format!("{} - {}\n", record.simplified, meaning);
+                        line_writer.write_all(line.as_bytes())?;
+                    }
                 }
             }
             "8" => {
@@ -203,10 +218,17 @@ fn main() -> Result<(), Box<dyn Error>> {
                         for meaning in &detail.meanings {
                             let pinyin = &detail.pronunciation.first().unwrap().wade_giles_pinyin;
                             let value = &meaning.value;
+                            let contains_abbr = meaning
+                                .context
+                                .clone()
+                                .unwrap_or_default()
+                                .contains(&"abbreviation".to_string());
+
+                            if contains_abbr {
+                                continue;
+                            }
 
                             if meaning.lexical_item.is_some() {
-                                let lexical_item = meaning.lexical_item.as_ref().unwrap();
-                                debug!("Skipping {}", lexical_item);
                                 continue;
                             }
 
@@ -215,7 +237,7 @@ fn main() -> Result<(), Box<dyn Error>> {
                             }
 
                             let line = format!(
-                                "{}, {}, {}\n",
+                                "{}, {}, {}, , \n",
                                 group.simplified,
                                 pinyin,
                                 value.as_ref().unwrap()

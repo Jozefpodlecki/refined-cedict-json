@@ -37,17 +37,45 @@ pub struct Pronunciation {
 }
 
 #[derive(Serialize, Deserialize, Clone)]
+pub struct Radical {
+    pub value: String,
+    pub stroke_count: u8,
+    pub meaning: String,
+}
+
+#[derive(Serialize, Deserialize, Clone)]
+pub struct Decomposition {
+    pub radical: Option<Vec<Radical>>,
+    pub graphical: Option<Vec<String>>,
+}
+
+#[derive(Serialize, Deserialize, Clone)]
 pub struct Detail {
     pub pronunciation: Vec<Pronunciation>,
+
     pub simplified: String,
+
     #[serde(skip_serializing_if = "Option::is_none")]
     pub simplified_stroke_count: Option<u8>,
+
     pub traditional: String,
+
     #[serde(skip_serializing_if = "Option::is_none")]
     pub traditional_stroke_count: Option<u8>,
+
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub also_written: Option<String>,
+
     pub meanings: Vec<Meaning>,
-    pub classifiers: Vec<Classifier>,
-    pub tags: Vec<String>,
+
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub classifiers: Option<Vec<Classifier>>,
+
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub decomposition: Option<Decomposition>,
+
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub tags: Option<Vec<String>>,
 }
 
 #[derive(Clone, Serialize, Deserialize)]
@@ -72,9 +100,9 @@ pub struct CERecord {
 pub struct Descriptor {
     pub simplified: String,
     pub pinyin: String,
-    pub meanings: Vec<String>,
-    pub lexical_item: String,
-    pub tags: Vec<String>,
+    pub meaning: String,
+    pub lexical_item: Option<String>,
+    pub tags: Option<Vec<String>>,
 }
 
 #[derive(Clone, Hash, Serialize, Deserialize)]

@@ -49,24 +49,31 @@ pub fn get_descriptors_from_file(
     file_path: &Path,
 ) -> Result<HashMap<String, Descriptor>, Box<dyn Error>> {
     let reader = BufReader::open(file_path)?;
-    let mut list: HashMap<String, Descriptor> = HashMap::new();
+    let mut list: HashMap<String, Descriptor> = HashMap::with_capacity(200000);
 
     for line in reader {
         let line = line?;
 
-        let parts: Vec<&str> = line.split(",").collect();
-        let meanings: Vec<String> = parts[2].split("/").map(|pr| pr.to_owned()).collect();
-        let tags: Vec<String> = parts[2].split("/").map(|pr| pr.to_owned()).collect();
+        let parts: Vec<&str> = line.split(",").map(|pr| pr.trim()).collect();
+
+        let simplified = parts[0].to_owned();
+        let pinyin = parts[1].to_owned();
+        let meaning = parts[2].to_owned();
+        let lexical_item = parts.get(3).map(|pr| pr.to_string());
+        let tags_str = parts.get(4);
+        let tags = tags_str.map(|pr| pr.split("/").map(|pr| pr.to_owned()).collect());
+
+        let key = simplified.clone() + &meaning;
 
         let record = Descriptor {
-            simplified: parts[0].to_owned(),
-            pinyin: parts[1].to_owned(),
-            meanings: meanings,
-            lexical_item: parts[3].to_owned(),
+            simplified: simplified,
+            pinyin: pinyin,
+            meaning: meaning,
+            lexical_item: lexical_item,
             tags: tags,
         };
 
-        list.insert(parts[0].to_string(), record);
+        list.insert(key, record);
     }
 
     Ok(list)
