@@ -1,4 +1,4 @@
-pub mod customReader {
+pub mod custom_reader {
     use std::{
         fs::File,
         io::{self, prelude::*},

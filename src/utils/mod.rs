@@ -1,6 +1,6 @@
 use crate::api::get_info_from_writtenchinese;
 use crate::api::get_stroke_count_from_wiktionary;
-use crate::customReader::customReader::BufReader;
+use crate::customReader::custom_reader::BufReader;
 use crate::models::Descriptor;
 use crate::CERecord;
 use crate::PinyinMap;
@@ -45,6 +45,34 @@ pub fn get_stroke_order_map(file_path: &Path) -> Result<HashMap<String, u8>, Box
     Ok(dict)
 }
 
+pub fn save_descriptors_to_file(
+    descriptors: HashMap<String, Descriptor>,
+    file_path: &Path,
+) -> Result<(), Box<dyn Error>> {
+    let file = OpenOptions::new()
+        .write(true)
+        .create(true)
+        .truncate(true)
+        .open(file_path)?;
+
+    let mut file = LineWriter::new(file);
+
+    for (key, descriptor) in descriptors {
+        let tags = descriptor.tags.unwrap_or_default().join("/");
+        let line = format!(
+            "{}, {}, {}, {}, {}\n",
+            descriptor.simplified,
+            descriptor.pinyin,
+            descriptor.meaning,
+            descriptor.lexical_item.unwrap_or("".to_string()),
+            tags
+        );
+        file.write_all(line.as_bytes())?;
+    }
+
+    Ok(())
+}
+
 pub fn get_descriptors_from_file(
     file_path: &Path,
 ) -> Result<HashMap<String, Descriptor>, Box<dyn Error>> {
@@ -59,9 +87,17 @@ pub fn get_descriptors_from_file(
         let simplified = parts[0].to_owned();
         let pinyin = parts[1].to_owned();
         let meaning = parts[2].to_owned();
-        let lexical_item = parts.get(3).map(|pr| pr.to_string());
+        let lexical_item = parts
+            .get(3)
+            .map(|pr| pr.to_string())
+            .filter(|pr| !pr.is_empty());
         let tags_str = parts.get(4);
-        let tags = tags_str.map(|pr| pr.split("/").map(|pr| pr.to_owned()).collect());
+        let tags = tags_str.map(|pr| {
+            pr.split("/")
+                .map(|pr| pr.to_owned())
+                .filter(|pr| !pr.is_empty())
+                .collect()
+        });
 
         let key = simplified.clone() + &meaning;
 

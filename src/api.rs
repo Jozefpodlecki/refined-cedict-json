@@ -1,27 +1,15 @@
-use crate::CERecord;
-use crate::PinyinMap;
 use bytes::Bytes;
 use lazy_static::lazy_static;
 use regex::Regex;
 use reqwest::StatusCode;
 use scraper::Html;
 use scraper::Selector;
-use select::document::Document;
-use select::predicate::{Attr, Class, Name};
 use serde_json::Value;
-use std::collections::BTreeSet;
 use std::collections::HashMap;
-use std::env;
 use std::error::Error;
-use std::fs;
-use std::fs::File;
-use std::fs::OpenOptions;
-use std::io::prelude::*;
-use std::io::LineWriter;
-use std::io::{prelude::*, BufReader};
 use urlencoding::encode;
 
-static user_agent: &str = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36";
+static USER_AGENT: &str = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36";
 
 pub fn download_cedict() -> Result<Bytes, Box<dyn Error>> {
     lazy_static! {
@@ -32,7 +20,7 @@ pub fn download_cedict() -> Result<Bytes, Box<dyn Error>> {
     const URL: &str = "https://www.mdbg.net/chinese/export/cedict/cedict_1_0_ts_utf-8_mdbg.zip";
     let response = CLIENT
         .get(URL)
-        .header(reqwest::header::USER_AGENT, user_agent)
+        .header(reqwest::header::USER_AGENT, USER_AGENT)
         .send()?;
 
     let bytes = response.bytes()?;
@@ -52,7 +40,7 @@ pub fn get_info_from_writtenchinese(pinyin: &str) -> Result<Option<String>, Box<
     const url: &str = "https://dictionary.writtenchinese.com/ajaxsearch/simsearch.action";
     let response = CLIENT
         .post(url)
-        .header(reqwest::header::USER_AGENT, user_agent)
+        .header(reqwest::header::USER_AGENT, USER_AGENT)
         .form(&form_data)
         .send()?;
 
@@ -103,7 +91,7 @@ pub fn get_stroke_count_from_wiktionary(character: &str) -> Result<Option<u8>, B
 
     let response: reqwest::blocking::Response = CLIENT
         .get(url)
-        .header(reqwest::header::USER_AGENT, user_agent)
+        .header(reqwest::header::USER_AGENT, USER_AGENT)
         .send()?;
 
     let body_response = response.text()?;
@@ -135,7 +123,7 @@ pub fn get_stroke_count_from_nihongo(character: &str) -> Result<u8, Box<dyn Erro
 
     let response: reqwest::blocking::Response = CLIENT
         .get(url)
-        .header(reqwest::header::USER_AGENT, user_agent)
+        .header(reqwest::header::USER_AGENT, USER_AGENT)
         .send()
         .unwrap();
 
@@ -179,7 +167,7 @@ pub fn get_stroke_count_from_strokeorder(character: &str) -> Result<u8, Box<dyn 
 
     let response: reqwest::blocking::Response = CLIENT
         .get(url)
-        .header(reqwest::header::USER_AGENT, user_agent)
+        .header(reqwest::header::USER_AGENT, USER_AGENT)
         .send()
         .unwrap();
 

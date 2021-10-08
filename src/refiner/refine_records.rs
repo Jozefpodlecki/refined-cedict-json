@@ -72,6 +72,9 @@ pub fn refine_records(
                 let key = record.simplified.clone() + &meaning;
 
                 if meaning.contains("also written") {
+                    let mut value = str::replace(&meaning, "also written", "");
+                    value = value.trim().to_owned();
+                    detail.also_written = Some(value);
                     continue;
                 }
 

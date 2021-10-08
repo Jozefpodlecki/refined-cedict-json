@@ -5,13 +5,10 @@ mod refiner;
 use crate::api::download_cedict;
 use crate::models::*;
 mod utils;
-use crate::customReader::customReader::BufReader;
+use crate::customReader::custom_reader::BufReader;
 use log::{debug, info};
 use refiner::refine_records::refine_records;
 use refiner::*;
-use std::collections::HashMap;
-use std::collections::HashSet;
-use std::convert::TryFrom;
 use std::env;
 use std::error::Error;
 use std::fs;
@@ -113,7 +110,70 @@ fn main() -> Result<(), Box<dyn Error>> {
                 }
             }
             "3" => {
-                let list = try_get_ce_dict_records(&cedict_ts_path, cache_list_path)?;
+                let mut descriptors =
+                    get_descriptors_from_file(&assets_directory.join("descriptor.txt"))?;
+
+                let hsk21 = get_lines_from_file(&assets_directory.join("hsk-version-2-1.txt"))?;
+                let hsk22 = get_lines_from_file(&assets_directory.join("hsk-version-2-2.txt"))?;
+                let hsk23 = get_lines_from_file(&assets_directory.join("hsk-version-2-3.txt"))?;
+                let hsk24 = get_lines_from_file(&assets_directory.join("hsk-version-2-4.txt"))?;
+                let hsk25 = get_lines_from_file(&assets_directory.join("hsk-version-2-5.txt"))?;
+                let hsk26 = get_lines_from_file(&assets_directory.join("hsk-version-2-6.txt"))?;
+                let hsk31 = get_lines_from_file(&assets_directory.join("hsk-version-3-1.txt"))?;
+                let hsk32 = get_lines_from_file(&assets_directory.join("hsk-version-3-2.txt"))?;
+                let hsk33 = get_lines_from_file(&assets_directory.join("hsk-version-3-3.txt"))?;
+                let hsk34 = get_lines_from_file(&assets_directory.join("hsk-version-3-4.txt"))?;
+                let hsk35 = get_lines_from_file(&assets_directory.join("hsk-version-3-5.txt"))?;
+                let hsk36 = get_lines_from_file(&assets_directory.join("hsk-version-3-6.txt"))?;
+                let hsk37 = get_lines_from_file(&assets_directory.join("hsk-version-3-7.txt"))?;
+
+                for (key, descriptor) in descriptors.iter_mut() {
+                    let mut temp = descriptor.tags.clone().unwrap_or_default();
+                    let key = &descriptor.simplified;
+
+                    if let Some(_) = hsk21.get(key) {
+                        temp.push("hsk-2-1".to_string());
+                    }
+                    if let Some(_) = hsk22.get(key) {
+                        temp.push("hsk-2-2".to_string());
+                    }
+                    if let Some(_) = hsk23.get(key) {
+                        temp.push("hsk-2-3".to_string());
+                    }
+                    if let Some(_) = hsk24.get(key) {
+                        temp.push("hsk-2-4".to_string());
+                    }
+                    if let Some(_) = hsk25.get(key) {
+                        temp.push("hsk-2-5".to_string());
+                    }
+                    if let Some(_) = hsk26.get(key) {
+                        temp.push("hsk-2-6".to_string());
+                    }
+                    if let Some(_) = hsk31.get(key) {
+                        temp.push("hsk-3-1".to_string());
+                    }
+                    if let Some(_) = hsk32.get(key) {
+                        temp.push("hsk-3-2".to_string());
+                    }
+                    if let Some(_) = hsk33.get(key) {
+                        temp.push("hsk-3-3".to_string());
+                    }
+                    if let Some(_) = hsk34.get(key) {
+                        temp.push("hsk-3-4".to_string());
+                    }
+                    if let Some(_) = hsk35.get(key) {
+                        temp.push("hsk-3-5".to_string());
+                    }
+                    if let Some(_) = hsk36.get(key) {
+                        temp.push("hsk-3-6".to_string());
+                    }
+                    if let Some(_) = hsk37.get(key) {
+                        temp.push("hsk-3-7".to_string());
+                    }
+                    descriptor.tags = Some(temp);
+                }
+
+                save_descriptors_to_file(descriptors, &assets_directory.join("descriptor1.txt"))?;
             }
             "4" => {
                 let mut refined_records: Vec<Group> = Vec::new();

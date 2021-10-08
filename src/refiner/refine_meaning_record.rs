@@ -1,52 +1,66 @@
 use crate::models::Meaning;
+use ::phf::{phf_map, Map};
 use lazy_static::lazy_static;
 use regex::Regex;
 
-const PATTERN_CONTEXT_LIST: &[(&str, &str)] = &[
-    ("(politics)", "politics"),
-    ("(medicine)", "medicine"),
-    ("(anatomy)", "anatomy"),
-    ("(astronomy)", "astronomy"),
-    ("(math.)", "math"),
-    ("(biochemistry)", "biochemistry"),
-    ("(biology)", "biology"),
-    ("(math)", "math"),
-    ("(abbr.)", "abbreviation"),
-    ("(physics)", "physics"),
-    ("(literary)", "literary"),
-    ("(chemistry)", "chemistry"),
-    ("(military)", "chemistry"),
-    ("(vulgar)", "vulgar"),
-    ("(old)", "old"),
-    ("(slang)", "slang"),
-    ("(Tw)", "taiwan"),
-    ("(loanword)", "loanword"),
-    ("(geology)", "geology"),
-    ("(architecture)", "architecture"),
-    ("(electricity)", "electricity"),
-    ("(networking)", "networking"),
-    ("(computing)", "computing"),
-    ("(onom.)", "onomatopoeia"),
-    ("(Buddhism)", "Buddhism"),
-    (
-        "(Japanese surname and place name)",
-        "Japanese surname and place name",
-    ),
-    ("(honorific)", "honorific"),
-    ("(dialect)", "dialect"),
-    ("(polite)", "polite"),
-    ("(fig.)", "figuratively"),
-    ("(coll.)", "colloquial"),
-    ("(law.)", "law"),
-    ("(lit. and fig.)", "literary and figuratively"),
-    ("(Japanese surname)", "Japanese surname"),
-    ("(Internet slang)", "Internet slang"),
-    ("(bird species of China)", "bird species of China"),
-    ("(loanword from Japanese)", "loanword from Japanese"),
-];
+static PATTERN_CONTEXT_LIST: Map<&'static str, &'static str> = phf_map! {
+    "(HK)" => "Hong Kong",
+    "(accounting)" => "accounting",
+    "(law)" => "law",
+    "(grammar)" => "grammar",
+    "(cuisine)" => "cuisine",
+    "(theater)" => "theater",
+    "(metallurgy)" => "metallurgy",
+    "(commerce)" => "commerce",
+    "(engineering)" => "engineering",
+    "(machine)" => "machine",
+    "(music)" => "music",
+    "(thermodynamics)" => "thermodynamics",
+    "(electrical)" => "electrical",
+    "(archaic)" => "archaic",
+    "(derog)" => "derogatory",
+    "(politics)" => "politics",
+    "(medicine)" => "medicine",
+    "(anatomy)" => "anatomy",
+    "(astronomy)" => "astronomy",
+    "(math.)" => "math",
+    "(biochemistry)" => "biochemistry",
+    "(biology)" => "biology",
+    "(math)" => "math",
+    "(abbr.)" => "abbreviation",
+    "(physics)" => "physics",
+    "(literary)" => "literary",
+    "(chemistry)" => "chemistry",
+    "(military)" => "chemistry",
+    "(vulgar)" => "vulgar",
+    "(old)" => "old",
+    "(slang)" => "slang",
+    "(Tw)" => "taiwan",
+    "(loanword)" => "loanword",
+    "(geology)" => "geology",
+    "(architecture)" => "architecture",
+    "(electricity)" => "electricity",
+    "(networking)" => "networking",
+    "(computing)" => "computing",
+    "(onom.)" => "onomatopoeia",
+    "(Buddhism)" => "Buddhism",
+    "(Japanese surname and place name)" => "Japanese surname and place name",
+    "(honorific)" => "honorific",
+    "(dialect)" => "dialect",
+    "(polite)" => "polite",
+    "(fig.)" => "figuratively",
+    "(coll.)" => "colloquial",
+    "(law.)" => "law",
+    "(lit. and fig.)" => "literary and figuratively",
+    "(Japanese surname)" => "Japanese surname",
+    "(Internet slang)" => "Internet slang",
+    "(bird species of China)" => "bird species of China",
+    "(loanword from Japanese)" => "loanword from Japanese",
+};
 
 pub fn refine_meaning_record(meaning: &str) -> Option<Meaning> {
     lazy_static! {
+        static ref TEXT_INSIDE_BRACES_REGEX: Regex = Regex::new(r"(\(.*?\))").unwrap();
         static ref SIMPL_TRAD_PIN_TEXT_REGEX: Regex =
             Regex::new(r"\(?\s?([^|]*)\|?(.*?)\[(.*?)\]\)?,?\s?(.*)").unwrap();
         static ref SIMPL_TRAD_TEXT_REGEX: Regex =
@@ -74,19 +88,19 @@ pub fn refine_meaning_record(meaning: &str) -> Option<Meaning> {
     let mut meaning_record_context: Option<Vec<String>> = None;
     let mut value = meaning_record.value.unwrap();
 
-    for (pattern, context) in PATTERN_CONTEXT_LIST {
-        if meaning.contains(pattern) {
-            if meaning_record_context.is_none() {
-                meaning_record_context = Some(vec![context.to_string()]);
-            } else {
-                let mut temp = meaning_record_context.unwrap();
-                temp.push(context.to_string());
-                meaning_record_context = Some(temp);
-            }
+    let captures = TEXT_INSIDE_BRACES_REGEX.captures_iter(&meaning);
+
+    for capture in captures {
+        let pattern = capture.get(1).unwrap().as_str();
+
+        if let Some(context) = PATTERN_CONTEXT_LIST.get(pattern) {
+            let mut temp = meaning_record_context.unwrap_or_default();
+            temp.push(context.to_string());
+            meaning_record_context = Some(temp);
 
             value = str::replace(&value, pattern, "");
             value = value.trim().to_owned();
-        }
+        };
     }
 
     meaning_record.context = meaning_record_context;
@@ -306,59 +320,6 @@ mod test {
     }
 
     #[test]
-    fn should_handle_text_with_abbreviation_no_simpl_trad_pinyin() {
-        let line = "abbr. for computers, communications, and consumer electronics";
-        let result = refine_meaning_record(&line).unwrap();
-        assert_eq!(result.context.unwrap(), vec!["abbreviation"]);
-        assert_eq!(
-            result.value.unwrap(),
-            "computers, communications, and consumer electronics"
-        );
-    }
-
-    #[test]
-    fn should_handle_text_with_abbreviation() {
-        let line = "epidemic encephalitis B (abbr. for 乙型腦炎|乙型脑炎[yi3 xing2 nao3 yan2])";
-        let result = refine_meaning_record(&line).unwrap();
-        assert_eq!(result.context.unwrap(), vec!["abbreviation"]);
-        assert_eq!(result.value.unwrap(), "epidemic encephalitis B");
-        assert_eq!(result.simplified.unwrap(), "乙型腦炎");
-        assert_eq!(result.traditional.unwrap(), "乙型脑炎");
-        assert_eq!(result.wade_giles_pinyin.unwrap(), "yi3 xing2 nao3 yan2");
-    }
-
-    #[test]
-    fn should_handle_text_with_abbreviation_no_pinyin() {
-        let line = "Peking University (abbr. for 北京大學|北京大学)";
-        let result = refine_meaning_record(&line).unwrap();
-        assert_eq!(result.context.unwrap(), vec!["abbreviation"]);
-        assert_eq!(result.value.unwrap(), "Peking University");
-        assert_eq!(result.simplified.unwrap(), "北京大學");
-        assert_eq!(result.traditional.unwrap(), "北京大学");
-    }
-
-    #[test]
-    fn should_handle_text_with_abbreviation_no_trad_pinyin_curly_braces() {
-        let line = "(Buddhism) the five supernatural powers (abbr. for 五神通)";
-        let result = refine_meaning_record(&line).unwrap();
-        assert_eq!(result.context.unwrap(), vec!["Buddhism", "abbreviation"]);
-        assert_eq!(result.value.unwrap(), "the five supernatural powers");
-        assert_eq!(result.simplified.unwrap(), "五神通");
-    }
-
-    #[test]
-    fn should_handle_text_with_abbreviation_no_trad_pinyin() {
-        let line = "abbr. for 大理白族自治州, Dali Bai autonomous prefecture in Yunnan";
-        let result = refine_meaning_record(&line).unwrap();
-        assert_eq!(result.context.unwrap(), vec!["abbreviation"]);
-        assert_eq!(
-            result.value.unwrap(),
-            "Dali Bai autonomous prefecture in Yunnan"
-        );
-        assert_eq!(result.simplified.unwrap(), "大理白族自治州");
-    }
-
-    #[test]
     fn should_handle_text_with_variant_no_trad() {
         let line = "variant of 款[kuan3]";
         let result = refine_meaning_record(&line).unwrap();
@@ -417,7 +378,7 @@ mod test {
     fn should_handle_text_with_two_contexts() {
         let line = "(coll.) (Tw) don't mention it";
         let result = refine_meaning_record(&line).unwrap();
-        assert_eq!(result.context.unwrap(), vec!["taiwan", "colloquial"]);
+        assert_eq!(result.context.unwrap(), vec!["colloquial", "taiwan"]);
         assert_eq!(result.value.unwrap(), "don't mention it");
     }
 }
