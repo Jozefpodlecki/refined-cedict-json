@@ -36,17 +36,18 @@ pub struct Pronunciation {
     pub other: Option<String>,
 }
 
-#[derive(Serialize, Deserialize, Clone)]
+#[derive(Debug, PartialEq, Serialize, Deserialize, Clone)]
 pub struct Radical {
     pub value: String,
     pub stroke_count: u8,
     pub meaning: String,
+    pub pinyin: String,
 }
 
-#[derive(Serialize, Deserialize, Clone)]
+#[derive(Debug, Serialize, Deserialize, Clone)]
 pub struct Decomposition {
-    pub radical: Option<Vec<Radical>>,
-    pub graphical: Option<Vec<String>>,
+    pub radical: Vec<Radical>,
+    pub graphical: Vec<String>,
 }
 
 #[derive(Serialize, Deserialize, Clone)]

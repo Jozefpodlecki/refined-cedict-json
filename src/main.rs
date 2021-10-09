@@ -3,12 +3,14 @@ mod customReader;
 mod models;
 mod refiner;
 use crate::api::download_cedict;
+use crate::api::get_character_decomposition_from_hanzicraft::get_character_decomposition_from_hanzicraft;
 use crate::models::*;
 mod utils;
 use crate::customReader::custom_reader::BufReader;
 use log::{debug, info};
 use refiner::refine_records::refine_records;
 use refiner::*;
+use std::collections::HashSet;
 use std::env;
 use std::error::Error;
 use std::fs;
@@ -25,6 +27,63 @@ use utils::*;
 
 #[macro_use]
 extern crate log;
+
+pub fn update_descriptor(assets_directory: &Path) -> Result<(), Box<dyn Error>> {
+    let mut descriptors = get_descriptors_from_file(&assets_directory.join("descriptor.txt"))?;
+
+    let hsk21 = get_lines_from_file(&assets_directory.join("hsk-version-2-1.txt"))?;
+    let hsk22 = get_lines_from_file(&assets_directory.join("hsk-version-2-2.txt"))?;
+    let hsk23 = get_lines_from_file(&assets_directory.join("hsk-version-2-3.txt"))?;
+    let hsk24 = get_lines_from_file(&assets_directory.join("hsk-version-2-4.txt"))?;
+    let hsk25 = get_lines_from_file(&assets_directory.join("hsk-version-2-5.txt"))?;
+    let hsk26 = get_lines_from_file(&assets_directory.join("hsk-version-2-6.txt"))?;
+    let hsk31 = get_row_from_file(&assets_directory.join("hsk-version-3-1.txt"), 1, "\t")?;
+    let hsk32 = get_row_from_file(&assets_directory.join("hsk-version-3-2.txt"), 1, "\t")?;
+    let hsk33 = get_row_from_file(&assets_directory.join("hsk-version-3-3.txt"), 1, "\t")?;
+    let hsk34 = get_row_from_file(&assets_directory.join("hsk-version-3-4.txt"), 1, "\t")?;
+    let hsk35 = get_row_from_file(&assets_directory.join("hsk-version-3-5.txt"), 1, "\t")?;
+    let hsk36 = get_row_from_file(&assets_directory.join("hsk-version-3-6.txt"), 1, "\t")?;
+    let hsk37 = get_row_from_file(&assets_directory.join("hsk-version-3-7.txt"), 1, "\t")?;
+
+    const attributes: &'static [&'static str] = &[
+        "hsk-2-1", "hsk-2-2", "hsk-2-3", "hsk-2-4", "hsk-2-5", "hsk-2-6", "hsk-3-1", "hsk-3-2",
+        "hsk-3-3", "hsk-3-4", "hsk-3-5", "hsk-3-6", "hsk-3-7",
+    ];
+
+    for (key, descriptor) in descriptors.iter_mut() {
+        let mut temp = descriptor.tags.clone().unwrap_or_default();
+        let key = &descriptor.simplified;
+
+        let results = vec![
+            hsk21.get(key),
+            hsk22.get(key),
+            hsk23.get(key),
+            hsk24.get(key),
+            hsk25.get(key),
+            hsk26.get(key),
+            hsk31.get(key),
+            hsk32.get(key),
+            hsk33.get(key),
+            hsk34.get(key),
+            hsk35.get(key),
+            hsk36.get(key),
+            hsk37.get(key),
+        ];
+
+        for (result, attribute) in results.iter().zip(attributes) {
+            if let Some(_) = result {
+                temp.push(attribute.to_string());
+            }
+        }
+
+        if !temp.is_empty() {
+            descriptor.tags = Some(temp);
+        }
+    }
+
+    save_descriptors_to_file(descriptors, &assets_directory.join("descriptor1.txt"))?;
+    Ok(())
+}
 
 pub fn download_cedict_and_save_to_disk(
     cedict_ts_path: &Path,
@@ -110,70 +169,42 @@ fn main() -> Result<(), Box<dyn Error>> {
                 }
             }
             "3" => {
-                let mut descriptors =
-                    get_descriptors_from_file(&assets_directory.join("descriptor.txt"))?;
+                let list = try_get_ce_dict_records(cedict_ts_path, cache_list_path)?;
+                let single_characters = get_single_characters(&list);
+                let mut processed: HashSet<String> = HashSet::new();
+                let mut lines: Vec<String> = Vec::new();
+                let file_path = current_directory.join("character-decomposition.txt");
 
-                let hsk21 = get_lines_from_file(&assets_directory.join("hsk-version-2-1.txt"))?;
-                let hsk22 = get_lines_from_file(&assets_directory.join("hsk-version-2-2.txt"))?;
-                let hsk23 = get_lines_from_file(&assets_directory.join("hsk-version-2-3.txt"))?;
-                let hsk24 = get_lines_from_file(&assets_directory.join("hsk-version-2-4.txt"))?;
-                let hsk25 = get_lines_from_file(&assets_directory.join("hsk-version-2-5.txt"))?;
-                let hsk26 = get_lines_from_file(&assets_directory.join("hsk-version-2-6.txt"))?;
-                let hsk31 = get_lines_from_file(&assets_directory.join("hsk-version-3-1.txt"))?;
-                let hsk32 = get_lines_from_file(&assets_directory.join("hsk-version-3-2.txt"))?;
-                let hsk33 = get_lines_from_file(&assets_directory.join("hsk-version-3-3.txt"))?;
-                let hsk34 = get_lines_from_file(&assets_directory.join("hsk-version-3-4.txt"))?;
-                let hsk35 = get_lines_from_file(&assets_directory.join("hsk-version-3-5.txt"))?;
-                let hsk36 = get_lines_from_file(&assets_directory.join("hsk-version-3-6.txt"))?;
-                let hsk37 = get_lines_from_file(&assets_directory.join("hsk-version-3-7.txt"))?;
+                if file_path.exists() {
+                    let reader = BufReader::open(&file_path)?;
 
-                for (key, descriptor) in descriptors.iter_mut() {
-                    let mut temp = descriptor.tags.clone().unwrap_or_default();
-                    let key = &descriptor.simplified;
-
-                    if let Some(_) = hsk21.get(key) {
-                        temp.push("hsk-2-1".to_string());
+                    for line in reader {
+                        let line = line?;
+                        let radical = line.split(";").next().unwrap().to_string();
+                        lines.push(line.to_string());
+                        processed.insert(radical);
                     }
-                    if let Some(_) = hsk22.get(key) {
-                        temp.push("hsk-2-2".to_string());
-                    }
-                    if let Some(_) = hsk23.get(key) {
-                        temp.push("hsk-2-3".to_string());
-                    }
-                    if let Some(_) = hsk24.get(key) {
-                        temp.push("hsk-2-4".to_string());
-                    }
-                    if let Some(_) = hsk25.get(key) {
-                        temp.push("hsk-2-5".to_string());
-                    }
-                    if let Some(_) = hsk26.get(key) {
-                        temp.push("hsk-2-6".to_string());
-                    }
-                    if let Some(_) = hsk31.get(key) {
-                        temp.push("hsk-3-1".to_string());
-                    }
-                    if let Some(_) = hsk32.get(key) {
-                        temp.push("hsk-3-2".to_string());
-                    }
-                    if let Some(_) = hsk33.get(key) {
-                        temp.push("hsk-3-3".to_string());
-                    }
-                    if let Some(_) = hsk34.get(key) {
-                        temp.push("hsk-3-4".to_string());
-                    }
-                    if let Some(_) = hsk35.get(key) {
-                        temp.push("hsk-3-5".to_string());
-                    }
-                    if let Some(_) = hsk36.get(key) {
-                        temp.push("hsk-3-6".to_string());
-                    }
-                    if let Some(_) = hsk37.get(key) {
-                        temp.push("hsk-3-7".to_string());
-                    }
-                    descriptor.tags = Some(temp);
                 }
 
-                save_descriptors_to_file(descriptors, &assets_directory.join("descriptor1.txt"))?;
+                let file = File::create(file_path)?;
+                let mut line_writer = LineWriter::new(file);
+
+                for line in lines {
+                    line_writer.write_all(line.as_bytes())?;
+                }
+
+                for character in single_characters {
+                    if processed.contains(&character.to_string()) {
+                        continue;
+                    }
+
+                    info!("Processing: {}", character);
+                    let decomposition =
+                        get_character_decomposition_from_hanzicraft(&character.to_string())?;
+
+                    let line = format!("{}\n", decomposition);
+                    line_writer.write_all(line.as_bytes())?;
+                }
             }
             "4" => {
                 let mut refined_records: Vec<Group> = Vec::new();

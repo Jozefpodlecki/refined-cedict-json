@@ -25,10 +25,6 @@ mod parse_ce_record;
 use crate::utils::is_cjk::is_cjk;
 use crate::utils::parse_ce_record::parse_ce_record;
 
-#[cfg(test)]
-#[path = "./test.rs"]
-mod test;
-
 pub fn get_stroke_order_map(file_path: &Path) -> Result<HashMap<String, u8>, Box<dyn Error>> {
     let lines = BufReader::open(file_path)?;
     let mut dict: HashMap<String, u8> = HashMap::new();

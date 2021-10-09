@@ -7,10 +7,6 @@ use log::{debug, info};
 use std::error::Error;
 use std::path::Path;
 
-#[cfg(test)]
-#[path = "./enhancer_test.rs"]
-mod test;
-
 pub fn get_cached_refined_records(cache_dict_path: &Path) -> Result<Vec<Group>, Box<dyn Error>> {
     let bytes = &read_file_bytes(cache_dict_path)?;
     let dict = serde_json::from_slice(bytes)?;
