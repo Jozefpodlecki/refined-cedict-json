@@ -6,7 +6,6 @@ use std::error::Error;
 use urlencoding::encode;
 
 use crate::api::USER_AGENT;
-use crate::models::Radical;
 
 pub fn get_character_decomposition_from_hanzicraft(
     character: &str,

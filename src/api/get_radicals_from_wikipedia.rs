@@ -1,7 +1,5 @@
 use lazy_static::lazy_static;
-use scraper::ElementRef;
-use scraper::Html;
-use scraper::Selector;
+use regex::Regex;
 use soup::prelude::*;
 use std::error::Error;
 
@@ -12,6 +10,7 @@ pub fn get_radicals_from_wikipedia() -> Result<Vec<Radical>, Box<dyn Error>> {
     lazy_static! {
         static ref CLIENT: reqwest::blocking::Client =
             reqwest::blocking::Client::builder().build().unwrap();
+        static ref COMMA_CURLY_BRACES: Regex = Regex::new(r"、|\(|\)").unwrap();
     }
     let mut list: Vec<Radical> = Vec::new();
 
@@ -22,37 +21,39 @@ pub fn get_radicals_from_wikipedia() -> Result<Vec<Radical>, Box<dyn Error>> {
         .send()?;
 
     let body_response = response.text()?;
-    let parsed_html = Html::parse_document(&body_response);
+    let soup = Soup::new(&body_response);
 
-    let selector = &Selector::parse("tbody > tr").unwrap();
+    let table_elements = soup.tag("table").find_all().collect::<Vec<_>>();
 
-    for element in parsed_html.select(&selector) {
-        let items = element
-            .children()
-            .filter_map(|child| ElementRef::wrap(child))
-            .flat_map(|el| el.text())
+    for element in table_elements[2].tag("tr").find_all().skip(1) {
+        let text = element.text();
+        let items = text
+            .trim()
+            .split("\n")
+            .filter(|pr| !pr.is_empty())
             .collect::<Vec<_>>();
 
-        if items.len() != 16 {
-            continue;
+        let mut values = items[1].to_owned();
+
+        values = COMMA_CURLY_BRACES.replace_all(&values, " ").to_string();
+        let values = values
+            .split(" ")
+            .filter(|pr| !pr.is_empty())
+            .map(|pr| pr.to_string());
+
+        let stroke_count = items[2].trim().parse::<u8>().unwrap().to_owned();
+        let meaning = items[3].to_owned();
+        let pinyin = items[4].to_owned();
+
+        for value in values {
+            let record = Radical {
+                meaning: meaning.clone(),
+                stroke_count,
+                value,
+                pinyin: pinyin.clone(),
+            };
+            list.push(record);
         }
-
-        let test = element.inner_html();
-        let test_items = element.children().collect::<Vec<_>>();
-
-        let value = items[2].to_owned();
-        let stroke_count = items[4].trim().parse::<u8>().unwrap().to_owned();
-        let meaning = items[5].to_owned();
-        let pinyin = items[5].to_owned();
-
-        let record = Radical {
-            meaning,
-            stroke_count,
-            value,
-            pinyin,
-        };
-
-        list.push(record);
     }
 
     Ok(list)
@@ -64,7 +65,7 @@ mod test {
 
     #[test]
     fn should_get_radicals_from_wikipedia() {
-        let line = get_radicals_from_wikipedia().unwrap();
-        assert_eq!(line.len(), 24);
+        let radicals = get_radicals_from_wikipedia().unwrap();
+        assert_eq!(radicals.len(), 282);
     }
 }

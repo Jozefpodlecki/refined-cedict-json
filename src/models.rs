@@ -29,6 +29,15 @@ pub struct Classifier {
 }
 
 #[derive(Serialize, Deserialize, Clone)]
+pub struct Abbreviation {
+    pub key: String,
+    pub value: Option<String>,
+    pub simplified: Option<String>,
+    pub traditional: Option<String>,
+    pub wade_giles_pinyin: Option<String>,
+}
+
+#[derive(Serialize, Deserialize, Clone)]
 pub struct Pronunciation {
     pub pinyin: String,
     pub wade_giles_pinyin: String,
@@ -51,6 +60,17 @@ pub struct Decomposition {
 }
 
 #[derive(Serialize, Deserialize, Clone)]
+pub struct Variant {
+    pub simplified: String,
+
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub traditional: Option<String>,
+
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub wade_giles_pinyin: Option<String>,
+}
+
+#[derive(Serialize, Deserialize, Clone)]
 pub struct Detail {
     pub pronunciation: Vec<Pronunciation>,
 
@@ -65,7 +85,7 @@ pub struct Detail {
     pub traditional_stroke_count: Option<u8>,
 
     #[serde(skip_serializing_if = "Option::is_none")]
-    pub also_written: Option<String>,
+    pub variant: Option<Variant>,
 
     pub meanings: Vec<Meaning>,
 

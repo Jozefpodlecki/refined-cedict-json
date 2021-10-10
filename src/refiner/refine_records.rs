@@ -1,6 +1,7 @@
 use crate::models::*;
 use crate::refiner::refine_meaning_record::refine_meaning_record;
 use crate::refiner::to_pinyin::to_pinyin;
+use crate::utils::get_abbreviations_from_file::get_abbreviations_from_file;
 use crate::utils::*;
 use crate::CERecord;
 use lazy_static::lazy_static;
@@ -8,27 +9,6 @@ use regex::Regex;
 use std::collections::HashMap;
 use std::error::Error;
 use std::path::Path;
-
-pub fn parse_decomposition(line: &str, lookup: &HashMap<String, Radical>) -> Option<Decomposition> {
-    lazy_static! {
-        static ref EXTRACT_REGEX: Regex = Regex::new(r"(\(.*?\))|\s").unwrap();
-    }
-    let linee = EXTRACT_REGEX.replace_all(line, "");
-    let parts: Vec<&str> = linee.split(";").collect();
-
-    if parts.len() == 1 {
-        return None;
-    }
-
-    let radical: Vec<Radical> = parts[2]
-        .split(",")
-        .map(|pr| lookup.get(pr).unwrap().to_owned())
-        .collect();
-
-    let graphical: Vec<String> = parts[3].split(",").map(|pr| pr.to_string()).collect();
-
-    Some(Decomposition { radical, graphical })
-}
 
 pub fn refine_records(
     records: HashMap<String, Vec<CERecord>>,
@@ -40,6 +20,7 @@ pub fn refine_records(
     let pinyin_path = temp.to_str().unwrap();
     let pinyins_map = get_pinyins_map(pinyin_path)?;
 
+    let abbreviations = get_abbreviations_from_file(&assets_directory.join("abbreviations.txt"))?;
     let descriptors = get_descriptors_from_file(&assets_directory.join("descriptor.txt"))?;
     let stroke_order_map = get_stroke_order_map(&assets_directory.join("stroke-order.txt"))?;
 
@@ -51,10 +32,13 @@ pub fn refine_records(
             Regex::new(r"(.*?[^|])\|?(.*?)\[(.*?)\]").unwrap();
         static ref EXTRACT_PINYIN_REGEX: Regex = Regex::new(r"\[(?P<pinyin>.*?)\]").unwrap();
         static ref EXTRACT_IDIOM_REGEX: Regex = Regex::new(r"\(idiom,?[^\)].*\)").unwrap();
+        static ref ALSO_WRITTEN_SIMPL_TRAD_PINYIN_REGEX: Regex =
+            Regex::new(r"^also written ([^|\[]+)(?:\|([^\[\]|]+))?(?:\[([^\[\]]+)])?").unwrap();
+        static ref COMPLEX_ABBR_REGEX: Regex = Regex::new(r"abbr\.\s(for|of|to)").unwrap();
     }
 
     for (key, records) in records {
-        println!("{}: Processing: {}", index, key);
+        info!("{}: Processing: {}", index, key);
         index = index + 1;
 
         let mut new_record = Group {
@@ -77,7 +61,7 @@ pub fn refine_records(
                 tags: None,
                 classifiers: None,
                 decomposition: None,
-                also_written: None,
+                variant: None,
                 traditional: record.traditional,
             };
 
@@ -92,10 +76,39 @@ pub fn refine_records(
             for meaning in record.meanings {
                 let key = record.simplified.clone() + &meaning;
 
-                if meaning.contains("also written") {
-                    let mut value = str::replace(&meaning, "also written", "");
-                    value = value.trim().to_owned();
-                    detail.also_written = Some(value);
+                if COMPLEX_ABBR_REGEX.is_match(&meaning) {
+                    if let Some(list) = abbreviations.get(&record.simplified) {
+                        for item in list {
+                            meanings.push(Meaning {
+                                context: Some(vec!["abbreviation".to_string()]),
+                                lexical_item: None,
+                                simplified: item.simplified.to_owned(),
+                                traditional: item.traditional.to_owned(),
+                                literal_meaning: None,
+                                pinyin: None,
+                                value: item.value.to_owned(),
+                                wade_giles_pinyin: item.wade_giles_pinyin.to_owned(),
+                            });
+                        }
+                    }
+                    continue;
+                }
+
+                if meaning.starts_with("also written") {
+                    let captures = ALSO_WRITTEN_SIMPL_TRAD_PINYIN_REGEX
+                        .captures(&meaning)
+                        .unwrap();
+                    let simplified = captures.get(1).unwrap().as_str().to_owned();
+                    let traditional = captures.get(2).map(|pr| pr.as_str().to_owned());
+                    let wade_giles_pinyin = captures.get(3).map(|pr| pr.as_str().to_owned());
+
+                    let variant = Variant {
+                        simplified,
+                        traditional,
+                        wade_giles_pinyin,
+                    };
+
+                    detail.variant = Some(variant);
                     continue;
                 }
 
@@ -190,60 +203,47 @@ pub fn refine_records(
 
 #[cfg(test)]
 mod test {
+    use std::env;
+
     use super::*;
 
     #[test]
-    fn should_handle_empty() {
-        let lookup: HashMap<String, Radical> = HashMap::new();
+    fn should_refine_records() {
+        let current_directory = env::current_dir().unwrap();
+        let assets_directory = current_directory.join("assets");
+        let public_directory = current_directory.join("public");
+        let mut records: HashMap<String, Vec<CERecord>> = HashMap::new();
+        let mut group: Vec<CERecord> = Vec::new();
+        let key = "交通大学".to_string();
+        let expected = CERecord {
+            line: "".to_owned(),
+            line_number: 1,
+            meanings: vec!["abbr. for 上海交通大學|上海交通大学 Shanghai Jiao Tong University, 西安交通大學|西安交通大学 Xia'an Jiaotong University, 國立交通大學|国立交通大学 National Chiao Tung University (Taiwan) etc".to_string()],
+            simplified: key.to_string(),
+            traditional: "交通大學".to_string(),
+            wade_giles_pinyin: "jiao1 tong1 da4 xue2".to_string(),
+        };
+        group.push(expected.clone());
+        records.insert(key.to_owned(), group);
 
-        let line = "𬬸";
-        let result = parse_decomposition(&line, &lookup);
-        assert!(result.is_none());
-    }
-
-    #[test]
-    fn should_create_decomposition() {
-        let mut lookup: HashMap<String, Radical> = HashMap::new();
-        lookup.insert(
-            "女".to_string(),
-            Radical {
-                stroke_count: 1,
-                meaning: "woman".to_string(),
-                value: "女".to_string(),
-                pinyin: "".to_string(),
-            },
-        );
-        lookup.insert(
-            "耳".to_string(),
-            Radical {
-                stroke_count: 1,
-                meaning: "ear".to_string(),
-                value: "耳".to_string(),
-                pinyin: "".to_string(),
-            },
-        );
-        lookup.insert(
-            "又".to_string(),
-            Radical {
-                stroke_count: 1,
-                meaning: "right hand".to_string(),
-                value: "又".to_string(),
-                pinyin: "".to_string(),
-            },
-        );
-
-        let line = "娵;女, 取;女 (woman), 耳 (ear), 又 (right hand);㇛, 一, 丿, 二, 丨, 二, ㇇, ㇏";
-        let result = parse_decomposition(&line, &lookup).unwrap();
-        let expected_radicals = vec![
-            lookup.get("女").unwrap().to_owned(),
-            lookup.get("耳").unwrap().to_owned(),
-            lookup.get("又").unwrap().to_owned(),
-        ];
-
-        assert_eq!(result.radical, expected_radicals);
+        let groups = refine_records(
+            records,
+            &current_directory,
+            &public_directory,
+            &assets_directory,
+        )
+        .unwrap();
+        let actual = &groups[0];
+        let details = &actual.details[0];
+        assert_eq!(groups.len(), 1);
+        assert_eq!(actual.simplified, expected.simplified);
+        assert_eq!(details.traditional, expected.traditional);
+        let meanings = &details.meanings[0];
         assert_eq!(
-            result.graphical,
-            vec!["㇛", "一", "丿", "二", "丨", "二", "㇇", "㇏"]
+            meanings.context.as_ref().unwrap().first().unwrap(),
+            "abbreviation"
         );
+        assert_eq!(meanings.simplified.as_ref().unwrap(), "上海交通大学");
+        assert_eq!(meanings.traditional.as_ref().unwrap(), "上海交通大學");
     }
 }

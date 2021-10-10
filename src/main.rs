@@ -4,6 +4,7 @@ mod models;
 mod refiner;
 use crate::api::download_cedict;
 use crate::api::get_character_decomposition_from_hanzicraft::get_character_decomposition_from_hanzicraft;
+use crate::api::get_radicals_from_wikipedia::get_radicals_from_wikipedia;
 use crate::models::*;
 mod utils;
 use crate::customReader::custom_reader::BufReader;
@@ -127,7 +128,7 @@ fn main() -> Result<(), Box<dyn Error>> {
         println!("4. Export refined json cedict_ts.u8");
         println!("5. Export refined phrases to separate json files");
         println!("6. Export pinyins");
-        println!("7. Export records from cedict when they match given pattern");
+        println!("7. Import radicals");
         println!("8. Extract meanings");
         println!("9. Exit");
         io::stdin().read_line(&mut command)?;
@@ -261,27 +262,39 @@ fn main() -> Result<(), Box<dyn Error>> {
                 }
             }
             "7" => {
-                let list = try_get_ce_dict_records(cedict_ts_path, cache_list_path)?;
-
-                let file = File::create(current_directory.join("extracted.txt"))?;
+                let file = File::create(assets_directory.join("radicals.txt"))?;
                 let mut line_writer = LineWriter::new(file);
+                let radicals = get_radicals_from_wikipedia()?;
 
-                for record in &list {
-                    let line = &record.line;
-
-                    // if !line.contains("city in") || !line.contains("capital of") {
-                    //     continue;
-                    // }
-
-                    for meaning in &record.meanings {
-                        if !meaning.contains("abbr.") {
-                            continue;
-                        }
-
-                        let line = format!("{} - {}\n", record.simplified, meaning);
-                        line_writer.write_all(line.as_bytes())?;
-                    }
+                for radical in radicals {
+                    let line = format!(
+                        "{};{};{}\n",
+                        radical.value, radical.stroke_count, radical.pinyin
+                    );
+                    line_writer.write_all(line.as_bytes())?;
                 }
+
+                // let list = try_get_ce_dict_records(cedict_ts_path, cache_list_path)?;
+
+                // let file = File::create(current_directory.join("extracted.txt"))?;
+                // let mut line_writer = LineWriter::new(file);
+
+                // for record in &list {
+                //     let line = &record.line;
+
+                //     // if !line.contains("city in") || !line.contains("capital of") {
+                //     //     continue;
+                //     // }
+
+                //     for meaning in &record.meanings {
+                //         if !meaning.contains("abbr.") {
+                //             continue;
+                //         }
+
+                //         let line = format!("{} - {}\n", record.simplified, meaning);
+                //         line_writer.write_all(line.as_bytes())?;
+                //     }
+                // }
             }
             "8" => {
                 let mut refined_records: Vec<Group> = Vec::new();
