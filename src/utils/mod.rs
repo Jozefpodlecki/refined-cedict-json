@@ -1,7 +1,9 @@
 use crate::api::get_info_from_writtenchinese;
 use crate::api::get_stroke_count_from_wiktionary;
 use crate::customReader::custom_reader::BufReader;
+use crate::models::Decomposition;
 use crate::models::Descriptor;
+use crate::models::Radical;
 use crate::CERecord;
 use crate::PinyinMap;
 use std::collections::BTreeSet;
@@ -18,10 +20,14 @@ use std::io::LineWriter;
 use std::path::Path;
 use std::path::PathBuf;
 pub mod get_abbreviations_from_file;
+pub mod get_decomposition_from_file;
+pub mod get_descriptors_from_file;
+pub mod get_radicals_from_file;
 pub mod is_cjk;
 pub mod parse_ce_record;
 use crate::utils::is_cjk::is_cjk;
 use crate::utils::parse_ce_record::parse_ce_record;
+use lazy_static::lazy_static;
 
 pub fn get_stroke_order_map(file_path: &Path) -> Result<HashMap<String, u8>, Box<dyn Error>> {
     let lines = BufReader::open(file_path)?;
@@ -65,48 +71,6 @@ pub fn save_descriptors_to_file(
     }
 
     Ok(())
-}
-
-pub fn get_descriptors_from_file(
-    file_path: &Path,
-) -> Result<HashMap<String, Descriptor>, Box<dyn Error>> {
-    let reader = BufReader::open(file_path)?;
-    let mut list: HashMap<String, Descriptor> = HashMap::with_capacity(200000);
-
-    for line in reader {
-        let line = line?;
-
-        let parts: Vec<&str> = line.split(",").map(|pr| pr.trim()).collect();
-
-        let simplified = parts[0].to_owned();
-        let pinyin = parts[1].to_owned();
-        let meaning = parts[2].to_owned();
-        let lexical_item = parts
-            .get(3)
-            .map(|pr| pr.to_string())
-            .filter(|pr| !pr.is_empty());
-        let tags_str = parts.get(4);
-        let tags = tags_str.map(|pr| {
-            pr.split("/")
-                .map(|pr| pr.to_owned())
-                .filter(|pr| !pr.is_empty())
-                .collect()
-        });
-
-        let key = simplified.clone() + &meaning;
-
-        let record = Descriptor {
-            simplified: simplified,
-            pinyin: pinyin,
-            meaning: meaning,
-            lexical_item: lexical_item,
-            tags: tags,
-        };
-
-        list.insert(key, record);
-    }
-
-    Ok(list)
 }
 
 pub fn get1_lines_from_file(file_path: &Path) -> Result<HashMap<String, String>, Box<dyn Error>> {

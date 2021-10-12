@@ -2,6 +2,9 @@ use crate::models::*;
 use crate::refiner::refine_meaning_record::refine_meaning_record;
 use crate::refiner::to_pinyin::to_pinyin;
 use crate::utils::get_abbreviations_from_file::get_abbreviations_from_file;
+use crate::utils::get_decomposition_from_file::get_decomposition_from_file;
+use crate::utils::get_descriptors_from_file::get_descriptors_from_file;
+use crate::utils::get_radicals_from_file::get_radicals_from_file;
 use crate::utils::*;
 use crate::CERecord;
 use lazy_static::lazy_static;
@@ -20,6 +23,9 @@ pub fn refine_records(
     let pinyin_path = temp.to_str().unwrap();
     let pinyins_map = get_pinyins_map(pinyin_path)?;
 
+    let radicals = get_radicals_from_file(&assets_directory.join("radicals.txt"))?;
+    let decomposition =
+        get_decomposition_from_file(&assets_directory.join("abbreviations.txt"), &radicals);
     let abbreviations = get_abbreviations_from_file(&assets_directory.join("abbreviations.txt"))?;
     let descriptors = get_descriptors_from_file(&assets_directory.join("descriptor.txt"))?;
     let stroke_order_map = get_stroke_order_map(&assets_directory.join("stroke-order.txt"))?;
